@@ -1,1 +1,152 @@
-IyBBREhEIOefpeivhuW6kyDCtyDlhoXlrrnljIXkuI7nprvnur/pooTop4jvvIjmgLvop4jvvIkKCj4g5Lqk5LuY5pel5pyf77yaMjAyNi0xMS0wNSDvvZwg5Lqk5LuY5b2i5oCB77yaKirlj6/lr7zlhaUgQm9va1N0YWNrIOeahOWGheWuueWMhSArIOemu+e6v+mihOiniOermSoq77yI5pys6L2uKirmnKoqKuWcqOacrOacuumDqOe9siBCb29rU3RhY2vvvIzmnKrlronoo4UgRG9ja2Vy77yJCj4g5YWo6YOo5paH5Lu25ZyoIGBGOlxBREhE5paH54yuXGDvvIzlhbEgNzYg5Liq5paH5Lu277yIMTkg6aG15q2j5paHICsgMTgg5p2h6I2v5ZOB5ZCN5aOz6aG1ICsg5YW25L2Z6YWN572uL+WvvOWFpS/lrqHmoLgv6aKE6KeI5paH5Lu277yJ44CC5pys6L2u5YGa6L+H5LiA5qyhIuWjs+mhteaUtuaVmyLvvIgxMTEg4oaSIDE477yJ77yM5YWo6L+H56iL5LiO5Zub5Lu96Zet546v6K+B5o2u6KeBIGDlj5jmm7TorrDlvZUubWRg44CCCj4g5LiA5Y+l6K+d77yaKipDIOerr+WPr+ivu+OAgUIg56uv5Y+v55So44CBQSDnq6/pmpTnprvvvIzoja/nianlhoXlrrnlj6rku6Ui55Sx5Yy755Sf5Yaz5a6aIueahOWbuuWumuWjsOaYjuWSjOWFnOW6lemhteWtmOWcqOOAgioqCgo+ICoq5Lqn5ZOB5Y6f5YiZ77yIRTEg5bey56Gu56uL77yM5LiN5Luj6KGo5Yqf6IO95bey5a6e546w77yJKirvvJpBSSDmmK/lrrbplb/kuI7lranlrZDkuYvpl7TnmoQqKuaDhee7que8k+WGsuW4puWSjOWFs+ezu+ahpeaigSoq4oCU4oCU5YWI5o6l5L2P5a626ZW/77yM5YaN6L+e5o6l5a2p5a2Q77yb5YWI57yT5ZKM5YWz57O777yM5YaN6Kej5Yaz6Zeu6aKY44CC5a626ZW/5oOF57uq5om/5o6l5LyY5YWI5LqOIEFESEQg55+l6K+G6K6y6Kej44CC5q2k5a6a5L2N5Li66K6+6K6h5pa55ZCR77yM5b2T5YmN5bel5L2c5Yy65LuN5piv56a757q/57yW6K+R6Zet546v77yMKirov5DooYzml7bnlJ/miJDkuI7lronlhajor4TmtYvlsJrmnKrmjqXmqKHlnovpqozor4EqKuOAguinhOagvOingSBgMDFf6KeE6IyD5LiO5qCH5YeGXOWutumVv+aDhee7quaJv+aOpeiDveWKm+inhOiMg192MS4wLm1kYO+8iOato+W8j+WGu+e7kyB2MS4w77yMMjAyNi0xMS0xNu+8ieOAggoKLS0tCgojIyAxLiDlhYjnnIvlk6rph4wKCnwg5L2g5oOz5YGa55qE5LqLIHwg5omT5byAIHwKfC0tLXwtLS18Cnwg5YWI55yL5pWI5p6c77yM5LiN6KOF5Lu75L2V5Lic6KW/IHwgYDA2X+emu+e6v+mihOiniOermVxpbmRleC5odG1sYO+8iOWPjOWHu++8jOmbtuiBlOe9ke+8iSB8Cnwg55yL5q2j5paH5YaF5a65IHwgYDAyX+WGheWuueWMhVxgIOS4i+Wbm+S4quS5puexjeebruW9lSB8Cnwg55yf6YOo572y77yM5oqK5YaF5a6554GM6L+bIEJvb2tTdGFjayB8IGAwNF9Cb29rU3RhY2vlr7zlhaVc5a+85YWl6K+05piOLm1kYCDihpIgYGltcG9ydF9ib29rc3RhY2sucHlgIHwKfCDphY3pm7bnlKjoja/lhZzlupXvvIjph43lrprlkJHpobUv5qiq5bmFL+WjsOaYju+8iSB8IGAwM1/pm7bnlKjoja/ns7vnu5/phY3nva5c6YWN572u6K+05piOLm1kYCB8Cnwg6YWN6KeS6Imy5p2D6ZmQ44CB5Y+R5biD6Zeo5qeb44CB5beh5qOAIHwgYDA1X+WuoeaguOS4jui/kOiQpVxgIHwKfCDnn6XpgZPmr4/pobXor6XmgI7kuYjlhpnjgIHor4Hmja7mgI7kuYjliIbnuqcgfCBgMDFf6KeE6IyD5LiO5qCH5YeGXOWGmeS9nOinhOiMg+S4juivgeaNruWIhue6p+agh+WHhi5tZGAgfAp8IOeci+i/meS4gOi9ruaUueS6huS7gOS5iO+8iOWjs+mhteaUtuaVmyAxMTHihpIxOOOAgeWbm+S7veivgeaNru+8iSB8IGDlj5jmm7TorrDlvZUubWRgIHwKCi0tLQoKIyMgMi4g55uu5b2V5Zyw5Zu+CgpgYGAKRjpcQURIROaWh+eMrlwK4pSc4pSAIDAxX+inhOiMg+S4juagh+WHhlwK4pSCICAg4pSU4pSAIOWGmeS9nOinhOiMg+S4juivgeaNruWIhue6p+agh+WHhi5tZCAgICAgIOWUr+S4gOWPo+W+hO+8mumhtemdoumqqOaetuOAgeWFg+aVsOaNruagvOW8j+OAgembtueUqOiNr+ivjeihqOOAgeivgeaNruWbm+aho+WIpOWumuOAgeW8leeUqOagvOW8j+OAgUMtUEVNQVQtUCAyNCDmnaHkuI7orqHliIbjgIHmlofku7blkI3ms6jlhozooagK4pSc4pSAIDAyX+WGheWuueWMhVwK4pSCICAg4pSc4pSAIOS5puexjUFf5YWs5byA55+l6K+G5bqTXCAgICAgICAgICAgICAgIEEwMCDpppbpobUgKyBBMDHigJNBMDbvvIg2IOmhteato+aWh++8iQrilIIgICDilJzilIAg5Lmm57GNQl/lrrbluq3lt6XlhbfkuI7mg4Xmma/moYjkvotcICAgICAgICBCMDHigJNCMDfvvIg3IOmhteato+aWh++8iQrilIIgICDilJzilIAg5Lmm57GNQ19C56uv5bel5L2c5omL5YaMXCAgICAgICAgICAgICAgIEMwMeKAk0MwM++8iDMg6aG15q2j5paH77yJCuKUgiAgIOKUlOKUgCDkuabnsY1EX+S4tOW6iui+ueeVjOWPguiAg1wgICAgICAgICAgICAgIEQwMeKAk0QwMu+8iDIg6aG177yM5pGY6KaB5bGC57qn77yJCuKUnOKUgCAwM1/pm7bnlKjoja/ns7vnu5/phY3nva5cCuKUgiAgIOKUnOKUgCDoja/nianlhbPplK7or43ooahc6I2v54mp5YWz6ZSu6K+N6KGoLmpzb24gICAxMTEg5p2h6K+N5p2h77yINDAg5Li76K+N5p2hICsgNzEg5Y+Y5L2T77yM5LiA5p2h5pyq5Yig77yJ77yM5ZCrIHNsdWfjgIHlj5jkvZPjgIHot7Povaznm67moIfkuI4gYGhhc19yZWRpcmVjdGAg5a2X5q6177yIdHJ1ZSAxOCAvIGZhbHNlIDkz77yJCuKUgiAgIOKUnOKUgCDoja/nianlhbPplK7or43ooahc6I2v54mp5YWz6ZSu6K+N6KGoLmNzdiAgICDkuI4gSlNPTiDlkIzmupDnmoTlr7zlhaXmuIXljZUK4pSCICAg4pSc4pSAIOmHjeWumuWQkemhtVwgICAgICAgICAgICAgICAgICAgICAgICAqKjE4IOS4quiNr+WTgeWQjeWjs+mhtSoq77yI5ZWG5ZOB5ZCNIDkgKyDliIblrZDlkI0gNSArIOWFtuS7lumAmueUqOWQjSA077yJ77yM5q2j5paH5Lil5qC85LiA6KGMICNSRURJUkVDVCBb5YWc5bqV6aG16ZO+5o6lXSDliqDkuIDkuKrnqbrmoLzvvJvlj6YgOTMg5p2h6YCa55So6K+N5p2h5peg5aOz6aG144CB5Y+q55Sx5pCc57Si5qiq5bmF5oum5oiqCuKUgiAgIOKUnOKUgCDph43lrprlkJHpobXkv53nlZnmuIXljZUuY3N2ICAgICAgICAgICAgMTgg5p2h5p2D5aiB5L+d55WZ5riF5Y2V77yI6K+N5p2hL+WIhuexuy/mlofku7blkI0vc2x1Zy/ot7Povaznm67moIfvvInvvIzlr7zlhaXkuI7lt6Hmo4Dpg73ku6XlroPkuLrlh4YK4pSCICAg4pSc4pSAIOaQnOe0oumhteaoquW5heazqOWFpeeJh+autS5odG1sICAgICAgICAgIEJvb2tTdGFja+OAjEN1c3RvbSBIVE1MIEhlYWQgQ29udGVudOOAjeebtOaOpeeymOi0tO+8jOmbtiBDRE4K4pSCICAg4pSc4pSAIOWPjemmiOWMuuWdl+eJh+autS5odG1sICAgICAgICAgICAgICAgIOmhtemdouW6lemDqO+8muacieeUqC/kuI3muIXmpZov6L+Z5piv5LiA5Liq55So6I2v6Zeu6aKYIOKGkiDlhZzlupXpobUK4pSCICAg4pSc4pSAIOato+W8j+WjsOaYjuaWh+acrC5tZCAgICAgICAgICAgICAgICAgIOWbm+auteato+W8j+aWh+acrO+8iOWFqOermS/lhZzlupXpobUvQiDnq6/lm7rlrprlm57lupQv5Y+N6aaI5YiG5YyW77yJCuKUgiAgIOKUnOKUgCDorr7nva7ln5/lkI0ucHkgICAgICAgICAgICAgICAgICAgICAg5Y2g5L2N5Z+f5ZCN5LiA6ZSu5pu/5o2i77yILS1jaGVjayDlhYjnnIvlvbHlk43pnaLvvIzmlLnliY3nlZkgLmJha++8iQrilIIgICDilJTilIAg6YWN572u6K+05piOLm1kICAgICAgICAgICAgICAgICAgICAgIOeymOi0tOS4juW7uumhteatpemqpOOAgemqjOivgeaWueazleOAgeW3suefpeS7o+S7t+S4juWQjue7reaUtuaVm+mAiemhuQrilJzilIAgMDRfQm9va1N0YWNr5a+85YWlXArilIIgICDilJzilIAgaW1wb3J0X2Jvb2tzdGFjay5weSAgICAgICAgICAgICAgQVBJIOWvvOWFpeiEmuacrO+8jOaUr+aMgSAtLWRyeS1ydW4gLyAtLW9ubHktYm9vayAvIOW5guetieabtOaWsCAvIOebuOWvuemTvuaOpeaUueWGmQrilIIgICDilJzilIAg5a+85YWl6K+05piOLm1kICAgICAgICAgICAgICAgICAgICAgIOS4pOadoei3r+W+hO+8mkFQSSDohJrmnKzvvIjkuLvvvIkrIOWQjuWPsOaJi+W3peeymOi0tO+8iOWFnOW6le+8ie+8m+W/heWBmueahOaJi+W3pea4heWNle+8m+W3suefpemZkOWItgrilIIgICDilJzilIAg5a+85YWl57uT5p6E5riF5Y2VLmNzdiAgICAgICAgICAgICAgICAgMzcg6KGM77yI5YaF5a656aG1IDE5ICsg6I2v5ZOB5ZCN5aOz6aG1IDE477yJw5cg5Lmm57GNL+eroOiKgi9zbHVnL+WFg+aVsOaNri/mupDmlofku7bot6/lvoQK4pSCICAg4pSc4pSAIOWQjuWPsOmFjee9rmNoZWNrbGlzdC5jc3YgICAgICAgICAgICA3IOatpeWQjuWPsOaJi+W3pemFjee9ru+8iOW7uue7hCDihpIg5oyC5Lmm57GN5p2D6ZmQIOKGkiDpobXpnaLnuqfopobnm5bvvInvvIzlj6/li77pgInjgIHlj6/orrDmiafooYzkuroK4pSCICAg4pSc4pSAIOaooeadv1xD56uv5YWs5byA6aG15qih5p2/Lm1kIC8gQuerr+aJi+WGjOmhteaooeadvy5tZCAvIOeUqOiNr+WFnOW6lemhteaooeadvy5tZArilIIgICDilJzilIAg5qCh6aqM5oql5ZGKLm1kIC8gZHJ5X3J1bl9vdXRwdXQudHh0IOecn+WuniBkcnktcnVuIOi+k+WHuuaRmOimgeS4juWOn+Wni+aXpeW/lwrilJzilIAgMDVf5a6h5qC45LiO6L+Q6JClXArilIIgICDilJzilIAg6KeS6Imy5LiO5p2D6ZmQ6YWN572u6KGoLm1kICAgICAgICAgICAgICA1IOinkuiJsiDDlyA0IOacrOS5puefqemYte+8iDIwIOagvO+8iSsg6aG16Z2i57qn6KaG55uWICsg5p2D6ZmQ5Y+Y5pu05ZCOIDUg5q2l6aqM6K+BCuKUgiAgIOKUnOKUgCBDLVBFTUFULVDlj5HluIPpl6jmp5vkuI7or4TliIbop4TliJkubWQgICAyNCDmnaHor4TliIbooajjgIE3MCUg5Y+M6Zeo5qeb44CB5aSN6K+E6KeE5YiZ44CB6K+E5YiG57qq5b6L44CB5a2Y5qGj6KeE5YiZCuKUgiAgIOKUnOKUgCBDLVBFTUFULVDor4TliIborrDlvZUuY3N2ICAgICAgICAgICAgMTMg6aG16YCQ5p2h6K+E5YiG77yI54us56uL5aSN5qC45Lq65aGr5YaZ77yM5ZCr5aSx5YiG5Y6f5Zug77yJCuKUgiAgIOKUnOKUgCBDLVBFTUFULVDor4TliIborrDlvZVf6KGo5aS05qih5p2/LmNzdiAgIOepuuihqOWktCArIDEg6KGM56S65L6L77yI5paw5bu66K6w5b2V5pe25aSN5Yi277yJCuKUgiAgIOKUnOKUgCDlj5HluIPmtYHnqIvkuI7kv6Hku7vliIbnuqdTT1AubWQgICAgICAgICDojYnnqL/ihpLlvoXlj5HluIPihpLlt7Lpqozor4HihpLlvoXlpI3moLgg54q25oCB5py644CB562+5qC45a2X5q6144CB6YCA5Zue5pS55YaZ5Y2VCuKUgiAgIOKUnOKUgCDlt6Hmo4Dooahf5ZGo5pyI5a2jLm1kICAgICAgICAgICAgICAgICDlkaggNCDpobkgLyDmnIggNSDpobkgLyDlraMgNCDpobnvvIzmr4/pobnlkKvmk43kvZzmraXpqqTkuI7or4Hmja7nlZnlrZgK4pSCICAg4pSc4pSAIOaMh+agh+eci+advy5jc3YgICAgICAgICAgICAgICAgICAgICA0IOS4quWPr+ajgOafpeaMh+agh++8iOWumuS5ieOAgeWFrOW8j+OAgeaVsOaNrua6kOOAgemYiOWAvOOAgeS4jei+vuagh+WKqOS9nO+8iQrilIIgICDilJzilIAg6Zu255So6I2v5Zub5bGC6YWN572u5qC45a+56KGoLm1kICAgICAgICAgIOaQnOe0ouWFnOW6lS/mqKHmnb/li77pgIkv5Y+N6aaI5YiG5rWBL0Ig56uv5Zu65a6a5qih5Z2XIOWbm+WxguaguOWvuQrilIIgICDilJzilIAg5byV55So5qC46aqM5oql5ZGKLm1kICAgICAgICAgICAgICAgICAg6YCQ6aG1IDgg5Liq57u05bqm55qE5qC46aqM57uT6K66ICsgVVJMIOeKtuaAgeeggeivgeaNrgrilIIgICDilJTilIAg6YCA5Zue5riF5Y2VLm1kICAgICAgICAgICAgICAgICAgICAgIOWkjeaguOWPkeeOsOeahOmXrumimOS4juW9k+WJjeeKtuaAge+8iOW3suS/ruWkjSAvIOW3sumXreeOr++8iQrilJTilIAgMDZf56a757q/6aKE6KeI56uZXAogICAg4pSc4pSAIGluZGV4Lmh0bWwgICAgICAgICAgICAgICAgICAgICAgIOWNleaWh+S7tumihOiniOerme+8iOe6piAyMjMgS0LvvIzlj4zlh7vljbPlvIDvvIzpm7bogZTnvZHvvIkKICAgIOKUnOKUgCDnlJ/miJDpooTop4jnq5kucHkgICAgICAgICAgICAgICAgICAgIOS7jiAwMl/lhoXlrrnljIUg6YeN5paw55Sf5oiQIGluZGV4Lmh0bWzvvIjluYLnrYnvvInvvJvmkJzntKLooYzkuLrmjIkgaGFzX3JlZGlyZWN0IOWIhuS4pOahowogICAg4pSc4pSAIOaQnOe0ouWunua1i+e7k+aenC5jc3YgICAgICAgICAgICAgICAgICA4IOadoeafpeivoueahOacrOWcsOaooeaLn+e7k+aenO+8iFVURi04IEJPTe+8jDExIOWIl++8iQogICAg4pSc4pSAIOaQnOe0ouWunua1i+WPo+W+hOivtOaYji5tZCAgICAgICAgICAgICAgIOihqOWktOWOn+aWhyArIOWbm+mhueWjsOaYju+8iOeOr+Wigy/liIbor40v57uT6K665o6q6L6eLzAtMTAg5pWI5Yqb6L6555WM77yJCiAgICDilJTilIAg6aKE6KeI6K+05piOLm1kICAgICAgICAgICAgICAgICAgICAgIOaAjuS5iOeci+OAgeaAjuS5iOmHjeeUn+aIkOOAgeS4juWunuermeeahOW3ruW8ggpgYGAKCj4gYDA0X2Ag5LiL55qEIGBfYnVpbGRfY3N2LnB5YOOAgWBkcnlfcnVuX291dHB1dC50eHRgIOS4jiBgMDZfYCDkuIvnmoQgYF/oh6rmo4DohJrmnKwucHlg44CBYF/mtY/op4jlmajmqKHmi5/mtYvor5UuanNgIOaYryoq5qC46aqM6K+B5o2u5paH5Lu2KirvvIzkuI3mmK/kuqTku5jlhoXlrrnvvIzkv53nlZnku6Xkvr/lrqHorqHjgIIKCi0tLQoKIyMgMy4g6L+Z5LiA54mI5a6e6ZmF5YGa5LqG5LuA5LmI77yI5a+554Wn5Y6f5pa55qGI77yJCgp8IOWOn+aWueahiCB8IOiQveaIkOeahOS4nOilvyB8IOWunua1i+e7k+aenCB8CnwtLS18LS0tfC0tLXwKfCDkuIDjgIFCb29rU3RhY2sg5bqV5bqn5LiO6KeS6ImyL+adg+mZkCB8IOacqumDqOe9su+8iOaMieS9oOeahOWGs+Wumu+8ieOAguinkuiJsuS4juadg+mZkOWFqOmDqOiQveaIkCBgMDVc6KeS6Imy5LiO5p2D6ZmQ6YWN572u6KGoLm1kYO+8jOWPr+eFp+edgOWcqOWQjuWPsOWLviB8IOadg+mZkOefqemYtSA0IOacrOS5piDDlyA1IOinkuiJsiA9IDIwIOagvO+8jOavj+agvOacieaYjuehruWPluWAvOS4juS+neaNriB8Cnwg5LqM44CB5YaF5a655p625p6E5LiO6aaW5om5IDE2IOmhtSB8IDE2IOmhteato+aWh+WFqOWGmSArIDEg6aG16aaW6aG1ICsgMiDpobXkuLTluorovrnnlYwgPSAxOSDkuKrpobXpnaLmlofku7YgfCAxOS8xOSDmlofku7bpvZDlhajvvJvlhYPmlbDmja7kuI7li77pgInmnaHnvLrpobkgMCB8Cnwg5LqM44CB6aaW6aG1IDYg5YWl5Y+jIHwgYEEwMGAg6aaW6aG177yMNiDmnaHlhaXlj6PmjInkvaDnmoTmmKDlsITokL3ngrkgfCDpooTop4jnq5nlpI3njrDkuLogNiDlvKDljaHniYfvvIzokL3ngrkgQjAxL0EwNC9CMDcvQTAxL0IwNC9BMDYg5YWo6YOo5Y+v5omT5byAIHwKfCDkuozjgIHor4Hmja7nirbmgIHlm5vmoaMgfCDmr4/pobXpobbpg6jlj6/op4Hlvr3nq6AgKyBZQU1MIOacuuWZqOWPr+ivu+Wtl+aute+8jOS4pOWkhOWtl+mdouS4gOiHtCB8IOS4gOiHtOaAp+eUseiEmuacrOmAkOmhteavlOWvue+8jOS4jeS4gOiHtCAwIHwKfCDkuInjgIFDLVBFTUFULVAg6Zeo5qebIHwgMjQg5p2h6K+E5YiG6KGoICsgMTMg6aG16YCQ6aG16K+E5YiG6K6w5b2VICsg6Zeo5qeb6KeE5YiZIHwgKioxMy8xMyDpobXkuKTlrZDph4/ooajlnYcg4omlNzAlKirvvIjlj6/nkIbop6PmgKcgOTMuOCXigJMxMDAl77yM5Y+v5pON5L2c5oCnIDgzLjMl4oCTMTAwJe+8m0IwNyDpppbova4gNTAlIOW3sumAgOWbnuaUueWGmeWQjuWkjeivhOi+vuagh++8iSB8Cnwg5Zub44CB5L+h5Lu75YiG57qn5LiO5a6h5qC45rWB56iLIHwg54q25oCB5py6IFNPUCArIOetvuaguOWtl+autSArIOmAgOWbnuaUueWGmeWNlSArIOS+i+WkluinhOWImSB8IOW3suiQveaIkOaWh+S7tu+8jOWQqyLliY0gMyDmrKHnvJbovpHpobvlrqHmoLgi562J5YW35L2T6Zeo56aBIHwKfCDkupTjgIHpm7bnlKjoja/lm5vlsYIgfCDlhbPplK7or43ooajvvIhKU09OK0NTVu+8jDExMSDmnaHlhajkv53nlZnvvIkrICoqMTgg5p2h6I2v5ZOB5ZCN5aOz6aG1KiogKyDmqKrluYXniYfmrrUgKyDlj43ppojniYfmrrUgKyDlo7DmmI4gKyDln5/lkI3ohJrmnKwgfCAxOC8xOCDlo7PpobXlrZfoioLmoKHpqozpgJrov4fvvIhgXWAg5ZCO5LiA5Liq56m65qC877yJ77yb6K+N6KGo5LiJ5aSE5LiA6Ie077ybOTMg5p2h6YCa55So6K+N5peg5aOz6aG144CB5Y+q55Sx5qiq5bmF5YWc5bqV77yb5aSW6YOo6LWE5rqQ5byV55SoIDAgfAp8IOWFreOAgeW3oeajgOS4juaMh+aghyB8IOWRqC/mnIgv5a2j5beh5qOA6KGoICsgNCDmjIfmoIfnnIvmnb8gfCDlkaggNCDpobnjgIHmnIggNSDpobnjgIHlraMgNCDpobnvvIzmr4/pobnpg73mnInor4Hmja7nlZnlrZjmlrnlvI8gfAp8IOWvvOWFpSB8IEFQSSDohJrmnKwgKyDlr7zlhaXor7TmmI4gKyDnu5PmnoTmuIXljZUgKyDmqKHmnb8gfCBkcnktcnVuIOWunua1i+ino+aekCAxOS8xOSDpobXjgIExMDIg5p2h56uZ5YaF6ZO+5o6l5YWo6YOo5Y+v6Kej5p6Q44CB56Gs6ZSZ6K+vIDAgfAp8IOemu+e6v+mihOiniCB8IOWNleaWh+S7tumihOiniOermSArIOeUn+aIkOiEmuacrCB8IDE5IOmhtea4suafk+OAgeWklumDqOi1hOa6kOW8leeUqCAw44CBNiDlhaXlj6PjgIHmkJzntKLmqKrluYXpgLvovpHnlKggTm9kZSBET00g5qGp55yf6LeR6YCaIHwKCiMjIyAzLjEg6K+B5o2u5Z+656GA77yI6YO95piv55yf5a6e5Y+v6K6/6Zeu55qE5p2D5aiB5p2l5rqQ77yM5LiN5piv5LqM5omL6L2s6L+w77yJCgp8IOe8luWPtyB8IOadpea6kCB8IOmTvuaOpSB8CnwtLS18LS0tfC0tLXwKfCBTMSB8IE5JQ0UgTkc4N+OAikF0dGVudGlvbiBkZWZpY2l0IGh5cGVyYWN0aXZpdHkgZGlzb3JkZXI6IGRpYWdub3NpcyBhbmQgbWFuYWdlbWVudOOAiyB8IGh0dHBzOi8vd3d3Lm5pY2Uub3JnLnVrL2d1aWRhbmNlL25nODcgfAp8IFMyIHwgQUFQIDIwMTkg5Li05bqK5a6e6Le15oyH5Y2X77yIV29scmFpY2ggTUwsIGV0IGFsLiBQZWRpYXRyaWNzIDIwMTk7MTQ0KDQpOmUyMDE5MjUyOO+8iSB8IGh0dHBzOi8vcG1jLm5jYmkubmxtLm5paC5nb3YvYXJ0aWNsZXMvUE1DNzA2NzI4Mi8gfAp8IFMzIHwgQ0RD44CKQ2xpbmljYWwgQ2FyZSBvZiBBREhE44CL77yIQUFQIOaMh+WNl+eahOWFrOS8l+ihqOi/sOeJiO+8iSB8IGh0dHBzOi8vd3d3LnJlc3RvcmVkY2RjLm9yZy93d3cuY2RjLmdvdi9hZGhkL2hjcC90cmVhdG1lbnQtcmVjb21tZW5kYXRpb25zL2luZGV4Lmh0bWwgfAp8IFM0IHwgQUZQIOe7vOi/sO+8iENhbiBGYW0gUGh5c2ljaWFuIDIwMjA7NjYoMTApOjczMi03MzbvvIkgfCBodHRwczovL3BtYy5uY2JpLm5sbS5uaWguZ292L2FydGljbGVzL1BNQzc1NzE2NjQvIHwKfCBTNSB8IEFIUlEgUEVNQVQtUCDljp/lp4vph4/ooajvvIhCcmFjaCBDLCBldCBhbC4gUGF0aWVudCBFZHVjIENvdW5zIDIwMTQ7OTYoMyk6Mzk1LTQwM++8iSB8IGh0dHBzOi8vd3d3LmFocnEuZ292L2hlYWx0aC1saXRlcmFjeS9wYXRpZW50LWVkdWNhdGlvbi9wZW1hdC1wLmh0bWwgfAp8IFM2IHwgQy1QRU1BVC1QIOS4reaWh+eJiOmqjOivgeeglOeptu+8iEogTWVkIEludGVybmV0IFJlcyAyMDIzOzI1OmUzOTgwOO+8iSB8IGh0dHBzOi8vcG1jLm5jYmkubmxtLm5paC5nb3YvYXJ0aWNsZXMvUE1DMTAyMzYyNzcvIHwKCueVjOmdouS4iiLlvLror4Hmja4i55qE5q+P5LiA5p2h5Yik5pat6YO95oyC5Yiw5LiK6KGo5Lit55qE57yW5Y+35byV55So77ybIue7j+mqjOaAp+etlueVpSLpobUqKuS4jeaMgioq5oyH5Y2X6ZO+5o6l5YaS5YWF5pSv5oyB77yM5q2j5paH6K+05piOIuebtOaOpeeglOeptuivgeaNruaciemZkCLjgIIKCi0tLQoKIyMgNC4g5Zub5aSE5Y+j5b6E5YGP5beu77ya5oiR5oyJ5LqL5a6e5pS55LqG77yM5bm255WZ55eVCgrov5nkuInlpITkuI3mmK/kvaDlhpnplJnvvIzogIzmmK/ljp/mlrnmoYjph4znmoTmlbDlrZfkuI7lhazlvIDmlofnjK7lr7nkuI3kuIrjgILmiJHmjIkqKuWPr+aguOWunueahOaWh+eMrioq5omn6KGM77yM5bm25Zyo5paH5Lu26YeM5YaZ5piO5beu5byC77yM5pa55L6/5L2g5Yaz5a6a6KaB5LiN6KaB5pS55Zue5Y6744CCCgp8ICMgfCDljp/mlrnmoYjooajov7AgfCDmoLjlrp7lkI7nmoTkuovlrp4gfCDmnKzljIXmgI7kuYjlpITnkIYgfAp8LS0tfC0tLXwtLS18LS0tfAp8IDEgfCBDLVBFTUFULVAi5YWxIDIzIOS4quadoeebru+8iDE2IOWPr+eQhuino+aApyArIDcg5Y+v5pON5L2c5oCn77yJIiB8IOW3suWPkeihqOeahCBDLVBFTUFULVAg5Lit5paH54mI6aqM6K+B56CU56m25oyJICoqMjQg5p2h77yIMTcgKyA377yJKiog5oql5ZGK77yb5Y6f5aeLIEFIUlEgUEVNQVQtUCDljbDliLfniYjlkIzmoLfmmK8gMTcgKyA3IHwg5oyJIDI0IOadoeaJp+ihjO+8jOmXqOanm+S7jeS4uuS4pOWtkOmHj+ihqOWQhCDiiaU3MCXvvJtgMDVcQy1QRU1BVC1Q5Y+R5biD6Zeo5qeb5LiO6K+E5YiG6KeE5YiZLm1kYCDph4zlhpnmuIXlt67lvILkuI4i6Iul5Z2a5oyBIDIzIOadoemhu+azqOaYjuWIoOWHj+WTquS4gOadoSIgfAp8IDIgfCDlhbPplK7or40i5YWxIDIyIOadoSLvvIg1LjEg6IqC5p6a5Li+77yJIHwg6YCQ5p2h5riF54K55p6a5Li+5a6e6ZmF5pivICoqMjEg5p2hKiogfCAyMSDmnaHlhajpg6jopobnm5bvvIzlj6booaUgMTkg5p2h5bi46KeB5Y+Y5L2T77yM5pyA57uIICoqNDAg5Liq5Li76K+N5p2hICsgNzEg5Liq5Y+Y5L2TID0gMTExIOadoeivjeadoSoq77yI6K+N6KGo5YWo5L+d55WZ77yb5YW25Lit5LuFIDE4IOadoeiNr+WTgeWQjeW7uuWjs+mhte+8iSB8CnwgMyB8ICLmr4/kuKrlhbPplK7or43lr7nlupTkuIDmnaHph43lrprlkJHpobUiIHwg5L2g5ZCO5p2l5YiG5Yir5ouN5p2/IuWPmOS9k+WQhOiHquW7uumhtSLvvIgxMTEg5p2h77yJ5LiOIuWPquS/neeVmeiNr+WTgeWQjeWjs+mhtSLvvIgxOCDmnaHvvIzliKAgOTMg5p2h77yJIHwg5pyA57uIIDE4IOadoeWjs+mhtSArIDExMSDmnaHor43mnaHlubblrZjvvJror43mnaHlhajpg6jkv53nlZnkvpvmqKrluYXljLnphY3vvIzlo7PpobXlj6rnlZnoja/lk4HlkI3vvJvpgJDmnaHmuIXljZXop4EgYOWPmOabtOiusOW9lS5tZGAgfAp8IDQgfCBJQ0QtMTEg6K+K5pat5p2h55uuIHwg5a6Y5pa5IGJyb3dzZTExIOmhtemdouS4uiBKUyDmuLLmn5PvvIzmnKzova7mipPlj5blj6rog73mi7/liLDmoIfpopjvvIzmnKror7vliLAgQURIRCDlhbfkvZPnvJbnoIEgfCBgRDAxYCAqKuS4jeWGmee8lueggSoq77yM5Y+q5YaZ5YiG57G75L2N572u5LiOIuS4jiBEU00g5L2T57O75LiN5a6M5YWo562J5Lu3Iu+8m+aKpeWRiumHjOWmguWunuiusCLmnKrmoLjlrp4iIHwKCi0tLQoKIyMgNS4g5bey55+l6ZmQ5Yi25LiO5b6F5L2g6KOB5Yaz55qE6aG5CgoxLiAqKk5JQ0Ug6ZO+5o6l77ya5bey6Zet546v77yI5peg5b6F6KOB5Yaz6aG577yJKirvvJpgaHR0cHM6Ly93d3cubmljZS5vcmcudWsvZ3VpZGFuY2Uvbmc4N2Ag5a+56ISa5pysIFVBIOi/lOWbniA0MDPvvIzkvYblt7LnlKgqKue9kemhteaKk+WPluW3peWFt+ebtOivu+ato+aWhyoq6Zet546v4oCU4oCUMjAyNi0xMS0wNeOAgeS4u+S7o+eQhuOAgTIwMCDkuJTmraPmloflj6/or7vvvIhSZWZlcmVuY2UgbnVtYmVyOiBORzg3IC8gUHVibGlzaGVkIDE0IE1hcmNoIDIwMTggLyBMYXN0IHVwZGF0ZWQgMTMgU2VwdGVtYmVyIDIwMTkgLyBMYXN0IHJldmlld2VkIDIzIEp1bHkgMjAyNu+8ieOAguWumOaWuSBQREYg55u06ZO+5oqT5Y+W5aSx6LSl77yM5pWF5L+d55WZ6aG16Z2i6ZO+5o6l44CB5LiN5o2iIFBERuOAguWbm+imgee0oOingSBgMDVc5byV55So5qC46aqM5oql5ZGKLm1kYCDCpzXjgIIKMi4gKirljaDkvY3ln5/lkI3lv4Xpobvmm7/mjaIqKu+8muWFqOW6k+e7n+S4gCBgaHR0cHM6Ly93aWtpLmV4YW1wbGUub3JnYO+8jOmDqOe9suWQjuesrOS4gOS7tuS6i+aYryBgcHl0aG9uIDAzX+mbtueUqOiNr+ezu+e7n+mFjee9rlzorr7nva7ln5/lkI0ucHkgaHR0cHM6Ly/kvaDnmoTln5/lkI1g77yI5YWIIGAtLWNoZWNrYCDnnIvlvbHlk43pnaLvvIzlvZPliY3kuLogKioyNCDkuKrmlofku7YgLyAxNTMg5aSEKirvvJvliKDpobXlkI7lt7Lku44gMTE2IC8gMjI4IOS4i+mZje+8ie+8jOWQpuWImemHjeWumuWQkemhteOAgeaoquW5heOAgeWPjemmiOWMuuWdl+eahOmTvuaOpemDveaYr+WBh+eahOOAggozLiAqKuajgOe0oueogOmHiuW3sue8k+ino++8iOWOnyIxMTEg5p2h5ZCM5bGPIDYg5p2h5aOz6aG1IueahOS7o+S7t+S4jeWkjeWtmOWcqO+8iSoq77ya546w5a2YIDE4IOadoeWjs+mhteS6kuS4jeS4uui/keS5ieWGmeazleOAguacrOWcsOajgOe0ouaooeaLn+Wunua1i++8muaQnCLoja/niakiIuWJgumHjyIi5Ymv5L2c55SoIuWJjSAxMCDmnaHnu5PmnpwqKuWjs+mhtSAwIOadoSoq77yb5pCcIuS4k+azqOi+viIi5oup5oCd6L6+IuWRveS4reWjs+mhteW5tui3syBBMDbjgILor6Xnu5PorrrkuLoqKuacrOWcsOaooeaLn+i/keS8vOmAmui/hyoq77yI6Z2e55yf5a6eIElDVSDliIbor43lrp7mtYvvvInvvIzor6bop4EgYOWPmOabtOiusOW9lS5tZGAgwqflha0g5LiOIGAwNlzmkJzntKLlrp7mtYvlj6PlvoTor7TmmI4ubWRg44CCCjQuICoq6aKE6KeI56uZ5LiN6ZqQ6JePIEMvRCDkuKTmnKzkuaYqKu+8mumihOiniOermeWPquWBmuS6hiLku4UgQiDnq68v5Li05bqK6KeS6Imy5Y+v6KeBIueahOW+veeroO+8jOS4jeWBmumakOiXj++8m+WunuermemdoOS5puexjeadg+mZkOecn+ato+malOemu+OAguWboOatpOmihOiniOermemHjOaQnCLliYLph48i5Lya5ZG95LitIEMwMeKAk0MwM++8iOWug+S7rOWcqOinhOiMg+WbuuWumuWbnuW6lOahhumHjOWQqyLliYLph48i5LqM5a2X77yJ44CCCjUuICoq5pys6L2u5rKh5pyJ6YOo572y77yM5omA5Lul5rKh5pyJIumDqOe9suWPr+eUqOaApyLnmoTor4Hmja4qKu+8mmBpbXBvcnRfYm9va3N0YWNrLnB5YCDlj6rpqozor4HliLAgZHJ5LXJ1bu+8iDE5LzE5IOmhteino+aekOOAgTEwMiDpk77mjqXop6PmnpDjgIEwIOehrOmUmeivr++8ie+8jCoq5rKh5pyJ5a+555yf5a6e5a6e5L6L6LeR6L+H5LiA5qyh55yf5a6e5YaZ5YWlKirjgILpppbmrKHlrp7ot5Hor7fliqHlv4XlhYggYC0tZHJ5LXJ1bmDvvIzlho0gYC0tb25seS1ib29rIOS5puexjUFf5YWs5byA55+l6K+G5bqTYCDlsI/mibnph4/or5XjgIIKNi4gKirmnYPpmZDjgIHmqKHmnb/moIforrDjgIHpu5jorqTpppbpobXlv4XpobvmiYvlt6XlgZoqKu+8mkFQSSDkuI3lu7rop5LoibLjgIHkuI3orr7lj6/op4HmgKfjgIHkuI3og73moIforrDmqKHmnb/jgILmuIXljZXlnKggYDA0XOWvvOWFpeivtOaYji5tZGAg5LiOIGDmoKHpqozmiqXlkYoubWRg44CCCjcuICoqRG9ja2VyIOebuOWFs+atpemqpOS4gOadoemDveayoeacieWGmSoq77ya5oyJ5L2g55qE5Yaz5a6a77yM5pys6L2u5LiN5raJ5Y+K5a655Zmo6YOo572y44CCCgotLS0KCiMjIDYuIOmDqOe9sumhuuW6j++8iOecn+imgeS4iue6v+aXtueFp+i/meS4qui1sO+8iQoKMS4g6LW3IEJvb2tTdGFja++8iOS9oOiHquW3semAieeahOaWueW8j++8ie+8jGBBUFBfVVJMYCDnlKggYGh0dHBzOi8vYCDlvIDlpLTlubbku6UgYC9gIOe7k+WwvuOAggoyLiDlkI7lj7Dlu7ogNSDkuKrop5LoibLvvIzmjIkgYDA1XOinkuiJsuS4juadg+mZkOmFjee9ruihqC5tZGAg6YCQ5qC85Yu+44CCCjMuIGBweXRob24gMDNf6Zu255So6I2v57O757uf6YWN572uXOiuvue9ruWfn+WQjS5weSAtLWNoZWNrYCDihpIg5YaN5omn6KGM5pu/5o2i77yM5aGr55yf5a6e5Z+f5ZCN44CCCjQuIOWQjuWPsOi0tCBg5pCc57Si6aG15qiq5bmF5rOo5YWl54mH5q61Lmh0bWxgIOWIsCBDdXN0b20gSFRNTCBIZWFkIENvbnRlbnTvvIzmuIXnvJPlrZgv6YeN55m76aqM6K+B44CCCjUuIGBweXRob24gMDRfQm9va1N0YWNr5a+85YWlXGltcG9ydF9ib29rc3RhY2sucHkgLS1kcnktcnVuYCDihpIg6YCa6L+H5ZCO5YqgIHRva2VuIOWPguaVsOWunui3ke+8iOWFiOWNleacrOS5pu+8ieOAggo2LiDlkI7lj7DmiYvlt6XvvJpBMDYg6aG16Z2i5p2D6ZmQ44CB5Lmm57GNIEMvRCDlj6/op4HmgKfjgIHkuInkuKrmqKHmnb/moIforrDjgIFBMDAg6K6+5Li66buY6K6k6aaW6aG144CBKioxOCDmnaHoja/lk4HlkI3lo7PpobUqKuS4jei/m+WvvOiIqu+8iOmAkOmhueeFpyBgMDRc5ZCO5Y+w6YWN572uY2hlY2tsaXN0LmNzdmAg5Yu+77yJ44CCCjcuIOi3keS4gOasoSBgMDVc5beh5qOA6KGoX+WRqOaciOWtoy5tZGAg55qE5pyI5bqm6aG577ya5pCcIuWJgumHjyIi5Ymv5L2c55SoIu+8jOehruiupOWPquiQveWIsOWFnOW6lemhteOAggo4LiDmjIkgYDA1XOWPkeW4g+a1geeoi+S4juS/oeS7u+WIhue6p1NPUC5tZGAg5oqKIDE5IOmhteS7jiLojYnnqL8i5o6o6L+b5YiwIuW3sumqjOivgSLvvIznrb7moLjlrZfmrrXkuIDmrKHloavlhajjgIIKCi0tLQoKIyMgNy4g57u05oqk6LSj5Lu777yI6LCB5pS55LuA5LmI77yJCgp8IOWvueixoSB8IOe7tOaKpOiAhSB8IOiwgeiDveaUuSB8CnwtLS18LS0tfC0tLXwKfCDlm7rlrprlo7DmmI7mlofmnKzjgIHlhZzlupXpobXlm7rlrprmrrXokL0gfCDlhoXlrrnnrqHnkIblkZjvvIjnu4/kuLTluorlrqHmoLjnoa7orqTkuIDmrKHlkI7plIHlrprvvIkgfCDlhoXlrrnnrqHnkIblkZjvvJtDIOerr+i0oeeMruiAheS4jiBCIOerr+e8lui+keaXoOe8lui+keadgyB8CnwgMTgg5p2h6I2v5ZOB5ZCN5aOz6aG144CBMTExIOadoeivjeadoSB8IOWGheWuueeuoeeQhuWRmCB8IOS7heWGheWuueeuoeeQhuWRmCB8CnwgQyDnq6/pobXpnaLmraPmlocgfCBDIOerr+i0oeeMruiAhSAvIOWGheWuueeuoeeQhuWRmCB8IOWJjSAzIOasoee8lui+kemhu+WuoeaguO+8m+WFnOW6lemhteS4juWwseiviumhteawuOS4jeiDveeUsei0oeeMruiAheebtOaOpeWPkeW4gyB8CnwgQiDnq6/miYvlhowgfCBCIOerr+e8lui+kSB8IOaUueWFrOW8gOWxguWGheWuuemcgCBDIOerr+e7hOmVv+WuoeaguCB8Cnwg5Lmm57GNIEQgfCDkuLTluorlrqHmoLggfCDku4XkuLTluorlrqHmoLjkuI7lhoXlrrnnrqHnkIblkZggfAo=
+# ADHD 知识库 · 内容包与离线预览（总览）
+
+> 交付日期：2026-11-05 ｜ 交付形态：**可导入 BookStack 的内容包 + 离线预览站**（本轮**未**在本机部署 BookStack，未安装 Docker）
+> 全部文件在 `F:\ADHD文献\`，共 76 个文件（19 页正文 + 18 条药品名壳页 + 其余配置/导入/审核/预览文件）。本轮做过一次"壳页收敛"（111 → 18），全过程与四份闭环证据见 `变更记录.md`。
+> 一句话：**C 端可读、B 端可用、A 端隔离，药物内容只以"由医生决定"的固定声明和兜底页存在。**
+
+> **产品原则（E1 已确立，不代表功能已实现）**：AI 是家长与孩子之间的**情绪缓冲带和关系桥梁**——先接住家长，再连接孩子；先缓和关系，再解决问题。家长情绪承接优先于 ADHD 知识讲解。此定位为设计方向，当前工作区仍是离线编译闭环，**运行时生成与安全评测尚未接模型验证**。规格见 `01_规范与标准\家长情绪承接能力规范_v1.0.md`（正式冻结 v1.0，2026-11-16）。
+
+---
+
+## 1. 先看哪里
+
+| 你想做的事 | 打开 |
+|---|---|
+| 先看效果，不装任何东西 | `06_离线预览站\index.html`（双击，零联网） |
+| 看正文内容 | `02_内容包\` 下四个书籍目录 |
+| 真部署，把内容灌进 BookStack | `04_BookStack导入\导入说明.md` → `import_bookstack.py` |
+| 配零用药兜底（重定向页/横幅/声明） | `03_零用药系统配置\配置说明.md` |
+| 配角色权限、发布门槛、巡检 | `05_审核与运营\` |
+| 知道每页该怎么写、证据怎么分级 | `01_规范与标准\写作规范与证据分级标准.md` |
+| 看这一轮改了什么（壳页收敛 111→18、四份证据） | `变更记录.md` |
+
+---
+
+## 2. 目录地图
+
+```
+F:\ADHD文献\
+├─ 01_规范与标准\
+│   └─ 写作规范与证据分级标准.md      唯一口径：页面骨架、元数据格式、零用药词表、证据四档判定、引用格式、C-PEMAT-P 24 条与计分、文件名注册表
+├─ 02_内容包\
+│   ├─ 书籍A_公开知识库\               A00 首页 + A01–A06（6 页正文）
+│   ├─ 书籍B_家庭工具与情景案例\        B01–B07（7 页正文）
+│   ├─ 书籍C_B端工作手册\               C01–C03（3 页正文）
+│   └─ 书籍D_临床边界参考\              D01–D02（2 页，摘要层级）
+├─ 03_零用药系统配置\
+│   ├─ 药物关键词表\药物关键词表.json   111 条词条（40 主词条 + 71 变体，一条未删），含 slug、变体、跳转目标与 `has_redirect` 字段（true 18 / false 93）
+│   ├─ 药物关键词表\药物关键词表.csv    与 JSON 同源的导入清单
+│   ├─ 重定向页\                        **18 个药品名壳页**（商品名 9 + 分子名 5 + 其他通用名 4），正文严格一行 #REDIRECT [兜底页链接] 加一个空格；另 93 条通用词条无壳页、只由搜索横幅拦截
+│   ├─ 重定向页保留清单.csv            18 条权威保留清单（词条/分类/文件名/slug/跳转目标），导入与巡检都以它为准
+│   ├─ 搜索页横幅注入片段.html          BookStack「Custom HTML Head Content」直接粘贴，零 CDN
+│   ├─ 反馈区块片段.html                页面底部：有用/不清楚/这是一个用药问题 → 兜底页
+│   ├─ 正式声明文本.md                  四段正式文本（全站/兜底页/B 端固定回应/反馈分化）
+│   ├─ 设置域名.py                      占位域名一键替换（--check 先看影响面，改前留 .bak）
+│   └─ 配置说明.md                      粘贴与建页步骤、验证方法、已知代价与后续收敛选项
+├─ 04_BookStack导入\
+│   ├─ import_bookstack.py              API 导入脚本，支持 --dry-run / --only-book / 幂等更新 / 相对链接改写
+│   ├─ 导入说明.md                      两条路径：API 脚本（主）+ 后台手工粘贴（兜底）；必做的手工清单；已知限制
+│   ├─ 导入结构清单.csv                 37 行（内容页 19 + 药品名壳页 18）× 书籍/章节/slug/元数据/源文件路径
+│   ├─ 后台配置checklist.csv            7 步后台手工配置（建组 → 挂书籍权限 → 页面级覆盖），可勾选、可记执行人
+│   ├─ 模板\C端公开页模板.md / B端手册页模板.md / 用药兜底页模板.md
+│   ├─ 校验报告.md / dry_run_output.txt 真实 dry-run 输出摘要与原始日志
+├─ 05_审核与运营\
+│   ├─ 角色与权限配置表.md              5 角色 × 4 本书矩阵（20 格）+ 页面级覆盖 + 权限变更后 5 步验证
+│   ├─ C-PEMAT-P发布门槛与评分规则.md   24 条评分表、70% 双门槛、复评规则、评分纪律、存档规则
+│   ├─ C-PEMAT-P评分记录.csv            13 页逐条评分（独立复核人填写，含失分原因）
+│   ├─ C-PEMAT-P评分记录_表头模板.csv   空表头 + 1 行示例（新建记录时复制）
+│   ├─ 发布流程与信任分级SOP.md         草稿→待发布→已验证→待复核 状态机、签核字段、退回改写单
+│   ├─ 巡检表_周月季.md                 周 4 项 / 月 5 项 / 季 4 项，每项含操作步骤与证据留存
+│   ├─ 指标看板.csv                     4 个可检查指标（定义、公式、数据源、阈值、不达标动作）
+│   ├─ 零用药四层配置核对表.md          搜索兜底/模板勾选/反馈分流/B 端固定模块 四层核对
+│   ├─ 引用核验报告.md                  逐页 8 个维度的核验结论 + URL 状态码证据
+│   └─ 退回清单.md                      复核发现的问题与当前状态（已修复 / 已闭环）
+└─ 06_离线预览站\
+    ├─ index.html                       单文件预览站（约 223 KB，双击即开，零联网）
+    ├─ 生成预览站.py                    从 02_内容包 重新生成 index.html（幂等）；搜索行为按 has_redirect 分两档
+    ├─ 搜索实测结果.csv                  8 条查询的本地模拟结果（UTF-8 BOM，11 列）
+    ├─ 搜索实测口径说明.md               表头原文 + 四项声明（环境/分词/结论措辞/0-10 效力边界）
+    └─ 预览说明.md                      怎么看、怎么重生成、与实站的差异
+```
+
+> `04_` 下的 `_build_csv.py`、`dry_run_output.txt` 与 `06_` 下的 `_自检脚本.py`、`_浏览器模拟测试.js` 是**核验证据文件**，不是交付内容，保留以便审计。
+
+---
+
+## 3. 这一版实际做了什么（对照原方案）
+
+| 原方案 | 落成的东西 | 实测结果 |
+|---|---|---|
+| 一、BookStack 底座与角色/权限 | 未部署（按你的决定）。角色与权限全部落成 `05\角色与权限配置表.md`，可照着在后台勾 | 权限矩阵 4 本书 × 5 角色 = 20 格，每格有明确取值与依据 |
+| 二、内容架构与首批 16 页 | 16 页正文全写 + 1 页首页 + 2 页临床边界 = 19 个页面文件 | 19/19 文件齐全；元数据与勾选条缺项 0 |
+| 二、首页 6 入口 | `A00` 首页，6 条入口按你的映射落点 | 预览站复现为 6 张卡片，落点 B01/A04/B07/A01/B04/A06 全部可打开 |
+| 二、证据状态四档 | 每页顶部可见徽章 + YAML 机器可读字段，两处字面一致 | 一致性由脚本逐页比对，不一致 0 |
+| 三、C-PEMAT-P 门槛 | 24 条评分表 + 13 页逐页评分记录 + 门槛规则 | **13/13 页两子量表均 ≥70%**（可理解性 93.8%–100%，可操作性 83.3%–100%；B07 首轮 50% 已退回改写后复评达标） |
+| 四、信任分级与审核流程 | 状态机 SOP + 签核字段 + 退回改写单 + 例外规则 | 已落成文件，含"前 3 次编辑须审核"等具体门禁 |
+| 五、零用药四层 | 关键词表（JSON+CSV，111 条全保留）+ **18 条药品名壳页** + 横幅片段 + 反馈片段 + 声明 + 域名脚本 | 18/18 壳页字节校验通过（`]` 后一个空格）；词表三处一致；93 条通用词无壳页、只由横幅兜底；外部资源引用 0 |
+| 六、巡检与指标 | 周/月/季巡检表 + 4 指标看板 | 周 4 项、月 5 项、季 4 项，每项都有证据留存方式 |
+| 导入 | API 脚本 + 导入说明 + 结构清单 + 模板 | dry-run 实测解析 19/19 页、102 条站内链接全部可解析、硬错误 0 |
+| 离线预览 | 单文件预览站 + 生成脚本 | 19 页渲染、外部资源引用 0、6 入口、搜索横幅逻辑用 Node DOM 桩真跑通 |
+
+### 3.1 证据基础（都是真实可访问的权威来源，不是二手转述）
+
+| 编号 | 来源 | 链接 |
+|---|---|---|
+| S1 | NICE NG87《Attention deficit hyperactivity disorder: diagnosis and management》 | https://www.nice.org.uk/guidance/ng87 |
+| S2 | AAP 2019 临床实践指南（Wolraich ML, et al. Pediatrics 2019;144(4):e20192528） | https://pmc.ncbi.nlm.nih.gov/articles/PMC7067282/ |
+| S3 | CDC《Clinical Care of ADHD》（AAP 指南的公众表述版） | https://www.restoredcdc.org/www.cdc.gov/adhd/hcp/treatment-recommendations/index.html |
+| S4 | AFP 综述（Can Fam Physician 2020;66(10):732-736） | https://pmc.ncbi.nlm.nih.gov/articles/PMC7571664/ |
+| S5 | AHRQ PEMAT-P 原始量表（Brach C, et al. Patient Educ Couns 2014;96(3):395-403） | https://www.ahrq.gov/health-literacy/patient-education/pemat-p.html |
+| S6 | C-PEMAT-P 中文版验证研究（J Med Internet Res 2023;25:e39808） | https://pmc.ncbi.nlm.nih.gov/articles/PMC10236277/ |
+
+界面上"强证据"的每一条判断都挂到上表中的编号引用；"经验性策略"页**不挂**指南链接冒充支持，正文说明"直接研究证据有限"。
+
+---
+
+## 4. 四处口径偏差：我按事实改了，并留痕
+
+这三处不是你写错，而是原方案里的数字与公开文献对不上。我按**可核实的文献**执行，并在文件里写明差异，方便你决定要不要改回去。
+
+| # | 原方案表述 | 核实后的事实 | 本包怎么处理 |
+|---|---|---|---|
+| 1 | C-PEMAT-P"共 23 个条目（16 可理解性 + 7 可操作性）" | 已发表的 C-PEMAT-P 中文版验证研究按 **24 条（17 + 7）** 报告；原始 AHRQ PEMAT-P 印刷版同样是 17 + 7 | 按 24 条执行，门槛仍为两子量表各 ≥70%；`05\C-PEMAT-P发布门槛与评分规则.md` 里写清差异与"若坚持 23 条须注明删减哪一条" |
+| 2 | 关键词"共 22 条"（5.1 节枚举） | 逐条清点枚举实际是 **21 条** | 21 条全部覆盖，另补 19 条常见变体，最终 **40 个主词条 + 71 个变体 = 111 条词条**（词表全保留；其中仅 18 条药品名建壳页） |
+| 3 | "每个关键词对应一条重定向页" | 你后来分别拍板"变体各自建页"（111 条）与"只保留药品名壳页"（18 条，删 93 条） | 最终 18 条壳页 + 111 条词条并存：词条全部保留供横幅匹配，壳页只留药品名；逐条清单见 `变更记录.md` |
+| 4 | ICD-11 诊断条目 | 官方 browse11 页面为 JS 渲染，本轮抓取只能拿到标题，未读到 ADHD 具体编码 | `D01` **不写编码**，只写分类位置与"与 DSM 体系不完全等价"；报告里如实记"未核实" |
+
+---
+
+## 5. 已知限制与待你裁决的项
+
+1. **NICE 链接：已闭环（无待裁决项）**：`https://www.nice.org.uk/guidance/ng87` 对脚本 UA 返回 403，但已用**网页抓取工具直读正文**闭环——2026-11-05、主代理、200 且正文可读（Reference number: NG87 / Published 14 March 2018 / Last updated 13 September 2019 / Last reviewed 23 July 2026）。官方 PDF 直链抓取失败，故保留页面链接、不换 PDF。四要素见 `05\引用核验报告.md` §5。
+2. **占位域名必须替换**：全库统一 `https://wiki.example.org`，部署后第一件事是 `python 03_零用药系统配置\设置域名.py https://你的域名`（先 `--check` 看影响面，当前为 **24 个文件 / 153 处**；删页后已从 116 / 228 下降），否则重定向页、横幅、反馈区块的链接都是假的。
+3. **检索稀释已缓解（原"111 条同屏 6 条壳页"的代价不复存在）**：现存 18 条壳页互不为近义写法。本地检索模拟实测：搜"药物""剂量""副作用"前 10 条结果**壳页 0 条**；搜"专注达""择思达"命中壳页并跳 A06。该结论为**本地模拟近似通过**（非真实 ICU 分词实测），详见 `变更记录.md` §六 与 `06\搜索实测口径说明.md`。
+4. **预览站不隐藏 C/D 两本书**：预览站只做了"仅 B 端/临床角色可见"的徽章，不做隐藏；实站靠书籍权限真正隔离。因此预览站里搜"剂量"会命中 C01–C03（它们在规范固定回应框里含"剂量"二字）。
+5. **本轮没有部署，所以没有"部署可用性"的证据**：`import_bookstack.py` 只验证到 dry-run（19/19 页解析、102 链接解析、0 硬错误），**没有对真实实例跑过一次真实写入**。首次实跑请务必先 `--dry-run`，再 `--only-book 书籍A_公开知识库` 小批量试。
+6. **权限、模板标记、默认首页必须手工做**：API 不建角色、不设可见性、不能标记模板。清单在 `04\导入说明.md` 与 `校验报告.md`。
+7. **Docker 相关步骤一条都没有写**：按你的决定，本轮不涉及容器部署。
+
+---
+
+## 6. 部署顺序（真要上线时照这个走）
+
+1. 起 BookStack（你自己选的方式），`APP_URL` 用 `https://` 开头并以 `/` 结尾。
+2. 后台建 5 个角色，按 `05\角色与权限配置表.md` 逐格勾。
+3. `python 03_零用药系统配置\设置域名.py --check` → 再执行替换，填真实域名。
+4. 后台贴 `搜索页横幅注入片段.html` 到 Custom HTML Head Content，清缓存/重登验证。
+5. `python 04_BookStack导入\import_bookstack.py --dry-run` → 通过后加 token 参数实跑（先单本书）。
+6. 后台手工：A06 页面权限、书籍 C/D 可见性、三个模板标记、A00 设为默认首页、**18 条药品名壳页**不进导航（逐项照 `04\后台配置checklist.csv` 勾）。
+7. 跑一次 `05\巡检表_周月季.md` 的月度项：搜"剂量""副作用"，确认只落到兜底页。
+8. 按 `05\发布流程与信任分级SOP.md` 把 19 页从"草稿"推进到"已验证"，签核字段一次填全。
+
+---
+
+## 7. 维护责任（谁改什么）
+
+| 对象 | 维护者 | 谁能改 |
+|---|---|---|
+| 固定声明文本、兜底页固定段落 | 内容管理员（经临床审核确认一次后锁定） | 内容管理员；C 端贡献者与 B 端编辑无编辑权 |
+| 18 条药品名壳页、111 条词条 | 内容管理员 | 仅内容管理员 |
+| C 端页面正文 | C 端贡献者 / 内容管理员 | 前 3 次编辑须审核；兜底页与就诊页永不能由贡献者直接发布 |
+| B 端手册 | B 端编辑 | 改公开层内容需 C 端组长审核 |
+| 书籍 D | 临床审核 | 仅临床审核与内容管理员 |

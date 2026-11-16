@@ -1,1 +1,113 @@
-LS0tCumdouWQkTog5pys5Lq6IC8g5Ly05L6jCuivgeaNrueKtuaAgTog5pyJ5p2h5Lu25o6o6I2QCuacgOWQjuWuoeaguDogMjAyNi0xMS0wNQrpm7bnlKjoja/li77pgIk6IOW3suWLvumAiQrpobXpnaLnsbvlnos6IEPnq68t5Lmm57GNQgrkuabnsY06IOS5puexjUJf5a625bqt5bel5YW35LiO5oOF5pmv5qGI5L6LCueroOiKgjog5oiQ5Lq66Ieq5bexCnNsdWc6IGFkdWx0LXN0YXJ0ZXIKLS0tCgo+ICoq6Z2i5ZCRKirvvJrmnKzkurogLyDkvLTkvqMg772cICoq6K+B5o2u54q25oCBKirvvJrmnInmnaHku7bmjqjojZAg772cICoq5pyA5ZCO5a6h5qC4KirvvJoyMDI2LTExLTA1Cj4gKirmnKzpobXkuI3lkKvoja/lkI3jgIHliYLph4/jgIHnlKjoja/pgInmi6njgIHlia/kvZznlKjlpITnkIbjgIHlgZzoja/lh4/ph4/lu7rorq4qKiDigJTigJQg4piRIOW3suWLvumAiQoKIyDmiJDkurogQURIRCDoh6rmiJHnrqHnkIbotbfmraXvvJrlpJbpg6jljJborrDlv4bkuI7ku7vliqHmi4bliIbnmoQgMyDkuKrlt6XlhbcKCiMjIOS7iuWkqeiDveWBmueahCAzIOS7tuS6iwoKMS4gKirku4rmmZrlj6rorr7kuIDkuKoi5pS25Lu25aSEIuOAgioqIOaJi+acuuWkh+W/mOW9leOAgeS4gOW8oOe6uOOAgeS4gOS4quWPo+iii+acrOKAlOKAlOWPqueUqOWFtuS4reS4gOS4qu+8jOaJgOacieimgeiusOeahOS4nOilv+WPqui/m+i/meS4gOWkhOOAggoyLiAqKuaKiuaYjuWkqeacgOivpeWBmueahOmCo+S4gOS7tuS6i++8jOWGmeaIkCLkuIvkuIDkuKrliqjkvZwi44CCKiog5LiN5YaZIuaVtOeQhuaKpeWRiiLvvIzlhpki5omT5byA5oql5ZGK5paH5qGj77yM5YWI5YaZ56ys5LiA5q615qCH6aKYIuOAggozLiAqKuaJvuS4gOS4quWPr+inhuWMluiuoeaXtuWZqOOAgioqIOS4i+S4gOS7tuimgeS4k+W/g+WBmueahOS6i++8jOeUqOWug+WumuaXtiAyMCDliIbpkp/vvIznnIvlvpfop4Hov5jlianlpJrkuYXjgIIKCiMjIOS4uuS7gOS5iOi/meagt+WBmuacieaViAoK5oiQ5bm05Lul5ZCO5omN5oSP6K+G5YiwIuaIkeaAu+aYr+W/mOOAgeaAu+aYr+aLluOAgeaXtumXtOaAu+aYr+S8sOmUmSLvvIzlvoDlvoDkuI3mmK/mgIHluqbpl67popjvvIzogIzmmK/pgqPlpZfotJ/otKMi6K6w5L2P44CB5ZCv5Yqo44CB5Lyw566X5pe26Ze0IueahOaJp+ihjOWKn+iDve+8jOS4gOebtOmdoOehrOaSkeWcqOaJm+OAggoK56Gs5pKR55qE5Luj5Lu35piv77ya5L2g6ISR5a2Q6YeM5ZCM5pe25oyC552A5Y2B5Yeg5Lu25LqL77yM5q+P5Lu26YO9IuiusOW+l+imgeWBmiLvvIzkvYbmsqHmnInkuIDku7bnnJ/mraPlkK/liqjjgILmiJDkurroh6rmiJHnrqHnkIbnmoTmoLjlv4PkuI3mmK/pgLzoh6rlt7Hmm7Toh6rlvovvvIzogIzmmK8qKuaKiuiusOW/huS7juiEkeWtkOmHjOaQrOWHuuWOuyoq4oCU4oCU5aSn6ISR6LSf6LSj5oOz5LqL77yM5aSW6YOo5bel5YW36LSf6LSj6K6w5LqL44CC6L+Z5ZKM57uZ5a2p5a2Q55So5rWB56iL6KGo5piv5ZCM5LiA5Liq6YGT55CG77ya5Yir6K6pIuiwg+W6puWRmCLkuIDkuKrkurrmiZvmiYDmnInljZXlrZDjgIIKCuaMh+WNl+WvueaIkOS6uiBBREhEIOeahOaWueWQkeWMheaLrO+8muWcqOehruiviuS5i+Wklu+8jOmFjeWQiOe7k+aehOaAp+eahOaXpeW4uOaUr+aMgeS4juiHquaIkeeuoeeQhuetlueVpeOAguS4i+mdoiAzIOS4quW3peWFt+aYr+i/meWll+WBmuazlemHjOacgOWuueaYk+i1t+atpeeahOmDqOWIhu+8jOacieadoeS7tuaOqOiNkO+8jOWxnuS6juWunui3teS4reiiq+W5v+azm+S9v+eUqOOAgeebtOaOpeWvueeFp+eglOeptuivgeaNruaciemZkOeahOWBmuazle+8iOingSBbMV3vvInjgIIKCiMjIOWFt+S9k+aAjuS5iOWBmgoKKirlt6XlhbcgMe+8muS4gOWkhOaUtuWPo+eahOWklumDqOiusOW/huOAgioqCi0g5omA5pyJ5b6F5Yqe44CB5omA5pyJ562U5bqU5Yir5Lq655qE5LqL44CB5omA5pyJ56qB54S25oOz5Yiw55qE5b+15aS077yMKirlj6rov5vlkIzkuIDkuKrlnLDmlrkqKuOAggotIOi/meS4quWcsOaWueWPr+S7peaYr+aJi+acuuWkh+W/mOW9leeahOWQjOS4gOS4qumhtemdou+8jOS5n+WPr+S7peaYr+mXqOWPo+i0tOeahOS4gOW8oOe6uOOAggotIOWFs+mUruS4jeaYr+W3peWFt+WkmumrmOe6p++8jOiAjOaYryoq5Y+q5pyJ5LiA5LiqKirjgILkuKTkuKrlnLDmlrnorrDvvIznrYnkuo7msqHorrDigJTigJTkvaDkuIDlrprkvJrmvI/lhbbkuK3kuIDkuKrjgIIKCioq5bel5YW3IDLvvJrmiorku7vliqHmi4bmiJAi5LiL5LiA5Liq5Yqo5L2cIuOAgioqCi0g5LiN5YaZIuS6pOaIv+ennyIi5pW055CG6LWE5paZIiLogZTns7vlrqLmiLci6L+Z56eN5aSn6K+N44CCCi0g5YaZ5oiQ5L2g546w5Zyo5Z2Q5LiL5bCx6IO95YGa55qE5LiL5LiA5q2l77yaIuaJk+W8gOmTtuihjCBBcHDvvIzovpPlhaXph5Hpop3vvIzngrnnoa7orqQi44CCCi0g5aSn6ISR6Z2i5a+5IuS6pOaIv+ennyLkvJrlg7XkvY/vvIzpnaLlr7ki5omT5byAIEFwcCDngrnnoa7orqQi5Lya55u05o6l5Yqo6LW35p2l44CC5aSn5Lu75Yqh5LmL5omA5Lul5ouW77yM6YCa5bi45piv5Zug5Li65a6D5Zyo5L2g6ISR5a2Q6YeM6L+Y5piv5LiA5Zui44CCCgoqKuW3peWFtyAz77ya5pe26Ze05Y+v6KeG5YyW44CCKioKLSDlgZrkuIDku7bkuI3mg7PlvIDlp4vnmoTkuovml7bvvIzlhYjorr7kuIDkuKogMjAg5YiG6ZKf55qE5Y+v6KeG5YyW6K6h5pe244CCCi0g5ZGK6K+J6Ieq5bex77ya5Y+q5YGaIDIwIOWIhumSn++8jOWTjeS6huWwseWBnOOAggotIOWkp+WkmuaVsOaXtuWAme+8jOS9oOS4gOaXpuW8gOWni++8jOWwseS8mue7p+e7re+8m+Wwseeul+WBnOS6hu+8jOS5n+avlOWujOWFqOayoeWBmuW8uuOAgueci+W+l+ingeeahOi/m+W6pu+8jOavlCLotbbntKflgZrlrowi6L+Z56eN5qih57OK5YKs5L+D566h55So44CCCgojIyMg6KGM5Yqo5a+554Wn6KGo77ya5Y2h5Zyo5ZOq5LiA546v77yM5bCx54Wn6KGo5Yqo5omLCgp8IOS9oOWNoeWcqOWTquS4gOeOryB8IOeUqOWTquS4quW3peWFtyB8IOesrOS4gOS4quWFt+S9k+WKqOS9nCB8IOS7gOS5iOaXtuWAmeWBmiB8CnwtLS18LS0tfC0tLXwtLS18Cnwg6ISR5a2Q6YeM5oyC552A5LiD5YWr5Lu25LqL77yM5LiA5Lu26YO95rKh5ZCv5YqoIHwg5bel5YW3IDHvvJrkuIDlpITmlLblj6MgfCDmjo/lh7rllK/kuIDpgqPmnKwi5pS25Lu25aSEIu+8jOaKiuiEkeWtkOmHjOeahOS6i+WFqOWGmeS4i+adpSB8IOS7iuaZmuedoeWJjSA1IOWIhumSnyB8Cnwg55yL552AIuS6pOaIv+ennyLlj5HlkYbvvIzljYrlsI/ml7bmsqHliqggfCDlt6XlhbcgMu+8muaLhuS4i+S4gOatpSB8IOaKiiLkuqTmiL/np58i5pS55YaZ5oiQIuaJk+W8gCBBcHDvvIzngrnnoa7orqQiIHwg5Z2Q5Zyo5qGM5YmN55qE56ys5LiA5YiG6ZKfIHwKfCDkuIDlnZDkuIvmnaXlsLHmg7PliLfmiYvmnLogfCDlt6XlhbcgM++8muaXtumXtOWPr+inhuWMliB8IOiuviAyMCDliIbpkp/orqHml7blmajvvIzlkYror4noh6rlt7Hlk43kuoblsLHlgZwgfCDlvIDlp4vov5nku7bkuovkuYvliY0gfAp8IOetlOW6lOWIq+S6uueahOS6i+i9rOWktOWwseW/mCB8IOW3peWFtyAx77ya5LiA5aSE5pS25Y+jIHwg5b2T5Zy66K+0IuetieS4gOS4i++8jOaIkeiusOS4gOS4iyLvvIzlhpnov5vlkIzkuIDkuKrlnLDmlrkgfCDnrZTlupTnmoTlvZPkuIvvvIzkuI3mi5YgfAoKIyMjIOWPr+aJk+WNsO+8muS4gOWRqOWklumDqOiusOW/huiQveWcsOihqAoK5omT5Y2w5LiL6KGo77yM6LS05Zyo6Zeo5Y+j5oiW5Yaw566x5LiK77yM5q+P5aSp54Wn552A5aGr77yaCgp8IOaXpeacnyB8IOS7iuWkqeWPquWBmui/mSAzIOS7tuS6i++8iOWGmeaIkOS4i+S4gOatpeWKqOS9nO+8iSB8IOaUtuWPo+S9jee9ru+8iOWPquWGmeWQjOS4gOS4quWcsOaWue+8iSB8IOWujOaIkOaJk+WLviB8CnwtLS18LS0tfC0tLXwtLS18Cnwg5ZGo5LiAIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5LqMIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5LiJIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5ZubIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5LqUIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5YWtIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8Cnwg5ZGo5pelIHwgMS7vvL/vvL8gMi7vvL/vvL8gMy7vvL/vvL8gfCDvvL/vvL8gfCDimJAg4piQIOKYkCB8CgoqKui/meW8oOihqOaAjuS5iOeUqO+8iOavj+WkqSAyIOatpe+8ie+8mioqCjEuICoq5pep5LiKIDMg5YiG6ZKf77yM5aGr5bem5Lik5qC844CCKiog5YaZ5LiL5LuK5aSp5Y+q5YGa6L+ZIDMg5Lu25LqL77yM5q+P5Lu26YO95YaZ5oiQIuWdkOS4i+WwseiDveWKqOeahOS4i+S4gOatpSLjgIIKMi4gKirmmZrkuIogMSDliIbpkp/vvIzmiZPli77jgIIqKiDlgZrlrozkuIDku7bliJLmjonkuIDkuKog4piQ77yb5rKh5YGa5a6M55qE77yM5piO5aSp5Zyo5paw5LiA6KGM6YeN5YaZ5oiQ5LiL5LiA5q2l77yM5LiN6ZqU5aSc57+75pen6LSm44CCCgrnmb3lpKnlhpLlh7rku7vkvZXlv7XlpLTvvIzlj6rloavov5si5pS25Y+j5L2N572uIumCo+S4gOagvOWvueW6lOeahOWcsOaWue+8jOS4jeW8gOesrOS6jOS4quiusOW9leacrOOAggoKIyMjIOe7meS8tOS+oyAvIOWutuS6uueahOS4ieWPpeivnQoK5aaC5p6c5L2g5piv5Zyo5biu6Lqr6L65IuaAu+aYr+W/mOS6huOAgeaLluS6hiLnmoTkurrvvIzkuIvpnaLkuInlj6Xor53lj6/ku6Xnm7TmjqXnhafnnYDlv7XvvIzmr5Tlj43lpI3mj5DphpLmnInnlKjvvJoKCj4gIuS9oOS4jeeUqOiusO+8jOaIkeS7rOS4gOi1t+WGmeWcqOmCo+S4gOWkhOWwseihjOOAgiIKPgo+ICLov5nku7bkuovkuIvkuIDmraXmmK/ku4DkuYjvvJ/miJHku6zmiorlroPlhpnkuIvmnaXjgIIiCj4KPiAi5L2g5LiN5piv5oeS77yM5L2g5piv6Z2g56Gs5pKR5Zyo6K6w44CCIgoKIyMg5LuA5LmI5oOF5Ya15LiL6ZyA6KaB5o2i5LiA56eN5YGa5rOVCgotICoq6K+V5LqG5Lik5ZGo77yM5b+Y5LqL5ZKM5ouW5bu26L+Y5piv5Lil6YeN5b2x5ZON5bel5L2c44CB5Lqy5a+G5YWz57O75oiW5oOF57uqKirvvJrlgLzlvpflgZrkuIDmrKHmraPlvI/or4TkvLDjgILkuIvkuIDmraXvvJpb5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmIXSguLi/kuabnsY1BX+WFrOW8gOefpeivhuW6ky9BMDRf5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmILm1kKeOAggotICoq5ZCM5pe25Ye6546w5oyB57ut55qE5oOF57uq5L2O6JC944CB552h55yg57SK5Lmx44CB5oiW54mp6LSo5rul55So55qE6IuX5aS0KirvvJrov5nkupvopoHkvJjlhYjlpITnkIbvvIzkuI3opoHlj6rpnaDoh6rmiJHnrqHnkIbnoazmiZvjgILkuIvkuIDmraXvvJpb5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmIXSguLi/kuabnsY1BX+WFrOW8gOefpeivhuW6ky9BMDRf5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmILm1kKeOAggotICoq5L2g5oCA55aR6Ieq5bex5pivIEFESETvvIzkvYbkuI3noa7lrprov5nkupvooajnjrDnrpfkuI3nrpcqKu+8muWFiOeci+i/meS4qumXrumimOacrOi6q+aYr+S7gOS5iOOAguS4i+S4gOatpe+8mltBREhEIOaYr+S7gOS5iO+8muS4jeaYr+aHku+8jOS5n+S4jeaYr+S4jeWKquWKm10oLi4v5Lmm57GNQV/lhazlvIDnn6Xor4blupMvQTAxX0FESETmmK/ku4DkuYgt5LiN5piv5oeS5Lmf5LiN5piv5LiN5Yqq5YqbLm1kKeOAggoKIyMg5bi46KeB6K+v5Yy6Cgp8IOivr+WMuiB8IOWunumZhSB8CnwtLS18LS0tfAp8ICLmiJHkuIvovb3kupTkuKrlvoXlip4gQXBw77yM5oC76IO95om+5Yiw5aW955So55qEIiB8IOmXrumimOS4jeWcqCBBcHDvvIzlnKjkuo7kvaDnlKjkuoblpb3lh6DkuKrvvJvmlLblj6PlnKjkuIDlpITmr5Tlt6Xlhbfpq5jnuqfph43opoEgfAp8ICLmiorku7vliqHlhpnkuIvmnaXlsLHnrYnkuo7lgZrlrozkuoYiIHwg5YaZ5LiL5p2l5Y+q5piv56ys5LiA5q2l77yM5YWz6ZSu5piv5oqK5a6D5ouG5oiQ5Z2Q5LiL5bCx6IO95Yqo55qE5LiL5LiA5q2lIHwKfCAi5oiR5bCx5piv5oSP5b+X5Yqb5beu77yM6YC86Ieq5bex5bCx6KGMIiB8IOaEj+W/l+WKm+euoeS4jeS9j+aJp+ihjOWKn+iDve+8m+WklumDqOe7k+aehOavlOehrOaSkeWPr+mdoCB8CnwgIuS8tOS+o+WCrOaIke+8jOaYr+WboOS4uuS7luS4jeebuOS/oeaIkSIgfCDlj43lpI3mj5DphpLlvoDlvoDmmK/lm6DkuLrku5bkuZ/ntK/kuobvvJvmiororrDlv4blpJbpg6jljJbvvIzkuKTkuKrkurrpg73mnb7kuIDlj6PmsJQgfAoKPiDmnKzpobXmj5DkvpvnmoTmmK/mlZnogrLkuI7oh6rmiJHnrqHnkIbkv6Hmga/vvIzkuI3mnoTmiJDor4rmlq3miJbmsrvnlpflu7rorq7jgILmmK/lkKbpnIDopoHov5vkuIDmraXor4TkvLDvvIzor7fkuI7mnInlpITmlrnmnYPnmoTljLvnlJ/miJblhL/nq6Xnsr7npZ7np5Ev5b+D55CG56eR5LiT5Lia5Lq65ZGY6K6o6K6644CCCgojIyDkvp3mja7kuI7lh7rlpIQKClsxXSBOYXRpb25hbCBJbnN0aXR1dGUgZm9yIEhlYWx0aCBhbmQgQ2FyZSBFeGNlbGxlbmNlIChOSUNFKS4gQXR0ZW50aW9uIGRlZmljaXQgaHlwZXJhY3Rpdml0eSBkaXNvcmRlcjogZGlhZ25vc2lzIGFuZCBtYW5hZ2VtZW50IChORzg3KS4gMjAxOO+8iOivpeaMh+WNl+imhuebluWEv+erpeOAgemdkuWwkeW5tOS4juaIkOS6uu+8jOaIkOS6uueahOaXpeW4uOaUr+aMgeW8uuiwg+e7k+aehOaAp+WuieaOkuS4juiHquaIkeeuoeeQhuetlueVpe+8iS4gaHR0cHM6Ly93d3cubmljZS5vcmcudWsvZ3VpZGFuY2Uvbmc4N++8iOiuv+mXruaXpeacnyAyMDI2LTExLTA177yJCgo+IOivtOaYju+8muaMh+WNl+aUr+aMgeeahOaYryLmiJDkurrpnIDopoHnu5PmnoTmgKfml6XluLjmlK/mjIEi6L+Z5LiA5pa55ZCR77yb5pys6aG1IDMg5Liq5YW35L2T5bel5YW35piv5a6e6Le15Lit5bm/5rOb5L2/55So55qE6Ieq5oiR566h55CG5YGa5rOV77yM55u05o6l5a+554Wn56CU56m26K+B5o2u5pyJ6ZmQ44CCCgojIyDkuIvkuIDmnaHlj6/mk43kvZzlu7rorq4KCi0gW0FESEQg5piv5LuA5LmI77ya5LiN5piv5oeS77yM5Lmf5LiN5piv5LiN5Yqq5YqbXSguLi/kuabnsY1BX+WFrOW8gOefpeivhuW6ky9BMDFfQURIROaYr+S7gOS5iC3kuI3mmK/mh5LkuZ/kuI3mmK/kuI3liqrlipsubWQpCi0gW+WwseiviuWJjeimgeWHhuWkh+S7gOS5iF0oLi4v5Lmm57GNQV/lhazlvIDnn6Xor4blupMvQTA0X+WwseiviuWJjeimgeWHhuWkh+S7gOS5iC5tZCkK
+---
+面向: 本人 / 伴侣
+证据状态: 有条件推荐
+最后审核: 2026-11-05
+零用药勾选: 已勾选
+页面类型: C端-书籍B
+书籍: 书籍B_家庭工具与情景案例
+章节: 成人自己
+slug: adult-starter
+---
+
+> **面向**：本人 / 伴侣 ｜ **证据状态**：有条件推荐 ｜ **最后审核**：2026-11-05
+> **本页不含药名、剂量、用药选择、副作用处理、停药减量建议** —— ☑ 已勾选
+
+# 成人 ADHD 自我管理起步：外部化记忆与任务拆分的 3 个工具
+
+## 今天能做的 3 件事
+
+1. **今晚只设一个"收件处"。** 手机备忘录、一张纸、一个口袋本——只用其中一个，所有要记的东西只进这一处。
+2. **把明天最该做的那一件事，写成"下一个动作"。** 不写"整理报告"，写"打开报告文档，先写第一段标题"。
+3. **找一个可视化计时器。** 下一件要专心做的事，用它定时 20 分钟，看得见还剩多久。
+
+## 为什么这样做有效
+
+成年以后才意识到"我总是忘、总是拖、时间总是估错"，往往不是态度问题，而是那套负责"记住、启动、估算时间"的执行功能，一直靠硬撑在扛。
+
+硬撑的代价是：你脑子里同时挂着十几件事，每件都"记得要做"，但没有一件真正启动。成人自我管理的核心不是逼自己更自律，而是**把记忆从脑子里搬出去**——大脑负责想事，外部工具负责记事。这和给孩子用流程表是同一个道理：别让"调度员"一个人扛所有单子。
+
+指南对成人 ADHD 的方向包括：在确诊之外，配合结构性的日常支持与自我管理策略。下面 3 个工具是这套做法里最容易起步的部分，有条件推荐，属于实践中被广泛使用、直接对照研究证据有限的做法（见 [1]）。
+
+## 具体怎么做
+
+**工具 1：一处收口的外部记忆。**
+- 所有待办、所有答应别人的事、所有突然想到的念头，**只进同一个地方**。
+- 这个地方可以是手机备忘录的同一个页面，也可以是门口贴的一张纸。
+- 关键不是工具多高级，而是**只有一个**。两个地方记，等于没记——你一定会漏其中一个。
+
+**工具 2：把任务拆成"下一个动作"。**
+- 不写"交房租""整理资料""联系客户"这种大词。
+- 写成你现在坐下就能做的下一步："打开银行 App，输入金额，点确认"。
+- 大脑面对"交房租"会僵住，面对"打开 App 点确认"会直接动起来。大任务之所以拖，通常是因为它在你脑子里还是一团。
+
+**工具 3：时间可视化。**
+- 做一件不想开始的事时，先设一个 20 分钟的可视化计时。
+- 告诉自己：只做 20 分钟，响了就停。
+- 大多数时候，你一旦开始，就会继续；就算停了，也比完全没做强。看得见的进度，比"赶紧做完"这种模糊催促管用。
+
+### 行动对照表：卡在哪一环，就照表动手
+
+| 你卡在哪一环 | 用哪个工具 | 第一个具体动作 | 什么时候做 |
+|---|---|---|---|
+| 脑子里挂着七八件事，一件都没启动 | 工具 1：一处收口 | 掏出唯一那本"收件处"，把脑子里的事全写下来 | 今晚睡前 5 分钟 |
+| 看着"交房租"发呆，半小时没动 | 工具 2：拆下一步 | 把"交房租"改写成"打开 App，点确认" | 坐在桌前的第一分钟 |
+| 一坐下来就想刷手机 | 工具 3：时间可视化 | 设 20 分钟计时器，告诉自己响了就停 | 开始这件事之前 |
+| 答应别人的事转头就忘 | 工具 1：一处收口 | 当场说"等一下，我记一下"，写进同一个地方 | 答应的当下，不拖 |
+
+### 可打印：一周外部记忆落地表
+
+打印下表，贴在门口或冰箱上，每天照着填：
+
+| 日期 | 今天只做这 3 件事（写成下一步动作） | 收口位置（只写同一个地方） | 完成打勾 |
+|---|---|---|---|
+| 周一 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周二 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周三 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周四 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周五 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周六 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+| 周日 | 1.＿＿ 2.＿＿ 3.＿＿ | ＿＿ | ☐ ☐ ☐ |
+
+**这张表怎么用（每天 2 步）：**
+1. **早上 3 分钟，填左两格。** 写下今天只做这 3 件事，每件都写成"坐下就能动的下一步"。
+2. **晚上 1 分钟，打勾。** 做完一件划掉一个 ☐；没做完的，明天在新一行重写成下一步，不隔夜翻旧账。
+
+白天冒出任何念头，只填进"收口位置"那一格对应的地方，不开第二个记录本。
+
+### 给伴侣 / 家人的三句话
+
+如果你是在帮身边"总是忘了、拖了"的人，下面三句话可以直接照着念，比反复提醒有用：
+
+> "你不用记，我们一起写在那一处就行。"
+>
+> "这件事下一步是什么？我们把它写下来。"
+>
+> "你不是懒，你是靠硬撑在记。"
+
+## 什么情况下需要换一种做法
+
+- **试了两周，忘事和拖延还是严重影响工作、亲密关系或情绪**：值得做一次正式评估。下一步：[就诊前要准备什么](../书籍A_公开知识库/A04_就诊前要准备什么.md)。
+- **同时出现持续的情绪低落、睡眠紊乱、或物质滥用的苗头**：这些要优先处理，不要只靠自我管理硬扛。下一步：[就诊前要准备什么](../书籍A_公开知识库/A04_就诊前要准备什么.md)。
+- **你怀疑自己是 ADHD，但不确定这些表现算不算**：先看这个问题本身是什么。下一步：[ADHD 是什么：不是懒，也不是不努力](../书籍A_公开知识库/A01_ADHD是什么-不是懒也不是不努力.md)。
+
+## 常见误区
+
+| 误区 | 实际 |
+|---|---|
+| "我下载五个待办 App，总能找到好用的" | 问题不在 App，在于你用了好几个；收口在一处比工具高级重要 |
+| "把任务写下来就等于做完了" | 写下来只是第一步，关键是把它拆成坐下就能动的下一步 |
+| "我就是意志力差，逼自己就行" | 意志力管不住执行功能；外部结构比硬撑可靠 |
+| "伴侣催我，是因为他不相信我" | 反复提醒往往是因为他也累了；把记忆外部化，两个人都松一口气 |
+
+> 本页提供的是教育与自我管理信息，不构成诊断或治疗建议。是否需要进一步评估，请与有处方权的医生或儿童精神科/心理科专业人员讨论。
+
+## 依据与出处
+
+[1] National Institute for Health and Care Excellence (NICE). Attention deficit hyperactivity disorder: diagnosis and management (NG87). 2018（该指南覆盖儿童、青少年与成人，成人的日常支持强调结构性安排与自我管理策略）. https://www.nice.org.uk/guidance/ng87（访问日期 2026-11-05）
+
+> 说明：指南支持的是"成人需要结构性日常支持"这一方向；本页 3 个具体工具是实践中广泛使用的自我管理做法，直接对照研究证据有限。
+
+## 下一条可操作建议
+
+- [ADHD 是什么：不是懒，也不是不努力](../书籍A_公开知识库/A01_ADHD是什么-不是懒也不是不努力.md)
+- [就诊前要准备什么](../书籍A_公开知识库/A04_就诊前要准备什么.md)

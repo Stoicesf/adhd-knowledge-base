@@ -1,1 +1,378 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q615YWtIMK3IFA0IOi9qOi/ueWbnuW9kuahhuaetu+8iOacrOWcsOeJiO+8jOmXreeOr++8m+ecn+Wunui9qOi/uemHh+agt+aMgumDqOe9suWQju+8iQoK6K+7IDA1X+WuoeaguOS4jui/kOiQpS9yZWdyZXNzaW9uL2dvbGRlbl90cmFqZWN0b3JpZXMuanNvbmwK4oaSIOmAkCB0dXJuIOeUqCByb3V0ZXIucm91dGUg5Yik5a6a77yI5pC65bimIGFjdGl2ZV9za2lsbCDnirbmgIHlu7bnu63vvIkK4oaSIOS4jiBleHBlY3RlZCDmr5Tlr7kg4oaSIOi9qOi/uee6p+aMh+aghyDihpIg6YCQ5p2h5a+55q+U5oql5ZGKCgrkuKTovajov7nnsbvlnovvvJoKICBjb25mb3JtYW5jZSA6IOacn+acmz3lvZPliY3orr7orqHlpZHnuqbooYzkuLrvvIzkuI3kuIDoh7QgPSDlpLHotKXvvIhDSSDpmLvmlq3vvIkKICBkaWFnbm9zdGljICA6IOacn+acmz3nkIbmg7PooYzkuLrvvIzkuI3kuIDoh7QgPSAqKuivhuWIq+WHuueahOi/h+W6puS7i+WFpS/mkqTpmaTnvLrlj6MqKu+8iOS4jemYu+aWre+8jOiusOW9leWfuue6v++8iQoK5oyH5qCH77yIUDQgwqc0LjLvvIzpmaQgZ3VhcmRyYWlsIOa8j+aUvueOh+eUsSBQMyBndWFyZHJhaWxfdGVzdHMg6KaG55uW77yJ77yaCiAg5pSv5p626LCD55So5YeG56Gu546HIC8g6L+H5pep5LuL5YWl546HIC8g5pKk6Zmk546HIC8g6KeS6Imy5rOE5ryP546HIC8g5oGi5aSN5bu26L+f5Luj55CG5oyH5qCHCgp2MS4xICgyMDI2LTExLTEzKe+8mmV4cGVjdGVkIOaUr+aMgSBzY2FmZm9sZF9sZXZlbCDmlq3oqIDvvIjpmY3nuqfmlK/mnrbvvInjgIIKdjEuMiAoMjAyNi0xMS0xM++8jOmYtuauteS4iemmluaJuea0vueUnynvvJpleHBlY3RlZCDmlK/mjIEgaW5qZWN0ZWRfY29udGFpbnMg5pat6KiA77yMCiAg6K6p6Kej6YeK5oCn5p2h55uu77yI5pegIGNhbGxhYmxl77yJ6L2o6L+56IO957uR5Yiw5YW35L2T5Z2XIGlk77yM6YG/5YWN44CM5pyJ5Lic6KW/5ZG95Lit44CN55qE5YGH6KaG55uW44CCCnYxLjMgKDIwMjYtMTEtMTPvvIzpmLbmrrUgQiDmibnmrKEgMyDCtyBQUk9QLTAwMDUp77ya5pSv5oyBCiAgZW50cnlfdmlhOiAicGFyZW50X2VzY2FsYXRpb24iIOaXgei3r+WIhuaUr+OAguWutumVv+aDhee7quaYr+eLrOeriyBzY2VuYXJpb++8jAogIOi/kOihjOacn+i1sCBzZXJ2ZXIuaGFuZGxlX3BhcmVudF9lc2NhbGF0aW9uKCnvvIwqKuS4jeiwgyByb3V0ZXIucm91dGUoKSoq77ybCiAg5pys5qGG5p6255SoIHJvdXRlci5ldmFsX3ByZWRpY2F0Ze+8iOWQjOa6kOWlkee6pu+8ieebtOaOpei/h+a7pCBwYXJlbnRfZXNjYWxhdGlvbgogIOajgOe0ouWdl++8jOS9v+aWsOi9qOi/ueWPr+WbnuW9ku+8jOWQjOaXtueUqCBfZW50cnlfYnJhbmNoX2d1YXJkKCkg5pat6KiA5pei5pyJIDI1IOadoQogIOi9qOi/ueS4gOW+i+i1sOWOn+WIhuaUr+OAgeihjOS4uumbtuWPmOWMluOAggoiIiIKaW1wb3J0IG9zCmltcG9ydCBzeXMKaW1wb3J0IGpzb24KCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUEFSRU5UID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihIRVJFLCAiLi4iKSkKUk9PVCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oUEFSRU5ULCAiLi4iKSkKc3lzLnBhdGguaW5zZXJ0KDAsIFBBUkVOVCkKc3lzLnBhdGguaW5zZXJ0KDAsIEhFUkUpCgppbXBvcnQgcm91dGVyCgpUUkFKX1BBVEggPSBvcy5wYXRoLmpvaW4oUk9PVCwgIjA1X+WuoeaguOS4jui/kOiQpSIsICJyZWdyZXNzaW9uIiwgImdvbGRlbl90cmFqZWN0b3JpZXMuanNvbmwiKQpSRVBPUlRfUEFUSCA9IG9zLnBhdGguam9pbihST09ULCAiMDVf5a6h5qC45LiO6L+Q6JClIiwgInJlZ3Jlc3Npb24iLCAi5Zue5b2S5oql5ZGKLm1kIikKCkFMTE9XRUQgPSB7ImNoaWxkIjogeyJjaGlsZCIsICJib3RoIn0sICJwYXJlbnQiOiB7InBhcmVudCIsICJib3RoIn19CkVYUEVDVEVEX1ZJQV9UUkFKRUNUT1JJRVMgPSA2CgoKZGVmIF9lc2NhbGF0aW9uX2RlY2lzaW9uKHN0YXRlLCB2aWV3LCBjaHVua3MpOgogICAgIiIiZW50cnlfdmlhPXBhcmVudF9lc2NhbGF0aW9uIOeahOaXgei3r+WIpOWumu+8iHYxLjPvvInjgIIKCiAgICDlpI3nlKggcm91dGVyLmV2YWxfcHJlZGljYXRl77yIPSBidWlsZCA9IF9jb21tb24g5ZCM5LiA5a+56LGh77yJ77yM5LiN5Y+m5YaZ5p2h5Lu2CiAgICDliKTmlq3vvIzkuZ/kuI0gaW1wb3J0IDA5X+WutumVv+err+W3peWFty8g55qEIHNlcnZlcu+8jOmBv+WFjee8luivkeeuoee6v+WPjeWQkeS+nei1luW3peWFt+WxguOAggogICAg6L+U5Zue5LiOIHJvdXRlci5fZGVjaXNpb24g5ZCM57uT5p6E55qEIGRpY3TvvIzkvb8gX21hdGNoKCkg55qE5pei5pyJ5pat6KiA5YWo6YOo5Y+v55So44CCCiAgICAiIiIKICAgIGFsbG93ZWQgPSBBTExPV0VEW3ZpZXddCiAgICBoaXRzID0gW10KICAgIGZvciBjIGluIGNodW5rczoKICAgICAgICBpZiBjLmdldCgiYXVkaWVuY2UiKSBub3QgaW4gYWxsb3dlZDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBpZiBjLmdldCgic2NlbmFyaW8iKSAhPSAicGFyZW50X2VzY2FsYXRpb24iOgogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGNvbmQgPSBjLmdldCgid2hlbiIpIG9yIHt9CiAgICAgICAgaWYgY29uZCBhbmQgcm91dGVyLmV2YWxfcHJlZGljYXRlKGNvbmQsIHN0YXRlKToKICAgICAgICAgICAgaGl0cy5hcHBlbmQoY1siaWQiXSkKICAgIHJldHVybiB7CiAgICAgICAgInJvdXRlIjogInJldHJpZXZlIiBpZiBoaXRzIGVsc2UgIm5vbmUiLAogICAgICAgICJ2aWV3IjogdmlldywKICAgICAgICAic3RhdGUiOiBkaWN0KHN0YXRlKSwKICAgICAgICAic2tpbGwiOiBOb25lLAogICAgICAgICJpbmplY3RlZF9jaHVua3MiOiBoaXRzLAogICAgICAgICJyZXRyaWV2YWxfc2lsZW50Ijogbm90IGhpdHMsCiAgICAgICAgInNjYWZmb2xkX2xldmVsIjogTm9uZSwKICAgICAgICAicmVhc29uIjogKCJlbnRyeV92aWE9cGFyZW50X2VzY2FsYXRpb27vvJrnu5PmnoTljJbosJPor43ov4fmu6Tlkb3kuK3mo4DntKLlnZciCiAgICAgICAgICAgICAgICAgICAi77yI5peB6Lev77yM5LiN6LCDIHJvdXRlci5yb3V0Ze+8iSIgaWYgaGl0cyBlbHNlCiAgICAgICAgICAgICAgICAgICAiZW50cnlfdmlhPXBhcmVudF9lc2NhbGF0aW9u77ya5peg5ZG95Lit77yM5pi+5byP5peg5pSv5p62IiksCiAgICB9CgoKZGVmIF9lbnRyeV9icmFuY2hfZ3VhcmQodHJhamVjdG9yaWVzKToKICAgICIiIuWPr+ivgeS8quaWreiogO+8muaXgei3r+WIhuaUr+S4jeW+l+axoeafk+aXouaciSAyNSDmnaHovajov7nvvIh2MS4z77yJ44CCCgogICAg6L+U5Zue6ZSZ6K+v5YiX6KGo77yM5bm25YWlIGV2YWx1YXRlKCkuZXJyb3Jz77yb5LiN5piv6Z2Z6buY6Lez6L+H44CCCiAgICAiIiIKICAgIGVycnMgPSBbXQogICAgdmlhID0gW3RyIGZvciB0ciBpbiB0cmFqZWN0b3JpZXMgaWYgdHIuZ2V0KCJlbnRyeV92aWEiKV0KICAgIHJlc3QgPSBbdHIgZm9yIHRyIGluIHRyYWplY3RvcmllcyBpZiBub3QgdHIuZ2V0KCJlbnRyeV92aWEiKV0KICAgIGlmIGxlbih2aWEpICE9IEVYUEVDVEVEX1ZJQV9UUkFKRUNUT1JJRVM6CiAgICAgICAgZXJycy5hcHBlbmQoZiJbZW50cnlfdmlhIOWuiOWNq10g5peB6Lev6L2o6L+55bqU5Li6IHtFWFBFQ1RFRF9WSUFfVFJBSkVDVE9SSUVTfSDmnaHvvIzlrp7pmYUge2xlbih2aWEpfSIpCiAgICBmb3IgdHIgaW4gdmlhOgogICAgICAgIHRpZCA9IHRyLmdldCgidHJhamVjdG9yeV9pZCIsICI/IikKICAgICAgICBpZiB0ci5nZXQoImVudHJ5X3ZpYSIpICE9ICJwYXJlbnRfZXNjYWxhdGlvbiI6CiAgICAgICAgICAgIGVycnMuYXBwZW5kKGYiW3t0aWR9XSDmnKrnn6UgZW50cnlfdmlhPXt0ci5nZXQoJ2VudHJ5X3ZpYScpfSIpCiAgICAgICAgaWYgdHIuZ2V0KCJzY2VuYXJpbyIpICE9ICJwYXJlbnRfZXNjYWxhdGlvbiI6CiAgICAgICAgICAgIGVycnMuYXBwZW5kKGYiW3t0aWR9XSDml4Hot6/ovajov7kgc2NlbmFyaW8g5b+F6aG75pivIHBhcmVudF9lc2NhbGF0aW9uIikKICAgICAgICBpZiB0ci5nZXQoInZpZXciKSAhPSAicGFyZW50IjoKICAgICAgICAgICAgZXJycy5hcHBlbmQoZiJbe3RpZH1dIOaXgei3r+i9qOi/uSB2aWV3IOW/hemhu+aYryBwYXJlbnTvvIjlrrbplb/oh6rmlZHkuI3ov5vlhL/nq6Xop4blm77vvIkiKQogICAgICAgIGlmIHRyLmdldCgidHlwZSIpICE9ICJjb25mb3JtYW5jZSI6CiAgICAgICAgICAgIGVycnMuYXBwZW5kKGYiW3t0aWR9XSDml4Hot6/ovajov7nlv4XpobvmmK8gY29uZm9ybWFuY2UiKQogICAgcG9sbHV0ZWQgPSBbdHIuZ2V0KCJ0cmFqZWN0b3J5X2lkIikgZm9yIHRyIGluIHJlc3QKICAgICAgICAgICAgICAgIGlmIHRyLmdldCgic2NlbmFyaW8iKSA9PSAicGFyZW50X2VzY2FsYXRpb24iXQogICAgaWYgcG9sbHV0ZWQ6CiAgICAgICAgZXJycy5hcHBlbmQoZiJbZW50cnlfdmlhIOWuiOWNq10g6Z2e5peB6Lev6L2o6L+55Y205L2/55SoIHBhcmVudF9lc2NhbGF0aW9u77yae3BvbGx1dGVkfSIpCiAgICAjIOaXouaciSAyNSDmnaHkuIDlvovotbAgcm91dGVyLnJvdXRlIOWOn+WIhuaUr++8m+aVsOmHj+S4i+mZjeWNs+ivtOaYjuaXouaciei9qOi/ueiiq+ivr+WIoAogICAgaWYgbGVuKHJlc3QpICE9IDI1OgogICAgICAgIGVycnMuYXBwZW5kKGYiW2VudHJ5X3ZpYSDlrojljatdIOaXouaciei9qOi/ueW6lOS4uiAyNSDmnaHvvIzlrp7pmYUge2xlbihyZXN0KX0iKQogICAgcmV0dXJuIGVycnMKCgpkZWYgX2xvYWQoKToKICAgIHdpdGggb3BlbihUUkFKX1BBVEgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgcmV0dXJuIFtqc29uLmxvYWRzKGwpIGZvciBsIGluIGYgaWYgbC5zdHJpcCgpXQoKCmRlZiBfbWF0Y2goZXhwZWN0ZWQsIGRlY2lzaW9uKToKICAgICIiIui/lOWbniAo5piv5ZCm5LiA6Ie0LCDlt67lvILor7TmmI7liJfooagp44CCIiIiCiAgICBkaWZmID0gW10KICAgIGlmICJyb3V0ZSIgaW4gZXhwZWN0ZWQgYW5kIGRlY2lzaW9uWyJyb3V0ZSJdICE9IGV4cGVjdGVkWyJyb3V0ZSJdOgogICAgICAgIGRpZmYuYXBwZW5kKGYicm91dGUg5pyf5pybIHtleHBlY3RlZFsncm91dGUnXX0g4omgIOWunumZhSB7ZGVjaXNpb25bJ3JvdXRlJ119IikKICAgIGlmICJza2lsbCIgaW4gZXhwZWN0ZWQgYW5kIGRlY2lzaW9uWyJza2lsbCJdICE9IGV4cGVjdGVkWyJza2lsbCJdOgogICAgICAgIGRpZmYuYXBwZW5kKGYic2tpbGwg5pyf5pybIHtleHBlY3RlZFsnc2tpbGwnXX0g4omgIOWunumZhSB7ZGVjaXNpb25bJ3NraWxsJ119IikKICAgIGlmICJyZWFzb25fY29udGFpbnMiIGluIGV4cGVjdGVkIGFuZCBleHBlY3RlZFsicmVhc29uX2NvbnRhaW5zIl0gbm90IGluIGRlY2lzaW9uWyJyZWFzb24iXToKICAgICAgICBkaWZmLmFwcGVuZChmInJlYXNvbiDlupTlkKsgJ3tleHBlY3RlZFsncmVhc29uX2NvbnRhaW5zJ119J++8jOWunumZhSAne2RlY2lzaW9uWydyZWFzb24nXX0nIikKICAgIGlmIGV4cGVjdGVkLmdldCgic2tpbGxfaXNfbm9uZSIpIGFuZCBkZWNpc2lvblsic2tpbGwiXSBpcyBub3QgTm9uZToKICAgICAgICBkaWZmLmFwcGVuZChmIuW6lOaXoCBza2lsbO+8jOWunumZhSB7ZGVjaXNpb25bJ3NraWxsJ119IikKICAgIGlmIGV4cGVjdGVkLmdldCgiaW5qZWN0ZWRfbm90X2VtcHR5IikgYW5kIG5vdCBkZWNpc2lvblsiaW5qZWN0ZWRfY2h1bmtzIl06CiAgICAgICAgZGlmZi5hcHBlbmQoIuW6lOazqOWFpeajgOe0ouWdl++8jOWunumZheS4uuepuiIpCiAgICAjIHYxLjLvvIjpmLbmrrXkuInpppbmibnmtL7nlJ/vvInvvJrop6Pph4rmgKfmnaHnm67ml6AgY2FsbGFibGXvvIzovajov7nlv4Xpobvog73nu5HliLDlhbfkvZPlnZcgaWTvvIwKICAgICMg5ZCm5YiZ5Y+q5pat6KiA44CM5pyJ5Lic6KW/5ZG95Lit44CN562J5LqO5rKh6KaG55uW5paw5p2h55uu44CCYWRkZWQgYnkgUFJPUC0wMDAzIOaJueasoeOAggogICAgaWYgKCJpbmplY3RlZF9jb250YWlucyIgaW4gZXhwZWN0ZWQKICAgICAgICAgICAgYW5kIGV4cGVjdGVkWyJpbmplY3RlZF9jb250YWlucyJdIG5vdCBpbiBkZWNpc2lvblsiaW5qZWN0ZWRfY2h1bmtzIl0pOgogICAgICAgIGRpZmYuYXBwZW5kKGYi5bqU5rOo5YWl5qOA57Si5Z2XIHtleHBlY3RlZFsnaW5qZWN0ZWRfY29udGFpbnMnXX3vvIwiCiAgICAgICAgICAgICAgICAgICAgZiLlrp7pmYUge2RlY2lzaW9uWydpbmplY3RlZF9jaHVua3MnXX0iKQogICAgaWYgZXhwZWN0ZWQuZ2V0KCJpbmplY3RlZF9lbXB0eSIpIGFuZCBkZWNpc2lvblsiaW5qZWN0ZWRfY2h1bmtzIl06CiAgICAgICAgZGlmZi5hcHBlbmQoZiLms6jlhaXpgJrpgZPlupTpnZnpu5jvvIzlrp7pmYUge2RlY2lzaW9uWydpbmplY3RlZF9jaHVua3MnXX0iKQogICAgIyB2MS4x77ya6ZmN57qn5pSv5p625by65bqm5pat6KiA77yI55So5oi3IDIwMjYtMTEtMTMg6KOB5YazIEQyIOi1sOmZjee6p+ivreS5ie+8iQogICAgaWYgInNjYWZmb2xkX2xldmVsIiBpbiBleHBlY3RlZCBhbmQgZGVjaXNpb24uZ2V0KCJzY2FmZm9sZF9sZXZlbCIpICE9IGV4cGVjdGVkWyJzY2FmZm9sZF9sZXZlbCJdOgogICAgICAgIGRpZmYuYXBwZW5kKGYic2NhZmZvbGRfbGV2ZWwg5pyf5pybIHtleHBlY3RlZFsnc2NhZmZvbGRfbGV2ZWwnXX0g4omgIOWunumZhSB7ZGVjaXNpb24uZ2V0KCdzY2FmZm9sZF9sZXZlbCcpfSIpCiAgICByZXR1cm4gKGxlbihkaWZmKSA9PSAwLCBkaWZmKQoKCmRlZiBldmFsdWF0ZSgpOgogICAgdHJhamVjdG9yaWVzID0gX2xvYWQoKQogICAgc2tpbGxzLCBjaHVua3MgPSByb3V0ZXIubG9hZF9hcnRpZmFjdHMoKQogICAgY2h1bmtfYXVkID0ge2NbImlkIl06IGNbImF1ZGllbmNlIl0gZm9yIGMgaW4gY2h1bmtzfQogICAgc2tpbGxfYXVkID0ge3NbIm5hbWUiXTogc1siYXVkaWVuY2UiXSBmb3IgcyBpbiBza2lsbHN9CgogICAgcmVjb3JkcyA9IFtdCiAgICBlcnJvcnMgPSBbXQogICAgY2hlY2tlZCA9IDAKCiAgICAjIHYxLjPvvJrml4Hot6/liIbmlK/lrojljavvvIjlpLHotKXljbPpmLvmlq3vvIzlj6/or4HkvKrvvIzkuI3mmK/pnZnpu5jot7Pov4fvvIkKICAgIGVycm9ycy5leHRlbmQoX2VudHJ5X2JyYW5jaF9ndWFyZCh0cmFqZWN0b3JpZXMpKQoKICAgICMg5oyH5qCH57Sv5Yqg5ZmoCiAgICBtID0gewogICAgICAgICJ0dXJucyI6IDAsICJjb25mX3R1cm5zIjogMCwgImNvbmZfcGFzcyI6IDAsCiAgICAgICAgInNraWxsX2V4cGVjdGVkIjogMCwgInNraWxsX2NvcnJlY3QiOiAwLAogICAgICAgICJleGl0X2V4cGVjdGVkIjogMCwgImV4aXRfY29ycmVjdCI6IDAsCiAgICAgICAgImluZGVwZW5kZW50X3R1cm5zIjogMCwgInByZW1hdHVyZSI6IDAsCiAgICAgICAgInJvbGVfbGVhayI6IDAsICJkcmlmdF90b19yZWNvdmVyeSI6IFtdLAogICAgICAgICJkaWFnbm9zdGljIjogW10sCiAgICB9CgogICAgZm9yIHRyIGluIHRyYWplY3RvcmllczoKICAgICAgICB2aWV3ID0gdHJbInZpZXciXQogICAgICAgIGFsbG93ZWQgPSBBTExPV0VEW3ZpZXddCiAgICAgICAgYWN0aXZlX3NraWxsID0gTm9uZQogICAgICAgIHR1cm5zX3JlYyA9IFtdCiAgICAgICAgZHJpZnRfdHVybiA9IE5vbmUKCiAgICAgICAgZm9yIHQgaW4gdHJbInR1cm5zIl06CiAgICAgICAgICAgIGNoZWNrZWQgKz0gMQogICAgICAgICAgICBtWyJ0dXJucyJdICs9IDEKICAgICAgICAgICAgc3RhdGUgPSB0WyJzdGF0ZSJdCiAgICAgICAgICAgICMgdjEuM++8muWutumVv+aDhee7qui1sOaXgei3r++8m+WFtuS9mSAyNSDmnaHovajov7nku40gMTAwJSDotbAgcm91dGVyLnJvdXRlKCkKICAgICAgICAgICAgaWYgdHIuZ2V0KCJlbnRyeV92aWEiKSA9PSAicGFyZW50X2VzY2FsYXRpb24iOgogICAgICAgICAgICAgICAgZCA9IF9lc2NhbGF0aW9uX2RlY2lzaW9uKHN0YXRlLCB2aWV3LCBjaHVua3MpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBkID0gcm91dGVyLnJvdXRlKHN0YXRlLCB2aWV3LCB0ci5nZXQoInNjZW5hcmlvIiksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIGFjdGl2ZV9za2lsbD1hY3RpdmVfc2tpbGwsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHNraWxscz1za2lsbHMsIGNodW5rcz1jaHVua3MpCiAgICAgICAgICAgIG9rLCBkaWZmID0gX21hdGNoKHRbImV4cGVjdGVkIl0sIGQpCgogICAgICAgICAgICAjIOinkuiJsuazhOa8j++8iOWFqCB0dXJuIOaXoOW3ruWIq+ajgOafpe+8jOWQqyBkaWFnbm9zdGlj77yJCiAgICAgICAgICAgIGxlYWtlZCA9IFtjaWQgZm9yIGNpZCBpbiBkWyJpbmplY3RlZF9jaHVua3MiXQogICAgICAgICAgICAgICAgICAgICAgaWYgY2h1bmtfYXVkLmdldChjaWQpIG5vdCBpbiBhbGxvd2VkXQogICAgICAgICAgICBpZiBkWyJza2lsbCJdIGFuZCBza2lsbF9hdWQuZ2V0KGRbInNraWxsIl0pIG5vdCBpbiBhbGxvd2VkOgogICAgICAgICAgICAgICAgbGVha2VkLmFwcGVuZChmInNraWxsOntkWydza2lsbCddfSIpCiAgICAgICAgICAgIG1bInJvbGVfbGVhayJdICs9IGxlbihsZWFrZWQpCgogICAgICAgICAgICAjIOaUr+aetuiwg+eUqOWHhuehrueOhwogICAgICAgICAgICBpZiB0WyJleHBlY3RlZCJdLmdldCgicm91dGUiKSA9PSAic2tpbGwiOgogICAgICAgICAgICAgICAgbVsic2tpbGxfZXhwZWN0ZWQiXSArPSAxCiAgICAgICAgICAgICAgICBpZiBvazoKICAgICAgICAgICAgICAgICAgICBtWyJza2lsbF9jb3JyZWN0Il0gKz0gMQogICAgICAgICAgICAjIOaSpOmZpOeOhwogICAgICAgICAgICBpZiAiZXhpdF93aGVuIiBpbiBzdHIodFsiZXhwZWN0ZWQiXS5nZXQoInJlYXNvbl9jb250YWlucyIsICIiKSk6CiAgICAgICAgICAgICAgICBtWyJleGl0X2V4cGVjdGVkIl0gKz0gMQogICAgICAgICAgICAgICAgaWYgZFsicm91dGUiXSA9PSAibm9uZSIgYW5kICJleGl0X3doZW4iIGluIGRbInJlYXNvbiJdOgogICAgICAgICAgICAgICAgICAgIG1bImV4aXRfY29ycmVjdCJdICs9IDEKICAgICAgICAgICAgIyDov4fml6nku4vlhaXnjofvvJrlranlrZDku43lj6/ni6znq4vmjqjov5vvvIhvbi10YXNrIC8g6L+e57ut5oiQ5Yqf4omlMiAvIOaXoOWksei0pe+8ieWNtOazqOWFpeaUr+aetgogICAgICAgICAgICBpbmRlcGVuZGVudCA9IChzdGF0ZS5nZXQoImF0dGVudGlvbl9zdGF0ZSIpID09ICJvbi10YXNrIgogICAgICAgICAgICAgICAgICAgICAgICAgICBhbmQgc3RhdGUuZ2V0KCJjb25zZWN1dGl2ZV9zdWNjZXNzZXMiLCAwKSA+PSAyCiAgICAgICAgICAgICAgICAgICAgICAgICAgIGFuZCBzdGF0ZS5nZXQoImNvbnNlY3V0aXZlX2ZhaWx1cmVzIiwgMCkgPT0gMCkKICAgICAgICAgICAgaWYgaW5kZXBlbmRlbnQ6CiAgICAgICAgICAgICAgICBtWyJpbmRlcGVuZGVudF90dXJucyJdICs9IDEKICAgICAgICAgICAgICAgIGlmIGRbInJvdXRlIl0gIT0gIm5vbmUiOgogICAgICAgICAgICAgICAgICAgIG1bInByZW1hdHVyZSJdICs9IDEKICAgICAgICAgICAgIyDmgaLlpI3lu7bov5/ku6PnkIbvvJpkcmlmdCDihpIgb24tdGFzay9yZS1lbnRyeSDnmoTova7mrKHlt64KICAgICAgICAgICAgaWYgc3RhdGUuZ2V0KCJhdHRlbnRpb25fc3RhdGUiKSA9PSAiZHJpZnQiIGFuZCBkcmlmdF90dXJuIGlzIE5vbmU6CiAgICAgICAgICAgICAgICBkcmlmdF90dXJuID0gdFsidHVybiJdCiAgICAgICAgICAgIGlmIGRyaWZ0X3R1cm4gaXMgbm90IE5vbmUgYW5kIHN0YXRlLmdldCgiYXR0ZW50aW9uX3N0YXRlIikgaW4gKCJvbi10YXNrIiwgInJlLWVudHJ5Iik6CiAgICAgICAgICAgICAgICBtWyJkcmlmdF90b19yZWNvdmVyeSJdLmFwcGVuZCh0WyJ0dXJuIl0gLSBkcmlmdF90dXJuKQogICAgICAgICAgICAgICAgZHJpZnRfdHVybiA9IE5vbmUKCiAgICAgICAgICAgIGlmIHRyWyJ0eXBlIl0gPT0gImNvbmZvcm1hbmNlIjoKICAgICAgICAgICAgICAgIG1bImNvbmZfdHVybnMiXSArPSAxCiAgICAgICAgICAgICAgICBpZiBvazoKICAgICAgICAgICAgICAgICAgICBtWyJjb25mX3Bhc3MiXSArPSAxCiAgICAgICAgICAgICAgICBlbHNlOgogICAgICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJbe3RyWyd0cmFqZWN0b3J5X2lkJ119XSB0dXJue3RbJ3R1cm4nXX06ICIgKyAiOyAiLmpvaW4oZGlmZikpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBpZiBub3Qgb2s6CiAgICAgICAgICAgICAgICAgICAgbVsiZGlhZ25vc3RpYyJdLmFwcGVuZCh7CiAgICAgICAgICAgICAgICAgICAgICAgICJpZCI6IHRyWyJ0cmFqZWN0b3J5X2lkIl0sICJ0dXJuIjogdFsidHVybiJdLAogICAgICAgICAgICAgICAgICAgICAgICAibm90ZSI6IHRyLmdldCgibm90ZSIsICIiKSwKICAgICAgICAgICAgICAgICAgICAgICAgImV4cGVjdGVkIjogdFsiZXhwZWN0ZWQiXSwgImFjdHVhbF9yb3V0ZSI6IGRbInJvdXRlIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICJhY3R1YWxfcmVhc29uIjogZFsicmVhc29uIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICJhY3R1YWxfaW5qZWN0ZWQiOiBkWyJpbmplY3RlZF9jaHVua3MiXSwgImRpZmYiOiBkaWZmLAogICAgICAgICAgICAgICAgICAgIH0pCgogICAgICAgICAgICAjIGFjdGl2ZV9za2lsbCDnirbmgIHlu7bnu63vvJrlkb3kuK0gc2tpbGwg5YiZ5r+A5rS777yb5pKk6Zmk5YiZ5riF56m6CiAgICAgICAgICAgIGlmIGRbInJvdXRlIl0gPT0gInNraWxsIiBhbmQgZFsic2tpbGwiXToKICAgICAgICAgICAgICAgIGFjdGl2ZV9za2lsbCA9IGRbInNraWxsIl0KICAgICAgICAgICAgZWxpZiBkWyJyb3V0ZSJdID09ICJub25lIiBhbmQgImV4aXRfd2hlbiIgaW4gZFsicmVhc29uIl06CiAgICAgICAgICAgICAgICBhY3RpdmVfc2tpbGwgPSBOb25lCgogICAgICAgICAgICB0dXJuc19yZWMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICJ0dXJuIjogdFsidHVybiJdLCAib2siOiBvaywgImRpZmYiOiBkaWZmLAogICAgICAgICAgICAgICAgImV4cGVjdGVkX3JvdXRlIjogdFsiZXhwZWN0ZWQiXS5nZXQoInJvdXRlIiwgIuKAlCIpLAogICAgICAgICAgICAgICAgInJvdXRlIjogZFsicm91dGUiXSwgInNraWxsIjogZFsic2tpbGwiXSwKICAgICAgICAgICAgICAgICJzY2FmZm9sZF9sZXZlbCI6IGQuZ2V0KCJzY2FmZm9sZF9sZXZlbCIpLAogICAgICAgICAgICAgICAgImluamVjdGVkIjogZFsiaW5qZWN0ZWRfY2h1bmtzIl0sICJyZWFzb24iOiBkWyJyZWFzb24iXSwKICAgICAgICAgICAgICAgICJyZWFzb25fYXNzZXJ0IjogdFsiZXhwZWN0ZWQiXS5nZXQoInJlYXNvbl9jb250YWlucyIpLAogICAgICAgICAgICAgICAgImxlYWtlZCI6IGxlYWtlZCwKICAgICAgICAgICAgfSkKCiAgICAgICAgcmVjb3Jkcy5hcHBlbmQoeyoqe2s6IHRyW2tdIGZvciBrIGluICgidHJhamVjdG9yeV9pZCIsICJ0eXBlIiwgInZpZXciLCAic2NlbmFyaW8iLCAibm90ZSIpfSwKICAgICAgICAgICAgICAgICAgICAgICAgInR1cm5zIjogdHVybnNfcmVjfSkKCiAgICBjb25mX24gPSBzdW0oMSBmb3IgdCBpbiB0cmFqZWN0b3JpZXMgaWYgdFsidHlwZSJdID09ICJjb25mb3JtYW5jZSIpCiAgICBkaWFnX24gPSBsZW4odHJhamVjdG9yaWVzKSAtIGNvbmZfbgogICAgbWV0cmljcyA9IHsKICAgICAgICAidHJhamVjdG9yeV9jb3VudCI6IGxlbih0cmFqZWN0b3JpZXMpLAogICAgICAgICJjb25mb3JtYW5jZV9jb3VudCI6IGNvbmZfbiwKICAgICAgICAiZGlhZ25vc3RpY19jb3VudCI6IGRpYWdfbiwKICAgICAgICAiY29uZm9ybWFuY2VfdHVybnMiOiBtWyJjb25mX3R1cm5zIl0sCiAgICAgICAgImNvbmZvcm1hbmNlX3Bhc3MiOiBtWyJjb25mX3Bhc3MiXSwKICAgICAgICAiY29uZm9ybWFuY2VfcGFzc19yYXRlIjogKG1bImNvbmZfcGFzcyJdIC8gbVsiY29uZl90dXJucyJdIGlmIG1bImNvbmZfdHVybnMiXSBlbHNlIDApLAogICAgICAgICJza2lsbF9jYWxsX2FjY3VyYWN5IjogKG1bInNraWxsX2NvcnJlY3QiXSAvIG1bInNraWxsX2V4cGVjdGVkIl0gaWYgbVsic2tpbGxfZXhwZWN0ZWQiXSBlbHNlIE5vbmUpLAogICAgICAgICJ3aXRoZHJhd2FsX3JhdGUiOiAobVsiZXhpdF9jb3JyZWN0Il0gLyBtWyJleGl0X2V4cGVjdGVkIl0gaWYgbVsiZXhpdF9leHBlY3RlZCJdIGVsc2UgTm9uZSksCiAgICAgICAgInByZW1hdHVyZV9pbnRlcnZlbnRpb24iOiBmInttWydwcmVtYXR1cmUnXX0ve21bJ2luZGVwZW5kZW50X3R1cm5zJ119IiwKICAgICAgICAicm9sZV9sZWFrX2NvdW50IjogbVsicm9sZV9sZWFrIl0sCiAgICAgICAgInJlY292ZXJ5X2xhZ19hdmciOiAoc3VtKG1bImRyaWZ0X3RvX3JlY292ZXJ5Il0pIC8gbGVuKG1bImRyaWZ0X3RvX3JlY292ZXJ5Il0pCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaWYgbVsiZHJpZnRfdG9fcmVjb3ZlcnkiXSBlbHNlIE5vbmUpLAogICAgICAgICJkaWFnbm9zdGljX2lkZW50aWZpZWQiOiBsZW4obVsiZGlhZ25vc3RpYyJdKSwKICAgIH0KICAgIHJldHVybiB7Im9rIjogbGVuKGVycm9ycykgPT0gMCwgImVycm9ycyI6IGVycm9ycywgImNoZWNrZWQiOiBjaGVja2VkLAogICAgICAgICAgICAicmVjb3JkcyI6IHJlY29yZHMsICJtZXRyaWNzIjogbWV0cmljcywgImRpYWdub3N0aWMiOiBtWyJkaWFnbm9zdGljIl19CgoKZGVmIHdyaXRlX3JlcG9ydChyZXN1bHQsIHBhdGg9UkVQT1JUX1BBVEgpOgogICAgciA9IHJlc3VsdAogICAgbXRyID0gclsibWV0cmljcyJdCiAgICBMID0gW10KICAgIEwuYXBwZW5kKCIjIOmYtuauteWFrSDCtyBQNCDovajov7nlm57lvZLmiqXlkYrvvIjmnKzlnLDniYjvvIlcbiIpCiAgICBMLmFwcGVuZCgiPiDov5DooYzmlrnlvI/vvJpgRTovQU5BQ09OREEvcHl0aG9uLmV4ZSAwM19hZ2VudOe8luivkS92YWxpZGF0b3JzL3JlZ3Jlc3Npb24ucHlgXG4iKQogICAgTC5hcHBlbmQoZiI+IOi+k+WFpe+8mmBnb2xkZW5fdHJhamVjdG9yaWVzLmpzb25sYO+8iHttdHJbJ3RyYWplY3RvcnlfY291bnQnXX0g5p2hID0gIgogICAgICAgICAgICAgZiJ7bXRyWydjb25mb3JtYW5jZV9jb3VudCddfSBjb25mb3JtYW5jZSArIHttdHJbJ2RpYWdub3N0aWNfY291bnQnXX0gZGlhZ25vc3RpY++8iVxuIikKICAgIEwuYXBwZW5kKCI+IOWIpOWumuWZqO+8mmAwM19hZ2VudOe8luivkS9yb3V0ZXIucHlg77yI5aSN55SoIGJ1aWxkLnB5IOWQjOS4gOiwk+ivjeaxguWAvOWHveaVsO+8iVxuIikKICAgIEwuYXBwZW5kKCI+IOi+ueeVjO+8muacrOahhuaetuS4uuacrOWcsOmXreeOr++8myoq55yf5a6eIGFnZW50IOi9qOi/uemHh+agt+aMgumDqOe9suWQjioq44CCXG4iKQogICAgTC5hcHBlbmQoIj4gdjEuM++8iOmYtuautSBCIOaJueasoSAz77yJ77yaYGVudHJ5X3ZpYTogcGFyZW50X2VzY2FsYXRpb25gIOeahCA2IOadoei9qOi/uei1sCIKICAgICAgICAgICAgICLml4Hot6/liKTlrprvvIjlpI3nlKggcm91dGVyLmV2YWxfcHJlZGljYXRl77yM5LiN6LCDIHJvdXRlci5yb3V0Ze+8ie+8myIKICAgICAgICAgICAgICLml6LmnIkgMjUg5p2h5LiA5b6L6LWw5Y6f5YiG5pSv77yMYF9lbnRyeV9icmFuY2hfZ3VhcmQoKWAg6YCQ5p2h5pat6KiA77yM5aSx6LSl5Y2z6Zi75pat44CCXG4iKQogICAgTC5hcHBlbmQoIlxuIyMg5LiA44CB5Z+657q/5oyH5qCH77yI5Y+v5aSN546w77yM5LiN6KaB5rGC56ys5LiA54mI6L6+5qCH77yJXG4iKQogICAgTC5hcHBlbmQoInwg5oyH5qCHIHwg5pys6L2u5Z+657q/IHwg55uu5qCH5pa55ZCRIHwiKQogICAgTC5hcHBlbmQoInwtLS18LS0tfC0tLXwiKQogICAgTC5hcHBlbmQoZiJ8IOi9qOi/ueaVsCB8IHttdHJbJ3RyYWplY3RvcnlfY291bnQnXX3vvIh7bXRyWydjb25mb3JtYW5jZV9jb3VudCddfSBjb25mb3JtYW5jZSArICIKICAgICAgICAgICAgIGYie210clsnZGlhZ25vc3RpY19jb3VudCddfSBkaWFnbm9zdGlj77yJIHwg4omlMTUg6LW35q2l77yM5paw5aKe5p2l5rqQ5om55qyh5ZCO6YCS5aKeIOKckyB8IikKICAgIEwuYXBwZW5kKGYifCBjb25mb3JtYW5jZSDpgJrov4fnjocgfCB7bXRyWydjb25mb3JtYW5jZV9wYXNzJ119L3ttdHJbJ2NvbmZvcm1hbmNlX3R1cm5zJ119ICIKICAgICAgICAgICAgIGYiKHttdHJbJ2NvbmZvcm1hbmNlX3Bhc3NfcmF0ZSddKjEwMDouMWZ9JSkgfCDihpEgfCIpCiAgICBhY2MgPSBtdHJbInNraWxsX2NhbGxfYWNjdXJhY3kiXQogICAgYWNjX3MgPSBmInthY2MqMTAwOi4xZn0lIiBpZiBhY2MgaXMgbm90IE5vbmUgZWxzZSAiTi9BIgogICAgTC5hcHBlbmQoZiJ8IOaUr+aetuiwg+eUqOWHhuehrueOhyB8IHthY2Nfc30gfCDihpEgfCIpCiAgICB3ZCA9IG10clsid2l0aGRyYXdhbF9yYXRlIl0KICAgIHdkX3MgPSBmInt3ZCoxMDA6LjFmfSUiIGlmIHdkIGlzIG5vdCBOb25lIGVsc2UgIk4vQSIKICAgIEwuYXBwZW5kKGYifCDmkqTpmaTnjocgfCB7d2Rfc30gfCDihpEgfCIpCiAgICBMLmFwcGVuZChmInwg6L+H5pep5LuL5YWl546HIHwge210clsncHJlbWF0dXJlX2ludGVydmVudGlvbiddfSB8IOKGkyB8IikKICAgIEwuYXBwZW5kKGYifCDop5LoibLms4TmvI/njocgfCB7bXRyWydyb2xlX2xlYWtfY291bnQnXX0g5qyhIHwg4oaSIDAgfCIpCiAgICBsYWcgPSBtdHJbInJlY292ZXJ5X2xhZ19hdmciXQogICAgbGFnX3MgPSBmIntsYWc6LjJmfSDova4iIGlmIGxhZyBpcyBub3QgTm9uZSBlbHNlICJOL0EiCiAgICBMLmFwcGVuZChmInwg5oGi5aSN5bu26L+f5Luj55CGIHwge2xhZ19zfSB8IOKGkyB8IikKICAgIEwuYXBwZW5kKCJ8IGd1YXJkcmFpbCDmvI/mlL7njocgfCDop4EgUDMgYGd1YXJkcmFpbF90ZXN0c2Ag5oql5ZGKIHwg4oaSIDAgfCIpCiAgICBMLmFwcGVuZChmInwg5pyq6Kej5Yaz55qE6K+K5pat5qGI5L6LIHwge210clsnZGlhZ25vc3RpY19pZGVudGlmaWVkJ119IOS4qiB8IOW3suWbnuWGme+8jOingSDCpzQgfCIpCgogICAgTC5hcHBlbmQoIlxuIyMg5LqM44CB6YCQ5p2h5a+55q+UXG4iKQogICAgTC5hcHBlbmQoInwg6L2o6L+5IHwg57G75Z6LIHwg6KeG5Zu+IHwgdHVybiB8IOacn+acmyByb3V0ZSB8IOWunumZhSByb3V0ZSB8IOS4gOiHtCB8IikKICAgIEwuYXBwZW5kKCJ8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfCIpCiAgICBmb3IgcmVjIGluIHJbInJlY29yZHMiXToKICAgICAgICBmb3IgdCBpbiByZWNbInR1cm5zIl06CiAgICAgICAgICAgIG1hcmsgPSAi4pyTIiBpZiB0WyJvayJdIGVsc2UgKCLimqAg6K+K5patIiBpZiByZWNbInR5cGUiXSA9PSAiZGlhZ25vc3RpYyIgZWxzZSAi4pyXIikKICAgICAgICAgICAgTC5hcHBlbmQoZiJ8IHtyZWNbJ3RyYWplY3RvcnlfaWQnXX0gfCB7cmVjWyd0eXBlJ119IHwge3JlY1sndmlldyddfSB8IHt0Wyd0dXJuJ119ICIKICAgICAgICAgICAgICAgICAgICAgZiJ8IHt0WydleHBlY3RlZF9yb3V0ZSddfSB8IHt0Wydyb3V0ZSddfSB8IHttYXJrfSB8IikKCiAgICBMLmFwcGVuZCgiXG4jIyDkuInjgIHmnKrop6PlhrPnmoTor4rmlq3ovajov7lcbiIpCiAgICBpZiBub3QgclsiZGlhZ25vc3RpYyJdOgogICAgICAgIEwuYXBwZW5kKCLml6DjgILkuIrkuIDova7or4bliKvnmoQgMyDkuKrnvLrpmbflt7LmjIkgMjAyNi0xMS0xMyDoo4HlhrPlhajpg6jlm57lhpnvvIzop4Egwqc044CCIikKICAgIGZvciBpLCBkIGluIGVudW1lcmF0ZShyWyJkaWFnbm9zdGljIl0sIDEpOgogICAgICAgIEwuYXBwZW5kKGYiIyMjIOahiOS+iyB7aX3vvJp7ZFsnaWQnXX0gwrcgdHVybiB7ZFsndHVybiddfSIpCiAgICAgICAgTC5hcHBlbmQoZiItIOWcuuaZr++8mntkWydub3RlJ119IikKICAgICAgICBMLmFwcGVuZChmIi0g5pyf5pyb77yaYHtqc29uLmR1bXBzKGRbJ2V4cGVjdGVkJ10sIGVuc3VyZV9hc2NpaT1GYWxzZSl9YCIpCiAgICAgICAgTC5hcHBlbmQoZiItIOWunumZhe+8mnJvdXRlPWB7ZFsnYWN0dWFsX3JvdXRlJ119YO+8jHJlYXNvbj1ge2RbJ2FjdHVhbF9yZWFzb24nXX1g77yMIgogICAgICAgICAgICAgICAgIGYi5rOo5YWlPWB7ZFsnYWN0dWFsX2luamVjdGVkJ119YCIpCiAgICAgICAgTC5hcHBlbmQoZiItIOW3ruW8gu+8mnsn77ybJy5qb2luKGRbJ2RpZmYnXSl9IikKICAgICAgICBMLmFwcGVuZCgiIikKCiAgICBMLmFwcGVuZCgiXG4jIyDlm5vjgIHlt7Llm57lhpnnmoTosIPmlbTvvIgyMDI2LTExLTEzIOeUqOaIt+ijgeWGs++8jOacrOi9ruaJp+ihjO+8iVxuIikKICAgIEwuYXBwZW5kKCJ8IOahiOS+iyB8IOijgeWGsyB8IOiQveWcsCB8IikKICAgIEwuYXBwZW5kKCJ8LS0tfC0tLXwtLS18IikKICAgIEwuYXBwZW5kKCJ8IHRyX0QxIOi/h+W6puS7i+WFpSB8ICoq5YaF5a655bGCKirvvJrmlLnmupDmnaHnm64gYHdoZW5g77yM5LiN6LWwIHJvdXRlciDpnZnpu5ggfCA0IOS4quino+mHiuaAp+WdlyBgd2hlbmAg5aKeICIKICAgICAgICAgICAgICJgYXR0ZW50aW9uX3N0YXRlOiBbZHJpZnQsIHJlLWVudHJ5XWDvvIjnn6Xor4bnvLrlj6Pku6PnkIbkv6Hlj7fvvIzmjpLpmaQgYG9uLXRhc2tg77yJIHwiKQogICAgTC5hcHBlbmQoInwgdHJfRDMg6L+H5bqm5LuL5YWlIHwgKirlhoXlrrnlsYIqKu+8muWQjOS4iiB8IDQg5Liq6Kej6YeK5oCn5Z2XIGB3aGVuYCDlop4gIgogICAgICAgICAgICAgImBvd25lcnNoaXA6IFtjaGlsZC1sZWFkaW5nLCBwYXJlbnQtaGludGluZ11g77yI5o6S6ZmkIGBwYXJlbnQtdGFraW5nLW92ZXJg77yJIHwiKQogICAgTC5hcHBlbmQoInwgdHJfRDIg5pKk6Zmk6L6555WMIHwgKirpmY3nuqfmlK/mnrYqKu+8iOmdnuaSpOmZpOOAgemdniBgZXhpdF93aGVuYCDliqAgcmUtZW50cnnvvIkgfCDmlrDlop4gIgogICAgICAgICAgICAgImBwYXJlbnRfcmVlbnRyeV9saWdodF8wMWDvvIhgc2NhZmZvbGRfbGV2ZWw6IGxpZ2h0YO+8jHJlLWVudHJ5IOWPque7meWujOaIkOS/oeWPt++8ie+8myIKICAgICAgICAgICAgICJgc2NoZW1hL2VudHJ5LnlhbWxgIOWNhyB2MS4x77ybcm91dGVyIOWPqumAmueUqOmAj+S8oOWtl+aute+8jOS4jeWPpuWGmeadoeS7tiB8IikKICAgIEwuYXBwZW5kKCJcbioq6IGU5Yqo5pyf5pyb5aSN5qC4KirvvIjlm6Dop6Pph4rlnZcgYHdoZW5gIOaUtueqhO+8jOS7peS4iyBjb25mb3JtYW5jZSDmnJ/mnJvlkIzmraXmm7TmlrDvvIzpnZ7mlL7lrr3mlq3oqIDvvInvvJoiCiAgICAgICAgICAgICAiYHRyXzAxMWDjgIFgdHJfMDEyYCB0dXJuMiDnlLEgYHJldHJpZXZlYCDmlLnkuLogYG5vbmUvbm9fc2NhZmZvbGRg77ybIgogICAgICAgICAgICAgImBidWlsZC5weTo6c2VsZnRlc3RgIOesrCA1IOmhueajgOe0oui+k+WFpeeUsSBgb24tdGFza2Ag5pS55Li6IGByZS1lbnRyeWDjgIIiCiAgICAgICAgICAgICAi6YCQ5p2h5pS55YmN4oaS5pS55ZCO6KeBIGDpmLbmrrXlha1f5pys5Zyw6aqM6K+B5oC75oql5ZGKLm1kYCDCp+S6lOOAglxuIikKICAgIEwuYXBwZW5kKCI+IOmZjee6p+adoeS7tu+8iGB3aGVuYC9gZXhpdF93aGVuYO+8ieWPquWGmeWcqOa6kOadoeebrumHjO+8m2Byb3V0ZXIucHlgIOS4jeWQq+S7u+S9leeKtuaAgeWIpOaWre+8jCIKICAgICAgICAgICAgICLlkIzmupDlpZHnuqbmlq3oqIAgYHJvdXRlciDiiaEgYnVpbGQg4omhIF9jb21tb25gIOS7jeaIkOeri+OAglxuIikKCiAgICAjIOWkjeafpeeCuSAz77yIMjAyNi0xMS0xM++8ie+8muinpuWPkei3r+W+hOaWreiogOazqOiusO+8jOS7jui9qOi/uembhuWKqOaAgee7n+iuoe+8jOmHjei3keWPr+WkjeeOsAogICAgcmEgPSBbKHJlY1sidHJhamVjdG9yeV9pZCJdLCB0WyJ0dXJuIl0sIHQuZ2V0KCJyZWFzb25fYXNzZXJ0IikpCiAgICAgICAgICBmb3IgcmVjIGluIHJbInJlY29yZHMiXSBmb3IgdCBpbiByZWNbInR1cm5zIl0gaWYgdC5nZXQoInJlYXNvbl9hc3NlcnQiKV0KICAgIGQyID0gW3ggZm9yIHggaW4gcmEgaWYgeFswXSA9PSAidHJfRDIiIGFuZCB4WzFdID09IDJdCiAgICBkMl9zdGF0ZSA9IChmImB7ZDJbMF1bMl19YCDinJMiIGlmIGQyIGVsc2UgIioq57y65aSxIOKclyoqIikKICAgIEwuYXBwZW5kKCJcbj4gKirop6blj5Hot6/lvoTmlq3oqIDvvIjlpI3mn6XngrkgM++8jDIwMjYtMTEtMTMg6KGl77yJKirvvJpgdHJfRDJgIHR1cm4yIOihpSAiCiAgICAgICAgICAgICAiYHJlYXNvbl9jb250YWluczogXCJza2lsbCB0cmlnZ2VyX2NvbmRpdGlvbiDlkb3kuK1cImDvvIzlj5boh6ogYHJvdXRlci5weWAgc2tpbGwg5ZG95Lit5YiG5pSv55qEICIKICAgICAgICAgICAgICJyZWFzb24g5a2X6Z2i6YeP77yM5Y+v5ZCM5pe25o6S6ZmkIGBub19zY2FmZm9sZGAgLyBgZXhpdF93aGVuYCDkuKTmnaHplJnor6/ot6/lvoTvvJsiCiAgICAgICAgICAgICBmIuacrOi9ruWFsSB7bGVuKHJhKX0g5LiqIHR1cm4g5bimIGByZWFzb25fY29udGFpbnNgIOaWreiogO+8jOWFtuS4rSB0cl9EMiB0dXJuMiA9IHtkMl9zdGF0ZX3jgIIiCiAgICAgICAgICAgICAi5pys5rOo6K6w55SxIGB3cml0ZV9yZXBvcnQoKWAg5LuO6L2o6L+56ZuG5Yqo5oCB55Sf5oiQ77yM6YeN6LeR5Y+v5aSN546w77yM6Z2e5omL5YaZ6Z2Z5oCB5paH5pys44CCXG4iKQoKICAgIEwuYXBwZW5kKCJcbiMjIOS6lOOAgeWkjeeOsOS4jumXqOaOp1xuIikKICAgIEwuYXBwZW5kKCItIOWNleWRveS7pO+8mmBFOi9BTkFDT05EQS9weXRob24uZXhlIDAzX2FnZW5057yW6K+RL3ZlcmlmeV9hbGwucHlgIikKICAgIEwuYXBwZW5kKCItIENJIOmXqOaOp++8iOmDqOe9suWQjuWQr+eUqO+8ie+8mmNvbmZvcm1hbmNlIOmAmui/h+eOhyA8MTAwJeOAgeinkuiJsuazhOa8j+eOhyA+MOOAgSIKICAgICAgICAgICAgICLov4fml6nku4vlhaXnjofkuIrljYcg4oaSIOmYu+aWreWQiOW5tu+8iOmFjee9ruingSBgMDNfYWdlbnTnvJbor5EvY2kvYWdlbnQtY2kueW1sYO+8jOacrOi9ruS4jeWQr+eUqO+8ieOAgiIpCiAgICB3aXRoIG9wZW4ocGF0aCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGYud3JpdGUoIlxuIi5qb2luKEwpKQogICAgcmV0dXJuIHBhdGgKCgpkZWYgcnVuKCk6CiAgICByID0gZXZhbHVhdGUoKQogICAgcmV0dXJuIChyWyJvayJdLCByWyJlcnJvcnMiXSwgclsiY2hlY2tlZCJdKQoKCmRlZiBtYWluKCk6CiAgICByID0gZXZhbHVhdGUoKQogICAgcHJpbnQoZiJbcmVncmVzc2lvbl0g6L2o6L+5PXtyWydtZXRyaWNzJ11bJ3RyYWplY3RvcnlfY291bnQnXX0gIHR1cm4g5pat6KiAPXtyWydjaGVja2VkJ119ICAiCiAgICAgICAgICBmImNvbmZvcm1hbmNlPXtyWydtZXRyaWNzJ11bJ2NvbmZvcm1hbmNlX3Bhc3MnXX0ve3JbJ21ldHJpY3MnXVsnY29uZm9ybWFuY2VfdHVybnMnXX0gICIKICAgICAgICAgIGYi6K+K5pat5qGI5L6LPXtyWydtZXRyaWNzJ11bJ2RpYWdub3N0aWNfaWRlbnRpZmllZCddfSAg6KeS6Imy5rOE5ryPPXtyWydtZXRyaWNzJ11bJ3JvbGVfbGVha19jb3VudCddfSIpCiAgICBmb3IgZSBpbiByWyJlcnJvcnMiXVs6MjBdOgogICAgICAgIHByaW50KCIgIOKclyIsIGUpCiAgICBwID0gd3JpdGVfcmVwb3J0KHIpCiAgICBwcmludChmIltyZWdyZXNzaW9uXSDmiqXlkYrlhpnlh7rvvJp7cH0iKQogICAgc3lzLmV4aXQoMCBpZiByWyJvayJdIGVsc2UgMSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""阶段六 · P4 轨迹回归框架（本地版，闭环；真实轨迹采样挂部署后）
+
+读 05_审核与运营/regression/golden_trajectories.jsonl
+→ 逐 turn 用 router.route 判定（携带 active_skill 状态延续）
+→ 与 expected 比对 → 轨迹级指标 → 逐条对比报告
+
+两轨迹类型：
+  conformance : 期望=当前设计契约行为，不一致 = 失败（CI 阻断）
+  diagnostic  : 期望=理想行为，不一致 = **识别出的过度介入/撤除缺口**（不阻断，记录基线）
+
+指标（P4 §4.2，除 guardrail 漏放率由 P3 guardrail_tests 覆盖）：
+  支架调用准确率 / 过早介入率 / 撤除率 / 角色泄漏率 / 恢复延迟代理指标
+
+v1.1 (2026-11-13)：expected 支持 scaffold_level 断言（降级支架）。
+v1.2 (2026-11-13，阶段三首批派生)：expected 支持 injected_contains 断言，
+  让解释性条目（无 callable）轨迹能绑到具体块 id，避免「有东西命中」的假覆盖。
+v1.3 (2026-11-13，阶段 B 批次 3 · PROP-0005)：支持
+  entry_via: "parent_escalation" 旁路分支。家长情绪是独立 scenario，
+  运行期走 server.handle_parent_escalation()，**不调 router.route()**；
+  本框架用 router.eval_predicate（同源契约）直接过滤 parent_escalation
+  检索块，使新轨迹可回归，同时用 _entry_branch_guard() 断言既有 25 条
+  轨迹一律走原分支、行为零变化。
+"""
+import os
+import sys
+import json
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PARENT = os.path.abspath(os.path.join(HERE, ".."))
+ROOT = os.path.abspath(os.path.join(PARENT, ".."))
+sys.path.insert(0, PARENT)
+sys.path.insert(0, HERE)
+
+import router
+
+TRAJ_PATH = os.path.join(ROOT, "05_审核与运营", "regression", "golden_trajectories.jsonl")
+REPORT_PATH = os.path.join(ROOT, "05_审核与运营", "regression", "回归报告.md")
+
+ALLOWED = {"child": {"child", "both"}, "parent": {"parent", "both"}}
+EXPECTED_VIA_TRAJECTORIES = 6
+
+
+def _escalation_decision(state, view, chunks):
+    """entry_via=parent_escalation 的旁路判定（v1.3）。
+
+    复用 router.eval_predicate（= build = _common 同一对象），不另写条件
+    判断，也不 import 09_家长端工具/ 的 server，避免编译管线反向依赖工具层。
+    返回与 router._decision 同结构的 dict，使 _match() 的既有断言全部可用。
+    """
+    allowed = ALLOWED[view]
+    hits = []
+    for c in chunks:
+        if c.get("audience") not in allowed:
+            continue
+        if c.get("scenario") != "parent_escalation":
+            continue
+        cond = c.get("when") or {}
+        if cond and router.eval_predicate(cond, state):
+            hits.append(c["id"])
+    return {
+        "route": "retrieve" if hits else "none",
+        "view": view,
+        "state": dict(state),
+        "skill": None,
+        "injected_chunks": hits,
+        "retrieval_silent": not hits,
+        "scaffold_level": None,
+        "reason": ("entry_via=parent_escalation：结构化谓词过滤命中检索块"
+                   "（旁路，不调 router.route）" if hits else
+                   "entry_via=parent_escalation：无命中，显式无支架"),
+    }
+
+
+def _entry_branch_guard(trajectories):
+    """可证伪断言：旁路分支不得污染既有 25 条轨迹（v1.3）。
+
+    返回错误列表，并入 evaluate().errors；不是静默跳过。
+    """
+    errs = []
+    via = [tr for tr in trajectories if tr.get("entry_via")]
+    rest = [tr for tr in trajectories if not tr.get("entry_via")]
+    if len(via) != EXPECTED_VIA_TRAJECTORIES:
+        errs.append(f"[entry_via 守卫] 旁路轨迹应为 {EXPECTED_VIA_TRAJECTORIES} 条，实际 {len(via)}")
+    for tr in via:
+        tid = tr.get("trajectory_id", "?")
+        if tr.get("entry_via") != "parent_escalation":
+            errs.append(f"[{tid}] 未知 entry_via={tr.get('entry_via')}")
+        if tr.get("scenario") != "parent_escalation":
+            errs.append(f"[{tid}] 旁路轨迹 scenario 必须是 parent_escalation")
+        if tr.get("view") != "parent":
+            errs.append(f"[{tid}] 旁路轨迹 view 必须是 parent（家长自救不进儿童视图）")
+        if tr.get("type") != "conformance":
+            errs.append(f"[{tid}] 旁路轨迹必须是 conformance")
+    polluted = [tr.get("trajectory_id") for tr in rest
+                if tr.get("scenario") == "parent_escalation"]
+    if polluted:
+        errs.append(f"[entry_via 守卫] 非旁路轨迹却使用 parent_escalation：{polluted}")
+    # 既有 25 条一律走 router.route 原分支；数量下降即说明既有轨迹被误删
+    if len(rest) != 25:
+        errs.append(f"[entry_via 守卫] 既有轨迹应为 25 条，实际 {len(rest)}")
+    return errs
+
+
+def _load():
+    with open(TRAJ_PATH, encoding="utf-8") as f:
+        return [json.loads(l) for l in f if l.strip()]
+
+
+def _match(expected, decision):
+    """返回 (是否一致, 差异说明列表)。"""
+    diff = []
+    if "route" in expected and decision["route"] != expected["route"]:
+        diff.append(f"route 期望 {expected['route']} ≠ 实际 {decision['route']}")
+    if "skill" in expected and decision["skill"] != expected["skill"]:
+        diff.append(f"skill 期望 {expected['skill']} ≠ 实际 {decision['skill']}")
+    if "reason_contains" in expected and expected["reason_contains"] not in decision["reason"]:
+        diff.append(f"reason 应含 '{expected['reason_contains']}'，实际 '{decision['reason']}'")
+    if expected.get("skill_is_none") and decision["skill"] is not None:
+        diff.append(f"应无 skill，实际 {decision['skill']}")
+    if expected.get("injected_not_empty") and not decision["injected_chunks"]:
+        diff.append("应注入检索块，实际为空")
+    # v1.2（阶段三首批派生）：解释性条目无 callable，轨迹必须能绑到具体块 id，
+    # 否则只断言「有东西命中」等于没覆盖新条目。added by PROP-0003 批次。
+    if ("injected_contains" in expected
+            and expected["injected_contains"] not in decision["injected_chunks"]):
+        diff.append(f"应注入检索块 {expected['injected_contains']}，"
+                    f"实际 {decision['injected_chunks']}")
+    if expected.get("injected_empty") and decision["injected_chunks"]:
+        diff.append(f"注入通道应静默，实际 {decision['injected_chunks']}")
+    # v1.1：降级支架强度断言（用户 2026-11-13 裁决 D2 走降级语义）
+    if "scaffold_level" in expected and decision.get("scaffold_level") != expected["scaffold_level"]:
+        diff.append(f"scaffold_level 期望 {expected['scaffold_level']} ≠ 实际 {decision.get('scaffold_level')}")
+    return (len(diff) == 0, diff)
+
+
+def evaluate():
+    trajectories = _load()
+    skills, chunks = router.load_artifacts()
+    chunk_aud = {c["id"]: c["audience"] for c in chunks}
+    skill_aud = {s["name"]: s["audience"] for s in skills}
+
+    records = []
+    errors = []
+    checked = 0
+
+    # v1.3：旁路分支守卫（失败即阻断，可证伪，不是静默跳过）
+    errors.extend(_entry_branch_guard(trajectories))
+
+    # 指标累加器
+    m = {
+        "turns": 0, "conf_turns": 0, "conf_pass": 0,
+        "skill_expected": 0, "skill_correct": 0,
+        "exit_expected": 0, "exit_correct": 0,
+        "independent_turns": 0, "premature": 0,
+        "role_leak": 0, "drift_to_recovery": [],
+        "diagnostic": [],
+    }
+
+    for tr in trajectories:
+        view = tr["view"]
+        allowed = ALLOWED[view]
+        active_skill = None
+        turns_rec = []
+        drift_turn = None
+
+        for t in tr["turns"]:
+            checked += 1
+            m["turns"] += 1
+            state = t["state"]
+            # v1.3：家长情绪走旁路；其余 25 条轨迹仍 100% 走 router.route()
+            if tr.get("entry_via") == "parent_escalation":
+                d = _escalation_decision(state, view, chunks)
+            else:
+                d = router.route(state, view, tr.get("scenario"),
+                                 active_skill=active_skill,
+                                 skills=skills, chunks=chunks)
+            ok, diff = _match(t["expected"], d)
+
+            # 角色泄漏（全 turn 无差别检查，含 diagnostic）
+            leaked = [cid for cid in d["injected_chunks"]
+                      if chunk_aud.get(cid) not in allowed]
+            if d["skill"] and skill_aud.get(d["skill"]) not in allowed:
+                leaked.append(f"skill:{d['skill']}")
+            m["role_leak"] += len(leaked)
+
+            # 支架调用准确率
+            if t["expected"].get("route") == "skill":
+                m["skill_expected"] += 1
+                if ok:
+                    m["skill_correct"] += 1
+            # 撤除率
+            if "exit_when" in str(t["expected"].get("reason_contains", "")):
+                m["exit_expected"] += 1
+                if d["route"] == "none" and "exit_when" in d["reason"]:
+                    m["exit_correct"] += 1
+            # 过早介入率：孩子仍可独立推进（on-task / 连续成功≥2 / 无失败）却注入支架
+            independent = (state.get("attention_state") == "on-task"
+                           and state.get("consecutive_successes", 0) >= 2
+                           and state.get("consecutive_failures", 0) == 0)
+            if independent:
+                m["independent_turns"] += 1
+                if d["route"] != "none":
+                    m["premature"] += 1
+            # 恢复延迟代理：drift → on-task/re-entry 的轮次差
+            if state.get("attention_state") == "drift" and drift_turn is None:
+                drift_turn = t["turn"]
+            if drift_turn is not None and state.get("attention_state") in ("on-task", "re-entry"):
+                m["drift_to_recovery"].append(t["turn"] - drift_turn)
+                drift_turn = None
+
+            if tr["type"] == "conformance":
+                m["conf_turns"] += 1
+                if ok:
+                    m["conf_pass"] += 1
+                else:
+                    errors.append(f"[{tr['trajectory_id']}] turn{t['turn']}: " + "; ".join(diff))
+            else:
+                if not ok:
+                    m["diagnostic"].append({
+                        "id": tr["trajectory_id"], "turn": t["turn"],
+                        "note": tr.get("note", ""),
+                        "expected": t["expected"], "actual_route": d["route"],
+                        "actual_reason": d["reason"],
+                        "actual_injected": d["injected_chunks"], "diff": diff,
+                    })
+
+            # active_skill 状态延续：命中 skill 则激活；撤除则清空
+            if d["route"] == "skill" and d["skill"]:
+                active_skill = d["skill"]
+            elif d["route"] == "none" and "exit_when" in d["reason"]:
+                active_skill = None
+
+            turns_rec.append({
+                "turn": t["turn"], "ok": ok, "diff": diff,
+                "expected_route": t["expected"].get("route", "—"),
+                "route": d["route"], "skill": d["skill"],
+                "scaffold_level": d.get("scaffold_level"),
+                "injected": d["injected_chunks"], "reason": d["reason"],
+                "reason_assert": t["expected"].get("reason_contains"),
+                "leaked": leaked,
+            })
+
+        records.append({**{k: tr[k] for k in ("trajectory_id", "type", "view", "scenario", "note")},
+                        "turns": turns_rec})
+
+    conf_n = sum(1 for t in trajectories if t["type"] == "conformance")
+    diag_n = len(trajectories) - conf_n
+    metrics = {
+        "trajectory_count": len(trajectories),
+        "conformance_count": conf_n,
+        "diagnostic_count": diag_n,
+        "conformance_turns": m["conf_turns"],
+        "conformance_pass": m["conf_pass"],
+        "conformance_pass_rate": (m["conf_pass"] / m["conf_turns"] if m["conf_turns"] else 0),
+        "skill_call_accuracy": (m["skill_correct"] / m["skill_expected"] if m["skill_expected"] else None),
+        "withdrawal_rate": (m["exit_correct"] / m["exit_expected"] if m["exit_expected"] else None),
+        "premature_intervention": f"{m['premature']}/{m['independent_turns']}",
+        "role_leak_count": m["role_leak"],
+        "recovery_lag_avg": (sum(m["drift_to_recovery"]) / len(m["drift_to_recovery"])
+                             if m["drift_to_recovery"] else None),
+        "diagnostic_identified": len(m["diagnostic"]),
+    }
+    return {"ok": len(errors) == 0, "errors": errors, "checked": checked,
+            "records": records, "metrics": metrics, "diagnostic": m["diagnostic"]}
+
+
+def write_report(result, path=REPORT_PATH):
+    r = result
+    mtr = r["metrics"]
+    L = []
+    L.append("# 阶段六 · P4 轨迹回归报告（本地版）\n")
+    L.append("> 运行方式：`E:/ANACONDA/python.exe 03_agent编译/validators/regression.py`\n")
+    L.append(f"> 输入：`golden_trajectories.jsonl`（{mtr['trajectory_count']} 条 = "
+             f"{mtr['conformance_count']} conformance + {mtr['diagnostic_count']} diagnostic）\n")
+    L.append("> 判定器：`03_agent编译/router.py`（复用 build.py 同一谓词求值函数）\n")
+    L.append("> 边界：本框架为本地闭环；**真实 agent 轨迹采样挂部署后**。\n")
+    L.append("> v1.3（阶段 B 批次 3）：`entry_via: parent_escalation` 的 6 条轨迹走"
+             "旁路判定（复用 router.eval_predicate，不调 router.route）；"
+             "既有 25 条一律走原分支，`_entry_branch_guard()` 逐条断言，失败即阻断。\n")
+    L.append("\n## 一、基线指标（可复现，不要求第一版达标）\n")
+    L.append("| 指标 | 本轮基线 | 目标方向 |")
+    L.append("|---|---|---|")
+    L.append(f"| 轨迹数 | {mtr['trajectory_count']}（{mtr['conformance_count']} conformance + "
+             f"{mtr['diagnostic_count']} diagnostic） | ≥15 起步，新增来源批次后递增 ✓ |")
+    L.append(f"| conformance 通过率 | {mtr['conformance_pass']}/{mtr['conformance_turns']} "
+             f"({mtr['conformance_pass_rate']*100:.1f}%) | ↑ |")
+    acc = mtr["skill_call_accuracy"]
+    acc_s = f"{acc*100:.1f}%" if acc is not None else "N/A"
+    L.append(f"| 支架调用准确率 | {acc_s} | ↑ |")
+    wd = mtr["withdrawal_rate"]
+    wd_s = f"{wd*100:.1f}%" if wd is not None else "N/A"
+    L.append(f"| 撤除率 | {wd_s} | ↑ |")
+    L.append(f"| 过早介入率 | {mtr['premature_intervention']} | ↓ |")
+    L.append(f"| 角色泄漏率 | {mtr['role_leak_count']} 次 | → 0 |")
+    lag = mtr["recovery_lag_avg"]
+    lag_s = f"{lag:.2f} 轮" if lag is not None else "N/A"
+    L.append(f"| 恢复延迟代理 | {lag_s} | ↓ |")
+    L.append("| guardrail 漏放率 | 见 P3 `guardrail_tests` 报告 | → 0 |")
+    L.append(f"| 未解决的诊断案例 | {mtr['diagnostic_identified']} 个 | 已回写，见 §4 |")
+
+    L.append("\n## 二、逐条对比\n")
+    L.append("| 轨迹 | 类型 | 视图 | turn | 期望 route | 实际 route | 一致 |")
+    L.append("|---|---|---|---|---|---|---|")
+    for rec in r["records"]:
+        for t in rec["turns"]:
+            mark = "✓" if t["ok"] else ("⚠ 诊断" if rec["type"] == "diagnostic" else "✗")
+            L.append(f"| {rec['trajectory_id']} | {rec['type']} | {rec['view']} | {t['turn']} "
+                     f"| {t['expected_route']} | {t['route']} | {mark} |")
+
+    L.append("\n## 三、未解决的诊断轨迹\n")
+    if not r["diagnostic"]:
+        L.append("无。上一轮识别的 3 个缺陷已按 2026-11-13 裁决全部回写，见 §4。")
+    for i, d in enumerate(r["diagnostic"], 1):
+        L.append(f"### 案例 {i}：{d['id']} · turn {d['turn']}")
+        L.append(f"- 场景：{d['note']}")
+        L.append(f"- 期望：`{json.dumps(d['expected'], ensure_ascii=False)}`")
+        L.append(f"- 实际：route=`{d['actual_route']}`，reason=`{d['actual_reason']}`，"
+                 f"注入=`{d['actual_injected']}`")
+        L.append(f"- 差异：{'；'.join(d['diff'])}")
+        L.append("")
+
+    L.append("\n## 四、已回写的调整（2026-11-13 用户裁决，本轮执行）\n")
+    L.append("| 案例 | 裁决 | 落地 |")
+    L.append("|---|---|---|")
+    L.append("| tr_D1 过度介入 | **内容层**：改源条目 `when`，不走 router 静默 | 4 个解释性块 `when` 增 "
+             "`attention_state: [drift, re-entry]`（知识缺口代理信号，排除 `on-task`） |")
+    L.append("| tr_D3 过度介入 | **内容层**：同上 | 4 个解释性块 `when` 增 "
+             "`ownership: [child-leading, parent-hinting]`（排除 `parent-taking-over`） |")
+    L.append("| tr_D2 撤除边界 | **降级支架**（非撤除、非 `exit_when` 加 re-entry） | 新增 "
+             "`parent_reentry_light_01`（`scaffold_level: light`，re-entry 只给完成信号）；"
+             "`schema/entry.yaml` 升 v1.1；router 只通用透传字段，不另写条件 |")
+    L.append("\n**联动期望复核**（因解释块 `when` 收窄，以下 conformance 期望同步更新，非放宽断言）："
+             "`tr_011`、`tr_012` turn2 由 `retrieve` 改为 `none/no_scaffold`；"
+             "`build.py::selftest` 第 5 项检索输入由 `on-task` 改为 `re-entry`。"
+             "逐条改前→改后见 `阶段六_本地验证总报告.md` §五。\n")
+    L.append("> 降级条件（`when`/`exit_when`）只写在源条目里；`router.py` 不含任何状态判断，"
+             "同源契约断言 `router ≡ build ≡ _common` 仍成立。\n")
+
+    # 复查点 3（2026-11-13）：触发路径断言注记，从轨迹集动态统计，重跑可复现
+    ra = [(rec["trajectory_id"], t["turn"], t.get("reason_assert"))
+          for rec in r["records"] for t in rec["turns"] if t.get("reason_assert")]
+    d2 = [x for x in ra if x[0] == "tr_D2" and x[1] == 2]
+    d2_state = (f"`{d2[0][2]}` ✓" if d2 else "**缺失 ✗**")
+    L.append("\n> **触发路径断言（复查点 3，2026-11-13 补）**：`tr_D2` turn2 补 "
+             "`reason_contains: \"skill trigger_condition 命中\"`，取自 `router.py` skill 命中分支的 "
+             "reason 字面量，可同时排除 `no_scaffold` / `exit_when` 两条错误路径；"
+             f"本轮共 {len(ra)} 个 turn 带 `reason_contains` 断言，其中 tr_D2 turn2 = {d2_state}。"
+             "本注记由 `write_report()` 从轨迹集动态生成，重跑可复现，非手写静态文本。\n")
+
+    L.append("\n## 五、复现与门控\n")
+    L.append("- 单命令：`E:/ANACONDA/python.exe 03_agent编译/verify_all.py`")
+    L.append("- CI 门控（部署后启用）：conformance 通过率 <100%、角色泄漏率 >0、"
+             "过早介入率上升 → 阻断合并（配置见 `03_agent编译/ci/agent-ci.yml`，本轮不启用）。")
+    with open(path, "w", encoding="utf-8") as f:
+        f.write("\n".join(L))
+    return path
+
+
+def run():
+    r = evaluate()
+    return (r["ok"], r["errors"], r["checked"])
+
+
+def main():
+    r = evaluate()
+    print(f"[regression] 轨迹={r['metrics']['trajectory_count']}  turn 断言={r['checked']}  "
+          f"conformance={r['metrics']['conformance_pass']}/{r['metrics']['conformance_turns']}  "
+          f"诊断案例={r['metrics']['diagnostic_identified']}  角色泄漏={r['metrics']['role_leak_count']}")
+    for e in r["errors"][:20]:
+        print("  ✗", e)
+    p = write_report(r)
+    print(f"[regression] 报告写出：{p}")
+    sys.exit(0 if r["ok"] else 1)
+
+
+if __name__ == "__main__":
+    main()

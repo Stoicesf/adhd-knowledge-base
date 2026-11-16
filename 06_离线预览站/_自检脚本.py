@@ -1,1 +1,48 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IHJlCmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IENvdW50ZXIKcyA9IG9wZW4ocidGOlxBREhE5paH54yuXDA2X+emu+e6v+mihOiniOermVxpbmRleC5odG1sJywgZW5jb2Rpbmc9J3V0Zi04JykucmVhZCgpCgojIC0tLS0g5a6M5pW05L6n5qCP5qCR77ya6aG65bqP5omr5o+PIHNpZGViYXIg5YaF5YWD57SgIC0tLS0Kc2lkZSA9IHJlLnNlYXJjaChyJzxhc2lkZSBjbGFzcz0ic2lkZWJhciIuKj8+KC4qPyk8L2FzaWRlPicsIHMsIHJlLlMpLmdyb3VwKDEpCnRva2VucyA9IHJlLmZpbmRhbGwoCiAgICByJzxkaXYgY2xhc3M9InRyZWUtYm9vay10aXRsZSI+KC4qPyk8L2Rpdj4nCiAgICByJ3w8ZGl2IGNsYXNzPSJ0cmVlLWNoYXB0ZXIiPiguKj8pPC9kaXY+JwogICAgcid8PGRpdiBjbGFzcz0idHJlZS1wYWdlIiBkYXRhLXBhZ2U9IihbQS1EXVxkXGQpIj4oW148XSopPC9kaXY+Jywgc2lkZSkKdHJlZV9saW5lcyA9IFtdCmNoYXBfc2VlbiA9IFtdCmZvciBib29rX3QsIGNoX3QsIHBpZCwgbGFiZWwgaW4gdG9rZW5zOgogICAgaWYgYm9va190OgogICAgICAgIHRpdGxlID0gcmUuc3ViKHInPFtePl0rPicsICcnLCBib29rX3QpLnN0cmlwKCkKICAgICAgICB0cmVlX2xpbmVzLmFwcGVuZCgnXG5bJyArIHRpdGxlICsgJ10nKQogICAgZWxpZiBjaF90OgogICAgICAgIHRyZWVfbGluZXMuYXBwZW5kKCcgIOKWuCAnICsgY2hfdCkKICAgICAgICBjaGFwX3NlZW4uYXBwZW5kKGNoX3QpCiAgICBlbHNlOgogICAgICAgIHRyZWVfbGluZXMuYXBwZW5kKCcgICAgICAtICcgKyBwaWQgKyAnICcgKyByZS5zdWIocicmcXVvdDsnLCAnIicsIGxhYmVsKS5zdHJpcCgpKQpwcmludCgnXG4nLmpvaW4odHJlZV9saW5lcykpCgpkdXAgPSB7azogdiBmb3IgaywgdiBpbiBDb3VudGVyKGNoYXBfc2VlbikuaXRlbXMoKSBpZiB2ID4gMX0KcHJpbnQoJ1xu56ug6IqC5aS05oC75pWwOicsIGxlbihjaGFwX3NlZW4pLCAnIOmHjeWkjeWHuueOsOeahOeroOiKguWktDonLCBkdXAgaWYgZHVwIGVsc2UgJ+aXoCAoMCknKQoKIyAtLS0tIOavj+mhtSBoMSDmlbAgLS0tLQpkdXBzID0gW10KZm9yIHNlZyBpbiByZS5maW5kYWxsKHInKDxhcnRpY2xlIGNsYXNzPSJwYWdlIiBpZD0icGFnZS1bQS1EXVxkXGQiLio/KSg/PTxhcnRpY2xlfDwvbWFpbj4pJywgcywgcmUuUyk6CiAgICBwaWQgPSByZS5zZWFyY2gocidpZD0icGFnZS0oW0EtRF1cZFxkKSInLCBzZWcpLmdyb3VwKDEpCiAgICBuID0gbGVuKHJlLmZpbmRhbGwocic8aDFbID5dJywgc2VnKSkKICAgIGJvZHkgPSByZS5zdWIocic8ZGl2IGNsYXNzPSJwYWdlLWhlYWQiPi4qPzwvZGl2PicsICcnLCBzZWcsIGZsYWdzPXJlLlMpCiAgICB0aXRsZSA9IHJlLnNlYXJjaChyJzxoMT4oLio/KTwvaDE+Jywgc2VnKS5ncm91cCgxKQogICAgbnQgPSByZS5zdWIocidbXHPjgIDvvJo677yM44CC44CBwrdcLeKAlOKAnOKAnSJcJygp77yI77yJXSsnLCAnJywgdGl0bGUpCiAgICBib2R5X25vcm0gPSByZS5zdWIocidbXHPjgIDvvJo677yM44CC44CBwrdcLeKAlOKAnOKAnSJcJygp77yI77yJXSsnLCAnJywgYm9keSkKICAgIGlmIG4gIT0gMSBvciBudCBpbiBib2R5X25vcm06CiAgICAgICAgZHVwcy5hcHBlbmQoKHBpZCwgJ2gxPSVkJyAlIG4pKQpwcmludCgn5q+P6aG1IGgxIOaVsD0xIOS4lOato+aWh+aXoOmHjeWkjeagh+mimOeahOmhteaVsDogJWQvMTnvvJvlvILluLg6ICVzJyAlICgxOSAtIGxlbihkdXBzKSwgZHVwcyBpZiBkdXBzIGVsc2UgJ+aXoCcpKQoKIyAtLS0tIOWklumDqOi1hOa6kCAtLS0tCnByaW50KCflpJbpg6jotYTmupA6IHNjcmlwdD0lZCBsaW5rPSVkIGltZz0lZCBjZG49QGltcG9ydD0lZCcgJSAoCiAgICBsZW4ocmUuZmluZGFsbChyJzxzY3JpcHRbXj5dK3NyYz1bIlwnXT9odHRwcz86Ly8nLCBzLCByZS5JKSksCiAgICBsZW4ocmUuZmluZGFsbChyJzxsaW5rW14+XStocmVmPVsiXCddP2h0dHBzPzovLycsIHMsIHJlLkkpKSwKICAgIGxlbihyZS5maW5kYWxsKHInPGltZ1tePl0rc3JjPVsiXCddP2h0dHBzPzovLycsIHMsIHJlLkkpKSwKICAgIGxlbihyZS5maW5kYWxsKHInY2RufEBpbXBvcnR8Zm9udHNcLmdvb2dsZWFwaXMnLCBzLCByZS5JKSkpKQpwcmludCgn6aaW6aG15Y2h54mHOicsIGxlbihyZS5maW5kYWxsKHInY2xhc3M9ImhvbWUtY2FyZCInLCBzKSksCiAgICAgICcg5L6n5qCP6aG16Z2i5p2h55uuOicsIGxlbihyZS5maW5kYWxsKHInY2xhc3M9InRyZWUtcGFnZSInLCBzKSkpCg==
+# -*- coding: utf-8 -*-
+import re
+from collections import Counter
+s = open(r'F:\ADHD文献\06_离线预览站\index.html', encoding='utf-8').read()
+
+# ---- 完整侧栏树：顺序扫描 sidebar 内元素 ----
+side = re.search(r'<aside class="sidebar".*?>(.*?)</aside>', s, re.S).group(1)
+tokens = re.findall(
+    r'<div class="tree-book-title">(.*?)</div>'
+    r'|<div class="tree-chapter">(.*?)</div>'
+    r'|<div class="tree-page" data-page="([A-D]\d\d)">([^<]*)</div>', side)
+tree_lines = []
+chap_seen = []
+for book_t, ch_t, pid, label in tokens:
+    if book_t:
+        title = re.sub(r'<[^>]+>', '', book_t).strip()
+        tree_lines.append('\n[' + title + ']')
+    elif ch_t:
+        tree_lines.append('  ▸ ' + ch_t)
+        chap_seen.append(ch_t)
+    else:
+        tree_lines.append('      - ' + pid + ' ' + re.sub(r'&quot;', '"', label).strip())
+print('\n'.join(tree_lines))
+
+dup = {k: v for k, v in Counter(chap_seen).items() if v > 1}
+print('\n章节头总数:', len(chap_seen), ' 重复出现的章节头:', dup if dup else '无 (0)')
+
+# ---- 每页 h1 数 ----
+dups = []
+for seg in re.findall(r'(<article class="page" id="page-[A-D]\d\d".*?)(?=<article|</main>)', s, re.S):
+    pid = re.search(r'id="page-([A-D]\d\d)"', seg).group(1)
+    n = len(re.findall(r'<h1[ >]', seg))
+    body = re.sub(r'<div class="page-head">.*?</div>', '', seg, flags=re.S)
+    title = re.search(r'<h1>(.*?)</h1>', seg).group(1)
+    nt = re.sub(r'[\s　：:，。、·\-—“”"\'()（）]+', '', title)
+    body_norm = re.sub(r'[\s　：:，。、·\-—“”"\'()（）]+', '', body)
+    if n != 1 or nt in body_norm:
+        dups.append((pid, 'h1=%d' % n))
+print('每页 h1 数=1 且正文无重复标题的页数: %d/19；异常: %s' % (19 - len(dups), dups if dups else '无'))
+
+# ---- 外部资源 ----
+print('外部资源: script=%d link=%d img=%d cdn=@import=%d' % (
+    len(re.findall(r'<script[^>]+src=["\']?https?://', s, re.I)),
+    len(re.findall(r'<link[^>]+href=["\']?https?://', s, re.I)),
+    len(re.findall(r'<img[^>]+src=["\']?https?://', s, re.I)),
+    len(re.findall(r'cdn|@import|fonts\.googleapis', s, re.I))))
+print('首页卡片:', len(re.findall(r'class="home-card"', s)),
+      ' 侧栏页面条目:', len(re.findall(r'class="tree-page"', s)))

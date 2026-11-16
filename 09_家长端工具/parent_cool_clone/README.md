@@ -1,1 +1,99 @@
-IyBwYXJlbnQtY29vbCDlpI3liLsgwrcg5a626ZW/56uv5oCl5pWR5Y2hCgrpmLbmrrUgQiDmibnmrKEgNSDlrprnqL/niYjjgILlpI3liLsgcGFyZW50LWNvb2wg5LiD5qih5Z2X57uT5p6E5LiO5Lqk5LqS77yM5YaF5a655paH5qGI5LiA5b6L5p2l6IeqCuefpeivhuW6k+aYoOWwhO+8iGBkYXRhL2NvcHlfbWFwcGluZy5qc29uYO+8jDE1IG1hcHBlZCAvIDYgcGVuZGluZyAvIDEgZmlsbGVkX2NvbnN0YW5077yJ77yMCioq5LiN57yW6YCg5paH5qGIKirjgIIKCiMjIOWQr+WKqOivtOaYjgoKMS4g6LW35pys5Zyw5pyN5Yqh77yI5Y+v6YCJ77yMQUkg5Y+w6K+N5Yy66ZyA6KaB77yJ77yaCgogICBgYGAKICAgcHl0aG9uIHNlcnZlci9zZXJ2ZXIucHkgICAgICAgICAgIyDpu5jorqQgMTI3LjAuMC4xOjg3NjXvvIzlj6/liqAgLS1wb3J0IOaUueWPowogICBgYGAKCiAgIOaJueasoSA2LUMg5Yqg5Zu66K+05piO77ya5pyN5YqhKirlj6rnm5HlkKwgYDEyNy4wLjAuMWAqKu+8iOS7o+eggee6p+e7keWumu+8jOWxgOWfn+e9keS4jeWPr+i+vu+8mwogICDlpoLpnIDlsYDln5/nvZHorr/pl67or7fmmL7lvI/mlLnnu5Hlubboh6rooYzor4TkvLDpo47pmanvvInvvJvlhaXlj4LmoKHpqozigJTigJRgYW5nZXJfbGV2ZWxgIOmhuyAx4oCUNSDmlbTmlbDjgIEKICAgYHNpdHVhdGlvbmAg6aG75a2X56ym5Liy5LiUIOKJpDIwMDAg5a2X56ym77yI57y655yB5oyJ56m65Liy5aSE55CG77yJ44CBYm9keSDpobvmnInmlYggSlNPTuOAgQogICBgQ29udGVudC1MZW5ndGhgIOKJpDFNQu+8jOi/neinhOS4gOW+iyA0MDAg5LiN6L+b5Lia5Yqh6YC76L6R77yb6K+756m66Zey5LiK6ZmQIDUg56eSCiAgIO+8iOWjsOaYjuS6hiBgQ29udGVudC1MZW5ndGhgIOWNtOS4jeWPkSBib2R5IOeahOWNiuW8gOivt+axguS4jeS8muWQiuatu+e6v+eoi++8ie+8m+aXpeW/l+WPquiusAogICA0eHgvNXh4IOivt+axguihjO+8iOS4jeWQqyBib2R577yMYHNpdHVhdGlvbmAg5YaF5a655LiN6L+b5pel5b+X77yJ77yM5oiQ5Yqf6K+35rGC5LiN5Yi3IHN0ZGVycuOAggoKMi4g5omT5byA6aG16Z2i77ya55u05o6l5Y+M5Ye75omT5byAIGBzcmMvaW5kZXguaHRtbGDvvIhmaWxlOi8vIOWNs+WPr++8jOmbtuaehOW7uuOAgembtuS+nei1lu+8ieOAggogICDmibnmrKEgNC41IOWunuacuumqjOivge+8iENocm9taXVtIOWGheaguOa1j+iniOWZqO+8ie+8mmZpbGU6Ly8g55u05byAICsg5pys5Zyw5pyN5Yqh55yf5o6l57q/6L+U5Zue55yf5a6e5Y+w6K+N44CBCiAgIOWBnOacjemZjee6p+aPkOekuiArIOaMiemSriAzIOenkuWGt+WNtOaBouWkje+8jOWdh+Wunua1i+mAmui/h++8m+acjeWKoeerr+W3sumFjSBDT1JT77yI5LuF5pys5Zyw5Zue546v5L2/55So77yMCiAgIGBBY2Nlc3MtQ29udHJvbC1BbGxvdy1PcmlnaW46ICpg77yJ44CCKirmnKrlrp7mtYvpobkqKu+8mjM3NXB4IOinhuWPo++8iOiHquWKqOWMlueOr+Wig+S4jeaUr+aMgeinhuWPo+aooeaLn++8jAogICDnu7TmjIHpnZnmgIHmlq3oqIDlj6PlvoTvvInjgIFndWFyZHJhaWwgYmxvY2tlZCDliIbmlK/vvIjmnI3liqHnq6/lj6rlr7nnn6Xor4blupPmlofmnKzliKTlrprvvIznlKjmiLfovpPlhaXkuI3ov5vlhaUKICAg5Yik5a6a5paH5pys77yM5a6e5py65LiN5Y+v6Kem5Y+R77ybVUkg5YiG5pSv55SxIHRlc3RfYXBpLmpzIG1vY2sg6KaG55uW77yJ44CCCgozLiDmnI3liqHkuI3lnKjml7bnmoTpmY3nuqfooYzkuLrvvJoKICAgLSAqKuWRvOWQuOOAgeivneacr+WNoeOAgeS4iee6p+aSpOmAgOOAgemihOitpuihqOOAgeS/ruWkjeivneacr+OAgeaDhee7quaXpeW/l+OAgem7keWknOaooeW8jyoq77ya5YWo6YOo5Y+v55So77yI57qv5pys5Zyw77yJ77ybCiAgIC0gKipBSSDlj7Dor43ljLoqKu+8mui/m+WFpemZjee6p+aAge+8jOaPkOekuuOAjEFJIOWPsOivjeaaguS4jeWPr+eUqO+8iOacjeWKoeacquWQr+WKqO+8ie+8jOWPr+WFiOeci+S4i+aWueaSpOmAgOaWueahiOOAje+8jAogICAgIOaMiemSrue9rueBsCAzIOenkuWQjuaBouWkjeWPr+mHjeivle+8m+WPquW9seWTjSBBSSDljLrvvIzkuI3pmLvloZ7pobXpnaLlhbblroPmqKHlnZfjgIIKCjQuIOS+nei1lu+8mmByZXF1aXJlbWVudHMudHh0YCDku4XkvZzljaDkvY3or7TmmI7igJTigJTmnI3liqHnq6/kuI7lhajpg6jmtYvor5XlnYfkuLogKipQeXRob24g5qCH5YeG5bqT5a6e546w77yMCiAgIOmbtuesrOS4ieaWueS+nei1lioq77yI5YmN56uv6Zu25p6E5bu644CBbm9kZSDmtYvor5Xpm7bkvp3otZbvvInjgILml6DpnIAgcGlwIGluc3RhbGzjgIIKCjUuIOa1i+ivleS4jumqjOaUtu+8mgogICAtIGBub2RlIHRlc3Rfc3RhdGljLmpzYCDigJTigJQg6Z2Z5oCB5aSN5Yi76aqM5pS277yI5om55qyhIDUg5a6a56i/IDQyLzQy77yJ77ybCiAgIC0gYG5vZGUgdGVzdF9hcGkuanNgIOKAlOKAlCDliY3nq6/nnJ/mjqXnur/pqozmlLbvvIjmibnmrKEgNCDlrprnqL8gMjEvMjHvvInvvJsKICAgLSBgcHl0aG9uIHNlcnZlci90ZXN0X3NlcnZlci5weWAg4oCU4oCUIOacjeWKoeerryAxMC8xMO+8iOaJueasoSA0LjUgKzMgQ09SUy/lhY3otKPjgIHmibnmrKEgNSArMSDkuInmoaPlt67lvILljJbvvInjgIIKCi0tLQoKIyMg56ys5LiA6YOo5YiG77ya5bey5aSN5Yi777yI5Yqf6IO977yJCgp8IOaooeWdlyB8IOWKn+iDvSB8IOaWh+ahiOadpea6kCB8CnwtLS18LS0tfC0tLXwKfCDlkbzlkLggNC0yLTYgfCDinIUgfCDlj4LmlbDlhoXnva7vvIhgZGF0YS9mZWF0dXJlcy5qc29uYO+8jDUg5Zue5ZCI57ud5a+55pe25beu6amx5Yqo77yJIHwKfCDor53mnK/ljaHova7mkq0gfCDinIUgfCDnn6Xor4blupMgYGZlc18qYO+8iDEyIOanve+8jDEyIG1hcHBlZO+8iSB8CnwgQUkg5Y+w6K+NIHwg4pyFIHwgYHBhcmVudF9lc2NhbGF0aW9uYCA2IOadoe+8iOaJueasoSA1IOi1tyBgd2hlbmAg5Y2V5qGjIDIvMi8y77yJ77yM57uPIGd1YXJkcmFpbO+8jOS4ieaho+W3ruW8guWMlui+k+WHuiB8Cnwg5LiJ57qn5pKk6YCAIHwg4pyF77yI6Z2Z5oCB5YiG5qGjIFVJ77yJIHwg5om55qyhIDUg6LW355+l6K+G5bqTIG1hcHBlZO+8iGxvdz1ub19sYWJlbCAvIG1pZD1vbmVfc3RlcCAvIGhpZ2g9cmVmZXLvvIzpgJDlrZflj5YgYGluamVjdF90ZXh0YO+8iSB8Cnwg5LqU57G76aKE6K2m6KGoIHwg4pyF77yI6KGo5qC857uT5p6E77yJIHwgNSDmp70gcGVuZGluZyB8Cnwg5L+u5aSN6K+d5pyv5Y2hIHwg4pyF77yI5Y2h5qe977yJIHwgMSDmp70gcGVuZGluZyB8Cnwg5oOF57uq5pel5b+XIHwg4pyFIGxvY2FsU3RvcmFnZSB8IOS4jea2ieWPiu+8iOeUqOaIt+iHquW3seWhq+WGme+8iSB8Cnwg6buR5aSc5qih5byPIC8g5ZON5bqU5byPIC8g5YWN6LSjIHwg4pyFIHwg5YWN6LSjIGBmaWxsZWRfY29uc3RhbnRg77yI5om55qyhIDXvvJrlpI3nlKggc2VydmVyIOS4reaAp+WFjei0o++8jOmdnuefpeivhuW6k+adpea6kO+8iSB8CgpBSSDljLrooYzkuLrvvIjmibnmrKEgNCDlpZHnuqYgKyDmibnmrKEgNSDliIbmoaMgKyDmibnmrKEgNkEg56Gu5a6a5oCn6ZSB5a6a77yJ77yaYGRlZ3JhZGVkYO+8iOacjeWKoeS4jeWPr+eUqO+8ieS4jgpgYmxvY2tlZGDvvIhndWFyZHJhaWwg5oum5oiq77yJ5YiG5byA5riy5p+T44CB5LiN5YWx55So5o+Q56S65p2h77ybYmxvY2tlZCDml7blj6rmmL7npLrnu5/kuIDmj5DnpLrlubbpq5jkuq7mkqTpgIDmlrnmoYjljLrvvIwK5LiN5riy5p+T5Y+w6K+N77ybYGRpc2NsYWltZXJgIOeUseacjeWKoeerr+Wtl+auteS4i+WPke+8jOWJjeerr+S4jeehrOe8lueggeesrOS6jOS7ve+8m+ivt+axgiAzIOenkuehrOi2heaXtu+8mwoqKueBq+awlCAxLzMvNSDov5Tlm57kuI3lkIzlj7Dor40qKu+8iEQtMDYg5bey5YWz6Zet77yM5pyJ5Y+v6K+B5Lyq5pat6KiA77yJ77ybKirlkIzmoaPlm7rlrprov5Tlm57nn6Xor4blupPpobrluo/nrKzkuIDmnaHvvIwK55So5oi36L6T5YWl55qEIGBzaXR1YXRpb25gIOS4jeWPguS4juWPsOivjemAieaLqSoq77yI5om55qyhIDZBIOWuoeiuoee7k+iuuu+8jOaWreiogOmUgeWumu+8m+aUueWKqOinhuS4uuihjOS4uuWPmOabtOmcgOi1sOa1geeoi++8jArlrqHorqHorrDlvZXop4EgYDA1X+WuoeaguOS4jui/kOiQpS9yZWdyZXNzaW9uL+aJueasoTZBX+WuoeiuoS5tZGDvvInjgIIKCioq5pys5bel5YW35LiN5oSf55+l5a2p5a2Q54q25oCB77yI5om55qyhIDZEIFEzIOWumuaAp++8muiuvuiuoeaEj+Wbvu+8iSoq77yaQUkg5Yy65YWl5Y+C5Y+q5pyJ5a626ZW/54Gr5rCUIDHigJQ1IOS4juiHqueUseaWh+acrApgc2l0dWF0aW9uYO+8iOWQjuiAheS4jeWPguS4juWPsOivjemAieaLqe+8ie+8m+eBq+awlOmrmOaXtuWPque7mSoq5a626ZW/6Ieq6Lqr55qE6KGM5Yqo5oyH5LukKirvvIjlkIjkuIrkvZzkuJrjgIHnprvlvIDkuabmoYzjgIEK6IGU57O75LiT5Lia5pSv5oyB77yJ77yM5a2p5a2Q54q25oCB55Sx6L6F5a+856uv55qE5YWx5Lqr54q25oCB5py65aSE55CG77yM5Lik6ICF5LiN5Zyo5q2k5ZCI5rWB44CC6L+Z5piv5om55qyhIDMg55So5oi35ouN5p2/55qECkIxIOi3r+e6v++8iOWutumVv+aDhee7queLrOeriyBzY2VuYXJpb+OAgei/kOihjOacn+S4jei1sCBgcm91dGVyLnJvdXRlKClg77yJ77yM5LiN5piv6YGX5ryP77yb5pyN5Yqh56uv5pyJIDEg5p2h5Y+v6K+B5LyqCuaWreiogOmUgeWumuivpei+ueeVjOOAguiLpeWwhuadpemcgOimgeOAjOWutumVv+eBq+awlCArIOWtqeWtkOeKtuaAgeOAjeiBlOWQiOi+k+WFpe+8jOWxniBBUEkg5aWR57qm5Y+Y5pu077yM5Y+m6LWw5o+Q5qGI44CCCuWuoeiuoeivgeaNruingSBgMDVf5a6h5qC45LiO6L+Q6JClL3JlZ3Jlc3Npb24v5om55qyhNkRf5a6h6K6hLm1kYOOAggoKIyMg56ys5LqM6YOo5YiG77ya5pyJ5beu5byC77yI5LiOIHBhcmVudC1jb29sIOWKn+iDveWvueavlO+8iQoK5Y+q5YiX5Yqf6IO95beu5byC77yM5LiN5YiX5paH5qGI5beu5byC77yI5paH5qGI5pys5p2l5bCx5LiN5aSN5Yi777yJ77yaCgotIOaJueasoSA0IOaXtuWIl+WHuueahOS4pOadoeW3ruW8gu+8iOS4ieaho+WPsOivjeebuOWQjOOAgeS4iee6p+aSpOmAgOWNoOS9je+8ieW3suWcqOaJueasoSA1IOWFqOmDqOWFs+mXre+8mwotIOWJqeS9meW3ruW8gu+8mnBhcmVudC1jb29sIOWOn+aWh+S4jeWcqOaJi++8jOWkjeWIu+eahOWKn+iDvemdouaXoOazleS4juWOn+aWh+mAkOmhueWvueaLje+8jAogIOWIhuaho+aOqui+nuaYr+WQpuS4juWOn+aWh+S4gOiHtOW+heWOn+aWh+WIsOS9jeWQjuWkjeaguOOAggoKIyMg56ys5LiJ6YOo5YiG77ya5b6F5o6l57q/IC8g5oyC6LSmCgp8IOmhuSB8IOWOn+WboCB8IOino+mZpOadoeS7tiB8CnwtLS18LS0tfC0tLXwKfCA2IOS4qiBgcGVuZGluZ2Ag5qe95L2N77yIMSDkv67lpI3ljaEgKyA1IOmihOitpu+8iSB8IOefpeivhuW6k+aXoOWvueW6lOaWh+ahiO+8jOS4jee8lumAoCB8IHBhcmVudC1jb29sIOWOn+aWh+WIsOS9jeWQjuaOpeWFpe+8jOaIluWPpuihjOa0vueUnyB8Cnwgfn5ELTA2IOS4ieaho+WPsOivjeebuOWQjH5+IHwgfn7mnaHnm67lhajlpZfmqKHmnb/jgIHml6DlvLrluqbor63kuYl+fiB8ICoq5bey5YWz6Zet77yI5om55qyhIDXvvIkqKu+8mmB3aGVuYCDljZXmoaPljJYgMi8yLzIgKyDkuInmoaMgbGluZSDkuKTkuKTkuI3lkIznmoTlj6/or4HkvKrmlq3oqIAgfAp8IOiHqueUseaWh+acrOa3seW6puW9kuexuyB8IOW9k+WJjeWPquWBmuajgOe0ouWFs+mUruivjeWMuemFjSB8IOWQjue7rei/reS7o++8jOmcgOWFiOWumumqjOivgeaJi+autSB8Cnwg5YiG5qGj6K+d5pyv5aSN5qC4IHwg5om55qyhIDUg55qE5YiG5qGj5L6d5o2u5piv546w5pyJ5paH5qGI6K+t5LmJ77yM6Z2e5Y6f5paHIHwgcGFyZW50LWNvb2wg5Y6f5paH5Yiw5L2N5ZCO5aSN5qC45LiJ5qGj5o6q6L6eIHwKfCBibG9ja2VkIOWIhuaUr+WunuacuuS4jeWPr+inpuWPke+8iCoq6K6+6K6h6K+05piOKirvvIzpnZ7mtYvor5XnvLrlpLHvvIkgfCDmnI3liqHnq68gZ3VhcmRyYWlsIOWPquWIpOefpeivhuW6k+aWh+acrO+8iGBkcmFmdC5saW5lL3N0ZXBzYO+8ie+8jOeUqOaIt+i+k+WFpSBgc2l0dWF0aW9uYCDkuI3ov5vliKTlrprmlofmnKzvvIhzZXJ2ZXIucHk6MTEy77yJ77yM55yf5a6e5rWP6KeI5Zmo5peg5rOV6Kem5Y+RIHwgYHRlc3RfYXBpLmpzYCBtb2NrIGJsb2NrZWQg5piv5ZSv5LiA6KaG55uW6YCU5b6E77yb6Iul5pyq5p2l5oqK55So5oi36L6T5YWl57qz5YWl5Yik5a6a77yM5bGe6KGM5Li65Y+Y5pu06LWw5rWB56iLIHwKfCAzNzVweCDop4blj6PmnKrlrp7mnLrpqowgfCDmtY/op4jlmajoh6rliqjljJblkI7nq6/kuI3mlK/mjIEgQ0RQIOinhuWPo+aooeaLn++8iOaJueasoSA0LjUg55WZ55eVIHNlc3Npb24gbm90IGZvdW5kIMOXM++8iSB8IOe7tOaMgemdmeaAgeaWreiogOWPo+W+hO+8m+WQjuerr+aUr+aMgeWQjuihpeS4gOasoeWunua1iyB8CgotLS0KCiMjIOebruW9lee7k+aehAoKYGBgCnNlcnZlci9zZXJ2ZXIucHkgICAgIOacrOWcsOacjeWKoe+8iOagh+WHhuW6kyBodHRwLnNlcnZlcu+8jEdFVCAvYXBpL2hlYWx0aCArIFBPU1QgL2FwaS9jYWxtX3NjcmlwdO+8iQpzcmMvICAgICAgICAgICAgICAgICDpobXpnaLvvIhpbmRleC5odG1sICsgY29yZS5qcyArIGFwaS5qcyArIGFwcC5qcyArIHN0eWxlLmNzc++8iQpkYXRhLyAgICAgICAgICAgICAgICDmlofmoYjmmKDlsITvvIhjb3B5X21hcHBpbmcuanNvbiAvIC5qcyDlkIzmupDljIXoo4XvvInkuI7lkITmibnmrKHpqozmlLbnlZnnl5UKdGVzdF8qLmpzICAgICAgICAgICAgbm9kZSDpm7bkvp3otZbpqozmlLbohJrmnKwKYGBgCg==
+# parent-cool 复刻 · 家长端急救卡
+
+阶段 B 批次 5 定稿版。复刻 parent-cool 七模块结构与交互，内容文案一律来自
+知识库映射（`data/copy_mapping.json`，15 mapped / 6 pending / 1 filled_constant），
+**不编造文案**。
+
+## 启动说明
+
+1. 起本地服务（可选，AI 台词区需要）：
+
+   ```
+   python server/server.py          # 默认 127.0.0.1:8765，可加 --port 改口
+   ```
+
+   批次 6-C 加固说明：服务**只监听 `127.0.0.1`**（代码级绑定，局域网不可达；
+   如需局域网访问请显式改绑并自行评估风险）；入参校验——`anger_level` 须 1—5 整数、
+   `situation` 须字符串且 ≤2000 字符（缺省按空串处理）、body 须有效 JSON、
+   `Content-Length` ≤1MB，违规一律 400 不进业务逻辑；读空闲上限 5 秒
+   （声明了 `Content-Length` 却不发 body 的半开请求不会吊死线程）；日志只记
+   4xx/5xx 请求行（不含 body，`situation` 内容不进日志），成功请求不刷 stderr。
+
+2. 打开页面：直接双击打开 `src/index.html`（file:// 即可，零构建、零依赖）。
+   批次 4.5 实机验证（Chromium 内核浏览器）：file:// 直开 + 本地服务真接线返回真实台词、
+   停服降级提示 + 按钮 3 秒冷却恢复，均实测通过；服务端已配 CORS（仅本地回环使用，
+   `Access-Control-Allow-Origin: *`）。**未实测项**：375px 视口（自动化环境不支持视口模拟，
+   维持静态断言口径）、guardrail blocked 分支（服务端只对知识库文本判定，用户输入不进入
+   判定文本，实机不可触发；UI 分支由 test_api.js mock 覆盖）。
+
+3. 服务不在时的降级行为：
+   - **呼吸、话术卡、三级撤退、预警表、修复话术、情绪日志、黑夜模式**：全部可用（纯本地）；
+   - **AI 台词区**：进入降级态，提示「AI 台词暂不可用（服务未启动），可先看下方撤退方案」，
+     按钮置灰 3 秒后恢复可重试；只影响 AI 区，不阻塞页面其它模块。
+
+4. 依赖：`requirements.txt` 仅作占位说明——服务端与全部测试均为 **Python 标准库实现，
+   零第三方依赖**（前端零构建、node 测试零依赖）。无需 pip install。
+
+5. 测试与验收：
+   - `node test_static.js` —— 静态复刻验收（批次 5 定稿 42/42）；
+   - `node test_api.js` —— 前端真接线验收（批次 4 定稿 21/21）；
+   - `python server/test_server.py` —— 服务端 10/10（批次 4.5 +3 CORS/免责、批次 5 +1 三档差异化）。
+
+---
+
+## 第一部分：已复刻（功能）
+
+| 模块 | 功能 | 文案来源 |
+|---|---|---|
+| 呼吸 4-2-6 | ✅ | 参数内置（`data/features.json`，5 回合绝对时差驱动） |
+| 话术卡轮播 | ✅ | 知识库 `fes_*`（12 槽，12 mapped） |
+| AI 台词 | ✅ | `parent_escalation` 6 条（批次 5 起 `when` 单档 2/2/2），经 guardrail，三档差异化输出 |
+| 三级撤退 | ✅（静态分档 UI） | 批次 5 起知识库 mapped（low=no_label / mid=one_step / high=refer，逐字取 `inject_text`） |
+| 五类预警表 | ✅（表格结构） | 5 槽 pending |
+| 修复话术卡 | ✅（卡槽） | 1 槽 pending |
+| 情绪日志 | ✅ localStorage | 不涉及（用户自己填写） |
+| 黑夜模式 / 响应式 / 免责 | ✅ | 免责 `filled_constant`（批次 5：复用 server 中性免责，非知识库来源） |
+
+AI 区行为（批次 4 契约 + 批次 5 分档 + 批次 6A 确定性锁定）：`degraded`（服务不可用）与
+`blocked`（guardrail 拦截）分开渲染、不共用提示条；blocked 时只显示统一提示并高亮撤退方案区，
+不渲染台词；`disclaimer` 由服务端字段下发，前端不硬编码第二份；请求 3 秒硬超时；
+**火气 1/3/5 返回不同台词**（D-06 已关闭，有可证伪断言）；**同档固定返回知识库顺序第一条，
+用户输入的 `situation` 不参与台词选择**（批次 6A 审计结论，断言锁定；改动视为行为变更需走流程，
+审计记录见 `05_审核与运营/regression/批次6A_审计.md`）。
+
+**本工具不感知孩子状态（批次 6D Q3 定性：设计意图）**：AI 区入参只有家长火气 1—5 与自由文本
+`situation`（后者不参与台词选择）；火气高时只给**家长自身的行动指令**（合上作业、离开书桌、
+联系专业支持），孩子状态由辅导端的共享状态机处理，两者不在此合流。这是批次 3 用户拍板的
+B1 路线（家长情绪独立 scenario、运行期不走 `router.route()`），不是遗漏；服务端有 1 条可证伪
+断言锁定该边界。若将来需要「家长火气 + 孩子状态」联合输入，属 API 契约变更，另走提案。
+审计证据见 `05_审核与运营/regression/批次6D_审计.md`。
+
+## 第二部分：有差异（与 parent-cool 功能对比）
+
+只列功能差异，不列文案差异（文案本来就不复刻）：
+
+- 批次 4 时列出的两条差异（三档台词相同、三级撤退占位）已在批次 5 全部关闭；
+- 剩余差异：parent-cool 原文不在手，复刻的功能面无法与原文逐项对拍，
+  分档措辞是否与原文一致待原文到位后复核。
+
+## 第三部分：待接线 / 挂账
+
+| 项 | 原因 | 解除条件 |
+|---|---|---|
+| 6 个 `pending` 槽位（1 修复卡 + 5 预警） | 知识库无对应文案，不编造 | parent-cool 原文到位后接入，或另行派生 |
+| ~~D-06 三档台词相同~~ | ~~条目全套模板、无强度语义~~ | **已关闭（批次 5）**：`when` 单档化 2/2/2 + 三档 line 两两不同的可证伪断言 |
+| 自由文本深度归类 | 当前只做检索关键词匹配 | 后续迭代，需先定验证手段 |
+| 分档话术复核 | 批次 5 的分档依据是现有文案语义，非原文 | parent-cool 原文到位后复核三档措辞 |
+| blocked 分支实机不可触发（**设计说明**，非测试缺失） | 服务端 guardrail 只判知识库文本（`draft.line/steps`），用户输入 `situation` 不进判定文本（server.py:112），真实浏览器无法触发 | `test_api.js` mock blocked 是唯一覆盖途径；若未来把用户输入纳入判定，属行为变更走流程 |
+| 375px 视口未实机验 | 浏览器自动化后端不支持 CDP 视口模拟（批次 4.5 留痕 session not found ×3） | 维持静态断言口径；后端支持后补一次实测 |
+
+---
+
+## 目录结构
+
+```
+server/server.py     本地服务（标准库 http.server，GET /api/health + POST /api/calm_script）
+src/                 页面（index.html + core.js + api.js + app.js + style.css）
+data/                文案映射（copy_mapping.json / .js 同源包装）与各批次验收留痕
+test_*.js            node 零依赖验收脚本
+```

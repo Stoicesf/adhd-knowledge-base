@@ -1,1 +1,48 @@
-LS0tCmlkOiBwY193YXJuaW5nX211c2NsZV8wMQp0eXBlOiBleHBsYW5hdG9yeQphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBwYXJlbnRfZXNjYWxhdGlvbgpleGVjX3RhcmdldDog5oOF57uq6LCD6IqCCmV2aWRlbmNlX2xldmVsOiBDCmNvbnRyYWluZGljYXRpb25fZmxhZzogY2F1dGlvbgpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTE1CnNvdXJjZV9pZDogZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnQKc291cmNlX3ZlcnNpb246ICIyMDI2LTExLTE1Igp0ZW1wbGF0ZV9yZWY6IFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxCnByb3Bvc2FsX3JlZjogUFJPUC0wMDA3CndoZW46CiAgcGFyZW50X2FmZmVjdF9sZXZlbDogW2xvdywgbWlkLCBoaWdoXQppbmplY3RfdGV4dDogfAogIOiCjOiCiee5g+e3iuOAguaJi+W/g+WHuuaxl+OAguaFouaFouWcsOWRvOWQuOOAguWcqOWQuOawo+aZguW/g+ijoem7mOW/tSAx77yM5ZG85rCj5pmC5pS+6ayG6Lqr6auU44CC5YiG5pWj5rOo5oSP5Yqb44CCCi0tLQoKIyBwY193YXJuaW5nX211c2NsZV8wMQoK6IKM6IKJ6aKE6K2m77ya57Sn57u35pe25YWI5pS+5p2+6Lqr5L2TCgotICoq5a2X5q615L6d5o2uKirvvJpgUFJPUC0wMDA3YO+8iOaJueasoSA4IOaOiOadg+aKk+WPluadpea6kOaOpeWFpe+8ie+8mwogICoq5Zy65pmv5L6d5o2uKirvvJpgUFJPUC0wMDA1YO+8iGBwYXJlbnRfZXNjYWxhdGlvbmAgKyBgUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDFg77yJ44CCCiAgKirmnaXmupAqKu+8mmBmaHNfaGtfYW5nZXJfbWFuYWdlbWVudGAg5o6l5YWl5Y2h44CCCiAgYGluamVjdF90ZXh0YCDnmoTmr4/kuIDlj6XpgJDlrZflj5boh6ogYDAwX+adpea6kOayu+eQhi9fc3RhZ2luZy9gIOWvueW6lOS4reaWh+WOn+aWh++8jOeUsQogIGAwM19hZ2VudOe8luivkS9kZXJpdmVfYmF0Y2g4X2VudHJpZXMucHlgIOacuuaisOaRmOWPlu+8jOacquaUueWGmeOAgeacquamguaLrOOAgeacquaWsOWinuOAggotICoq5qe95L2NKirvvJpgd2FybmluZ19zaWduc1/ogozogolg77yI5om55qyhIDgg5Zue5aGr5Li6IG1hcHBlZO+8iQotICoq6K+t5LmJ6L6555WMKirvvJrkv6Hlj7fpgJDlrZflj5YgZmhz44CM6IKM6IKJ57mD57eK44CN77yb5Yqo5L2c6YCQ5a2X5Y+WIGZoc+OAjOaFouaFouWcsOWRvOWQuOKApuaUvumshui6q+mrlOOAjeOAggogIOacrOadoeebruaYr+OAjOmAkOWtl+aRmOWPpemHjee7hCArIOWutumVv+eBq+awlOWcuuaZr+agh+etvuOAje+8jOWPquS9nOS6lOexu+mihOitpi/kv67lpI3nmoQKICDlj4LogIPmlofmoYjvvJvkv6Hlj7fkuI7liqjkvZzliIbliJfvvIzliqjkvZzliJfpgJDlrZflj5boh6rkuK3mlofmnaXmupDvvIzkuI3pgJDnsbvnvJbpgKDjgIIKICDoi7HmlofmnaXmupDvvIhOSFMgLyBQS0ogLyBDYWxtSG9tZe+8ieS7hSBfc3RhZ2luZyDnlZnnl5XkvZzlj4LnhafvvIzkuI3mtL7nlJ/jgIIKLSBgd2hlbmAg5Lil5qC85aWX5qih5p2/5LiJ5qGjIGBbbG93LCBtaWQsIGhpZ2hdYO+8iOS4jeWNleaho+WMlu+8jOeQhueUseingSBQUk9QLTAwMDfvvInvvJsKICDkupTnsbvpooTorabkuI7kv67lpI3ljaHmmK8qKueBq+awlOS4iuWNhy/kuovlkI4qKueahOmAmueUqOWPguiAg++8jOS4jeaMieeBq+awlCAx4oCUNSDliIbmoaPjgIIKCiMjIOmAkOWPpeadpea6kO+8iOWPr+Wkjei3keavlOWvue+8iQoKfCDlj6Xluo8gfCDmnaXmupAgc3RhZ2luZyDmlofku7YgfCDpgJDlrZfniYfmrrUgfAp8LS0tfC0tLXwtLS18CnwgMSB8IGBmaHNfZ292X2hrX3BhcmVudF9hbmdlcl9tYW5hZ2VtZW50X3RjXzIwMjYtMTEtMTUubWRgIHwg6IKM6IKJ57mD57eKIHwKfCAyIHwgYGZoc19nb3ZfaGtfcGFyZW50X2FuZ2VyX21hbmFnZW1lbnRfdGNfMjAyNi0xMS0xNS5tZGAgfCDmiYvlv4Plh7rmsZcgfAp8IDMgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOaFouaFouWcsOWRvOWQuCB8CnwgNCB8IGBmaHNfZ292X2hrX3BhcmVudF9hbmdlcl9tYW5hZ2VtZW50X3RjXzIwMjYtMTEtMTUubWRgIHwg5Zyo5ZC45rCj5pmC5b+D6KOh6buY5b+1IDHvvIzlkbzmsKPmmYLmlL7prIbouqvpq5QgfAp8IDUgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOWIhuaVo+azqOaEj+WKmyB8CgotIOexu+WeiyBgZXhwbGFuYXRvcnlg44CB5pegIGBjYWxsYWJsZWDjgIHml6AgYGV4aXRfd2hlbmDvvIzlj6rov5sgYGNodW5rcy5qc29ubGDvvIwKICDkuI3kuqcgYHNraWxsX3JlZ2lzdHJ5Lmpzb25gIOadoeebruOAggo=
+---
+id: pc_warning_muscle_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: caution
+last_reviewed: 2026-11-15
+source_id: fhs_hk_anger_management
+source_version: "2026-11-15"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0007
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+  肌肉繃緊。手心出汗。慢慢地呼吸。在吸氣時心裡默念 1，呼氣時放鬆身體。分散注意力。
+---
+
+# pc_warning_muscle_01
+
+肌肉预警：紧绷时先放松身体
+
+- **字段依据**：`PROP-0007`（批次 8 授权抓取来源接入）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  **来源**：`fhs_hk_anger_management` 接入卡。
+  `inject_text` 的每一句逐字取自 `00_来源治理/_staging/` 对应中文原文，由
+  `03_agent编译/derive_batch8_entries.py` 机械摘取，未改写、未概括、未新增。
+- **槽位**：`warning_signs_肌肉`（批次 8 回填为 mapped）
+- **语义边界**：信号逐字取 fhs「肌肉繃緊」；动作逐字取 fhs「慢慢地呼吸…放鬆身體」。
+  本条目是「逐字摘句重组 + 家长火气场景标签」，只作五类预警/修复的
+  参考文案；信号与动作分列，动作列逐字取自中文来源，不逐类编造。
+  英文来源（NHS / PKJ / CalmHome）仅 _staging 留痕作参照，不派生。
+- `when` 严格套模板三档 `[low, mid, high]`（不单档化，理由见 PROP-0007）；
+  五类预警与修复卡是**火气上升/事后**的通用参考，不按火气 1—5 分档。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源 staging 文件 | 逐字片段 |
+|---|---|---|
+| 1 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 肌肉繃緊 |
+| 2 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 手心出汗 |
+| 3 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 慢慢地呼吸 |
+| 4 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 在吸氣時心裡默念 1，呼氣時放鬆身體 |
+| 5 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 分散注意力 |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。

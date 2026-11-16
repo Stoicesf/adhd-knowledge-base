@@ -1,1 +1,55 @@
-LS0tCmlkOiBwY19lc2NhbGF0aW9uX29uZV9zdGVwXzAxCnR5cGU6IGV4cGxhbmF0b3J5CmF1ZGllbmNlOiBwYXJlbnQKc2NlbmFyaW86IHBhcmVudF9lc2NhbGF0aW9uCmV4ZWNfdGFyZ2V0OiDmg4Xnu6rosIPoioIKZXZpZGVuY2VfbGV2ZWw6IEMKY29udHJhaW5kaWNhdGlvbl9mbGFnOiBzYWZlCmxhc3RfcmV2aWV3ZWQ6IDIwMjYtMTEtMTQKc291cmNlX2lkOiBwYXJlbnRfY29vbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEtMTMiCnRlbXBsYXRlX3JlZjogUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDEKcHJvcG9zYWxfcmVmOiBQUk9QLTAwMDUKd2hlbjoKICBwYXJlbnRfYWZmZWN0X2xldmVsOiBbbWlkXQpkZXZpYXRpb246CiAga2luZDogdmFsdWVfYWRqdXN0ZWQKICByZWFzb246ICJwYXJlbnRfYWZmZWN0X2xldmVsIOaMieaho+S9jeaUtueqhO+8iFtsb3csIG1pZCwgaGlnaF0g4oaSIFttaWRd77yM5om55qyhIDUg5YWz6ZetIEQtMDbvvInvvJrlrqPluIPku4rmmZrnu4jngrnjgIHlgZrlrozlsLHmlLbvvIzlsZ7kuK3mlq3ljYfnuqfnmoTmmoLlgZzliqjkvZzvvIzku4UgbWlkIOaho+inpuWPkSIKaW5qZWN0X3RleHQ6IHwKICDku4rmmZrlj6rnlZnkuIDkuKrku7vliqHvvIzmoIflh4bmmK/jgIzku5bnnIvkuIDnnLzmhL/mhI/lvIDlp4vjgIHkuIDkuKrmmZrkuIrog73mlLblsL7jgI3jgILmlLnnlKjjgIzlgZrlrozov5nlh6DmraXlsLHmlLbjgI3vvJrikaDmiorku4rmmZropoHlgZrnmoTlhpnmiJDmnKzlrZDkuIrnmoTkuInooYznn63lj6XvvIzkuIDooYzkuIDkuKrliqjkvZzvvJvikaHmr4/lgZrlrozkuIDooYzvvIzorqnku5boh6rlt7HliJLmjonvvJvikaLkuInooYzliJLlrozlsLHmmK/ku4rmmZrnmoTnu4jngrnvvIzkuI3lho3ov73liqDjgILkuI3ov73liqDnrKzkuozpgZPvvIzkuI3or7TmmI7lpKnopoHooaXlm57mnaXjgILnrYnku5bov57nnYDlgZrlrozov5nkuIDmraXjgIHlm57liLDpopjnm67kuIrvvIzlsLHmioror53mlLbkvY/vvIzku4rmmZrlj6rnu5nov5nkuIDkuKrliqjkvZzjgILovrnnlYznlLHjgIzlgZrlrozjgI3ogIzkuI3mmK/jgIzliLDngrnjgI3lhrPlrprvvIzlranlrZDog73nnIvop4Hnu4jngrnlnKjlk6rvvJvov57nnYDkuKTmmZrpg73og73mjInov5nkuKrmlLblsL7vvIzlsLHmiorlroPkuqTov5jnu5nku5boh6rlt7HlronmjpLjgIIKLS0tCgojIHBjX2VzY2FsYXRpb25fb25lX3N0ZXBfMDEKCuS7iuaZmuWPqueVmeS4gOS4quiDveaUtuWwvueahOWKqOS9nO+8jOWBmuWujOWwseaUtgoKLSAqKuWtl+auteS+neaNrioq77yaYFBST1AtMDAwNGDvvIhgcGFyZW50X2FmZmVjdF9sZXZlbGAg6L+bIGB3aGVuYCDnmb3lkI3ljZXvvInvvJsKICAqKuWcuuaZr+S+neaNrioq77yaYFBST1AtMDAwNWDvvIhgcGFyZW50X2VzY2FsYXRpb25gICsgYFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxYO+8ieOAggogIOWQjuiAheWGmeWcqCBgcHJvcG9zYWxfcmVmYO+8jOWJjeiAheWcqOacrOihjOeVmeeXle+8jOWPjOWQkeWPr+i/vea6r+OAggotICoq5p2l5rqQKirvvJpgcGFyZW50X2Nvb2xgIOaOpeWFpeWNoe+8iGBwcm9qZWN0X2ludGVybmFsYO+8jOWOn+aWh+S4jeWcqOaJi++8ieOAggogIGBpbmplY3RfdGV4dGAg55qE5q+P5LiA5Y+l6YCQ5a2X5Y+W6Ieq546w5pyJIDE4IOadoea6kOadoeebru+8jOeUsQogIGAwM19hZ2VudOe8luivkS9kZXJpdmVfYmF0Y2gzX2VudHJpZXMucHlgIOaMieWPpeW6j+WPt+acuuaisOaLvOaOpe+8jOacquaUueWGmeOAgeacquamguaLrOOAgeacquaWsOWinuOAggotICoq5qe95L2NKirvvJpgc2NyaXB0X2NhcmRfMTFg77yI5om55qyhIDMg5Zue5aGr5Li6IG1hcHBlZO+8iQotICoq6K+t5LmJ6L6555WMKirvvJrjgIzlgZrlrozlsLHmlLbjgI3nmoTovrnnlYzvvJvkuI3mm7/ku6PkuInmoaPmkqTpgIDliIbnuqfmlofmoYjjgIIKICDnjrDmnIkgMTgg5p2h5YWo5Li65a2m56eR6L6F5a+85pSv5p6277yM5pys5p2h5piv44CM6YCQ5a2X5pGY5Y+l6YeN57uEICsg5paw5Zy65pmv5qCH562+44CN77yMCiAgKirkuI3mnoTmiJDlrrbplb/ngavmsJQgMeKAlDUg5YiG5qGj5YaF5a65KirvvJvliIbmoaPor53mnK/jgIHkupTnsbvouqvkvZPpooTorabooajjgIHkv67lpI3or53mnK/jgIEKICDlhY3otKPlo7DmmI7ljp/mloflnYfml6DmnaXmupDvvIzmjInkuI3nvJbpgKDnuqrlvovlnKggYGNvcHlfbWFwcGluZy5qc29uYCDkv53nlZkKICBgcGVuZGluZ19iYXRjaDNgIOWNoOS9jeOAggoKIyMg6YCQ5Y+l5p2l5rqQ77yI5Y+v5aSN6LeR5q+U5a+577yJCgp8IOWPpeW6jyB8IOadpea6kOadoeebriB8IOWOn+WPpeW6j+WPtyB8CnwtLS18LS0tfC0tLXwKfCAxIHwgYGZlc19wYXJlbnRfbG93X3ByZXNzdXJlXzAxYCB8IFswXSB8CnwgMiB8IGBmZXNfcGFyZW50X29uZV9uaWdodF9zY29wZV8wMWAgfCBbMV0gfAp8IDMgfCBgZmVzX3BhcmVudF9sb3dfcHJlc3N1cmVfMDFgIHwgWzJdIHwKfCA0IHwgYGZlc19wYXJlbnRfc2V0dGxlXzAxYCB8IFs3XSB8CnwgNSB8IGBmZXNfcGFyZW50X29uZV9uaWdodF9zY29wZV8wMWAgfCBbNV0gfAoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIKLSBgd2hlbmAg5om55qyhIDUg5oyJ5qGj5L2N5pS256qE5Li6IGBbbWlkXWDvvIjliIbmoaPkvp3mja7vvJrlrqPluIPku4rmmZrnu4jngrnjgIHlgZrlrozlsLHmlLbvvIzkuK3mlq3ov73liqDljYfnuqfvvInvvIwKICDnm7jlr7nmqKHmnb/kuLrlj5blgLzlrZDpm4bvvIzmnaHnm67mmL7lvI/orrAgYGRldmlhdGlvbjogdmFsdWVfYWRqdXN0ZWRg77yIcmVhc29uIOingSBmcm9udCBtYXR0ZXLvvInvvIwKICDljZXliJfkuI3ov5vkuLvlgY/nprvnjofvvJvlhbPpl60gRC0wNu+8jOS4ieaho+WIhuW4gyBsb3c9bm9fbGFiZWwvcmVzdGF0ZeOAgW1pZD1vbmVfc3RlcC9zY29wZeOAgQogIGhpZ2g9c3RvcC9yZWZlcu+8iOWQhCAyIOadoe+8ie+8jOS4jiBnb2xkZW4gYHRyX1BFMDEuLlBFMDZgIOmAkOadoeS4gOiHtOOAggo=
+---
+id: pc_escalation_one_step_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: safe
+last_reviewed: 2026-11-14
+source_id: parent_cool
+source_version: "2026-11-13"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0005
+when:
+  parent_affect_level: [mid]
+deviation:
+  kind: value_adjusted
+  reason: "parent_affect_level 按档位收窄（[low, mid, high] → [mid]，批次 5 关闭 D-06）：宣布今晚终点、做完就收，属中断升级的暂停动作，仅 mid 档触发"
+inject_text: |
+  今晚只留一个任务，标准是「他看一眼愿意开始、一个晚上能收尾」。改用「做完这几步就收」：①把今晚要做的写成本子上的三行短句，一行一个动作；②每做完一行，让他自己划掉；③三行划完就是今晚的终点，不再追加。不追加第二道，不说明天要补回来。等他连着做完这一步、回到题目上，就把话收住，今晚只给这一个动作。边界由「做完」而不是「到点」决定，孩子能看见终点在哪；连着两晚都能按这个收尾，就把它交还给他自己安排。
+---
+
+# pc_escalation_one_step_01
+
+今晚只留一个能收尾的动作，做完就收
+
+- **字段依据**：`PROP-0004`（`parent_affect_level` 进 `when` 白名单）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  后者写在 `proposal_ref`，前者在本行留痕，双向可追溯。
+- **来源**：`parent_cool` 接入卡（`project_internal`，原文不在手）。
+  `inject_text` 的每一句逐字取自现有 18 条源条目，由
+  `03_agent编译/derive_batch3_entries.py` 按句序号机械拼接，未改写、未概括、未新增。
+- **槽位**：`script_card_11`（批次 3 回填为 mapped）
+- **语义边界**：「做完就收」的边界；不替代三档撤退分级文案。
+  现有 18 条全为学科辅导支架，本条是「逐字摘句重组 + 新场景标签」，
+  **不构成家长火气 1—5 分档内容**；分档话术、五类身体预警表、修复话术、
+  免责声明原文均无来源，按不编造纪律在 `copy_mapping.json` 保留
+  `pending_batch3` 占位。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源条目 | 原句序号 |
+|---|---|---|
+| 1 | `fes_parent_low_pressure_01` | [0] |
+| 2 | `fes_parent_one_night_scope_01` | [1] |
+| 3 | `fes_parent_low_pressure_01` | [2] |
+| 4 | `fes_parent_settle_01` | [7] |
+| 5 | `fes_parent_one_night_scope_01` | [5] |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。
+- `when` 批次 5 按档位收窄为 `[mid]`（分档依据：宣布今晚终点、做完就收，中断追加升级），
+  相对模板为取值子集，条目显式记 `deviation: value_adjusted`（reason 见 front matter），
+  单列不进主偏离率；关闭 D-06，三档分布 low=no_label/restate、mid=one_step/scope、
+  high=stop/refer（各 2 条），与 golden `tr_PE01..PE06` 逐条一致。

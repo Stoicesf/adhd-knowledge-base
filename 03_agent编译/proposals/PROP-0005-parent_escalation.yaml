@@ -1,1 +1,146 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDmianlsZXmj5DmoYggUFJPUC0wMDA177yIQiDnsbsgwrcgZnVsbCDCtyDpmLbmrrUgQiDmibnmrKEgM++8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIHNjZW5hcmlvOiBwYXJlbnRfZXNjYWxhdGlvbiDov5sgc2NoZW1hL2VudHJ5LnlhbWwg5p6a5Li+77yMCiMg6YWN5aWXIFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAx77yIcmVxdWlyZWRfcGFyYW1zIOaYvuW8j+ixgeWFje+8ieOAggojIOS4jiBQUk9QLTAwMDQg5ZCM5om55Y6f5a2Q6JC95Zyw77yb5Lik5o+Q5qGI5LqS55u45L6d6LWW77yM5LiN5Y2V54us5pS+6KGM44CCCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cgpwcm9wb3NhbF9pZDogUFJPUC0wMDA1CnR5cGU6IEIgICAgICAgICAgICAgICAgICAgICMgQiDmlrDlnLrmma/nsbvlnosg4oaSIGZ1bGwKdGl0bGU6ICLmlrDlop4gc2NlbmFyaW86IHBhcmVudF9lc2NhbGF0aW9uIOS4jiBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMe+8iOWutumVv+aDhee7queLrOeri+WcuuaZr++8iSIKCnJlcXVpcmVtZW50OiA+CiAg5a626ZW/54Gr5rCU5oCl5pWR5piv54us56uL5LqO6L6F5a+854q25oCB5py655qE5Zy65pmv77yac2VydmVyLnB5IOeahAogIGhhbmRsZV9wYXJlbnRfZXNjYWxhdGlvbigpIOWPquiwgyBidWlsZC5yZXRyaWV2ZSArIGd1YXJkcmFpbF9ub2RlLmp1ZGdl77yMCiAgKirkuI3osIMgcm91dGVyLnJvdXRlKCkqKuOAguS9hiBzY2hlbWEvZW50cnkueWFtbCB2MS4xIOeahCBzY2VuYXJpbyDmnprkuL7lj6rmnIkKICB0YXNrX2luaXRpYXRpb24gLyBhdHRlbnRpb25fZHJpZnQgLyBmcnVzdHJhdGlvbl9lc2NhbGF0aW9uIC8KICB3bV9vdmVybG9hZCAvIHRyYW5zaXRpb24g5LqU5Liq77yM5YWo6YOo5o+P6L+w5a2p5a2Q5L2c5Lia6L+H56iL77ybcm91dGVyLmluX3Njb3BlKCkKICDmjIkgc2NlbmFyaW8g57K+56Gu5pS256qE77yM6Iul5oqK5a626ZW/5oCl5pWR5p2h55uu5aGe6L+b5pei5pyJ5p6a5Li+77yM5Lya5LiO6L6F5a+86L2o6L+55LqS55u4CiAg5rGh5p+T77yM5Lmf5peg5rOV6K6pIHJldHJpZXZlKCJwYXJlbnQiLCJwYXJlbnRfZXNjYWxhdGlvbiIsLi4uKSDni6znq4vlkb3kuK3jgIIKCndoeV9leGlzdGluZ19pbnN1ZmZpY2llbnQ6ID4KICDkuInkuKrnjrDmnInov5HkvLzmlrnmoYjpgJDkuIDor5Xov4fvvIzlnYflpLHotKXjgIIKICDikaAg5aSN55SoIGZydXN0cmF0aW9uX2VzY2FsYXRpb27vvJror6XmnprkuL7lnKjnjrDmnIkgNSDmnaEgZmVzXyog5p2h55uu6YeM5piO56Gu5oyHCiAgICAg44CM5oyJ5a2p5a2Q54q25oCBIC8g5aSx6LSl5qyh5pWw6Kem5Y+R55qE6L6F5a+85pSv5p6244CN77yI5om55qyhIDAg55uY54K5IG5vdGUg6YCQ5a2X6K6w5b2V77yJ77yMCiAgICAg5Li75L2T5piv5a2p5a2Q5oyr6LSl77yM5LiN5piv5a626ZW/54Gr5rCU44CC5oqK5a626ZW/6Ieq5pWR6K+d5pyv5oyC6L+b5Y675ZCO77yMCiAgICAgYnVpbGQucmV0cmlldmUg5LiOIHJvdXRlci5yb3V0ZSDlnKggZnJ1c3RyYXRpb25fZXNjYWxhdGlvbiDkuIrkvJrlkIzml7YKICAgICDlkb3kuK3kuKTnsbvor63kuYnkuI3lkIznmoTmnaHnm67vvIzml6LmnIkgNyDmnaEgZmVzXyog6L2o6L+555qEIGluamVjdGVkX2NvbnRhaW5zCiAgICAg5pat6KiA5Lya6KKr5rGh5p+T77yM5LiU5YiG5LiN5riF5ZOq5p2h5piv57uZ6LCB55qE44CCCiAg4pGhIOWkjeeUqCBhdHRlbnRpb25fZHJpZnQg5oiWIHdtX292ZXJsb2Fk77ya6L+Z5Lik5Liq5p6a5Li+5bGe5LqO5a2m56eR6L6F5a+85pSv5p6277yMCiAgICAg5a626ZW/54Gr5rCU5Y2H6auY5pe25a2p5a2Q5Y+v6IO95a6M5YWoIG9uLXRhc2vjgIHpm7botJ/ojbfvvIzosJPor43mnaHku7bplJnphY3vvJsKICAgICDlubbkuJQgcm91dGVyLnJvdXRlIOeahCBza2lsbCDkvJjlhYjnuqfkvJrlhYjlkb3kuK3ovoXlr7wgc2tpbGzvvIzmiormnKzor6UKICAgICDjgIzlrrbplb/lhYjnprvlvIDkuabmoYzjgI3nmoTmgKXmlZHor53mnK/pnZnpu5jmjonjgIIKICDikaIg5LiN6L+bIHNjZW5hcmlvIOaemuS4vuOAgeWPqumdoCBhdWRpZW5jZT1wYXJlbnQgKyDoh6rlrprkuYkgd2hlbiDlrZfmrrXljLrliIbvvJoKICAgICBzY2VuYXJpbyDmmK8gc2NoZW1hX2NoZWNrIOeahOmhtuWxguW/heWhq+aemuS4vu+8jOS4jeWhq+WNs+e8luivkeWksei0pe+8mwogICAgIOiAjCByb3V0ZXIuaW5fc2NvcGUoKSDkuI4gYnVpbGQucmV0cmlldmUoKSDpg73ku6Ugc2NlbmFyaW8g5YGa56ys5LiA6YGTCiAgICAg57uT5p6E5YyW6L+H5ruk77yM57uV6L+H5a6D562J5LqO6K6p5a626ZW/5oCl5pWR5p2h55uu5Zyo5omA5pyJ6L6F5a+85Zy65pmv6YeM6YO95Y+v6IO95ZG95Lit44CCCiAg57uT6K6677ya6L+Z5piv5qih5p2/5bqT57y65Zy65pmv57G75Z6L77yI5rWB56iLIMKn5YWt77yJ77yM5LiN5piv5qih5p2/5a2Y5Zyo5L2G5LiN5aSf77yMCiAg5b+F6aG75o+QIEIg57G75o+Q5qGI77yM5LiN6IO96Z2g6K6w5YGP56a75raI5YyW44CCCgpwcm9wb3NhbDogPgogIOKRoCBzY2hlbWEvZW50cnkueWFtbCDnmoQgc2NlbmFyaW8udmFsdWVzIOWiniBwYXJlbnRfZXNjYWxhdGlvbgogICAgIO+8iOS4jiBQUk9QLTAwMDQg5ZCM5om55Y2HIHYxLjLvvInvvJsKICDikaEgMDNfYWdlbnTnvJbor5EvdGVtcGxhdGVzL3ByZWRpY2F0ZV90ZW1wbGF0ZXMueWFtbCDlop7vvJoKICAgICAgIGlkOiBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMQogICAgICAgc2NlbmFyaW86IHBhcmVudF9lc2NhbGF0aW9uCiAgICAgICBhcHBsaWVzX3RvOiBbZXhwbGFuYXRvcnldCiAgICAgICB3aGVuOiB7cGFyZW50X2FmZmVjdF9sZXZlbDogW2xvdywgbWlkLCBoaWdoXX0KICAgICAgIHBhcmFtczogW10KICAgICAgIHJlcXVpcmVkX3BhcmFtczogW10KICAgICAgIGV4ZW1wdF9yZWFzb246ICLlrrbplb/oh6rmlZHpnZ7ovoXlr7zov4fnqIvvvIxvd25lcnNoaXAg6K+t5LmJ5LiN6YCC55So77yM6LGB5YWN5b+F5aGr5oqk5qCPIgogICAgIOixgeWFjeS+neaNru+8mumYtuautSBBIMK3IDIuNWMg55qEIF9yZXF1aXJlZF9nYXRlKCkg6KeE5a6a56m6IHJlcXVpcmVkX3BhcmFtcwogICAgIOe7neS4jemdmem7mOaUvuihjO+8jOW/hemhu+mFjSB0ZW1wbGF0ZV9maWVsZHNfY29udHJhY3Qub3B0aW9uYWxfZmllbGRzIOmHjAogICAgIOWjsOaYjueahCBleGVtcHRfcmVhc29uIOS4lOmVv+W6piA+IDIwIOWtl++8m+acrOeQhueUsSAzMCDlrZfvvIzov4fpl7jjgIIKICAgICBvd25lcnNoaXAg5o+P6L+w44CM5a2p5a2Q5Li75a+8IC8g5a626ZW/5o+Q56S6IC8g5a626ZW/5o6l566h44CN55qE6L6F5a+85Li75a+85p2D5b2S5bGe77yMCiAgICAg5a626ZW/6Ieq5pWR5Zy65pmv6YeM5rKh5pyJ6L6F5a+85Yqo5L2c77yM56Gs5aGe5Lya5Yi26YCg5peg5oSP5LmJ6LCT6K+N44CCCiAg4pGiIOa0vueUnyA2IOadoeino+mHiuaAp+adoeebru+8iOaXoCBjYWxsYWJsZeOAgeaXoCBleGl0X3doZW7jgIHlj6rov5sgY2h1bmtzLmpzb25s77yJ77yMCiAgICAg5YWo6YOoIGF1ZGllbmNlPXBhcmVudCAvIHNjZW5hcmlvPXBhcmVudF9lc2NhbGF0aW9uIC8KICAgICB0ZW1wbGF0ZV9yZWY9UFRfUEFSRU5UX0VTQ0FMQVRJT05fMDEgLyB3aGVuIOS4peagvOWll+aooeadv+mbtuWBj+emu++8jAogICAgIHByb3Bvc2FsX3JlZj1QUk9QLTAwMDXvvIjlrZfmrrXkvp3mja4gUFJPUC0wMDA0IOWGmeWcqOadoeebruato+aWh++8ieOAggogIOKRoyByZWdyZXNzaW9uLnB5IOWiniBlbnRyeV92aWE6ICJwYXJlbnRfZXNjYWxhdGlvbiIg5YiG5pSv77yMCiAgICAgZ29sZGVuX3RyYWplY3Rvcmllcy5qc29ubCDov73liqAgNiDmnaEgY29uZm9ybWFuY2XvvIjnjrDmnIkgMjUg5p2h6KGM5Li65LiN5Y+Y77yJ44CCCgppbXBhY3Q6CiAgcHJlZGljYXRlX2VxdWl2X3N0YXRlX3NwYWNlOiA+CiAgICBCIOexu+aWsOWinuWcuuaZr+S9huWkjeeUqOaXouacieeKtuaAgeepuumXtO+8jFNUQVRFX1BPSU5UX0NPVU5UPTEwMzY4IOS4jeWPmAogICAg77yI57u05bqm55SxIFBST1AtMDAwNCDlr7npvZDvvIzpmLbmrrUgQSDlt7LlsLHkvY3vvInjgIIKICAgIGRpZmZfbW9kZSjnjrDmnIkgNSDkuKogUFRfKiDihpIg5YqgIFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxKe+8mgogICAgNzg3MiDihpIgMTAzNjjvvIxhZGRlZD0yNDk277yMcmVtb3ZlZD0w77yMc2NvcGVfY2hhbmdlPXVuY2hhbmdlZO+8mwogICAgYWZmZWN0ZWRfZW50cmllcz1bXe+8iOeOsOaciSAxOCDmnaHml6DkuIDmnaHlvJXnlKjmlrDlrZfmrrUv5paw5Zy65pmv77yJ44CCCiAgICBwcmVkaWNhdGVfZXF1aXYucnVuKCkuY2hlY2tlZO+8mjE4NjYyNCDihpIgMjQ4ODMy77yIKzYg5p2hIMOXIDEwMzY4IOeCue+8ieOAggogICAg5Lqn54mp77yaY2h1bmtzLmpzb25sIDE4IOKGkiAyNCDlnZfvvJtza2lsbF9yZWdpc3RyeS5qc29uIOaBkiAxMSBza2lsbHMKICAgIO+8iOaWsOWinuadoeebruWFqOS4uiBleHBsYW5hdG9yeeOAgeaXoCBjYWxsYWJsZe+8jOS4jeS6pyBza2lsbO+8ieOAggogIGFmZmVjdGVkX2VudHJpZXM6IFtdCiAgZXhpc3RpbmdfZW50cmllc193aXRoX25ld19zY2VuYXJpbzogMAoKdmVyaWZpY2F0aW9uOiA+CiAg4pGgIHZlcmlmeV9hbGwg5paw5aKeIHBhcmVudF9lc2NhbGF0aW9uX3Rlc3RzIOe7hO+8iOesrCAxNCDnu4TvvInvvJoKICAgICDkuInmoaPmmKDlsITvvIhBTkdFUl9USUVSIDHigJQ1IOKGkiBsb3cvbWlkL2hpZ2gg5LiU6KaG55uWIDIvNCDovrnnlYzvvInjgIEKICAgICDkuInmoaPnnJ/lrp4gcmV0cmlldmUg5ZG95Lit44CBZ3VhcmRyYWlsIGJsb2NrIOKGkiBibG9ja2VkIGZhbGxiYWNr44CBCiAgICAgZGVncmFkZWQg5LiOIGJsb2NrZWQg5YiG5byA5pat6KiA44CB5p2h55uuIHdoZW4g55m95ZCN5Y2V5pat6KiA44CBCiAgICAgaW5qZWN0X3RleHQg6YCQ5a2X5Y+v5rqv5pat6KiA77ybCiAg4pGhIHJlZ3Jlc3Npb24ucHkg55qEIGVudHJ5X3ZpYSDliIbmlK/lj6rkvZznlKjkuo7mlrDovajov7nvvIwKICAgICDlubblhoXnva7jgIzml6LmnIkgMjUg5p2h5LiN5b6X5bimIGVudHJ5X3ZpYeOAjeeahOWPr+ivgeS8quaWreiogO+8mwogIOKRoiB0ZXN0X3NlcnZlci5weSDkuKTmnaHmibnmrKEgMuOAjOmihOacnyBkZWdyYWRlZD10cnVl44CN5pat6KiA6IGU5Yqo5aSN5qC4CiAgICAg77yI5p2h55uu5rS+55Sf5ZCO5bqU6L2sIGRlZ3JhZGVkPWZhbHNl77yb5Y+m55SoIGZha2VfcmV0cmlldmUg6L+U5Zue56m655qECiAgICAg6LSf5L6L5L+d55WZIGRlZ3JhZGVkIOWIhuaUr+imhueblu+8ie+8mwogIOKRoyB2ZXJpZnlfYWxsIDE0LzE0IOe7hOe7v+OAgeS4u+WBj+emu+eOhyAwLjAl44CB6KeS6Imy5rOE5ryPIDDjgIEKICAgICDml6LmnIkgMjUg5p2hIGNvbmZvcm1hbmNlIDQwLzQwIOS4jeWPmO+8mwogIOKRpCDlgY/nprvmuIXljZXnmoTjgIzosYHlhY3mqKHmnb/jgI3ooajlh7rnjrAgMSDnp43mqKHmnb8gLyBOIOadoeWRveS4readoeebruOAggoKcm9sbGJhY2s6ID4KICDku44gc2NlbmFyaW8udmFsdWVzIOenu+mZpCBwYXJlbnRfZXNjYWxhdGlvbu+8m+WIoOmZpAogIFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxIOaooeadv+WumuS5ieOAgXBhcmVudF9jb29sIOaOpeWFpeWNoeOAgQogIDAyX+WGheWuueWMhS/kuabnsY1GX+WutumVv+aApeaVkS8g5YWo6YOo5p2h55uu44CBNiDmnaHmlrDovajov7njgIEKICByZWdyZXNzaW9uLnB5IOeahCBlbnRyeV92aWEg5YiG5pSv5LiOIHBhcmVudF9lc2NhbGF0aW9uX3Rlc3RzIOe7hO+8mwogIOmHjei3kSBidWlsZC5weSDliLfmlrDkuqfniankuI4gbWFuaWZlc3TjgILml6LmnIkgMTgg5p2h44CBNSDkuKrljp/mqKHmnb/jgIEKICAyNSDmnaHovajov7njgIExMSDkuKogc2tpbGxzIOS4jeWPl+W9seWTjeOAggoKYXBwcm92YWxfdGllcjogZnVsbCAgICAgICAgIyBCIOexuyDihpIgZnVsbO+8iOS4jemZjee6p++8iQoKc3RhdHVzOiBhcHByb3ZlZAoKYXBwcm92YWxfcmVjb3JkOgogIGRhdGU6ICIyMDI2LTExLTEzIgogIHRpZXI6IGZ1bGwKICBjaGFubmVsOiA+CiAgICDnlKjmiLcgMjAyNi0xMS0xMyDpmLbmrrUgQiDmiafooYzmlrnmoYjjgIzmibnmrKEgMyAvIDNh44CBM2LjgIEzY+OAjemAkOmhueaMh+WumgogICAg5pys5o+Q5qGI55qE5Zy65pmv5p6a5Li+44CB5qih5p2/IElE44CBd2hlbiDlj5blgLzjgIFyZXF1aXJlZF9wYXJhbXM6IFtdIOS4jgogICAgZXhlbXB0X3JlYXNvbiDljp/mlofjgIHmnaHnm67mnaHmlbDljLrpl7TjgIHmnaXmupDljaHjgIHovajov7nkuI7mtYvor5Xnu4TvvJsKICAgIOW5tuaYjuehruOAjOWJjeaPkOehruiupO+8iOW3suWumu+8jOS4jeWGjeiuqOiuuu+8ieOAjeOAjOaJueasoSAwIOKGkiAxIOKGkiAyIOKGkiAzIOKGkiA077yMCiAgICDmr4/mibnpqozmlLblkI7ov5vkuIvkuIDmibnjgI3jgILlj4LnhacgUFJPUC0wMDAzIOWFiOS+i++8jOivpeaUvuihjOimhuebluWGheWuueWuoe+8mwogICAg6Ieq5Yqo5YyW6aKE5qOA77yIZGlmZl9tb2RlICsg5Y+X5b2x5ZON5p2h55uu5riF5Y2V56Gu6K6k77yJ5bey5a6e6LeR6YCa6L+H44CCCiAgICDkuI4gUFJPUC0wMDA0IOWQjOaJueWOn+WtkOaPkOS6pOOAggogIGRlY2lzaW9uOiA+CiAgICDph4fnurPjgILmlrDlnLrmma/kuI7ovoXlr7znirbmgIHmnLrpmpTnprvvvIjov5DooYzmnJ/otbAgaGFuZGxlX3BhcmVudF9lc2NhbGF0aW9uCiAgICDml4Hot6/vvIzkuI3osIMgcm91dGVyLnJvdXRl77yJ77yM5pei5pyJ55qEIHNjZW5hcmlvIOeyvuehruaUtueqhOacuuWItuiHquWKqOS/neivgQogICAg5paw5pen6L2o6L+55LqS5LiN5rGh5p+T77ybYWZmZWN0ZWRfZW50cmllcz1bXeOAgXNjb3BlX2NoYW5nZT11bmNoYW5nZWTjgIIKICBkaWZmX21vZGU6CiAgICBzdGF0ZV9zcGFjZV9wb2ludHM6IDEwMzY4CiAgICBzdGF0ZV9zcGFjZV9jaGFuZ2VkOiBmYWxzZQogICAgc3RhdGVfcG9pbnRzX2JlZm9yZTogNzg3MgogICAgc3RhdGVfcG9pbnRzX2FmdGVyOiAxMDM2OAogICAgYWRkZWQ6IDI0OTYKICAgIHJlbW92ZWQ6IDAKICAgIHNjb3BlX2NoYW5nZTogdW5jaGFuZ2VkCiAgICBhZmZlY3RlZF9lbnRyaWVzOiBbXQogICAgY2h1bmtzX2JlZm9yZTogMTgKICAgIGNodW5rc19hZnRlcjogMjQKICAgIHNraWxsc19iZWZvcmU6IDExCiAgICBza2lsbHNfYWZ0ZXI6IDExCiAgICBzb3VyY2U6ICIwM19hZ2VudOe8luivkS9wcm9wb3NhbHMvcHJlY2hlY2tfYmF0Y2gzLnB577yI5Y+v5aSN6LeR77yJIgogIGxpdGVyYWxfZGV2aWF0aW9uczoKICAgIC0gIkQtMDEgfiBELTA2IOWFreWkhOWPo+W+hOW3ruW8gumAkOadoeiusOW9leWcqCBQUk9QLTAwMDQuYXBwcm92YWxfcmVjb3JkLmxpdGVyYWxfZGV2aWF0aW9uc++8jOacrOaPkOahiOWQjOagt+mAgueUqO+8jOS4jemHjeWkjeOAgeS4jeWPpuiuvuWPo+W+hOOAgiIKICAgIC0gInBhcmFtc19leGVtcHQg55yf5a6e5YC85oyJ5p2h55uu5pWwIE4g5oql77yI5pa55qGI5YaZIDDihpIxIOaYr+aooeadv+enjeexu+WPo+W+hO+8ie+8jOacquaUueWlkee6puWHkeaVsOOAgiIKCmtub3duX3Jpc2s6ID4KICDikaAg5YWo5aWX5qih5p2/IHdoZW46W2xvdyxtaWQsaGlnaF0g5L2/5LiJ5qGj5qOA57Si6YO95ZG95Lit5YWo6YOoIDYg5p2h77yMCiAgICAgYXNzZW1ibGVfbGluZV9hbmRfc3RlcHMoKSDlj5YgY2FuZGlkYXRlc1swXe+8jOS4ieaho+i+k+WHuuebruWJjeebuOWQjO+8mwogICAgIOadoeebrue6p+WGheWuueWIhuaho+mcgOaUtueqhCB3aGVuIOW5tuiusCB2YWx1ZV9hZGp1c3RlZO+8jOS4juOAjOWFqOWll+aooeadv+OAjQogICAgIOmqjOaUtuWtl+mdouWGsueqge+8jOacrOaJueasoeacquaTheiHquW8leWFpe+8jOaMgui0puetieWOn+aWh+WIsOS9jeWGjeWumuOAggogIOKRoSDnjrDmnIkgMTgg5p2h5peg5a626ZW/54Gr5rCU5oCl5pWR5Y6f55Sf5paH5qGI77yM5rS+55Sf5p2h55uu5piv6YCQ5a2X5pGY5Y+l6YeN57uEICsKICAgICDlnLrmma/moIfnrb7vvJvohJrmnKzljaEgLyDpooTorabooaggLyDkv67lpI3or53mnK8gLyDlhY3otKPlo7DmmI7ljp/mlofnrYnpnZnmgIHmp73kvY0KICAgICDku43ml6DmnaXmupDvvIzmjInkuI3nvJbpgKDnuqrlvovkv53nlZkgcGVuZGluZ19iYXRjaDMg5Y2g5L2N44CCCiAg4pGiIEIzMuKGlEI0NCDop5LoibLmiqTmoI/vvIjlrrbplb/pl67ms5XkuIvpmY3mnYPvvInku43mjILpg6jnvbLlkI7lvoXlip7vvIwKICAgICDmnKzmj5DmoYjlj6rlgZogcGFyZW50IOinhuWbvuWGheeahOWcuuaZr+malOemu++8jOS4jeWKqOaXouacieaKpOagj+OAggo=
+# =====================================================================
+# 扩展提案 PROP-0005（B 类 · full · 阶段 B 批次 3）
+# ---------------------------------------------------------------------
+# scenario: parent_escalation 进 schema/entry.yaml 枚举，
+# 配套 PT_PARENT_ESCALATION_01（required_params 显式豁免）。
+# 与 PROP-0004 同批原子落地；两提案互相依赖，不单独放行。
+# =====================================================================
+
+proposal_id: PROP-0005
+type: B                    # B 新场景类型 → full
+title: "新增 scenario: parent_escalation 与 PT_PARENT_ESCALATION_01（家长情绪独立场景）"
+
+requirement: >
+  家长火气急救是独立于辅导状态机的场景：server.py 的
+  handle_parent_escalation() 只调 build.retrieve + guardrail_node.judge，
+  **不调 router.route()**。但 schema/entry.yaml v1.1 的 scenario 枚举只有
+  task_initiation / attention_drift / frustration_escalation /
+  wm_overload / transition 五个，全部描述孩子作业过程；router.in_scope()
+  按 scenario 精确收窄，若把家长急救条目塞进既有枚举，会与辅导轨迹互相
+  污染，也无法让 retrieve("parent","parent_escalation",...) 独立命中。
+
+why_existing_insufficient: >
+  三个现有近似方案逐一试过，均失败。
+  ① 复用 frustration_escalation：该枚举在现有 5 条 fes_* 条目里明确指
+     「按孩子状态 / 失败次数触发的辅导支架」（批次 0 盘点 note 逐字记录），
+     主体是孩子挫败，不是家长火气。把家长自救话术挂进去后，
+     build.retrieve 与 router.route 在 frustration_escalation 上会同时
+     命中两类语义不同的条目，既有 7 条 fes_* 轨迹的 injected_contains
+     断言会被污染，且分不清哪条是给谁的。
+  ② 复用 attention_drift 或 wm_overload：这两个枚举属于学科辅导支架，
+     家长火气升高时孩子可能完全 on-task、零负荷，谓词条件错配；
+     并且 router.route 的 skill 优先级会先命中辅导 skill，把本该
+     「家长先离开书桌」的急救话术静默掉。
+  ③ 不进 scenario 枚举、只靠 audience=parent + 自定义 when 字段区分：
+     scenario 是 schema_check 的顶层必填枚举，不填即编译失败；
+     而 router.in_scope() 与 build.retrieve() 都以 scenario 做第一道
+     结构化过滤，绕过它等于让家长急救条目在所有辅导场景里都可能命中。
+  结论：这是模板库缺场景类型（流程 §六），不是模板存在但不够，
+  必须提 B 类提案，不能靠记偏离消化。
+
+proposal: >
+  ① schema/entry.yaml 的 scenario.values 增 parent_escalation
+     （与 PROP-0004 同批升 v1.2）；
+  ② 03_agent编译/templates/predicate_templates.yaml 增：
+       id: PT_PARENT_ESCALATION_01
+       scenario: parent_escalation
+       applies_to: [explanatory]
+       when: {parent_affect_level: [low, mid, high]}
+       params: []
+       required_params: []
+       exempt_reason: "家长自救非辅导过程，ownership 语义不适用，豁免必填护栏"
+     豁免依据：阶段 A · 2.5c 的 _required_gate() 规定空 required_params
+     绝不静默放行，必须配 template_fields_contract.optional_fields 里
+     声明的 exempt_reason 且长度 > 20 字；本理由 30 字，过闸。
+     ownership 描述「孩子主导 / 家长提示 / 家长接管」的辅导主导权归属，
+     家长自救场景里没有辅导动作，硬塞会制造无意义谓词。
+  ③ 派生 6 条解释性条目（无 callable、无 exit_when、只进 chunks.jsonl），
+     全部 audience=parent / scenario=parent_escalation /
+     template_ref=PT_PARENT_ESCALATION_01 / when 严格套模板零偏离，
+     proposal_ref=PROP-0005（字段依据 PROP-0004 写在条目正文）。
+  ④ regression.py 增 entry_via: "parent_escalation" 分支，
+     golden_trajectories.jsonl 追加 6 条 conformance（现有 25 条行为不变）。
+
+impact:
+  predicate_equiv_state_space: >
+    B 类新增场景但复用既有状态空间，STATE_POINT_COUNT=10368 不变
+    （维度由 PROP-0004 对齐，阶段 A 已就位）。
+    diff_mode(现有 5 个 PT_* → 加 PT_PARENT_ESCALATION_01)：
+    7872 → 10368，added=2496，removed=0，scope_change=unchanged；
+    affected_entries=[]（现有 18 条无一条引用新字段/新场景）。
+    predicate_equiv.run().checked：186624 → 248832（+6 条 × 10368 点）。
+    产物：chunks.jsonl 18 → 24 块；skill_registry.json 恒 11 skills
+    （新增条目全为 explanatory、无 callable，不产 skill）。
+  affected_entries: []
+  existing_entries_with_new_scenario: 0
+
+verification: >
+  ① verify_all 新增 parent_escalation_tests 组（第 14 组）：
+     三档映射（ANGER_TIER 1—5 → low/mid/high 且覆盖 2/4 边界）、
+     三档真实 retrieve 命中、guardrail block → blocked fallback、
+     degraded 与 blocked 分开断言、条目 when 白名单断言、
+     inject_text 逐字可溯断言；
+  ② regression.py 的 entry_via 分支只作用于新轨迹，
+     并内置「既有 25 条不得带 entry_via」的可证伪断言；
+  ③ test_server.py 两条批次 2「预期 degraded=true」断言联动复核
+     （条目派生后应转 degraded=false；另用 fake_retrieve 返回空的
+     负例保留 degraded 分支覆盖）；
+  ④ verify_all 14/14 组绿、主偏离率 0.0%、角色泄漏 0、
+     既有 25 条 conformance 40/40 不变；
+  ⑤ 偏离清单的「豁免模板」表出现 1 种模板 / N 条命中条目。
+
+rollback: >
+  从 scenario.values 移除 parent_escalation；删除
+  PT_PARENT_ESCALATION_01 模板定义、parent_cool 接入卡、
+  02_内容包/书籍F_家长急救/ 全部条目、6 条新轨迹、
+  regression.py 的 entry_via 分支与 parent_escalation_tests 组；
+  重跑 build.py 刷新产物与 manifest。既有 18 条、5 个原模板、
+  25 条轨迹、11 个 skills 不受影响。
+
+approval_tier: full        # B 类 → full（不降级）
+
+status: approved
+
+approval_record:
+  date: "2026-11-13"
+  tier: full
+  channel: >
+    用户 2026-11-13 阶段 B 执行方案「批次 3 / 3a、3b、3c」逐项指定
+    本提案的场景枚举、模板 ID、when 取值、required_params: [] 与
+    exempt_reason 原文、条目条数区间、来源卡、轨迹与测试组；
+    并明确「前提确认（已定，不再讨论）」「批次 0 → 1 → 2 → 3 → 4，
+    每批验收后进下一批」。参照 PROP-0003 先例，该放行覆盖内容审；
+    自动化预检（diff_mode + 受影响条目清单确认）已实跑通过。
+    与 PROP-0004 同批原子提交。
+  decision: >
+    采纳。新场景与辅导状态机隔离（运行期走 handle_parent_escalation
+    旁路，不调 router.route），既有的 scenario 精确收窄机制自动保证
+    新旧轨迹互不污染；affected_entries=[]、scope_change=unchanged。
+  diff_mode:
+    state_space_points: 10368
+    state_space_changed: false
+    state_points_before: 7872
+    state_points_after: 10368
+    added: 2496
+    removed: 0
+    scope_change: unchanged
+    affected_entries: []
+    chunks_before: 18
+    chunks_after: 24
+    skills_before: 11
+    skills_after: 11
+    source: "03_agent编译/proposals/precheck_batch3.py（可复跑）"
+  literal_deviations:
+    - "D-01 ~ D-06 六处口径差异逐条记录在 PROP-0004.approval_record.literal_deviations，本提案同样适用，不重复、不另设口径。"
+    - "params_exempt 真实值按条目数 N 报（方案写 0→1 是模板种类口径），未改契约凑数。"
+
+known_risk: >
+  ① 全套模板 when:[low,mid,high] 使三档检索都命中全部 6 条，
+     assemble_line_and_steps() 取 candidates[0]，三档输出目前相同；
+     条目级内容分档需收窄 when 并记 value_adjusted，与「全套模板」
+     验收字面冲突，本批次未擅自引入，挂账等原文到位再定。
+  ② 现有 18 条无家长火气急救原生文案，派生条目是逐字摘句重组 +
+     场景标签；脚本卡 / 预警表 / 修复话术 / 免责声明原文等静态槽位
+     仍无来源，按不编造纪律保留 pending_batch3 占位。
+  ③ B32↔B44 角色护栏（家长问法下降权）仍挂部署后待办，
+     本提案只做 parent 视图内的场景隔离，不动既有护栏。

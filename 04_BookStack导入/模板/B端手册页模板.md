@@ -1,1 +1,51 @@
-PCEtLQrmraTmlofku7bmmK/mqKHmnb/vvIzkuI3lkKvnnJ/lrp7lhoXlrrnjgIIK5ZyoIEJvb2tTdGFjayDkuK3nlLHnrqHnkIblkZjmiZPlvIDmnKzpobUg4oaSIOWPs+S4iuinkiLmoIforrDkuLrmqKHmnb8i5ZCO77yM5paw5bu66aG16Z2i5pe25Y2z5Y+v5aSN55So44CCCuaJgOaciSB7e+WPjOiKseaLrOWPt319IOWNoOS9jeespuWcqOaWsOW7uumhtemdouaXtuabv+aNouS4uuecn+WunuWGheWuueOAggotLT4KLS0tCumdouWQkTog5LiT5Lia5Lq65ZGYCuivgeaNrueKtuaAgToge3vor4Hmja7nirbmgIF9fQrmnIDlkI7lrqHmoLg6IDIwMjYtMTEtMDUK6Zu255So6I2v5Yu+6YCJOiDlt7Lli77pgIkK6aG16Z2i57G75Z6LOiBC56uvLeS5puexjUMK5Lmm57GNOiDkuabnsY1DX0Lnq6/lt6XkvZzmiYvlhowK56ug6IqCOiB7e+eroOiKgn19CnNsdWc6IHt7cGFnZS1zbHVnfX0KLS0tCgo+ICoq6Z2i5ZCRKirvvJrkuJPkuJrkurrlkZgg772cICoq6K+B5o2u54q25oCBKirvvJp7e+ivgeaNrueKtuaAgX19IO+9nCAqKuacgOWQjuWuoeaguCoq77yaMjAyNi0xMS0wNQo+ICoq5pys6aG15LiN5ZCr6I2v5ZCN44CB5YmC6YeP44CB55So6I2v6YCJ5oup44CB5Ymv5L2c55So5aSE55CG44CB5YGc6I2v5YeP6YeP5bu66K6uKiog4oCU4oCUIOKYkSDlt7Lli77pgIkKCj4gKirmnKzmiYvlhozkuI3orqjorrroja/nianpgInmi6nkuI7liYLph4/jgIIqKiDlrrbplb/or6Lpl67nlKjoja/ml7bvvIzmoIflh4blm57lupTvvJrov5npnIDopoHnlLHlvIDlhbflpITmlrnnmoTljLvnlJ/liKTmlq3vvIzmiJHlj6/ku6XluK7kvaDmlbTnkIbopoHpl67ljLvnlJ/nmoTpl67popjjgIIKCiMge3vpobXpnaLmoIfpoph9fQoKIyMg6YCC55So5a+56LGh5LiO5L2/55So5YmN5o+QCnt76YCC55So5a+56LGh77yI5a626ZW/5Z+56K6t5biIIC8g54+t5Li75Lu76L6F5Yqp5Lq65ZGYIC8g5Liq5qGI566h55CG5ZGY77yJ77yb5pys6aG15L2/55So5YmN6ZyA6KaB5ZOq5Lqb5YmN572u5L+h5oGv77yI5bey5a6M5oiQ5Yid5qyh6K6/6LCI77yf5bey5ou/5Yiw6KGM5Li66K6w5b2V77yf77yJfX0KCiMjIOS7iuWkqeiDveWBmueahCAzIOS7tuS6iwoxLiB7e+WKqOS9nCAxfX0KMi4ge3vliqjkvZwgMn19CjMuIHt75Yqo5L2cIDN9fQoKIyMg5Li65LuA5LmI6L+Z5qC35YGa5pyJ5pWICnt75py65Yi26Kej6YeKIOKJpDQwMCDlrZfvvJvlvJXnlKjmjIfljZfml7bnlKgi5oyH5Y2X5o6o6I2QL+WPr+iAg+iZkSLvvIzkuI3lhpkgR1JBREUg5pyv6K+tfX0KCiMjIOWFt+S9k+aAjuS5iOWBmgp7e+WIhuatpemqpOOAgeihqOagvOOAgeWPr+aJk+WNsOaooeadv++8m+avj+atpeS4gOWPpeivnX19CgojIyDku4DkuYjmg4XlhrXkuIvpnIDopoHmjaLkuIDnp43lgZrms5UKe3vlpLHotKXkv6Hlj7cgKyDljYfnuqfot6/lvoTvvIjovazku4vnu5nosIHjgIHovazku4vliY3luKbku4DkuYjvvIl9fQoKIyMg5bi46KeB6K+v5Yy6Ci0ge3vor6/ljLogMX19IOKGkiB7e+WunumZhX19Ci0ge3vor6/ljLogMn19IOKGkiB7e+WunumZhX19CgojIyDkvp3mja7kuI7lh7rlpIQKWzFdIHt75oyH5Y2XL+ezu+e7n+e7vOi/sOadoeebru+8jOWQq+WPr+eCueWHu+mTvuaOpeS4juiuv+mXruaXpeacn319Cgo+IOacrOmhteaPkOS+m+eahOaYr+W3peS9nOa1geeoi+S/oeaBr++8jOS4jeaehOaIkOWvueS4quS6uueahOiviuaWreaIluayu+eWl+W7uuiuruOAguaYr+WQpumcgOimgei/m+S4gOatpeivhOS8sO+8jOivt+S4juacieWkhOaWueadg+eahOWMu+eUn+aIluWEv+erpeeyvuelnuenkS/lv4PnkIbnp5HkuJPkuJrkurrlkZjorqjorrrjgIIKCiMjIOS4i+S4gOadoeWPr+aTjeS9nOW7uuiurgotIHt75LiL5LiA5p2h6aG16Z2i5qCH6aKYfX3vvIjnm7jlr7nmlofku7blkI0gLm1k77yJCg==
+<!--
+此文件是模板，不含真实内容。
+在 BookStack 中由管理员打开本页 → 右上角"标记为模板"后，新建页面时即可复用。
+所有 {{双花括号}} 占位符在新建页面时替换为真实内容。
+-->
+---
+面向: 专业人员
+证据状态: {{证据状态}}
+最后审核: 2026-11-05
+零用药勾选: 已勾选
+页面类型: B端-书籍C
+书籍: 书籍C_B端工作手册
+章节: {{章节}}
+slug: {{page-slug}}
+---
+
+> **面向**：专业人员 ｜ **证据状态**：{{证据状态}} ｜ **最后审核**：2026-11-05
+> **本页不含药名、剂量、用药选择、副作用处理、停药减量建议** —— ☑ 已勾选
+
+> **本手册不讨论药物选择与剂量。** 家长询问用药时，标准回应：这需要由开具处方的医生判断，我可以帮你整理要问医生的问题。
+
+# {{页面标题}}
+
+## 适用对象与使用前提
+{{适用对象（家长培训师 / 班主任辅助人员 / 个案管理员）；本页使用前需要哪些前置信息（已完成初次访谈？已拿到行为记录？）}}
+
+## 今天能做的 3 件事
+1. {{动作 1}}
+2. {{动作 2}}
+3. {{动作 3}}
+
+## 为什么这样做有效
+{{机制解释 ≤400 字；引用指南时用"指南推荐/可考虑"，不写 GRADE 术语}}
+
+## 具体怎么做
+{{分步骤、表格、可打印模板；每步一句话}}
+
+## 什么情况下需要换一种做法
+{{失败信号 + 升级路径（转介给谁、转介前带什么）}}
+
+## 常见误区
+- {{误区 1}} → {{实际}}
+- {{误区 2}} → {{实际}}
+
+## 依据与出处
+[1] {{指南/系统综述条目，含可点击链接与访问日期}}
+
+> 本页提供的是工作流程信息，不构成对个人的诊断或治疗建议。是否需要进一步评估，请与有处方权的医生或儿童精神科/心理科专业人员讨论。
+
+## 下一条可操作建议
+- {{下一条页面标题}}（相对文件名 .md）

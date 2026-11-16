@@ -1,1 +1,142 @@
-77u/IyBtZXRhZGF0YSDmsYfmgLvmoKHpqozmiqXlkYrvvIjpmLbmrrXkuIAgbWV0YWRhdGEg5bGCIMK3IOesrOS4iei9ruihpeato++8iOS4ieadoe+8ieWQjuWkjeaguO+8iQoKIyMg5Y+j5b6E5aOw5piO77yI572u6aG26YCQ5a2X77yJCgrooYzlj7fmjIkgR2V0LUNvbnRlbnQg6KGM6K6h5pWw77yb5YeA5Lit5paH5a2X5oyJ55SyJ++8m+ihjOaVsC/liJfmlbDmjIkgQ1NWIOaVsOaNruihjO+8iOS4jeWQq+ihqOWktO+8ie+8m+W8leeUqOato+aWh+WOn+WPpeS/neeVmeWOn+aWh+agh+eCueOAggoK56m65YC85oyH56m65a2X56ym5Liy77yb44CM5b6F5a6a44CN5LiN5piv56m65YC877yb44CM5peg44CN55So5LqO6KGo56S64oCc5a6i6KeC5LiN5a2Y5Zyo6K+l6aG54oCd77yI5aaC5peg5YWz6IGU6aG177yJ44CCCgojIyAxLiDlkIjlubbojIPlm7TkuI7ovpPlhaUKCi0g56eN5a2QIDMg6KGM77yaQTAz44CBQjMw44CBQjM377yI5Y6f5qC35bm25YWl77yM5a2X5q615YC85pyq5pS577yM5bey6YCQ5qC85aSN5qC477yJ44CCCi0gQSDkuabniYfmrrUgMTMg6KGM44CBQiDliY3mrrUgMjIg6KGM44CBQiDlkI7mrrUgMjAg6KGM44CBQy9EIDUg6KGM77yb5ZCI6K6hIDMrMTMrMjIrMjArNSA9IDYzIOaVsOaNruihjOOAggotIOe8luWPt+mbhuWQiOS4jueKtuaAgeihqCA2MyDkuKrnvJblj7fpgJDkuIDnm7jnrYnvvJoqKuebuOetiSA9IOaYryoq77ybQjQxIOepuuWPt+acquWHuueOsO+8m+aXoOi3qOeJh+autemHjeWkjee8luWPt+WGsueqgeOAggotIGAwMl/lhoXlrrnljIVgIOato+aWhyBtZCDlrp7nrpfvvJoqKjYzIOevhyoq77yI5Lmm57GNQSAxNOOAgeS5puexjUIgNDTjgIHkuabnsY1DIDPjgIHkuabnsY1EIDLvvInvvIzmnKzova7lj6ror7vmnKrmlLnjgIIKCiMjIDIuIOS6pOS7mOaWh+S7tuagoemqjAoKfCDmlofku7YgfCDot6/lvoQgfCDlrZfoioIgfCDooYzmlbAgfCDliJfmlbAgfCBCT00gfCBDUiB8IOijuCBMRiB8IFRBQiB8IE5VTCB8IOaOp+WItuWtl+espiB8CnwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAp8IG1ldGFkYXRhXzYz6aG1LmNzdiB8IGAwOF9BSeivreaWmeWxgi8wMl9tZXRhZGF0YS9tZXRhZGF0YV82M+mhtS5jc3ZgIHwgMTI5NTI0IHwgNjMgfCAxOCB8IOaYryB8IDY0IHwgMCB8IDAgfCAwIHwg5pegIHwKfCDlt67lvILmuIXljZVfbWV0YWRhdGEuY3N2IHwgYDA4X0FJ6K+t5paZ5bGCLzAyX21ldGFkYXRhL+W3ruW8gua4heWNlV9tZXRhZGF0YS5jc3ZgIHwgMzgyOTcgfCAxMTQgfCA2IHwg5pivIHwgMTE1IHwgMCB8IDAgfCAwIHwg5pegIHwKfCBtZXRhZGF0Yeihpeagh+ivtOaYji5tZCB8IGAwOF9BSeivreaWmeWxgi8wMl9tZXRhZGF0YS9tZXRhZGF0Yeihpeagh+ivtOaYji5tZGAgfCA0MjQ1MiB8IDYwNCB8IOKAlCB8IOaYryB8IDYwNCB8IDAgfCAwIHwgMCB8IOaXoCB8Cnwg5YaS54Of5rWL6K+V57uT5p6cLmNzdiB8IGAwOF9BSeivreaWmeWxgi8wMl9tZXRhZGF0YS/lhpLng5/mtYvor5Xnu5PmnpwuY3N2YCB8IDI0NjggfCAyMCB8IDYgfCDmmK8gfCAyMSB8IDAgfCAwIHwgMCB8IOaXoCB8Cnwg5b6F5qC46aqM5YWz6IGUXzEwNuWvuS5jc3YgfCBgMDhfQUnor63mlpnlsYIvMDJfbWV0YWRhdGEv5b6F5qC46aqM5YWz6IGUXzEwNuWvuS5jc3ZgIHwgMzMyNzAgfCAxMDYgfCA1IHwg5pivIHwgMTA3IHwgMCB8IDAgfCAwIHwg5pegIHwKfCDlj43ooaXml6Dmja7ovrlfMTkx5p2hLmNzdiB8IGAwOF9BSeivreaWmeWxgi8wMl9tZXRhZGF0YS/lj43ooaXml6Dmja7ovrlfMTkx5p2hLmNzdmAgfCA2Mjc1NiB8IDE5MSB8IDYgfCDmmK8gfCAxOTIgfCAwIHwgMCB8IDAgfCDml6AgfAp8IOWtl+aVsOWPo+W+hOS/ruato+ihqC5jc3YgfCBgMDhfQUnor63mlpnlsYIvMDJfbWV0YWRhdGEv5a2X5pWw5Y+j5b6E5L+u5q2j6KGoLmNzdmAgfCA0ODA4IHwgMTAgfCA2IHwg5pivIHwgMTEgfCAwIHwgMCB8IDAgfCDml6AgfAp8IG1ldGFkYXRh5rGH5oC75qCh6aqM5oql5ZGKLm1kIHwgYDA4X0FJ6K+t5paZ5bGCLzAyX21ldGFkYXRhL21ldGFkYXRh5rGH5oC75qCh6aqM5oql5ZGKLm1kYCB8IDExNTE1IHwgMTQy77yI6KGM5bC+6K6h5pWw77yJIHwg4oCUIHwg5pivIHwgMTQyIHwgMCB8IDAgfCAwIHwg5pegIHwKCiMjIDMuIG1ldGFkYXRhXzYz6aG1LmNzdiDlrp7nrpfvvIgxOCDliJfvvIkKCi0g5pWw5o2u6KGMICoqNjMqKu+8jOWIl+aVsCAqKjE4KirvvIjljp8gMTYg5YiXICsgYOmdouWQkV/mrKHkvY1gICsgYOWFs+iBlOS+neaNrmDvvInjgIIKLSDnqbrlrZfnrKbkuLLljZXlhYPmoLzmlbDvvJoqKjAqKu+8iOWJjSAxNiDliJflkIQgMO+8m+WQjiAyIOWIl+aXoOasoeS9jSAvIOaXoOWFs+iBlOmhteiAheWhqyBg5pegYO+8jOepuuWAvOaVsOS6puS4uiAw77ybYOaXoGAg5LiN5piv56m65YC877yJ44CCCi0g6YCQ5YiX56m65YC85pWw77ya57yW5Y+3IDDjgIHpobXpopggMOOAgeaJgOWxnuS5piAw44CB6Z2i5ZCRIDDjgIHpobXlnosgMOOAgeivgeaNrueKtuaAgSAw44CB5bm06b6E5q61IDDjgIHlnLrmma8gMOOAgemAgueUqOadoeS7tiAw44CB5LiN6YCC55So5p2h5Lu2IDDjgIHmoLjlv4PliqjkvZzmlbAgMOOAgeWQq+WPr+eFp+W/teivneacryAw44CB5ZCr5Y+N5L6LIDDjgIHlhbPogZTpobUgMOOAgemrmOmjjumZqeagh+iusCAw44CB5pyA5ZCO5a6h5qC4IDDjgIHpnaLlkJFf5qyh5L2NIDDjgIHlhbPogZTkvp3mja4gMOOAggotIGDlvoXlrppgIOWNleWFg+agvOaVsO+8mioqMCoq77yI56ys5LiA6L2uIDExIOWkhOW3suaMieijgeWGs+WFremAkOmhueiQveWcsO+8jOingeihpeagh+ivtOaYjiDCpzEx77yJ44CCCi0g5p6a5Li+5LiO5pW05pWw5qCh6aqM77ya6LaK55WM5p2h55uuICoqMCoqIOadoe+8m+aguOW/g+WKqOS9nOaVsOS4uuaVtOaVsO+8iEQwMS9EMDIg6JC9IDDvvInjgIIKLSDlhbPogZTovrnkuI7kvp3mja7kuIDoh7TmgKfvvJrkuLvooajmnInlkJHovrkgKioyNDAqKiDmnaHvvIxg5YWz6IGU6aG1YCDkuI4gYOWFs+iBlOS+neaNrmAg6YCQ5p2h5LiA5LiA5a+55bqU44CB6aG65bqP5LiA6Ie077yI6ISa5pys5qC46aqMIHBhcmFsbGVsID0gVHJ1Ze+8ie+8m+aXoOS+neaNrui+uSAqKjAqKuOAgumAkOadoeWbnuato+aWh+aguOmqjO+8mjI0MCDmnaHlnYflj6/lnKjmupDpobXmjIflrprooYzlm57okL3vvIwyMzgg5p2h6KGM5YaF6ZO+5o6l5Y+v6Kej5p6Q77yMMiDlpIQgaHJlZiDlpLHmlYjvvIhBMTHihpJBMDkgTDY344CBQjMw4oaSQjIwIEw1Ne+8jOingSDCpzEwIOesrCAxIOmhue+8ieOAggoKIyMgNC4g5YWz6IGU6aG15L6d5o2u5Y+j5b6E77yISFIy77yM6KOB5Yaz5LiAIC8g6KOB5Yaz5LqM5ZCO77yJCgotIOWkjeeul+WOn+aAu+aVsCBOID0gKio0MzEqKu+8iOS4pOenjeeLrOeri+aWueazle+8mumAkOihjCBgO2Ag5ouG5YiG5Yqg5oC777yb6L656ZuG5ZCIIGAo6aG1QSzpobVCKWAg5Y676YeN5Y+N5o6o77yb5Lik5rOV5LiA6Ie077yM5peg6YeN5aSN6L65IC8g56m6IHRva2VuIC8g6Z2e5rOV55uu5qCHIC8g56m65qC85Y+Y5L2T77ybQTAwIOWFs+iBlOmhtSA9IGDml6BgIOiuoSAwIOadoe+8ieOAggotICoq5qC45bmz5oGS562J5byP77yI5Zub5Liq5pWw5ZCM5pe25oiQ56uL77yJKirvvJoKICAxLiDmnInmja7ovrkgKioyNDAqKiArIOWPjeihpeaXoOaNriAqKjE5MSoqID0gKio0MzEqKu+8iOWkjeeul+WOn+aAu+aVsO+8ie+8mwogIDIuIOWNleWQkSAqKjE5MioqID0g5bey55m76K6wICoqODYqKiArIOacqueZu+iusCAqKjEwNioq77ybCiAgMy4g5pyJ5o2uICoqMjQwKiogPSDlj4zlkJHovrkgKio0OCoqICsg5Y2V5ZCRICoqMTkyKiog4oiSIDDvvIhCMzHihpJCMzAg5bey5Zyo5pyJ5o2u5YaF77yM5Y+q566X5LiA5qyh55qE5Y+N6KGl5omj5YePIDDvvInjgIIKLSAqKuS4pOS7veW+heaguOmqjOa4heWNle+8iOS4jeWQjOmbhuWQiO+8jOWIhuWIl+WtmOaUvu+8iSoq77yaCiAgLSBg5b6F5qC46aqM5YWz6IGUXzEwNuWvuS5jc3Zg77yaKioxMDYqKiDmnaHvvIzmupDlhoXljZXlkJHovrnkuK3mnKrnmbvorrDlt67lvILmuIXljZXnmoTpg6jliIbvvJvliJcg6aG1QSAvIOmhtUIgLyDmjqjmlq3kvp3mja7vvIjmsYfmgLvop4TliJnljp/mlofvvIkvIOaYr+WQpuW3suWbnuato+aWh+aguOmqjCAvIOW+heaguOmqjOeKtuaAgeOAggogIC0gYOWPjeihpeaXoOaNrui+uV8xOTHmnaEuY3N2YO+8mioqMTkxKiog5p2h77yM5LiK5LiA6L2u5a+556ew5qOA5p+l6KGl5YWl44CB5Zue6YCA5pe25YmU6Zmk55qE6ZWc5YOP6L6577yb5YiXIOmhtUEgLyDpobVCIC8g5Y+N6KGl5p2l5rqQ6aG1IC8g5o6o5pat5L6d5o2u77yI5rGH5oC76KeE5YiZ5Y6f5paH77yJLyDmmK/lkKblt7Llm57mraPmlofmoLjpqowgLyDlvoXmoLjpqoznirbmgIHjgIIKLSAxMDYg5LiOIDE5MSDml6Dph43lj6DvvJvkuI7mnInmja7ovrkgMjQwIOaguOW5s+WIsCA0MzHvvIzml6DmvI/pobnjgIIKLSAqKkIzMSDihpIgQjMw77yI6KOB5Yaz5LqM77yJKirvvJpCMzEg5q2j5paHIEwyOeOAgUw5MiDmjIflkJEgQjMw77yM6L655L+d55WZ5Li76KGo5bm26ZmE6KGM5Y+35L6d5o2u77ybQjMwIOihjOS4jeWKoOWbnuaMh++8m+WFgeiuuOS4jeWvueensO+8jOS9huW/hemhu+acieaNruOAggotIOato+aWh+WNleWQkeWFs+iBlOeZu+iusO+8muWbm+S7veW3ruW8gueJh+autSAqKjg2Kiog5p2h77yIQSA0MuOAgUIxIDM244CBQjIgNuOAgUNEIDLvvInvvIzkv53nlZnlnKjlt67lvILmuIXljZXvvJvmraPmlofkuI3mlLnjgIIKCiMjIDUuIOW3ruW8gua4heWNlV9tZXRhZGF0YS5jc3Yg5a6e566XCgotIOS/neeVmeesrOS4gOi9rumhtemdoue6p+ihjCAqKjEwMSoq77yb5pys6L2u5paw5aKe5rGH5oC757qn6KGMICoqNSoq77yI5Y+j5b6E5ryC56e7IDHjgIFCMzHihpJCMzAg5Y2V5ZCRIDHjgIFCMDMvQjM3L0MwMyDor4Hmja7nirbmgIEgM++8ie+8m+acq+WwvuWvueeFp+autSAqKjgqKiDooYzjgILlrp7otKjmnaHnm67lkIjorqEgKioxMDYqKu+8iOS4jeWQq+WvueeFp+autSA4IOihjO+8ieOAggotIOS4ieadoeivgeaNrueKtuaAgeW3suS4juWvuei0puiusOW9lSDCpzEyLjEg5a+554Wn6KGo77yITDI5NuKAk0wyOTjvvInlkIzmupDlkIzlj6XvvJrlrp7mn6UgZnJvbnRtYXR0ZXIg5LiO54q25oCB6KGo5Lik5YC855u45ZCM77yM6KOB5Yaz5LiJ4oCcZnJvbnRtYXR0ZXIg5LiO54q25oCB6KGo5LiN5LiA6Ie04oCd5YmN5o+Q5Zyo5pys6aG15pyq5oiQ56uL77yb55yf5a6e5beu5byC5YiG5Yir6JC95ZyoIEIwMyDmraPmlocgTDI5IOiHqui/sOW8oOWKm+OAgUIzNyDmraPmlocgTDE344CBTDMzICsgdjEuMiBMMzDjgIzomZrmnoTmlZnlrabmoYjkvosg4omgIOe7j+mqjOaAp+etlueVpeOAjeehrOS4jeS4gOiHtO+8iEIyMi9CMjYg5ZCM5Z6L6aG154q25oCB6KGo5Z2H6K6w6Jma5p6E5pWZ5a2m5qGI5L6L77yMQjM3IOW6lOS4gOiHtO+8m+W7uuiuruaUueeKtuaAgeihqO+8jOacrOi9ruS4jeWKqO+8ieOAgUMwMyDlhpnkvZzop4TojIPnm67lvZXooaggTDM544CM5by66K+B5o2u44CN5LiO54q25oCB6KGo44CM5pyJ5p2h5Lu25o6o6I2Q44CN5LiN5LiA6Ie077yI5Lul54q25oCB6KGo5Li65YeG77yM55uu5b2V6KGo5b6F5pu05paw77yJ44CCCi0g57G75Z6L5YiG5biD77yI5a6e6LSo5p2h55uuIDEwNu+8ie+8mgoKfCDmraPmlofljZXlkJHlhbPogZQgfCA4NyB8Cnwg54q25oCB6KGo6aG16aKY5LiO5q2j5paH5LiA57qn5qCH6aKY5LiN5LiA6Ie0IHwgMyB8Cnwg5p6a5Li+5aSW5YC85pig5bCEIHwgMiB8Cnwg5oq95Y+W5LiN5Ye677yI5b6F5a6a77yJIHwgMiB8Cnwg6L2s5b2V5Y+j5b6E6KeC5a+fIHwgMiB8Cnwg5rig6YGT5qCH562+5LiO5Yik5a6a5LiN5LiA6Ie0IHwgMSB8Cnwg5Y+j5b6E6KeC5a+fIHwgMSB8Cnwg5qCH54K55Y+j5b6E5beu5byCIHwgMSB8Cnwg56m65Y2V5YWD5qC85b2S5LiA5Li65pegIHwgMSB8CnwgbWV0YWRhdGHlr7nnp7DooaXliJcgfCAxIHwKfCDmnprkuL7otornlYzkv67mraPvvIjnu5PorrrvvJowIOadoe+8iSB8IDEgfAp8IOWPo+W+hOa8guenuyB8IDEgfAp8IOivgeaNrueKtuaAgeWtl+auteW8oOWKm++8iOaxh+aAu+e6p++8iSB8IDEgfAp8IOivgeaNrueKtuaAgeehrOS4jeS4gOiHtO+8iOaxh+aAu+e6p++8iSB8IDEgfAp8IOivgeaNrueKtuaAgeS4jeS4gOiHtO+8iOWGmeS9nOinhOiMg+ebruW9leihqMK35rGH5oC757qn77yJIHwgMSB8CgotIOW9kuWboOWIl+aJq+aPj++8muWQq+KAnOW+heafpSAvIOW+heWumuKAneaCrOe9ruW9kuWboCAqKjAqKiDmnaHjgIIKLSDlr7nnhafmrrXkvY3nva7vvJrmlofku7bmnKvlsL4gTDEwOOKAk0wxMTXvvJvoo4HlhrMgMTPihpJMMTAz44CBMTTihpJMMTA044CBMTXihpJMMTA144CBMTbihpJMMTA244CBMTfihpJMMTA344CBMTjihpJMMTA244CBMTnihpJMMTA377yI54mp55CG6KGM5Y+377yM5ZCr6KGo5aS077yb5pWw5o2u6KGM5Y+36KeB5a+554Wn5q615ous5Y+377ybMTgvMTkg5Li65pys6L2u5L+u5q2j5ZCO55qEIEIzNy9DMDMg5p2h55uu77yM5LiOIDE2LzE3IOWQjOihjO+8jDE2LzE3IOivtOaYjuW3suaUueS4uuaMh+WQkSAxOC8xOe+8ieOAggoKIyMgNi4g5YiG5biD57uf6K6h77yINjMg6KGM6KGo5a6e566X77yJCgojIyMgNi4xIOmhteWei++8iOWNlemAie+8jOWQiOiuoSA2M++8iQoK5Y+v5pON5L2c6aG1IDM477yb5qGI5L6L6aG1IDTvvJvmqKHmnb/pobUgOO+8m+ino+mHiumhtSA377yb6L6555WM5aOw5piO6aG1IDbjgIIKCiMjIyA2LjIg6auY6aOO6Zmp5qCH6K6w77yI5Y2V6YCJ77yM5ZCI6K6hIDYz77yJCgrlronlhajkuovku7YgN++8m+aXoCA1NuOAggoKIyMjIDYuMyDpnaLlkJHvvIjljZXpgInvvIzlkIjorqEgNjPvvIkKCueItuavjSAzMO+8m+acrOS6uiA577yb5pWZ5biIIDnvvJvkvLTkvqMgOO+8m0Lnq68gM++8m+S4tOW6iiAy77yb5YWo6YOoIDLvvJvlvoXlrpogMOOAggoKIyMjIDYuNCDlubTpvoTmrrXvvIjlpJrlgLzvvIzmoIfnrb7mrKHorqHmlbDvvJvpobXnuqflkIjorqEgNjPvvIkKCuWtpum+hCAyOe+8m+WtpuWJjSA177yb5oiQ5Lq6IDE377yb6Leo5bm06b6EIDjvvJvpnZLmmKXmnJ8gMu+8m+acquagh+azqCAz77yb5b6F5a6aIDDvvIjmoIfnrb7mrKHlkIjorqEgNjTvvIxCMjQg5Y+M5qCH562+4oCc5a2m5YmNO+Wtpum+hOKAnemHjeWkjeiuoSAxIOasoe+8ieOAggoKIyMjIDYuNSDlnLrmma/vvIjlpJrlgLzvvIzmoIfnrb7mrKHorqHmlbDvvJvpobXnuqflkIjorqEgNjPvvIkKCuWtpuagoSAzMe+8m+WutuW6reWGsueqgSAxNO+8m+WwseiviiAxN++8m+WFtuS7liAxMe+8m+S9nOS4miAxMe+8m+ekvuS6pCA077yb6IGM5Zy6IDTvvJvml6nmmaggM++8m+edoeWJjSAy77yI5qCH562+5qyh5ZCI6K6hIDk377yJ44CCCgojIyMgNi42IOmdouWQkV/mrKHkvY0KCuaXoCA2MO+8m+aVmeW4iCAy77yIQjA044CBQjA277yJ77yb5Ly05L6jIDHvvIhCMDfvvInjgIIKCiMjIDcuIOWGkueDn+a1i+ivlee7k+aenO+8iOWGu+e7k+afpeivouWOn+agt+mHjei3ke+8jOWPjOajgOe0ouiMg+WbtOWIhuWIl++8iQoKLSAqKuS6pOS7mOWPo+W+hOS7peajgOe0ouiMg+WbtEHvvIjpobXpopggKyDpgILnlKjmnaHku7bvvIznrKzkuIDova7ljp/op4TliJnvvInkuLrlh4bvvJpBIOe7hCAxMC8xMOOAgioqCi0g5qOA57Si6IyD5Zu0Qu+8iOmhtemimCArIOmAgueUqOadoeS7tiArIOS4jemAgueUqOadoeS7tu+8ieS4uuacrOi9ruaJqeWkp+iMg+WbtOeahOWPo+W+hOWPmOabtO+8jCoq5pyq57uP5om55YeGKirvvIzku4XkvZzpmYTms6jvvJpCIOe7hCAxMC8xMO+8jOS4jeS9nOS4uuS6pOS7mOWRveS4reeOh+S+neaNruOAggotIOafpeivouS4juacn+acm+mhteS6juajgOe0ouWJjeiQveebmO+8iOihpeagh+ivtOaYjiDCpzE1LjLvvInvvJvlrZfmrrXov4fmu6QgQU5E77yM5aSa5YC85YiX5ZG95Lit5YW25LiA77yb5oyJ5ZG95Lit5YiX5pWw6ZmN5bqP44CB5ZCM5YiG57yW5Y+35Y2H5bqP77yM5Y+WIHRvcDPjgIIKLSBRNu+8iOW5tOm+hOautT3miJDkurrvvJvlhbPplK7or43igJw1IOWIhumSn+KAne+8ie+8mkEg57uEIEIxNiDlnKjpobXpopjjgIHpgILnlKjmnaHku7bkuKTliJflkb3kuK3vvIgyIOWIl++8ie+8jOaOkuesrCAx77ybQiDnu4TorqHlhaXkuI3pgILnlKjmnaHku7blkI7lkb3kuK3liJfmlbDlj5ggM++8m+S4pOe7hCB0b3AzIOesrOS4ieW4reS4jeWQjO+8iEE9QjE077yMQj1CMTPvvInvvIzmnJ/mnJvpobUgQjE2IOS4pOe7hOWdh+iQvSB0b3Az44CC56ys5LiA6L2uIMKnMTUuM+KAnOWQjOS4uiAx44CB6JC956ysIDTigJ3kuLrljoblj7LnlZnnl5XvvIzmnJ/mnJvpobXkuI7op4TliJnlhajnqIvmnKrmlLnjgIIKLSDmnprkuL7lgLzlj5jmm7TvvIjlhajpg6ggLyDmnKrmoIfms6ggLyDot6jlubTpvoTooaXlvZXvvInlnYfkuI3ov5vlhaXku7vkuIDmn6Xor6Lov4fmu6TmnaHku7bvvIzlhbbkvZkgOSDpopjlkb3kuK3mnKrlj5flvbHlk43jgIIKCnwg5bqP5Y+3IHwg5p+l6K+iIHwg5pyf5pybIHwgQSDnu4QgdG9wM++8iOS6pOS7mOWPo+W+hO+8iSB8IEEg5ZG95LitIHwgQiDnu4QgdG9wM++8iOmZhOazqO+8iSB8IEIg5ZG95LitIHwKfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwKfCAxIHwg6aG15Z6LPeahiOS+i+mhtSDkuJQg6auY6aOO6Zmp5qCH6K6wPeWuieWFqOS6i+S7tiB8IEIzNyB8IEIyNjtCMzcgfCDlkb3kuK0gfCBCMjY7QjM3IHwg5ZG95LitIHwKfCAyIHwg5Zy65pmvPeS9nOS4mu+8m+WFs+mUruivjeKAnOemu+W6p+KAnSB8IEIwMSB8IEIwMTtCMDU7QTAxIHwg5ZG95LitIHwgQjAxO0IwNTtBMDEgfCDlkb3kuK0gfAp8IDMgfCDlnLrmma895pep5pmoIHwgQjAyIHwgQjAyO0IxODtCMTkgfCDlkb3kuK0gfCBCMDI7QjE4O0IxOSB8IOWRveS4rSB8CnwgNCB8IOWcuuaZrz3nnaHliY0gfCBCMjAgfCBCMjA7QjI0IHwg5ZG95LitIHwgQjIwO0IyNCB8IOWRveS4rSB8CnwgNSB8IOW5tOm+hOautT3lrabliY3vvJvlhbPplK7or43igJzljYjkvJHigJ0gfCBCMzAgfCBCMzA7QjE5O0IyMCB8IOWRveS4rSB8IEIzMDtCMTk7QjIwIHwg5ZG95LitIHwKfCA2IHwg5bm06b6E5q61PeaIkOS6uu+8m+WFs+mUruivjeKAnDUg5YiG6ZKf4oCdIHwgQjE2IHwgQjE2O0IxMjtCMTQgfCDlkb3kuK0gfCBCMTY7QjEyO0IxMyB8IOWRveS4rSB8CnwgNyB8IOmdouWQkT3mlZnluIggfCBCMDggfCBCMDg7QjA5O0IxMCB8IOWRveS4rSB8IEIwODtCMDk7QjEwIHwg5ZG95LitIHwKfCA4IHwg6Z2i5ZCRPeS8tOS+oyB8IEIxMiB8IEIxMjtCMTM7QjE0IHwg5ZG95LitIHwgQjEyO0IxMztCMTQgfCDlkb3kuK0gfAp8IDkgfCDpnaLlkJE9QuerryB8IEMwMSB8IEMwMTtDMDI7QzAzIHwg5ZG95LitIHwgQzAxO0MwMjtDMDMgfCDlkb3kuK0gfAp8IDEwIHwg6Z2i5ZCRPeS4tOW6iiB8IEQwMSB8IEQwMTtEMDIgfCDlkb3kuK0gfCBEMDE7RDAyIHwg5ZG95LitIHwKCiMjIDguIOWtl+aVsOWPo+W+hOS/ruato+ihqO+8iOijgeWGs+Wbm++8iQoKLSBg5a2X5pWw5Y+j5b6E5L+u5q2j6KGoLmNzdmDvvIwqKjEwKiog5pWw5o2u6KGM77yIQTExL0ExMi9BMTMvQjMwL0IzMS9CMzIvQjMzL0IzNC9CMzUvQjM277yJ44CCCi0g6YCQ6aG15beu6aKdID0gVVJMIOWGheaxieWtl+aVsO+8jOWFqOmDqOaIkOeri++8m+S4jueLrOeri+WkjeaguOWPsOi0pumAkOmhteS4gOiHtOOAgm1ldGFkYXRhIOeOsOacieWIl+aXoOWtl+aVsOWtl+aute+8jOacrOasoeS4jeW9seWTjeS4u+ihqO+8m2DmoLjlv4PliqjkvZzmlbBgIOS4uuWKqOS9nOadoeebruiuoeaVsO+8jOS4jeaYr+Wtl+aVsOOAggotIOWOn+agoemqjOiusOW9leS4gOS4quWtl+S4jeaUue+8jOacrOihqOS4uuadg+WogeiusOW9leOAggoKIyMgOS4g57qi57q/6YG15a6I6K+05piOCgotIGAwMl/lhoXlrrnljIVgIDYzIOevh+ato+aWh+OAgeeKtuaAgeihqOOAgXYxLjLjgIHlj5jmm7TorrDlvZXjgIFBMDDjgIHlv6vnhafjgIHlkITmibnmoKHpqozorrDlvZXjgIHnprvnur/pooTop4jnq5njgIHmianpobXkuLvpopjmsaDjgIHlvJXnlKjmoLjpqozmiqXlkYrjgIFCb29rU3RhY2sg5qCh6aqM5oql5ZGK5Z2H5pyq5pS55Yqo44CCCi0gc2NoZW1h77yIYDAxX3NjaGVtYS/pobXpnaJtZXRhZGF0YV9zY2hlbWFfdjEueWFtbGDvvInmnKzova7mjInoo4HlhrPmm7TmlrDvvJpmaWVsZF9jb3VudCAxNuKGkjE477yM6KGlIGDpnaLlkJFf5qyh5L2NYCAvIGDlhbPogZTkvp3mja5gIOWtl+auteWumuS5ie+8jOmdouWQkeaemuS4vuihpSBg5YWo6YOoYO+8jOW5tOm+hOauteaemuS4vuihpSBg5pyq5qCH5rOoYO+8jEhSMiDmlLnkuLrigJzmr4/mnaHlhbPogZTovrnlv4XmnInmraPmlofooYzlj7fkvp3mja7igJ3jgIIKLSDnp43lrZAgMyDooYzpgJDmoLzlpI3moLjkuLrljp/moLflubblhaXvvJvmnKrlkK/liqjpmLbmrrXkuozvvZ7kupTvvJvmnKrmiavpk77jgIHmnKrmipPlvJXnlKjjgIHmnKror4TliIbjgIIKLSDmnKzlsYLmlrDlhpnmlofku7blnYfkuLogVVRGLTggQk9NICsgQ1JMRu+8m0NTViDmjIkgUkZDNDE4MCDlvJXlj7fovazkuYnvvJvml6AgTlVMIC8gVEFCIC8g5a2k56uLIExGIC8gQ1LjgIIKCiMjIDEwLiDlvoXlkI7nu63njq/oioLlpITnkIbvvIjkuI3pmLvloZ7mnKzlsYLkuqTku5jvvIkKCjEuIDEwNiDmnaHlt7Llm57mraPmlofpgJDmnaHmoLjpqozlubblubblhaXkuLvooajvvIgxMDYvMTA2IOaciea6kOmhteihjOWGhemTvuaOpeS+neaNru+8jOingeihpeagh+ivtOaYjiDCpzE4LjXvvInvvJsxOTEg5p2h5Y+N6KGl5peg5o2u6L655bey5YmU6Zmk44CB5LiN6L+b5Li76KGo44CCMiDlpITmraPmlocgaHJlZiDlpLHmlYjvvIhBMTHihpJBMDkgTDY344CBQjMw4oaSQjIwIEw1Ne+8jOebruagh+mhteWtmOWcqOOAgemTvuaOpei3r+W+hOWkseaViO+8ieW+heS/ru+8m+W7uuiurumYtuauteS6jOWIh+WIhuWJjee7n+S4gOS/ruato++8jOS4jemYu+WhnuacrOWxguOAggoyLiBCMDMgLyBCMzcgLyBDMDMg6K+B5o2u54q25oCB77ya5pys6L2u5Lul54q25oCB6KGo5Li65YeG77yb5q2j5paHIGZyb250bWF0dGVyIC8g5YaZ5L2c6KeE6IyD55uu5b2V6KGo5b6F5ZCO57ut57uf5LiA5pu05paw77yM55WZ5b6F56ysIDMg6aG5IEMtUEVNQVQtUCDph43or4Too4HlhrPjgIIKMy4g6aG15Z6L5p6a5Li+5piv5ZCm5Li66aaW6aG15Y2V6K6+57G75Z6L77yIQTAwIOW9k+WJjeaaguiusOi+ueeVjOWjsOaYjumhte+8ieOAggo0LiDpmLbmrrXlm5vnlKjnnJ/lrp7mo4DntKLnrZbnlaXph43mtYvvvJtRNuKAnDUg5YiG6ZKf4oCd5rOb5YyW5pe25bqP6K+N55qE5o6S5bqP55+t5p2/5bGK5pe25aSN5qC477yb5qOA57Si6IyD5Zu0QiDmmK/lkKbph4fnurPnlZnlvoXoo4HlhrPjgIIK
+﻿# metadata 汇总校验报告（阶段一 metadata 层 · 第三轮补正（三条）后复核）
+
+## 口径声明（置顶逐字）
+
+行号按 Get-Content 行计数；净中文字按甲'；行数/列数按 CSV 数据行（不含表头）；引用正文原句保留原文标点。
+
+空值指空字符串；「待定」不是空值；「无」用于表示“客观不存在该项”（如无关联页）。
+
+## 1. 合并范围与输入
+
+- 种子 3 行：A03、B30、B37（原样并入，字段值未改，已逐格复核）。
+- A 书片段 13 行、B 前段 22 行、B 后段 20 行、C/D 5 行；合计 3+13+22+20+5 = 63 数据行。
+- 编号集合与状态表 63 个编号逐一相等：**相等 = 是**；B41 空号未出现；无跨片段重复编号冲突。
+- `02_内容包` 正文 md 实算：**63 篇**（书籍A 14、书籍B 44、书籍C 3、书籍D 2），本轮只读未改。
+
+## 2. 交付文件校验
+
+| 文件 | 路径 | 字节 | 行数 | 列数 | BOM | CR | 裸 LF | TAB | NUL | 控制字符 |
+|---|---|---|---|---|---|---|---|---|---|---|
+| metadata_63页.csv | `08_AI语料层/02_metadata/metadata_63页.csv` | 129524 | 63 | 18 | 是 | 64 | 0 | 0 | 0 | 无 |
+| 差异清单_metadata.csv | `08_AI语料层/02_metadata/差异清单_metadata.csv` | 38297 | 114 | 6 | 是 | 115 | 0 | 0 | 0 | 无 |
+| metadata补标说明.md | `08_AI语料层/02_metadata/metadata补标说明.md` | 42452 | 604 | — | 是 | 604 | 0 | 0 | 0 | 无 |
+| 冒烟测试结果.csv | `08_AI语料层/02_metadata/冒烟测试结果.csv` | 2468 | 20 | 6 | 是 | 21 | 0 | 0 | 0 | 无 |
+| 待核验关联_106对.csv | `08_AI语料层/02_metadata/待核验关联_106对.csv` | 33270 | 106 | 5 | 是 | 107 | 0 | 0 | 0 | 无 |
+| 反补无据边_191条.csv | `08_AI语料层/02_metadata/反补无据边_191条.csv` | 62756 | 191 | 6 | 是 | 192 | 0 | 0 | 0 | 无 |
+| 字数口径修正表.csv | `08_AI语料层/02_metadata/字数口径修正表.csv` | 4808 | 10 | 6 | 是 | 11 | 0 | 0 | 0 | 无 |
+| metadata汇总校验报告.md | `08_AI语料层/02_metadata/metadata汇总校验报告.md` | 11515 | 142（行尾计数） | — | 是 | 142 | 0 | 0 | 0 | 无 |
+
+## 3. metadata_63页.csv 实算（18 列）
+
+- 数据行 **63**，列数 **18**（原 16 列 + `面向_次位` + `关联依据`）。
+- 空字符串单元格数：**0**（前 16 列各 0；后 2 列无次位 / 无关联页者填 `无`，空值数亦为 0；`无` 不是空值）。
+- 逐列空值数：编号 0、页题 0、所属书 0、面向 0、页型 0、证据状态 0、年龄段 0、场景 0、适用条件 0、不适用条件 0、核心动作数 0、含可照念话术 0、含反例 0、关联页 0、高风险标记 0、最后审核 0、面向_次位 0、关联依据 0。
+- `待定` 单元格数：**0**（第一轮 11 处已按裁决六逐项落地，见补标说明 §11）。
+- 枚举与整数校验：越界条目 **0** 条；核心动作数为整数（D01/D02 落 0）。
+- 关联边与依据一致性：主表有向边 **240** 条，`关联页` 与 `关联依据` 逐条一一对应、顺序一致（脚本核验 parallel = True）；无依据边 **0**。逐条回正文核验：240 条均可在源页指定行回落，238 条行内链接可解析，2 处 href 失效（A11→A09 L67、B30→B20 L55，见 §10 第 1 项）。
+
+## 4. 关联页依据口径（HR2，裁决一 / 裁决二后）
+
+- 复算原总数 N = **431**（两种独立方法：逐行 `;` 拆分加总；边集合 `(页A,页B)` 去重反推；两法一致，无重复边 / 空 token / 非法目标 / 空格变体；A00 关联页 = `无` 计 0 条）。
+- **核平恒等式（四个数同时成立）**：
+  1. 有据边 **240** + 反补无据 **191** = **431**（复算原总数）；
+  2. 单向 **192** = 已登记 **86** + 未登记 **106**；
+  3. 有据 **240** = 双向边 **48** + 单向 **192** − 0（B31→B30 已在有据内，只算一次的反补扣减 0）。
+- **两份待核验清单（不同集合，分列存放）**：
+  - `待核验关联_106对.csv`：**106** 条，源内单向边中未登记差异清单的部分；列 页A / 页B / 推断依据（汇总规则原文）/ 是否已回正文核验 / 待核验状态。
+  - `反补无据边_191条.csv`：**191** 条，上一轮对称检查补入、回退时剔除的镜像边；列 页A / 页B / 反补来源页 / 推断依据（汇总规则原文）/ 是否已回正文核验 / 待核验状态。
+- 106 与 191 无重叠；与有据边 240 核平到 431，无漏项。
+- **B31 → B30（裁决二）**：B31 正文 L29、L92 指向 B30，边保留主表并附行号依据；B30 行不加回指；允许不对称，但必须有据。
+- 正文单向关联登记：四份差异片段 **86** 条（A 42、B1 36、B2 6、CD 2），保留在差异清单；正文不改。
+
+## 5. 差异清单_metadata.csv 实算
+
+- 保留第一轮页面级行 **101**；本轮新增汇总级行 **5**（口径漂移 1、B31→B30 单向 1、B03/B37/C03 证据状态 3）；末尾对照段 **8** 行。实质条目合计 **106**（不含对照段 8 行）。
+- 三条证据状态已与对账记录 §12.1 对照表（L296–L298）同源同句：实查 frontmatter 与状态表两值相同，裁决三“frontmatter 与状态表不一致”前提在本页未成立；真实差异分别落在 B03 正文 L29 自述张力、B37 正文 L17、L33 + v1.2 L30「虚构教学案例 ≠ 经验性策略」硬不一致（B22/B26 同型页状态表均记虚构教学案例，B37 应一致；建议改状态表，本轮不动）、C03 写作规范目录表 L39「强证据」与状态表「有条件推荐」不一致（以状态表为准，目录表待更新）。
+- 类型分布（实质条目 106）：
+
+| 正文单向关联 | 87 |
+| 状态表页题与正文一级标题不一致 | 3 |
+| 枚举外值映射 | 2 |
+| 抽取不出（待定） | 2 |
+| 转录口径观察 | 2 |
+| 渠道标签与判定不一致 | 1 |
+| 口径观察 | 1 |
+| 标点口径差异 | 1 |
+| 空单元格归一为无 | 1 |
+| metadata对称补列 | 1 |
+| 枚举越界修正（结论：0 条） | 1 |
+| 口径漂移 | 1 |
+| 证据状态字段张力（汇总级） | 1 |
+| 证据状态硬不一致（汇总级） | 1 |
+| 证据状态不一致（写作规范目录表·汇总级） | 1 |
+
+- 归因列扫描：含“待查 / 待定”悬置归因 **0** 条。
+- 对照段位置：文件末尾 L108–L115；裁决 13→L103、14→L104、15→L105、16→L106、17→L107、18→L106、19→L107（物理行号，含表头；数据行号见对照段括号；18/19 为本轮修正后的 B37/C03 条目，与 16/17 同行，16/17 说明已改为指向 18/19）。
+
+## 6. 分布统计（63 行表实算）
+
+### 6.1 页型（单选，合计 63）
+
+可操作页 38；案例页 4；模板页 8；解释页 7；边界声明页 6。
+
+### 6.2 高风险标记（单选，合计 63）
+
+安全事件 7；无 56。
+
+### 6.3 面向（单选，合计 63）
+
+父母 30；本人 9；教师 9；伴侣 8；B端 3；临床 2；全部 2；待定 0。
+
+### 6.4 年龄段（多值，标签次计数；页级合计 63）
+
+学龄 29；学前 5；成人 17；跨年龄 8；青春期 2；未标注 3；待定 0（标签次合计 64，B24 双标签“学前;学龄”重复计 1 次）。
+
+### 6.5 场景（多值，标签次计数；页级合计 63）
+
+学校 31；家庭冲突 14；就诊 17；其他 11；作业 11；社交 4；职场 4；早晨 3；睡前 2（标签次合计 97）。
+
+### 6.6 面向_次位
+
+无 60；教师 2（B04、B06）；伴侣 1（B07）。
+
+## 7. 冒烟测试结果（冻结查询原样重跑，双检索范围分列）
+
+- **交付口径以检索范围A（页题 + 适用条件，第一轮原规则）为准：A 组 10/10。**
+- 检索范围B（页题 + 适用条件 + 不适用条件）为本轮扩大范围的口径变更，**未经批准**，仅作附注：B 组 10/10，不作为交付命中率依据。
+- 查询与期望页于检索前落盘（补标说明 §15.2）；字段过滤 AND，多值列命中其一；按命中列数降序、同分编号升序，取 top3。
+- Q6（年龄段=成人；关键词“5 分钟”）：A 组 B16 在页题、适用条件两列命中（2 列），排第 1；B 组计入不适用条件后命中列数变 3；两组 top3 第三席不同（A=B14，B=B13），期望页 B16 两组均落 top3。第一轮 §15.3“同为 1、落第 4”为历史留痕，期望页与规则全程未改。
+- 枚举值变更（全部 / 未标注 / 跨年龄补录）均不进入任一查询过滤条件，其余 9 题命中未受影响。
+
+| 序号 | 查询 | 期望 | A 组 top3（交付口径） | A 命中 | B 组 top3（附注） | B 命中 |
+|---|---|---|---|---|---|---|
+| 1 | 页型=案例页 且 高风险标记=安全事件 | B37 | B26;B37 | 命中 | B26;B37 | 命中 |
+| 2 | 场景=作业；关键词“离座” | B01 | B01;B05;A01 | 命中 | B01;B05;A01 | 命中 |
+| 3 | 场景=早晨 | B02 | B02;B18;B19 | 命中 | B02;B18;B19 | 命中 |
+| 4 | 场景=睡前 | B20 | B20;B24 | 命中 | B20;B24 | 命中 |
+| 5 | 年龄段=学前；关键词“午休” | B30 | B30;B19;B20 | 命中 | B30;B19;B20 | 命中 |
+| 6 | 年龄段=成人；关键词“5 分钟” | B16 | B16;B12;B14 | 命中 | B16;B12;B13 | 命中 |
+| 7 | 面向=教师 | B08 | B08;B09;B10 | 命中 | B08;B09;B10 | 命中 |
+| 8 | 面向=伴侣 | B12 | B12;B13;B14 | 命中 | B12;B13;B14 | 命中 |
+| 9 | 面向=B端 | C01 | C01;C02;C03 | 命中 | C01;C02;C03 | 命中 |
+| 10 | 面向=临床 | D01 | D01;D02 | 命中 | D01;D02 | 命中 |
+
+## 8. 字数口径修正表（裁决四）
+
+- `字数口径修正表.csv`，**10** 数据行（A11/A12/A13/B30/B31/B32/B33/B34/B35/B36）。
+- 逐页差额 = URL 内汉字数，全部成立；与独立复核台账逐页一致。metadata 现有列无字数字段，本次不影响主表；`核心动作数` 为动作条目计数，不是字数。
+- 原校验记录一个字不改，本表为权威记录。
+
+## 9. 红线遵守说明
+
+- `02_内容包` 63 篇正文、状态表、v1.2、变更记录、A00、快照、各批校验记录、离线预览站、扩页主题池、引用核验报告、BookStack 校验报告均未改动。
+- schema（`01_schema/页面metadata_schema_v1.yaml`）本轮按裁决更新：field_count 16→18，补 `面向_次位` / `关联依据` 字段定义，面向枚举补 `全部`，年龄段枚举补 `未标注`，HR2 改为“每条关联边必有正文行号依据”。
+- 种子 3 行逐格复核为原样并入；未启动阶段二～五；未扫链、未抓引用、未评分。
+- 本层新写文件均为 UTF-8 BOM + CRLF；CSV 按 RFC4180 引号转义；无 NUL / TAB / 孤立 LF / CR。
+
+## 10. 待后续环节处理（不阻塞本层交付）
+
+1. 106 条已回正文逐条核验并并入主表（106/106 有源页行内链接依据，见补标说明 §18.5）；191 条反补无据边已剔除、不进主表。2 处正文 href 失效（A11→A09 L67、B30→B20 L55，目标页存在、链接路径失效）待修；建议阶段二切分前统一修正，不阻塞本层。
+2. B03 / B37 / C03 证据状态：本轮以状态表为准；正文 frontmatter / 写作规范目录表待后续统一更新，留待第 3 项 C-PEMAT-P 重评裁决。
+3. 页型枚举是否为首页单设类型（A00 当前暂记边界声明页）。
+4. 阶段四用真实检索策略重测；Q6“5 分钟”泛化时序词的排序短板届时复核；检索范围B 是否采纳留待裁决。

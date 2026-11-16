@@ -1,1 +1,118 @@
-LS0tCumdouWQkTog5Ly05L6jCuivgeaNrueKtuaAgTog6Jma5p6E5pWZ5a2m5qGI5L6LCuacgOWQjuWuoeaguDogMjAyNi0xMS0xMArpm7bnlKjoja/li77pgIk6IOW3suWLvumAiQrpobXpnaLnsbvlnos6IEPnq68t5Lmm57GNQgrkuabnsY06IOS5puexjUJf5a625bqt5bel5YW35LiO5oOF5pmv5qGI5L6LCueroOiKgjog5oiQ5Lq66Ieq5bexCnNsdWc6IHBhcnRuZXItZmlnaHQtcmVwYWlyCi0tLQoKPiAqKumdouWQkSoq77ya5Ly05L6jIO+9nCAqKuivgeaNrueKtuaAgSoq77ya6Jma5p6E5pWZ5a2m5qGI5L6LIO+9nCAqKuacgOWQjuWuoeaguCoq77yaMjAyNi0xMS0xMAo+ICoq5pys6aG15LiN5ZCr6I2v5ZCN44CB5YmC6YeP44CB55So6I2v6YCJ5oup44CB5Ymv5L2c55So5aSE55CG44CB5YGc6I2v5YeP6YeP5bu66K6uKiog4oCU4oCUIOKYkSDlt7Lli77pgIkKCiMg5ZKMIEFESEQg5Ly05L6j5ZC15p625LmL5ZCO77ya5LiA5q616Z2e5oyH6LSj55qE5L+u5aSN5a+56K+dCgo+IOacrOmhteS6uueJqeS4juaDheiKguS4uuaVmeWtpuiZmuaehO+8jOeUqOS6juivtOaYjuaWueazle+8jOS4jeS7o+ihqOS7u+S9leecn+WunuS4quahiO+8m+WvueivneS4rSLlsI/mnpciIuWwj+iLjyLlnYfkuLromZrmnoTop5LoibLjgIIKCiMjIOS7iuWkqeiDveWBmueahCAzIOS7tuS6iwoKMS4gKirnrYnkuKTkuKrkurrpg73kuI3lho3mj5Dpq5jpn7Pph4/kuYvlkI4qKu+8iOiHs+WwkemalOWNiuWwj+aXtu+8ie+8jOaMkeS4gOS4quS4jei1tuaXtumXtOeahOaXtuWIu++8jOS4u+WKqOW8gOWPo+ivtOesrOS4gOWPpeS/ruWkjeeahOivneOAggoyLiAqKuS/ruWkjeWPquWBmuS4gOasoe+8jOS4gOasoeivtOWujOOAgioqIOS4jee/u+aXp+i0pu+8jOS4jeWAn+i/measoeiwiOivneaWsOeri+S4ieadoeinhOefqeOAggozLiAqKuS/ruWkjeS5i+WQju+8jOWPqumHjeiuvuS4gOadoeWFt+S9k+eahOWwj+S6i+OAgioqIOavlOWmgiLkuIvmrKHliqDnj63mmZrlvZLmj5DliY0gMzAg5YiG6ZKf5Y+R5Liq5raI5oGvIu+8jOS4jeivtCLkvaDku6XlkI7lpJrkuIrlv4Mi44CCCgojIyDkuLrku4DkuYjov5nmoLflgZrmnInmlYgKCuWSjOS4gOS4quaAu+aYr+W/mOS6i+OAgeaAu+aYr+aLluOAgee6puS8muaAu+i/n+WIsOeahOS6uui/h+aXpeWtkO+8jOWQteWIsOacgOWQjuWQteeahOW+gOW+gOS4jeaYr+mCo+S7tuS6i+acrOi6q++8jOiAjOaYr+mCo+WPpe+8miLkvaDliLDlupXlnKjkuI3lnKjkuY7miJHvvJ8i5oOF57uq5LiK5p2l5pe25Y+M5pa56YO95oqK6KGM5Li66K+75oiQ5LqG5oCB5bqm6Zeu6aKY77yM5LqO5piv5LuOIumlreWHieS6hiLlkLXliLAi5L2g5b+D6YeM5qC55pys5rKh5pyJ6L+Z5Liq5a62IuOAggoK5ZC15p625LmL5ZCO5pyA6Zq+55qE5LiN5piv6LCB5YWI5L2O5aS077yM6ICM5pivKirnrKzkuozlj6Xor53mgI7kuYjor7QqKuOAguesrOS4gOWPpSLlr7nkuI3otbci5b6I5a655piT77yM56ys5LqM5Y+l5aaC5p6c5o6l5oiQIuS9huS9oOS5n+S4jeivpemCo+agt+ivtOaIkSLvvIzlsLHnq4vliLvku47kv67lpI3lj5jmiJDmlrDkuIDova7lkLXmnrbjgIIKCuS4i+mdoui/meauteWvueivneaYr+S4gOautSoq5Y+v5Lul55u05o6l54Wn552A57uDKirnmoTnpLrojIPohJrmnKzvvIzkuI3mmK/mn5DkuIDlr7nlpKvlprvnmoTnnJ/lrp7lvZXpn7PjgILlroPlsZ7kuo7kvLTkvqPmsp/pgJrkuK3luLjnlKjnmoQi6Z2e5oyH6LSj5L+u5aSNIue7k+aehO+8jOaDheaZr+aVmeWtpu+8jOS4jeS9nOivgeaNru+8m+aWueWQkeS4iuS4juaMh+WNl+WvueaIkOS6uiBBREhEIOW8uuiwg+eahOe7k+aehOaAp+aXpeW4uOaUr+aMgeOAgeiAjOmdnuWPjeWkjeivtOaVmeS4gOiHtO+8iOingSBb5L6d5o2u5LiO5Ye65aSEXSgj5L6d5o2u5LiO5Ye65aSEKe+8ieOAggoKIyMg5YW35L2T5oCO5LmI5YGaCgoqKuWcuuaZr++8iOaVmeWtpuiZmuaehO+8ie+8mioqIOWRqOacq+e6puWlvSA2IOeCueWHuumXqOi1tOmlreWxgO+8jOWwj+iLj++8iEFESEQg5LiA5pa577yJ5Li05pe26KKr5LiA5Liq5raI5oGv5omT5pat77yM5Z2Q5Yiw55S16ISR5YmN6K+0IuaIkeWGjeW8hCA1IOWIhumSnyLvvIznu5PmnpwgNyDngrnmiY3lh7rpl6jjgILlsI/mnpfvvIjpnZ4gQURIRCDkuIDmlrnvvInlnKjovabkuIrkuIDot6/msqHor7Tor53vvIzliLDlrrbkuYvlkI7mkZTkuobljIXjgIIKCioq5L+u5aSN5a+56K+d5YiGIDMg5q2l77yaKioKCioq56ysIDEg5q2l77ya5YWI6K+05LqL5a6e77yM5LiN6LS05qCH562+77yI5oqKIuS9oOS7juS4jeKApuKApiLmjaLmiJAi5Yia5omN6YKj5Lu25LqLIu+8iSoqCgo+ICoq5bCP5p6X77yaKioi5LuK5pmaIDYg54K56KaB5Ye66Zeo77yM5L2g6K+05YaN5byEIDUg5YiG6ZKf77yM57uT5p6cIDcg54K55omN6LWw44CC5oiR5Zyo6L2m5LiK5LiA55u05oaL552A77yM5Zue5a625pGU5YyF5piv5oiR5LiN5a+544CCIgo+Cj4gKirlsI/oi4/vvJoqKiLigKbigKbmiJHnn6XpgZPjgILmiJHkuIDlnZDkuIvljrvlsLHmsqHlkKzliLDkvaDlnKjlj6vmiJHjgIIiCj4KPiAqKuWwj+ael++8mioqIuaIkeS4jeaYr+imgemqguS9oOOAguaIkeaYr+aDs+ivtO+8muWImuaJjemCo+S7tuS6i++8jOaIkeS7rOaAjuS5iOS4gOi1t+mBv+WFjeS4i+S4gOasoe+8nyIKCuimgeeCue+8mioq5Y+q6K+05LuK5pma6L+Z5LiA5Lu25LqLKirjgILkuI3or7Qi5L2g5q+P5qyh6YO96L+Z5qC3IiLkvaDku47mnaXmsqHmiormiJHnmoTml7bpl7TlvZPlm57kuosi4oCU4oCU6L+Z5Lqb6K+d5LiA5Ye65Y+j77yM5a+55pa55bCx5Y+q6IO96L+b5YWl6Ziy5b6h44CCCgoqKuesrCAyIOatpe+8muaKiiLku5bpkojlr7nmiJEi5o2i5oiQIuS7luWPiOmdoOiEkeWtkOehrOaJm+S6hiLvvIjnu5nlhbPns7vkuIDkuKrop6Pph4rvvIkqKgoKPiAqKuWwj+iLj++8mioqIuaIkeS4jeaYr+aVheaEj+imgeiuqeS9oOetieOAguaIkeS4gOaJk+W8gOmCo+S4quihqO+8jOWwseWQrOS4jeWIsOWIq+eahOS6huOAgiIKPgo+ICoq5bCP5p6X77yaKioi5oiR55+l6YGT5L2g5LiN5piv5pWF5oSP55qE44CC5L2G5oiR5LiA5Liq5Lq65Zyo5a6i5Y6F562J5L2g6YKj5LiA5Liq5bCP5pe277yM5oiR5Lya5b+N5LiN5L2P5oOzJ+S7luaYr+S4jeaYr+S4jeWcqOS5jui/meS4quWxgCfjgIIiCj4KPiAqKuWwj+iLj++8mioqIumCo+S7peWQjuaIkeetlOW6lOWHuumXqOWJjSAzMCDliIbpkp/vvIzkvaDnm7TmjqXmnaXmiL/pl7Tmi43miJHkuIDkuIvvvIzkuI3nlKjlj6vnrKzkuozpgY3jgIIiCgropoHngrnvvJrpnZ4gQURIRCDkuIDmlrnor7TmuIXmpZoqKuiHquW3seiiq+inpuWPkeeahOmCo+WxguaDhee7qioq77yIIuaIkeS8muW/jeS4jeS9j+aDs+KApuKApiLvvInvvIzkvYbkuI3miorlroPor7TmiJDkuovlrp7vvJtBREhEIOS4gOaWueivtOa4healmioq5Yia5omN5Y+R55Sf5LqG5LuA5LmIKirvvIgi5oiR5Z2Q5LiL5Y675bCx5ZCs5LiN5Yiw5Yir55qE5LqGIu+8ie+8jOiAjOS4jeaYr+WPquivtCLlr7nkuI3otbci44CCCgoqKuesrCAzIOatpe+8muWPqumHjeiuvuS4gOadoeWFt+S9k+OAgeWPr+WklumDqOWMlueahOWwj+S6iyoqCgo+ICoq5bCP5p6X77yaKioi6YKj5oiR5Lus5a6a5LiA5Lu25LqL77ya5Lul5ZCO5Ye66Zeo5YmNIDMwIOWIhumSn++8jOaIkeiuvuS4quiuoeaXtuWZqOaPkOmGkuS9oOS4gOasoe+8jOS9oOWQrOWIsOWwseWFs+eUteiEke+8jOWlveS4jeWlve+8nyIKPgo+ICoq5bCP6IuP77yaKioi5aW944CC5oiR5LiN5ouN6IO46ISv6K+0J+W/mOS4jeS6hifigJTigJTmiJHpnaDohJHlrZDorrDkuI3kvY/vvIzkvaDnm7TmjqXmnaXlj6vmiJHjgIIiCj4KPiAqKuWwj+ael++8mioqIuWwsei/meS4gOadoeOAguWBmuWIsOS6huWwseeul+S7iuWkqee/u+evh+OAgiIKCuimgeeCue+8muinhOWImeimgSoq5YW35L2T44CB5Y+v5aSW6YOo5YyW44CB5LiN6Z2g5a+55pa555qE6Ieq6KeJKirjgILkuI3or7Qi5L2g5Lul5ZCO5LiK54K55b+DIu+8jOivtCIzMCDliIbpkp/liY3miJHmnaXlj6vkvaDkuIDmrKEi44CCCgoqKuW8gOWPo+WJjSAzIOenkuiHquajgOihqO+8iOS4i+asoeWQteaetuWJjeWFiOaJq+S4gOecvOW3puagj++8ie+8mioqCgp8IOaIkeeOsOWcqOaDs+ivtOeahOivne+8iOW3puagj+W4uOWGkuWHuuadpe+8iSB8IOWug+WxnuS6juWTquexuyB8IOaUueaIkOWPs+agj+i/meS4gOWPpSB8CnwtLS18LS0tfC0tLXwKfCAi5L2g5LuO5p2l4oCm4oCmIiLkvaDmgLvmmK/igKbigKYiIHwg6LS05qCH562+44CB57+75pen6LSmIHwgIuS7iuaZmui/meS7tuS6i+aYr+KApuKApiIgfAp8ICLkvaDlsLHmmK/kuI3lnKjkuY7miJEiIHwg5oqK5oOF57uq6K+05oiQ5LqL5a6eIHwgIuaIkeS8muW/jeS4jeS9j+aDs+KApuKApiIgfAp8ICLkvaDku6XlkI7kuIrngrnlv4MiIHwg5LiN5Y+v5omn6KGM55qE56m66K+dIHwgIuS4i+asoSBYIOeCueWJjeaIkeS7rCBZ77yM5aW95LiN5aW977yfIiB8CgoqKuWQteaetuWQjiAyNCDlsI/ml7blhoXvvIzkuI3opoHlgZrov5kgMiDku7bkuovvvJoqKgoKMS4gKirkuI3opoHlnKjmsJTlpLTkuIrosIjop4TliJnjgIHlrprlkI7mnpzjgIIqKiDmg4Xnu6rmsqHpgIDml7bosIjnmoTop4Tnn6nvvIzlpJrljYrmmK/lkJPllKzvvIzmiafooYzkuI3kuobjgIIKMi4gKirkuI3opoHnv7vml6fotKbjgIHkuI3opoHlpI3nm5jmlbTlnLrkuonorrrosIHlr7nosIHplJnjgIIqKiDkv67lpI3kuIDmrKHlsLHlpJ/vvJvlj43lpI3mj5DvvIznrYnkuo7miorpgqPmrKHpmr7loKrlj4jmi47lh7rmnaXkuIDpgY3jgIIKCioq5YGa5a+55LqG55qE5qCH5b+X77yaKioKLSDimJAg5L+u5aSN5a+56K+d5Zyo5Lik5Lq66YO95bmz6Z2Z5ZCOIDI0IOWwj+aXtuWGheWujOaIkO+8jOayoemalOWknOWGt+aImAotIOKYkCDmlbTlnLrlr7nor53ph4zmsqHmnInlh7rnjrAi5L2g5LuO5p2l4oCm4oCmIiLkvaDmgLvmmK/igKbigKYiIuS9oOWwseaYr+KApuKApiIKLSDimJAg57uT5p2f5pe25Y+M5pa55a+56YKjIDEg5p2h5paw6KeE5YiZ54K55aS05LiA6Ie0Ci0g4piQIOesrOS6jOWkqeayoeacieWGjeaKiuS7iuaZmueahOS6i+aLv+WHuuadpeivtAoKIyMg5LuA5LmI5oOF5Ya15LiL6ZyA6KaB5o2i5LiA56eN5YGa5rOVCgotICoq5Lik5ZGo5ZC15LiJ5Zub5qyh77yM5q+P5qyh5L+u5aSN5a6M5LiL5LiA5ZGo6L+Y5piv5ZCM5qC355qE5LqLKirvvJrkuI3mmK/or53mnK/pl67popjvvIzmmK/lpJbpg6jmj5DphpLnu5PmnoTmsqHlu7rotbfmnaXjgILkuIvkuIDmraXvvJpb5Ly05L6j55qE5b+Y5LqL5LiN5piv5oCB5bqm6Zeu6aKY77ya5LiA5ZGo5aSW6YOo5o+Q6YaS5oCO5LmI5YiG5belXShCMTRf5Ly05L6j5b+Y5LqL5LiN5piv5oCB5bqm6Zeu6aKYLeS4gOWRqOWklumDqOaPkOmGkuWIhuW3pS5tZCnjgIIKLSAqKuWQteWujOS5i+WQjuS9oOWPkeeOsOiHquW3semVv+acn+WcqOabv+S7luiusOaJgOacieS6iyoq77ya5LiL5LiA5q2l77yaW+S8tOS+o+aAu+W/mOS6i+OAgeaLluW7tu+8mui/meS6m+ihjOS4uuS4jeaYr+mSiOWvueS9oF0oQjEyX+S8tOS+o+aAu+W/mOS6i+aLluW7ti3ov5nkupvooYzkuLrkuI3mmK/pkojlr7nkvaAubWQp44CCCi0gKirlv5jkuovkuYvlpJbov5jmnInmjIHnu63lpLHkv6HjgIHpmpDnnpLlvIDplIDjgIHmg4XmhJ/lhrfmvKAqKu+8mui/mei2heWHuuS6huacrOmhteiMg+WbtO+8jOW7uuiuruWvu+axguS8tOS+o+WSqOivou+8jOS4jeimgemDveeul+WcqCBBREhEIOWktOS4iuOAggotICoq5LuW5pys5Lq65oS/5oSP5YGa77yM5L2G5oCO5LmI6YO95YGa5LiN5Yiw44CB5pel5a2Q6L+H5LiN5LiL5Y67KirvvJrlgLzlvpflgZrkuIDmrKHmraPlvI/or4TkvLDjgILkuIvkuIDmraXvvJpb5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmIXSguLi/kuabnsY1BX+WFrOW8gOefpeivhuW6ky9BMDRf5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmILm1kKeOAggoKIyMg5bi46KeB6K+v5Yy6Cgp8IOivr+WMuiB8IOWunumZhSB8CnwtLS18LS0tfAp8ICLlhYjorqTplJnnmoTkurrlsLHovpPkuoYiIHwg5YWI5byA5Y+j55qE5Lq65piv5Zyo5oqK5YWz57O75b6A5Zue5ouJ77yM5LiN5piv6K6k6L6TIHwKfCAi5LuWIEFESETvvIzmiJHlsLHlvpfkuIDnm7TorqnnnYAiIHwg6K6p552A5LiN6Kej5Yaz5aSW6YOo57uT5p6E77yb5a6a5LiA5p2h5YW35L2T5bCP5LqL5q+U5b+N5pu06ZW/5LmFIHwKfCAi6YGT5q2J5LiA5qyh5bCx6K+l57+756+H77yM5LuW6L+Y6K6w5LuH5piv5bCP5b+D55y8IiB8IOWuieWFqOaEn+eahOS/ruWkjemcgOimgeWHoOWkqe+8jOS4jeaYr+S4gOWPpeivnea4hembtiB8CnwgIuWQteWujOeri+WIu+iwiOinhOWImeaJjeacieaViCIgfCDmsJTlpLTkuIrosIjnmoTop4Tnn6nlpJrljYrmiafooYzkuI3kuobvvJvnrYnlj4zmlrnpg73lubPpnZnlho3osIggfAoKPiDmnKzpobXmj5DkvpvnmoTmmK/mlZnogrLkuI7oh6rmiJHnrqHnkIbkv6Hmga/vvIzkuI3mnoTmiJDor4rmlq3miJbmsrvnlpflu7rorq7jgILmmK/lkKbpnIDopoHov5vkuIDmraXor4TkvLDvvIzor7fkuI7mnInlpITmlrnmnYPnmoTljLvnlJ/miJblhL/nq6Xnsr7npZ7np5Ev5b+D55CG56eR5LiT5Lia5Lq65ZGY6K6o6K6644CCCgojIyDkvp3mja7kuI7lh7rlpIQKCuacrOmhteaYryoq6Jma5p6E5pWZ5a2m5qGI5L6LKirvvJrkurrnianvvIjlsI/mnpfjgIHlsI/oi4/vvInkuI7mg4XoioLvvIjlkajmnKvppa3lsYDov5/liLDvvInlnYfkuLrmlZnlrabomZrmnoTvvIzlr7nor53lj7Dor43kuLrnpLrojIPohJrmnKzvvIzkuI3ku6Pooajku7vkvZXnnJ/lrp7kuKrmoYjvvIwqKuaDheaZr+aVmeWtpu+8jOS4jeS9nOivgeaNrioq44CC5a6D5YCf55So55qEIumdnuaMh+i0o+S/ruWkjSLkuInmraXnu5PmnoTvvIjor7Tkuovlrp7igJTnu5nlhbPns7vkuIDkuKrop6Pph4rigJTph43orr7kuIDmnaHlhbfkvZPop4TliJnvvInmmK/kvLTkvqPmsp/pgJrkuK3luLjnlKjnmoTlgZrms5XvvIzml6Dnm7TmjqXlr7nnhafor5XpqozmlK/mjIHjgIIKCuWug+iDjOWQjueahOWkp+aWueWQkeKAlOKAlOaIkOS6uiBBREhEIOmcgOimgee7k+aehOaAp+aXpeW4uOaUr+aMgeOAgeiAjOmdnuWPjeWkjeivtOaVmeKAlOKAlOinge+8mgoKWzFdIE5hdGlvbmFsIEluc3RpdHV0ZSBmb3IgSGVhbHRoIGFuZCBDYXJlIEV4Y2VsbGVuY2UgKE5JQ0UpLiBBdHRlbnRpb24gZGVmaWNpdCBoeXBlcmFjdGl2aXR5IGRpc29yZGVyOiBkaWFnbm9zaXMgYW5kIG1hbmFnZW1lbnQgKE5HODcpLiAyMDE477yI5oiQ5Lq65pa55ZCR5by66LCD57uT5p6E5oCn5a6J5o6S5LiO5pel5bi45pSv5oyB77yJLiBodHRwczovL3d3dy5uaWNlLm9yZy51ay9ndWlkYW5jZS9uZzg377yI6K6/6Zeu5pel5pyfIDIwMjYtMTEtMTDvvIkKCiMjIOS4i+S4gOadoeWPr+aTjeS9nOW7uuiurgoKLSBb5Ly05L6j5oC75b+Y5LqL44CB5ouW5bu277ya6L+Z5Lqb6KGM5Li65LiN5piv6ZKI5a+55L2gXShCMTJf5Ly05L6j5oC75b+Y5LqL5ouW5bu2Lei/meS6m+ihjOS4uuS4jeaYr+mSiOWvueS9oC5tZCkKLSBb5Ly05L6j55qE5b+Y5LqL5LiN5piv5oCB5bqm6Zeu6aKY77ya5LiA5ZGo5aSW6YOo5o+Q6YaS5oCO5LmI5YiG5belXShCMTRf5Ly05L6j5b+Y5LqL5LiN5piv5oCB5bqm6Zeu6aKYLeS4gOWRqOWklumDqOaPkOmGkuWIhuW3pS5tZCkKLSBb5Ly05L6j57qm5Lya5oC76L+f5Yiw77ya5o+Q5YmN5o+Q6YaS55qE57qm5a6a5oCO5LmI5LiA6LW35a6aXShCMTNf5Ly05L6j57qm5Lya5oC76L+f5YiwLeaPkOWJjeaPkOmGkue6puWumuaAjuS5iOWumi5tZCkK
+---
+面向: 伴侣
+证据状态: 虚构教学案例
+最后审核: 2026-11-10
+零用药勾选: 已勾选
+页面类型: C端-书籍B
+书籍: 书籍B_家庭工具与情景案例
+章节: 成人自己
+slug: partner-fight-repair
+---
+
+> **面向**：伴侣 ｜ **证据状态**：虚构教学案例 ｜ **最后审核**：2026-11-10
+> **本页不含药名、剂量、用药选择、副作用处理、停药减量建议** —— ☑ 已勾选
+
+# 和 ADHD 伴侣吵架之后：一段非指责的修复对话
+
+> 本页人物与情节为教学虚构，用于说明方法，不代表任何真实个案；对话中"小林""小苏"均为虚构角色。
+
+## 今天能做的 3 件事
+
+1. **等两个人都不再提高音量之后**（至少隔半小时），挑一个不赶时间的时刻，主动开口说第一句修复的话。
+2. **修复只做一次，一次说完。** 不翻旧账，不借这次谈话新立三条规矩。
+3. **修复之后，只重设一条具体的小事。** 比如"下次加班晚归提前 30 分钟发个消息"，不说"你以后多上心"。
+
+## 为什么这样做有效
+
+和一个总是忘事、总是拖、约会总迟到的人过日子，吵到最后吵的往往不是那件事本身，而是那句："你到底在不在乎我？"情绪上来时双方都把行为读成了态度问题，于是从"饭凉了"吵到"你心里根本没有这个家"。
+
+吵架之后最难的不是谁先低头，而是**第二句话怎么说**。第一句"对不起"很容易，第二句如果接成"但你也不该那样说我"，就立刻从修复变成新一轮吵架。
+
+下面这段对话是一段**可以直接照着练**的示范脚本，不是某一对夫妻的真实录音。它属于伴侣沟通中常用的"非指责修复"结构，情景教学，不作证据；方向上与指南对成人 ADHD 强调的结构性日常支持、而非反复说教一致（见 [依据与出处](#依据与出处)）。
+
+## 具体怎么做
+
+**场景（教学虚构）：** 周末约好 6 点出门赴饭局，小苏（ADHD 一方）临时被一个消息打断，坐到电脑前说"我再弄 5 分钟"，结果 7 点才出门。小林（非 ADHD 一方）在车上一路没说话，到家之后摔了包。
+
+**修复对话分 3 步：**
+
+**第 1 步：先说事实，不贴标签（把"你从不……"换成"刚才那件事"）**
+
+> **小林：**"今晚 6 点要出门，你说再弄 5 分钟，结果 7 点才走。我在车上一直憋着，回家摔包是我不对。"
+>
+> **小苏：**"……我知道。我一坐下去就没听到你在叫我。"
+>
+> **小林：**"我不是要骂你。我是想说：刚才那件事，我们怎么一起避免下一次？"
+
+要点：**只说今晚这一件事**。不说"你每次都这样""你从来没把我的时间当回事"——这些话一出口，对方就只能进入防御。
+
+**第 2 步：把"他针对我"换成"他又靠脑子硬扛了"（给关系一个解释）**
+
+> **小苏：**"我不是故意要让你等。我一打开那个表，就听不到别的了。"
+>
+> **小林：**"我知道你不是故意的。但我一个人在客厅等你那一个小时，我会忍不住想'他是不是不在乎这个局'。"
+>
+> **小苏：**"那以后我答应出门前 30 分钟，你直接来房间拍我一下，不用叫第二遍。"
+
+要点：非 ADHD 一方说清楚**自己被触发的那层情绪**（"我会忍不住想……"），但不把它说成事实；ADHD 一方说清楚**刚才发生了什么**（"我坐下去就听不到别的了"），而不是只说"对不起"。
+
+**第 3 步：只重设一条具体、可外部化的小事**
+
+> **小林：**"那我们定一件事：以后出门前 30 分钟，我设个计时器提醒你一次，你听到就关电脑，好不好？"
+>
+> **小苏：**"好。我不拍胸脯说'忘不了'——我靠脑子记不住，你直接来叫我。"
+>
+> **小林：**"就这一条。做到了就算今天翻篇。"
+
+要点：规则要**具体、可外部化、不靠对方的自觉**。不说"你以后上点心"，说"30 分钟前我来叫你一次"。
+
+**开口前 3 秒自检表（下次吵架前先扫一眼左栏）：**
+
+| 我现在想说的话（左栏常冒出来） | 它属于哪类 | 改成右栏这一句 |
+|---|---|---|
+| "你从来……""你总是……" | 贴标签、翻旧账 | "今晚这件事是……" |
+| "你就是不在乎我" | 把情绪说成事实 | "我会忍不住想……" |
+| "你以后上点心" | 不可执行的空话 | "下次 X 点前我们 Y，好不好？" |
+
+**吵架后 24 小时内，不要做这 2 件事：**
+
+1. **不要在气头上谈规则、定后果。** 情绪没退时谈的规矩，多半是吓唬，执行不了。
+2. **不要翻旧账、不要复盘整场争论谁对谁错。** 修复一次就够；反复提，等于把那次难堪又拎出来一遍。
+
+**做对了的标志：**
+- ☐ 修复对话在两人都平静后 24 小时内完成，没隔夜冷战
+- ☐ 整场对话里没有出现"你从来……""你总是……""你就是……"
+- ☐ 结束时双方对那 1 条新规则点头一致
+- ☐ 第二天没有再把今晚的事拿出来说
+
+## 什么情况下需要换一种做法
+
+- **两周吵三四次，每次修复完下一周还是同样的事**：不是话术问题，是外部提醒结构没建起来。下一步：[伴侣的忘事不是态度问题：一周外部提醒怎么分工](B14_伴侣忘事不是态度问题-一周外部提醒分工.md)。
+- **吵完之后你发现自己长期在替他记所有事**：下一步：[伴侣总忘事、拖延：这些行为不是针对你](B12_伴侣总忘事拖延-这些行为不是针对你.md)。
+- **忘事之外还有持续失信、隐瞒开销、情感冷漠**：这超出了本页范围，建议寻求伴侣咨询，不要都算在 ADHD 头上。
+- **他本人愿意做，但怎么都做不到、日子过不下去**：值得做一次正式评估。下一步：[就诊前要准备什么](../书籍A_公开知识库/A04_就诊前要准备什么.md)。
+
+## 常见误区
+
+| 误区 | 实际 |
+|---|---|
+| "先认错的人就输了" | 先开口的人是在把关系往回拉，不是认输 |
+| "他 ADHD，我就得一直让着" | 让着不解决外部结构；定一条具体小事比忍更长久 |
+| "道歉一次就该翻篇，他还记仇是小心眼" | 安全感的修复需要几天，不是一句话清零 |
+| "吵完立刻谈规则才有效" | 气头上谈的规矩多半执行不了；等双方都平静再谈 |
+
+> 本页提供的是教育与自我管理信息，不构成诊断或治疗建议。是否需要进一步评估，请与有处方权的医生或儿童精神科/心理科专业人员讨论。
+
+## 依据与出处
+
+本页是**虚构教学案例**：人物（小林、小苏）与情节（周末饭局迟到）均为教学虚构，对话台词为示范脚本，不代表任何真实个案，**情景教学，不作证据**。它借用的"非指责修复"三步结构（说事实—给关系一个解释—重设一条具体规则）是伴侣沟通中常用的做法，无直接对照试验支持。
+
+它背后的大方向——成人 ADHD 需要结构性日常支持、而非反复说教——见：
+
+[1] National Institute for Health and Care Excellence (NICE). Attention deficit hyperactivity disorder: diagnosis and management (NG87). 2018（成人方向强调结构性安排与日常支持）. https://www.nice.org.uk/guidance/ng87（访问日期 2026-11-10）
+
+## 下一条可操作建议
+
+- [伴侣总忘事、拖延：这些行为不是针对你](B12_伴侣总忘事拖延-这些行为不是针对你.md)
+- [伴侣的忘事不是态度问题：一周外部提醒怎么分工](B14_伴侣忘事不是态度问题-一周外部提醒分工.md)
+- [伴侣约会总迟到：提前提醒的约定怎么一起定](B13_伴侣约会总迟到-提前提醒约定怎么定.md)

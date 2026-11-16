@@ -1,1 +1,88 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiLkuIDmrKHmgKfnlJ/miJAg5a+85YWl57uT5p6E5riF5Y2VLmNzdu+8iFVURi04IOW4piBCT03vvInjgIIKCuS6p+eJqSA9IDE5IOadoeWGheWuuemhte+8iFJFR0lTVFJZ77yJICsgMTgg5p2h6I2v5ZOB5ZCN5aOz6aG177yI5p2l6IeqIDAzL+mHjeWumuWQkemhteS/neeVmea4heWNlS5jc3bvvInjgIIK5aOz6aG16KGM55qEIumhtemdouexu+WeiyLliJflm7rlrprlhpki6YeN5a6a5ZCR5aOz6aG1Iu+8jGltcG9ydF9ib29rc3RhY2sucHkg55qECi0tcmVkaXJlY3RzLW9ubHkg5YiG5pSv5Lul5q2k5YiX5L2c5Li65Y+q5a+86L+ZIDE4IOadoeeahOetm+mAieagh+iusOOAggoiIiIKaW1wb3J0IGNzdgppbXBvcnQgc3lzCmZyb20gcGF0aGxpYiBpbXBvcnQgUGF0aAoKc3lzLnBhdGguaW5zZXJ0KDAsIHN0cihQYXRoKF9fZmlsZV9fKS5wYXJlbnQpKQpmcm9tIGltcG9ydF9ib29rc3RhY2sgaW1wb3J0ICggICMgbm9xYTogRTQwMgogICAgUkVHSVNUUlksIEJPT0tTLCBDSEFQVEVSX09SREVSLCBDT05URU5UX1JPT1QsIFJFRElSRUNUX0RJUiwKICAgIGxvYWRfcGFnZXMsIGxvYWRfcmVkaXJlY3RfZW50cmllcywKKQoKcGFnZXMgPSBsb2FkX3BhZ2VzKE5vbmUpCmFjdHVhbCA9IHtwLmVudHJ5WyJpZCJdOiBwLmVudHJ5WyJzbHVnIl0gZm9yIHAgaW4gcGFnZXN9Cgpyb3dzID0gW10Kc2VxID0gMAojIC0tLS0tLS0tLS0gMTkg5p2h5YaF5a656aG1IC0tLS0tLS0tLS0KZm9yIGUgaW4gUkVHSVNUUlk6CiAgICBzZXEgKz0gMQogICAgY29kZSA9IGVbImJvb2siXQogICAgYm9va19zbHVnID0gQk9PS1NbY29kZV1bInNsdWciXQogICAgYm9va19uYW1lID0gQk9PS1NbY29kZV1bIm5hbWUiXQogICAgY2hhcCA9IGVbImNoYXB0ZXIiXSBpZiBlWyJjaGFwdGVyIl0gZWxzZSAi77yI5Lmm57GN6aG25bGC77yJIgogICAgY2hhcF9vcmRlciA9IENIQVBURVJfT1JERVJbY29kZV0uaW5kZXgoZVsiY2hhcHRlciJdKSArIDEgaWYgZVsiY2hhcHRlciJdIGVsc2UgMAogICAgc2x1ZyA9IGFjdHVhbC5nZXQoZVsiaWQiXSwgZVsic2x1ZyJdKQogICAgYWJzX3BhdGggPSBzdHIoKENPTlRFTlRfUk9PVCAvIGVbInJlbCJdKS5yZXNvbHZlKCkpCiAgICByb3dzLmFwcGVuZChbCiAgICAgICAgc2VxLAogICAgICAgIGJvb2tfbmFtZSwKICAgICAgICBib29rX3NsdWcsCiAgICAgICAgY2hhcCwKICAgICAgICBjaGFwX29yZGVyLAogICAgICAgIGVbInRpdGxlIl0sCiAgICAgICAgUGF0aChlWyJyZWwiXSkubmFtZSwKICAgICAgICBzbHVnLAogICAgICAgIGVbImF1ZGllbmNlIl0sCiAgICAgICAgZVsiZXZpZGVuY2UiXSwKICAgICAgICBlWyJwYWdlX3R5cGUiXSwKICAgICAgICBhYnNfcGF0aCwKICAgIF0pCgojIC0tLS0tLS0tLS0gMTgg5p2h6I2v5ZOB5ZCN5aOz6aG177yI5LulIDAzL+mHjeWumuWQkemhteS/neeVmea4heWNlS5jc3Yg5Li65YeG77yJIC0tLS0tLS0tLS0KcmVkaXJlY3RfZW50cmllcyA9IGxvYWRfcmVkaXJlY3RfZW50cmllcygpCmFzc2VydCBsZW4ocmVkaXJlY3RfZW50cmllcykgPT0gMTgsICgKICAgIGYi5L+d55WZ5riF5Y2V5bqU5Li6IDE4IOihjO+8jOWunumZhSB7bGVuKHJlZGlyZWN0X2VudHJpZXMpfSDooYzvvJsiCiAgICBmIuivt+WFiOaguOWvuSAwMy/ph43lrprlkJHpobXkv53nlZnmuIXljZUuY3N244CCIgopCmZvciBlIGluIHJlZGlyZWN0X2VudHJpZXM6CiAgICBzZXEgKz0gMQogICAgYWJzX3BhdGggPSBzdHIoKFJFRElSRUNUX0RJUiAvIGVbImZpbGVuYW1lIl0pLnJlc29sdmUoKSkKICAgIHJvd3MuYXBwZW5kKFsKICAgICAgICBzZXEsCiAgICAgICAgQk9PS1NbIkEiXVsibmFtZSJdLCAgICAgICAgICAgICAgICAgIyDlhazlvIDnn6Xor4blupPvvIhDIOerr++8iQogICAgICAgIEJPT0tTWyJBIl1bInNsdWciXSwgICAgICAgICAgICAgICAgICMgcHVibGljLWtiCiAgICAgICAgIu+8iOS5puexjemhtuWxgu+8iSIsICAgICAgICAgICAgICAgICAgICAgICMg5LiN5oyC5Lu75L2V56ug6IqCCiAgICAgICAgMCwKICAgICAgICBlWyJ0aXRsZSJdLCAgICAgICAgICAgICAgICAgICAgICAgICAjIOmhtemdouagh+mimCA9IOivjeadoeacrOi6qwogICAgICAgIGVbImZpbGVuYW1lIl0sCiAgICAgICAgZVsic2x1ZyJdLCAgICAgICAgICAgICAgICAgICAgICAgICAgIyByZWRpcmVjdF9wYWdlX3NsdWcKICAgICAgICAi5YWo6YOoIiwKICAgICAgICAi4oCUIiwKICAgICAgICAi6YeN5a6a5ZCR5aOz6aG1IiwgICAgICAgICAgICAgICAgICAgICAgICAjIOKGkCAtLXJlZGlyZWN0cy1vbmx5IOeahOetm+mAieagh+iusAogICAgICAgIGFic19wYXRoLAogICAgXSkKCm91dCA9IFBhdGgoX19maWxlX18pLnBhcmVudCAvICLlr7zlhaXnu5PmnoTmuIXljZUuY3N2Igp3aXRoIG9wZW4ob3V0LCAidyIsIGVuY29kaW5nPSJ1dGYtOC1zaWciLCBuZXdsaW5lPSIiKSBhcyBmOgogICAgdyA9IGNzdi53cml0ZXIoZikKICAgIHcud3JpdGVyb3coWyLluo/lj7ciLCAi5Lmm57GNIiwgIuS5puexjXNsdWciLCAi56ug6IqCIiwgIueroOiKgumhuuW6jyIsCiAgICAgICAgICAgICAgICAi6aG16Z2i5qCH6aKYIiwgIuaWh+S7tuWQjSIsICJzbHVnIiwgIumdouWQkSIsICLor4Hmja7nirbmgIEiLAogICAgICAgICAgICAgICAgIumhtemdouexu+WeiyIsICLmupDmlofku7bnu53lr7not6/lvoQiXSkKICAgIHcud3JpdGVyb3dzKHJvd3MpCgpjb250ZW50X3Jvd3MgPSBzdW0oMSBmb3IgciBpbiByb3dzIGlmIHJbMTBdICE9ICLph43lrprlkJHlo7PpobUiKQpzaGVsbF9yb3dzID0gc3VtKDEgZm9yIHIgaW4gcm93cyBpZiByWzEwXSA9PSAi6YeN5a6a5ZCR5aOz6aG1IikKcHJpbnQoZiLlt7Llhpnlh7oge291dH0iKQpwcmludChmIuaAu+ihjOaVsCB7bGVuKHJvd3Mpfe+8iOWGheWuuemhtSB7Y29udGVudF9yb3dzfSArIOWjs+mhtSB7c2hlbGxfcm93c33vvIkiKQojIOagoemqjCBzbHVnIOaXoOmHjeWkjQpzbHVncyA9IFtyWzddIGZvciByIGluIHJvd3NdCmR1cHMgPSBbcyBmb3IgcyBpbiBzZXQoc2x1Z3MpIGlmIHNsdWdzLmNvdW50KHMpID4gMV0KcHJpbnQoZiJzbHVnIOmHjeWkje+8mntkdXBzIGlmIGR1cHMgZWxzZSAn5pegJ30iKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""一次性生成 导入结构清单.csv（UTF-8 带 BOM）。
+
+产物 = 19 条内容页（REGISTRY） + 18 条药品名壳页（来自 03/重定向页保留清单.csv）。
+壳页行的"页面类型"列固定写"重定向壳页"，import_bookstack.py 的
+--redirects-only 分支以此列作为只导这 18 条的筛选标记。
+"""
+import csv
+import sys
+from pathlib import Path
+
+sys.path.insert(0, str(Path(__file__).parent))
+from import_bookstack import (  # noqa: E402
+    REGISTRY, BOOKS, CHAPTER_ORDER, CONTENT_ROOT, REDIRECT_DIR,
+    load_pages, load_redirect_entries,
+)
+
+pages = load_pages(None)
+actual = {p.entry["id"]: p.entry["slug"] for p in pages}
+
+rows = []
+seq = 0
+# ---------- 19 条内容页 ----------
+for e in REGISTRY:
+    seq += 1
+    code = e["book"]
+    book_slug = BOOKS[code]["slug"]
+    book_name = BOOKS[code]["name"]
+    chap = e["chapter"] if e["chapter"] else "（书籍顶层）"
+    chap_order = CHAPTER_ORDER[code].index(e["chapter"]) + 1 if e["chapter"] else 0
+    slug = actual.get(e["id"], e["slug"])
+    abs_path = str((CONTENT_ROOT / e["rel"]).resolve())
+    rows.append([
+        seq,
+        book_name,
+        book_slug,
+        chap,
+        chap_order,
+        e["title"],
+        Path(e["rel"]).name,
+        slug,
+        e["audience"],
+        e["evidence"],
+        e["page_type"],
+        abs_path,
+    ])
+
+# ---------- 18 条药品名壳页（以 03/重定向页保留清单.csv 为准） ----------
+redirect_entries = load_redirect_entries()
+assert len(redirect_entries) == 18, (
+    f"保留清单应为 18 行，实际 {len(redirect_entries)} 行；"
+    f"请先核对 03/重定向页保留清单.csv。"
+)
+for e in redirect_entries:
+    seq += 1
+    abs_path = str((REDIRECT_DIR / e["filename"]).resolve())
+    rows.append([
+        seq,
+        BOOKS["A"]["name"],                 # 公开知识库（C 端）
+        BOOKS["A"]["slug"],                 # public-kb
+        "（书籍顶层）",                      # 不挂任何章节
+        0,
+        e["title"],                         # 页面标题 = 词条本身
+        e["filename"],
+        e["slug"],                          # redirect_page_slug
+        "全部",
+        "—",
+        "重定向壳页",                        # ← --redirects-only 的筛选标记
+        abs_path,
+    ])
+
+out = Path(__file__).parent / "导入结构清单.csv"
+with open(out, "w", encoding="utf-8-sig", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(["序号", "书籍", "书籍slug", "章节", "章节顺序",
+                "页面标题", "文件名", "slug", "面向", "证据状态",
+                "页面类型", "源文件绝对路径"])
+    w.writerows(rows)
+
+content_rows = sum(1 for r in rows if r[10] != "重定向壳页")
+shell_rows = sum(1 for r in rows if r[10] == "重定向壳页")
+print(f"已写出 {out}")
+print(f"总行数 {len(rows)}（内容页 {content_rows} + 壳页 {shell_rows}）")
+# 校验 slug 无重复
+slugs = [r[7] for r in rows]
+dups = [s for s in set(slugs) if slugs.count(s) > 1]
+print(f"slug 重复：{dups if dups else '无'}")

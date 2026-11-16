@@ -1,1 +1,132 @@
-IyDlj5HluIPmtYHnqIvkuI7kv6Hku7vliIbnuqcgU09Q77yI54q25oCB5py6ICsg562+5qC455WZ55eV77yJCgo+IOacrOaWh+S7tueuoSLkuIDpobXlhoXlrrnku47ojYnnqL/liLDlvZLmoaPlpI3moLgi55qE5YWo6L+H56iL77ya6LCB6IO95Zyo5ZOq5Liq54q25oCB5Yqo5omL44CB6L+b5YWl5LiL5LiA54q25oCB5YmN5b+F6aG76YCQ6aG55omT5Yu+55qE5qOA5p+l44CB5b+F6aG755WZ5LiL5LuA5LmI55eV6L+544CCCj4g6YWN5aWX77yaYOinkuiJsuS4juadg+mZkOmFjee9ruihqC5tZGDvvIjmnYPpmZDvvInjgIFgQy1QRU1BVC1Q5Y+R5biD6Zeo5qeb5LiO6K+E5YiG6KeE5YiZLm1kYO+8iOivhOWIhuWPo+W+hO+8ieOAggo+IOehrOWJjeaPkO+8mioq5Lu75L2V5LiA6aG154q25oCB5o6o6L+b6YO95LulIumbtueUqOiNr+e6oue6vyLvvIjlj6PlvoTmlofku7Ygwqc077yJ5Li65LiA56Wo5ZCm5Yaz6aG5KirigJTigJTmo4Dmn6XmuIXljZXph4wi6Zu255So6I2v5Yu+6YCJIuS4jemAmui/h++8jOWFtuS7lumhueWFqOe7v+S5n+S4jeiuuOaOqOi/m+OAggoKLS0tCgojIyAxLiDnirbmgIHmnLrmgLvlm74KCmBgYArojYnnqL8g4pSA4pSA4pGg4pSA4pSA4pa2IOW+heWPkeW4gyDilIDilIDikaHilIDilIDilrYg5bey6aqM6K+BIOKUgOKUgOKRou+8iOa7oTEy5Liq5pyI77yJ4pSA4pSA4pa2IOW+heWkjeaguCDilIDilIDikaPilIDilIDilrbvvIjmlLnlhpnlkI7lm57liLDvvInlt7Lpqozor4EKIOKUgiAgICAgICAgICAgIOKUggog4pSCICAgICAgICAgICAg4pSU4pSA4pSAIOS7u+S9leS4gOatpeacqui/hyDilIDilIDilrYg6YCA5Zue5pS55YaZ5Y2V77yI6ZmE5b2VIEHvvInilIDilIDilrYg5Zue5Yiw6I2J56i/CiDilJTilIAgQyDnq6/otKHnjK7ogIXliY0gMyDmrKHnvJbovpHvvJrojYnnqL/nlLHlhoXlrrnnrqHnkIblkZjku6Pmj5DkuqTvvIzkuI3oh6rliqjov5vpmJ/liJcKYGBgCgrlm5vkuKrnirbmgIHnmoTlrprkuYnvvJoKCnwg54q25oCBIHwg5ZCr5LmJIHwg6K+76ICF5Y+v6KeB5oCnIHwKfC0tLXwtLS18LS0tfAp8IOiNieeovyB8IOS9nOiAheato+WcqOWGme+8jOaIlumAgOWbnuaUueWGmeS4rSB8IOS4jeWPr+ingSB8Cnwg5b6F5Y+R5biDIHwg5L2c6ICF6Ieq5qCh5a6M5oiQ77yM562J54us56uL5aSN5qC46K+E5YiG5LiO562+5qC4IHwg5LiN5Y+v6KeBIHwKfCDlt7Lpqozor4EgfCDlj4zpl6jmp5vvvIjpm7bnlKjoja8gKyBDLVBFTUFULVAg5Y+MIOKJpTcwJe+8iemAmui/h++8jOWFrOW8gOWPkeW4gyB8IOWPr+ingSB8Cnwg5b6F5aSN5qC4IHwg6LedIuacgOWQjuWuoeaguCLmu6EgMTIg5Liq5pyI77yM5YaF5a655LuN5Zyo57q/5L2G6KKr5qCH6K6wIHwg5Y+v6KeB77yM6aG16Z2i6aG26YOo5YqgIuWGheWuueWkjeaguOS4rSLmj5DnpLogfAoKLS0tCgojIyAyLiDmr4/nirbmgIHvvJrosIHog73mk43kvZwgKyDov5vlhaXkuIvkuIDnirbmgIHliY3nmoTpgJDpobnmo4Dmn6UKCiMjIyAyLjEg6I2J56i/IOKGkiDlvoXlj5HluIMKCioq5YWB6K645pON5L2c6ICFKirvvJrkvZzogIXmnKzkurrvvIhDIOerr+i0oeeMruiAhSAvIEIg56uv57yW6L6RIC8g5Li05bqK5a6h5qC4IC8g5YaF5a65566h55CG5ZGY77yJ44CCCgrov5vlhaUi5b6F5Y+R5biDIuWJje+8jOS9nOiAhSoq6YCQ6aG55omT5Yu+KirvvJoKCi0gWyBdIOWFg+aVsOaNruWdl++8iOWPo+W+hOaWh+S7tiDCpzIuMe+8ieS4juS6uuW3peWPr+ivu+WFg+aVsOaNruadoe+8iMKnMi4y77yJ5a2X6Z2i5LiA6Ie077ya6Z2i5ZCRIC8g6K+B5o2u54q25oCBIC8g5pyA5ZCO5a6h5qC4IC8g6Zu255So6I2v5Yu+6YCJ5Zub6aG5Ci0gWyBdIOmbtueUqOiNr+WLvumAiSA9IOW3suWLvumAie+8m+WFqOaWh+iHquafpeacquWRveS4reWPo+W+hOaWh+S7tiDCpzQuMSDnpoHnlKjor43ooagKLSBbIF0gQyDnq6/pobXmraPmlofnu5PmnoQgPSDCpzIuM++8iOesrOS4gOiKguS4uiLku4rlpKnog73lgZrnmoQgMyDku7bkuosi77yJ77yb57uT5bC+5ZCrIMKnNC4zIOi+ueeVjOWPpQotIFsgXSDlvLror4Hmja4gLyDmnInmnaHku7bmjqjojZDnmoTmr4/kuKrliKTlrprvvIwi5L6d5o2u5LiO5Ye65aSEIumHjOmDveacieWvueW6lOe8luWPt+mTvuaOpe+8jOS4lOmTvuaOpeacrOi9ruWunumZheaJk+W8gOi/hwotIFsgXSDpobXpnaLlhoXpk77mjqXlj6rmjIflkJHlj6PlvoTmlofku7YgwqcxIOazqOWGjOihqOmHjOeahOaWh+S7tuWQje+8jOaXoOiHqumAoOaWh+S7tuWQjQotIFsgXSDvvIjkvZzogIXoh6ror4TvvInmjIkgQTHigJNBNyDnspfmn6Xlj6/mk43kvZzmgKfvvIzoh6ror4Tnu5PmnpzloavlhaXor4TliIborrDlvZUgYOS9nOiAheiHquivhOaYr+WQpui+vuagh2Ag5YiX77yI5LiN5Y+C5LiO6Zeo5qeb77yJCgoqKuW/hemhu+eVmeeXleWtl+autSoq77ya5L2c6ICF44CB5o+Q5Lqk5pel5pyf44CB6aG16Z2i5paH5Lu25ZCN44CCCgojIyMgMi4yIOW+heWPkeW4gyDihpIg5bey6aqM6K+BCgoqKuWFgeiuuOaTjeS9nOiAhSoq77ya54us56uL5aSN5qC45Lq677yI6K+E5YiG77yJKyDlhoXlrrnnrqHnkIblkZjvvIjmlL7ooYzvvInjgIIqKuS9nOiAheacrOS6uuS4jeW+l+iHquaIkeaUvuihjOOAgioqCgrmlL7ooYzliY3pgJDpobnmiZPli77vvJoKCi0gWyBdIEMtUEVNQVQtUCDlj4wg4omlNzAl77yI5Y+v55CG6Kej5oCnIOKJpTcwJSDkuJTlj6/mk43kvZzmgKcg4omlNzAl77yJ77yM6K+E5YiG5bey5YaZ5YWlIGBDLVBFTUFULVDor4TliIborrDlvZUuY3N2YAotIFsgXSDpm7bnlKjoja/li77pgIkgPSDlt7Lli77pgInvvJvlpI3moLjkurrpgJror7vlhajmlofnoa7orqTml6DnpoHnlKjor43jgIHml6DogZTnlKjlop7mlYjmmpfnpLrnsbvooajov7AKLSBbIF0g5byV55So5qC46aqM77ya6K6w5b2V5Lit5q+P5p2h5byV55So6ZO+5o6lKirlpI3moLjkurrkurLoh6rngrnlvIAqKu+8jOaXoCA0MDTjgIHlhoXlrrnkuI7mlq3oqIDlr7nlupQKLSBbIF0g5YWD5pWw5o2u5Z2XL+S6uuW3peadoeS4gOiHtOaAp+WkjeaguOmAmui/hwotIFsgXSDvvIjkuabnsY0gQS9CIOeahOahiOS+i+WPmeS6i+mhte+8ieW3suaghyLmlZnlrabomZrmnoQi5aOw5piO6KGMCi0gWyBdIO+8iOa2ieWPiuWwseivii/or4TkvLDnmoTpobXpnaLvvInlt7Lnoa7orqTotbDkuoYgwqczLjIg5L6L5aSW6KeE5YiZ4oCU4oCU6KeB5LiL5paHCgoqKuW/hemhu+eVmeeXleWtl+autSoq77yI5YaZ5YWl6K+E5YiG6K6w5b2VIENTViDkuI7pobXpnaLlhYPmlbDmja7mnaHvvInvvJrlrqHmoLjkurrjgIHml6XmnJ/jgIFDLVBFTUFULVAg5Y+M5b6X5YiG44CB6Zu255So6I2v5Yu+6YCJ44CB5byV55So5qC46aqM57uT6K6644CCCgojIyMgMi4zIOW3sumqjOivgSDihpLvvIjmu6EgMTIg5Liq5pyI77yJ5b6F5aSN5qC4CgoqKuinpuWPkeadoeS7tioq77ya6aG16Z2i5YWD5pWw5o2uIuacgOWQjuWuoeaguCLml6XmnJ/ot53ku4rmu6EgMTIg5Liq5pyI44CCCioq5pON5L2c6ICFKirvvJrlhoXlrrnnrqHnkIblkZjvvIjmoIforrDvvIzkuI3kuIvnur/vvInjgIIKCuagh+iusOWKqOS9nOmAkOmhueaJk+WLvu+8mgoKLSBbIF0g6aG16Z2i6aG26YOo5YqgIuWGheWuueWkjeaguOS4re+8jOS7peacgOaWsOS4tOW6iuaMh+WNl+S4uuWHhiLmj5DnpLrmnaEKLSBbIF0g6aG16Z2i5Zyo5Lmm57GN55uu5b2V5qCR5Lit572u6aG277yI5oiW5Zyo6K+l56ug6IqC5YiX6KGo5Lit5qCH6buE77yJ77yMKirkuI3lgZrkuIvnur/jgIHkuI3lgZrpmpDol48qKgotIFsgXSDlnKjlt6Hmo4Dlj7DotKbnmbvorrDlvoXlpI3moLjmuIXljZXvvIzmjpLmnJ8gNCDlkajlhoXlrozmiJDlpI3moLgKCioq5b+F6aG755WZ55eV5a2X5q61KirvvJrmoIforrDkurrjgIHmoIforrDml6XmnJ/jgIHmjpLmnJ/lpI3moLjml6XmnJ/jgIIKCiMjIyAyLjQg5b6F5aSN5qC4IOKGkiDlt7Lpqozor4HvvIjlpI3moLjpl63njq/vvIkKCuWkjeaguOS6uumAkOmhueaJk+WLvu+8mgoKLSBbIF0g5a+554Wn5pyA5paw54mI5oyH5Y2X6ZO+5o6l77yIUzHigJNTNO+8ieWkjeafpeaWreiogOaYr+WQpuS7jeaIkOeriwotIFsgXSDlvJXnlKjpk77mjqXph43mlrDngrnlvIDvvIzlpLHmlYjpk77mjqXmjInpmYTlvZUgQSDpgIDlm54KLSBbIF0gQy1QRU1BVC1QIOmHjeaWsOivhOWIhuS4gOasoe+8iOWkjeivhOi9ruasoemAkuWinu+8iQotIFsgXSDmm7TmlrDlhYPmlbDmja4i5pyA5ZCO5a6h5qC4IuaXpeacn++8jOaSpOS4iyLlpI3moLjkuK0i5o+Q56S65p2hCgoqKuW/hemhu+eVmeeXleWtl+autSoq77ya5aSN5qC45Lq644CB5aSN5qC45pel5pyf44CB5aSN6K+E6L2u5qyh44CB5aSN5qC457uT6K6644CCCgotLS0KCiMjIDMuIOS+i+WkluinhOWIme+8iOehrOinhOWIme+8jOS4jeWPr+e7lei/h++8iQoKIyMjIDMuMSBDIOerr+i0oeeMruiAheWJjSAzIOasoee8lui+kQoKLSBDIOerr+i0oeeMruiAhSoq6LSm5Y+35bu656uL5ZCO55qE5YmNIDMg5qyh5o+Q5LqkKirvvIzkuIDlvovnlLHlhoXlrrnnrqHnkIblkZjlnKggwqcyLjIg546v6IqC6YCQ5a2X5aSN5qC477yI5q+U5bi46KeE5aSa5LiA6YGT77ya6Zmk54us56uL6K+E5YiG5aSW77yM5YaF5a65566h55CG5ZGY5YaN6YCa6K+75LiA6YGN77yJ77ybCi0g5YmNIDMg5qyh5o+Q5Lqk55qE6aG16Z2iKirkuI3lvpfnlLEgQyDnq6/otKHnjK7ogIXmnKzkurrmj5DkuqTlkI7nm7TmjqXov5vpmJ/liJcqKu+8jOiNieeov+WujOaIkOWQjueUseWGheWuueeuoeeQhuWRmOS7o+S4uuaPkOS6pOiHsyLlvoXlj5HluIMi77ybCi0g56ysIDQg5qyh6LW35oGi5aSN5bi46KeE5rWB56iL44CC5qyh5pWw5LuO6LSm5Y+36aaW5qyh5o+Q5Lqk5byA5aeL6K6h77yM6K6w5b2V5Zyo5beh5qOA5Y+w6LSm44CCCgojIyMgMy4yIOiNr+eJqeWFnOW6lemhteS4juWwseivii/or4TkvLDnm7jlhbPpobUKCi0gKipBMDYg55So6I2v5YWc5bqV6aG1KirjgIHlkIQi5bCx6K+K5YmN6KaB5YeG5aSH5LuA5LmIIuexu+mhtemdou+8iEEwNCDlj4rlkI7nu63lkIznsbvpobXvvInjgIHku6Xlj4rku7vkvZXmtonlj4ror4TkvLAv6K+K5pat6L2s6L+w55qEIEMg56uv6aG16Z2i77yaKirmsLjov5zkuI3og73nlLEgQyDnq6/otKHnjK7ogIXnm7TmjqXlj5HluIMqKuOAggotIOWNs++8mkMg56uv6LSh54yu6ICF5a+56L+Z57G76aG16Z2i55qE5Lu75L2V5L+u5pS577yM5Y+q6IO95Lul6K+E6K66L+W7uuiuruW9ouW8j+aPkOS6pO+8jOeUseWGheWuueeuoeeQhuWRmOaIluS4tOW6iuWuoeaguOiQveeov++8m+adg+mZkOWxguW3sumFjeWQiO+8iOingSBg6KeS6Imy5LiO5p2D6ZmQ6YWN572u6KGoLm1kYCDCpzQuMe+8mkMg56uv6LSh54yu6ICF5a+5IEEwNiDml6DnvJbovpHmjInpkq7vvInjgIIKCiMjIyAzLjMgQiDnq6/nvJbovpHlnKjkuabnsY0gQSDnmoTnvJbovpEKCi0gQiDnq6/nvJbovpHlr7nkuabnsY0gQSDpobXpnaLnmoTku7vkvZXkv67mlLnvvIzmlL7ooYzliY3pmaQgwqcyLjIg5bi46KeE5qOA5p+l5aSW77yMKirov5jpobvnu48gQyDnq6/nu4Tplb/lpI3moLgqKu+8iOehruiupOenkeaZruihqOi/sOacquiiq+S4k+S4muWMluaUueWGmeOAgeacqui2iueVjOW8leWFpeWMu+eWl+WkhOe9ruW7uuiuru+8ie+8mwotIOivpeWkjeaguOS6uuWcqOivhOWIhuiusOW9leWkh+azqOWIl+e9suWQje+8jOS4jueLrOeri+WkjeaguOS6uuS4jeS4uuWQjOS4gOS6uuOAggoKLS0tCgojIyDpmYTlvZUgQe+8mumAgOWbnuaUueWGmeWNleaooeadvwoK5q+P6aG15LiA5byg77yM6ZqP6K+E5YiG6K6w5b2V5b2S5qGj77yI5Y+v5bu6IGDpgIDlm57mlLnlhpnljZVcYCDlrZDnm67lvZXmjInpobXpnaLmlofku7blkI3lkb3lkI3vvInjgIIKCmBgYAo9PT09PT09PT09PT09PT09IOmAgOWbnuaUueWGmeWNlSA9PT09PT09PT09PT09PT09CumhtemdouaWh+S7tuWQje+8ml9fX19fX19fX19fX19fX19fX19fX19fXwrkuabnsY3vvJrilqFBICDilqFCICDilqFDICDilqFEICAgICAgICDlpI3or4Tova7mrKHvvJrnrKwgX18g6L2uCumAgOWbnuS6uu+8ml9fX19fX19fX18gIOmAgOWbnuaXpeacn++8ml9fX19fX19fX18KCumAgOWbnuWOn+WboOexu+WIq++8iOWPr+WkmumAie+8jOmAkOmhueaJk+WLvuW5tuWGmeivgeaNruS9jee9ru+8ie+8mgpbIF0g6K+B5o2u5LiN6LazICAgICAgICDigJTigJQg6K+B5o2u54q25oCB5LiO5pat6KiA5LiN5Yy56YWN55qE5q616JC95L2N572u77yaX19fX19fX19fXwpbIF0g5ZCr56aB55So6K+NICAgICAgICDigJTigJQg5ZG95Lit55qE6K+N5LiO5L2N572u77yI5Y+j5b6E5paH5Lu2wqc0LjHvvInvvJpfX19fX19fX19fClsgXSDmnKrovr4gNzAlICAgICAgICDigJTigJQg5Y+v55CG6Kej5oCnIF9fJSAvIOWPr+aTjeS9nOaApyBfXyXvvJvmnIDkvY7liIbmnaHnm67vvJpVX18gLyBBX18KWyBdIOW8leeUqOWkseaViCAgICAgICAg4oCU4oCUIOWkseaViOmTvuaOpee8luWPtyBbIF3vvJpfX19fX1/vvIg0MDQgLyDlhoXlrrnkuI7mlq3oqIDkuI3nrKbvvIkKWyBdIOe7k+aehOS4jeespiAgICAgICAg4oCU4oCUIOWBj+W3rumhue+8iOWvueeFp8KnMi4z6aqo5p6277yJ77yaX19fX19fX19fXwoK5YW35L2T5L+u5pS56KaB5rGC77yI6YCQ5p2h5YaZ77yM5LiN5pS55YaZ5YW25L2Z6YOo5YiG77yJ77yaCjEuIF9fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fXwoyLiBfX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX19fX18KCuS9nOiAheehruiupOS/ruaUueaXpeacn++8ml9fX19fX19fX18gIOaUueWujOWQjumAgeWbnuWkjeivhO+8iOmHjeaWsOWujOaVtOivhOWIhu+8ieOAggo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KYGBgCgo+IOmAgOWbnuWQjuWkhOeQhuWPo+W+hO+8mioq6YeN5paw5a6M5pW06K+E5YiG77yM5LiN5o6l5Y+XIuaUueWTquadoeihpeWTquadoSLnmoTlsYDpg6jliIYqKu+8m+WkjeivhOi9ruasoeWcqCBgQy1QRU1BVC1Q6K+E5YiG6K6w5b2VLmNzdmAg5Lit6YCS5aKe44CCCg==
+# 发布流程与信任分级 SOP（状态机 + 签核留痕）
+
+> 本文件管"一页内容从草稿到归档复核"的全过程：谁能在哪个状态动手、进入下一状态前必须逐项打勾的检查、必须留下什么痕迹。
+> 配套：`角色与权限配置表.md`（权限）、`C-PEMAT-P发布门槛与评分规则.md`（评分口径）。
+> 硬前提：**任何一页状态推进都以"零用药红线"（口径文件 §4）为一票否决项**——检查清单里"零用药勾选"不通过，其他项全绿也不许推进。
+
+---
+
+## 1. 状态机总图
+
+```
+草稿 ──①──▶ 待发布 ──②──▶ 已验证 ──③（满12个月）──▶ 待复核 ──④──▶（改写后回到）已验证
+ │            │
+ │            └── 任何一步未过 ──▶ 退回改写单（附录 A）──▶ 回到草稿
+ └─ C 端贡献者前 3 次编辑：草稿由内容管理员代提交，不自动进队列
+```
+
+四个状态的定义：
+
+| 状态 | 含义 | 读者可见性 |
+|---|---|---|
+| 草稿 | 作者正在写，或退回改写中 | 不可见 |
+| 待发布 | 作者自校完成，等独立复核评分与签核 | 不可见 |
+| 已验证 | 双门槛（零用药 + C-PEMAT-P 双 ≥70%）通过，公开发布 | 可见 |
+| 待复核 | 距"最后审核"满 12 个月，内容仍在线但被标记 | 可见，页面顶部加"内容复核中"提示 |
+
+---
+
+## 2. 每状态：谁能操作 + 进入下一状态前的逐项检查
+
+### 2.1 草稿 → 待发布
+
+**允许操作者**：作者本人（C 端贡献者 / B 端编辑 / 临床审核 / 内容管理员）。
+
+进入"待发布"前，作者**逐项打勾**：
+
+- [ ] 元数据块（口径文件 §2.1）与人工可读元数据条（§2.2）字面一致：面向 / 证据状态 / 最后审核 / 零用药勾选四项
+- [ ] 零用药勾选 = 已勾选；全文自查未命中口径文件 §4.1 禁用词表
+- [ ] C 端页正文结构 = §2.3（第一节为"今天能做的 3 件事"）；结尾含 §4.3 边界句
+- [ ] 强证据 / 有条件推荐的每个判定，"依据与出处"里都有对应编号链接，且链接本轮实际打开过
+- [ ] 页面内链接只指向口径文件 §1 注册表里的文件名，无自造文件名
+- [ ] （作者自评）按 A1–A7 粗查可操作性，自评结果填入评分记录 `作者自评是否达标` 列（不参与门槛）
+
+**必须留痕字段**：作者、提交日期、页面文件名。
+
+### 2.2 待发布 → 已验证
+
+**允许操作者**：独立复核人（评分）+ 内容管理员（放行）。**作者本人不得自我放行。**
+
+放行前逐项打勾：
+
+- [ ] C-PEMAT-P 双 ≥70%（可理解性 ≥70% 且可操作性 ≥70%），评分已写入 `C-PEMAT-P评分记录.csv`
+- [ ] 零用药勾选 = 已勾选；复核人通读全文确认无禁用词、无联用增效暗示类表述
+- [ ] 引用核验：记录中每条引用链接**复核人亲自点开**，无 404、内容与断言对应
+- [ ] 元数据块/人工条一致性复核通过
+- [ ] （书籍 A/B 的案例叙事页）已标"教学虚构"声明行
+- [ ] （涉及就诊/评估的页面）已确认走了 §3.2 例外规则——见下文
+
+**必须留痕字段**（写入评分记录 CSV 与页面元数据条）：审核人、日期、C-PEMAT-P 双得分、零用药勾选、引用核验结论。
+
+### 2.3 已验证 →（满 12 个月）待复核
+
+**触发条件**：页面元数据"最后审核"日期距今满 12 个月。
+**操作者**：内容管理员（标记，不下线）。
+
+标记动作逐项打勾：
+
+- [ ] 页面顶部加"内容复核中，以最新临床指南为准"提示条
+- [ ] 页面在书籍目录树中置顶（或在该章节列表中标黄），**不做下线、不做隐藏**
+- [ ] 在巡检台账登记待复核清单，排期 4 周内完成复核
+
+**必须留痕字段**：标记人、标记日期、排期复核日期。
+
+### 2.4 待复核 → 已验证（复核闭环）
+
+复核人逐项打勾：
+
+- [ ] 对照最新版指南链接（S1–S4）复查断言是否仍成立
+- [ ] 引用链接重新点开，失效链接按附录 A 退回
+- [ ] C-PEMAT-P 重新评分一次（复评轮次递增）
+- [ ] 更新元数据"最后审核"日期，撤下"复核中"提示条
+
+**必须留痕字段**：复核人、复核日期、复评轮次、复核结论。
+
+---
+
+## 3. 例外规则（硬规则，不可绕过）
+
+### 3.1 C 端贡献者前 3 次编辑
+
+- C 端贡献者**账号建立后的前 3 次提交**，一律由内容管理员在 §2.2 环节逐字复核（比常规多一道：除独立评分外，内容管理员再通读一遍）；
+- 前 3 次提交的页面**不得由 C 端贡献者本人提交后直接进队列**，草稿完成后由内容管理员代为提交至"待发布"；
+- 第 4 次起恢复常规流程。次数从账号首次提交开始计，记录在巡检台账。
+
+### 3.2 药物兜底页与就诊/评估相关页
+
+- **A06 用药兜底页**、各"就诊前要准备什么"类页面（A04 及后续同类页）、以及任何涉及评估/诊断转述的 C 端页面：**永远不能由 C 端贡献者直接发布**。
+- 即：C 端贡献者对这类页面的任何修改，只能以评论/建议形式提交，由内容管理员或临床审核落稿；权限层已配合（见 `角色与权限配置表.md` §4.1：C 端贡献者对 A06 无编辑按钮）。
+
+### 3.3 B 端编辑在书籍 A 的编辑
+
+- B 端编辑对书籍 A 页面的任何修改，放行前除 §2.2 常规检查外，**还须经 C 端组长复核**（确认科普表述未被专业化改写、未越界引入医疗处置建议）；
+- 该复核人在评分记录备注列署名，与独立复核人不为同一人。
+
+---
+
+## 附录 A：退回改写单模板
+
+每页一张，随评分记录归档（可建 `退回改写单\` 子目录按页面文件名命名）。
+
+```
+================ 退回改写单 ================
+页面文件名：________________________
+书籍：□A  □B  □C  □D        复评轮次：第 __ 轮
+退回人：__________  退回日期：__________
+
+退回原因类别（可多选，逐项打勾并写证据位置）：
+[ ] 证据不足        —— 证据状态与断言不匹配的段落位置：__________
+[ ] 含禁用词        —— 命中的词与位置（口径文件§4.1）：__________
+[ ] 未达 70%        —— 可理解性 __% / 可操作性 __%；最低分条目：U__ / A__
+[ ] 引用失效        —— 失效链接编号 [ ]：______（404 / 内容与断言不符）
+[ ] 结构不符        —— 偏差项（对照§2.3骨架）：__________
+
+具体修改要求（逐条写，不改写其余部分）：
+1. ____________________________________
+2. ____________________________________
+
+作者确认修改日期：__________  改完后送回复评（重新完整评分）。
+==========================================
+```
+
+> 退回后处理口径：**重新完整评分，不接受"改哪条补哪条"的局部分**；复评轮次在 `C-PEMAT-P评分记录.csv` 中递增。

@@ -1,1 +1,65 @@
-Ly8g5pyA5bCPIERPTSBzdHVi77ya5ZyoIG5vZGUg5Lit55yf5a6e5omn6KGM5YaF5bWM6ISa5pys77yM6aqM6K+B5pCc57Si5YiG57qn6YC76L6RCi8vIOmqjOivgeaWueW8j++8mmV2YWwoanMpIOWQjuecn+WunuinpuWPkSBzZWFyY2hCdG4uY2xpY2vvvIzor7vlj5YgRE9NIOWFg+e0oOeKtuaAgeS4jiBpbm5lckhUTUwKY29uc3QgZnMgPSByZXF1aXJlKCdmcycpOwpjb25zdCBodG1sID0gZnMucmVhZEZpbGVTeW5jKCdGOi9BREhE5paH54yuLzA2X+emu+e6v+mihOiniOermS9pbmRleC5odG1sJywgJ3V0ZjgnKTsKY29uc3QganMgPSBodG1sLm1hdGNoKC88c2NyaXB0PihbXHNcU10qKTxcL3NjcmlwdD4vKVsxXTsKCmZ1bmN0aW9uIG1ha2VFbChpZCkgewogIHJldHVybiB7CiAgICBpZCwgaGlkZGVuOiBmYWxzZSwgdGV4dENvbnRlbnQ6ICcnLCBpbm5lckhUTUw6ICcnLCB2YWx1ZTogJycsCiAgICBsaXN0ZW5lcnM6IHt9LAogICAgYWRkRXZlbnRMaXN0ZW5lcihldiwgZm4pIHsgdGhpcy5saXN0ZW5lcnNbZXZdID0gZm47IH0sCiAgICBzZXRBdHRyaWJ1dGUoKSB7fSwgZ2V0QXR0cmlidXRlKCkgeyByZXR1cm4gbnVsbDsgfSwKICAgIGNsYXNzTGlzdDogeyB0b2dnbGUoKSB7fSwgcmVtb3ZlKCkge30sIGFkZCgpIHt9IH0sCiAgICBjbG9zZXN0KCkgeyByZXR1cm4gbnVsbDsgfSwKICB9Owp9CmNvbnN0IGVscyA9IHt9OwpbJ3NlYXJjaElucHV0Jywnc2VhcmNoQnRuJywncmVzdWx0UGFuZWwnLCdtZWRCYW5uZXInLCdtZWRCYW5uZXJUZXh0JywnYmFubmVyQ2xvc2UnLAogJ21lZFJlZGlyZWN0JywnbWVkRmFsbGJhY2tOb3RlJywncmVzdWx0TGlzdCcsJ3NpZGViYXInLCdtYWluJ10uZm9yRWFjaChpZCA9PiBlbHNbaWRdID0gbWFrZUVsKGlkKSk7CmNvbnN0IHRyZWVQYWdlcyA9IFsnQTAwJywnQTAxJywnQjAxJywnQzAxJywnQTA2J10ubWFwKGlkID0+IHsgY29uc3QgZSA9IG1ha2VFbCgndHJlZS0nK2lkKTsgZS5nZXRBdHRyaWJ1dGUgPSAoKSA9PiBpZDsgcmV0dXJuIGU7IH0pOwpjb25zdCBhcnRpY2xlcyA9IFsnbGFuZGluZycsJ0EwMCcsJ0EwMScsJ0EwMicsJ0EwMycsJ0EwNCcsJ0EwNScsJ0EwNicsCiAgICAgICAgICAgICAgICAgICAnQjAxJywnQjAyJywnQjAzJywnQjA0JywnQjA1JywnQjA2JywnQjA3JywKICAgICAgICAgICAgICAgICAgICdDMDEnLCdDMDInLCdDMDMnLCdEMDEnLCdEMDInXS5tYXAoaWQgPT4gbWFrZUVsKCdwYWdlLScraWQpKTsKCmdsb2JhbC5kb2N1bWVudCA9IHsKICBnZXRFbGVtZW50QnlJZDogaWQgPT4gZWxzW2lkXSB8fCBtYWtlRWwoaWQpLAogIHF1ZXJ5U2VsZWN0b3JBbGw6IHNlbCA9PiB7CiAgICBpZiAoc2VsID09PSAnYXJ0aWNsZS5wYWdlLCBzZWN0aW9uLnBhZ2UnKSByZXR1cm4gYXJ0aWNsZXM7CiAgICBpZiAoc2VsID09PSAnLnRyZWUtcGFnZScpIHJldHVybiB0cmVlUGFnZXM7CiAgICByZXR1cm4gW107CiAgfSwKICBhZGRFdmVudExpc3RlbmVyKCkge30sCn07Cmdsb2JhbC53aW5kb3cgPSB7IHNjcm9sbFRvKCkge30gfTsKCmV2YWwoanMpOwoKZnVuY3Rpb24gcnVuKHEpIHsKICBlbHMuc2VhcmNoSW5wdXQudmFsdWUgPSBxOwogIGVscy5zZWFyY2hCdG4ubGlzdGVuZXJzWydjbGljayddKCk7CiAgLy8g5LuOIGlubmVySFRNTCDmj5Dlj5bnu5PmnpzmnaHnm67moIfpopjvvIhyaS10IOmHjOeahCAiQTA2IMK3IOagh+mimCLvvIkKICBjb25zdCBodG1sID0gZWxzLnJlc3VsdExpc3QuaW5uZXJIVE1MOwogIGNvbnN0IHRpdGxlcyA9IFtdOwogIGNvbnN0IHJlID0gLzxkaXYgY2xhc3M9InJpLXQiPihbXjxdKyk8XC9kaXY+L2c7CiAgbGV0IG07CiAgd2hpbGUgKChtID0gcmUuZXhlYyhodG1sKSkgIT09IG51bGwpIHRpdGxlcy5wdXNoKG1bMV0pOwogIHJldHVybiB7CiAgICBxLAogICAgYmFubmVyU2hvd246ICFlbHMubWVkQmFubmVyLmhpZGRlbiwKICAgIHJlZGlyZWN0U2hvd246ICFlbHMubWVkUmVkaXJlY3QuaGlkZGVuLAogICAgcmVkaXJlY3RUZXh0OiBlbHMubWVkUmVkaXJlY3QudGV4dENvbnRlbnQgfHwgJycsCiAgICBmYWxsYmFja1Nob3duOiAhZWxzLm1lZEZhbGxiYWNrTm90ZS5oaWRkZW4sCiAgICBmYWxsYmFja1RleHQ6IGVscy5tZWRGYWxsYmFja05vdGUudGV4dENvbnRlbnQgfHwgJycsCiAgICByZXN1bHRzQ291bnQ6IHRpdGxlcy5sZW5ndGgsCiAgICB0aXRsZXM6IHRpdGxlcywKICB9Owp9Cgpjb25zdCBjYXNlcyA9IFsn6I2v54mpJywn5YmC6YePJywn5Ymv5L2c55SoJywn6KaB5LiN6KaB5ZCD6I2vJywn5LiT5rOo6L6+Jywn5oup5oCd6L6+Jywn5L2c5LiaJywn6ICB5biIJ107CmNvbnN0IG91dCA9IGNhc2VzLm1hcChydW4pOwpjb25zb2xlLmxvZyhKU09OLnN0cmluZ2lmeShvdXQsIG51bGwsIDIpKTsKCi8vIOaoquW5heWFs+mXrQplbHMuYmFubmVyQ2xvc2UubGlzdGVuZXJzWydjbGljayddKCk7CmNvbnNvbGUubG9nKCdhZnRlciBjbG9zZTogYmFubmVySGlkZGVuID0nLCBlbHMubWVkQmFubmVyLmhpZGRlbik7Cg==
+// 最小 DOM stub：在 node 中真实执行内嵌脚本，验证搜索分级逻辑
+// 验证方式：eval(js) 后真实触发 searchBtn.click，读取 DOM 元素状态与 innerHTML
+const fs = require('fs');
+const html = fs.readFileSync('F:/ADHD文献/06_离线预览站/index.html', 'utf8');
+const js = html.match(/<script>([\s\S]*)<\/script>/)[1];
+
+function makeEl(id) {
+  return {
+    id, hidden: false, textContent: '', innerHTML: '', value: '',
+    listeners: {},
+    addEventListener(ev, fn) { this.listeners[ev] = fn; },
+    setAttribute() {}, getAttribute() { return null; },
+    classList: { toggle() {}, remove() {}, add() {} },
+    closest() { return null; },
+  };
+}
+const els = {};
+['searchInput','searchBtn','resultPanel','medBanner','medBannerText','bannerClose',
+ 'medRedirect','medFallbackNote','resultList','sidebar','main'].forEach(id => els[id] = makeEl(id));
+const treePages = ['A00','A01','B01','C01','A06'].map(id => { const e = makeEl('tree-'+id); e.getAttribute = () => id; return e; });
+const articles = ['landing','A00','A01','A02','A03','A04','A05','A06',
+                   'B01','B02','B03','B04','B05','B06','B07',
+                   'C01','C02','C03','D01','D02'].map(id => makeEl('page-'+id));
+
+global.document = {
+  getElementById: id => els[id] || makeEl(id),
+  querySelectorAll: sel => {
+    if (sel === 'article.page, section.page') return articles;
+    if (sel === '.tree-page') return treePages;
+    return [];
+  },
+  addEventListener() {},
+};
+global.window = { scrollTo() {} };
+
+eval(js);
+
+function run(q) {
+  els.searchInput.value = q;
+  els.searchBtn.listeners['click']();
+  // 从 innerHTML 提取结果条目标题（ri-t 里的 "A06 · 标题"）
+  const html = els.resultList.innerHTML;
+  const titles = [];
+  const re = /<div class="ri-t">([^<]+)<\/div>/g;
+  let m;
+  while ((m = re.exec(html)) !== null) titles.push(m[1]);
+  return {
+    q,
+    bannerShown: !els.medBanner.hidden,
+    redirectShown: !els.medRedirect.hidden,
+    redirectText: els.medRedirect.textContent || '',
+    fallbackShown: !els.medFallbackNote.hidden,
+    fallbackText: els.medFallbackNote.textContent || '',
+    resultsCount: titles.length,
+    titles: titles,
+  };
+}
+
+const cases = ['药物','剂量','副作用','要不要吃药','专注达','择思达','作业','老师'];
+const out = cases.map(run);
+console.log(JSON.stringify(out, null, 2));
+
+// 横幅关闭
+els.bannerClose.listeners['click']();
+console.log('after close: bannerHidden =', els.medBanner.hidden);

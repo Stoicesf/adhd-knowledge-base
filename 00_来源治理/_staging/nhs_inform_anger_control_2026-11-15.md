@@ -1,1 +1,97 @@
-LS0tCnNvdXJjZV9pZF9jYW5kaWRhdGU6IG5oc19pbmZvcm1fYW5nZXJfY29udHJvbApzb3VyY2VfbmFtZTogIkhvdyB0byBjb250cm9sIHlvdXIgYW5nZXLvvIhOSFMgaW5mb3JtIOiLj+agvOWFsOWbveawkeWBpeW6t+acjeWKoe+8iSIKc291cmNlX3R5cGU6IGNsaW5pY2FsX2d1aWRlbGluZQpzb3VyY2VfdXJsOiAiaHR0cHM6Ly93d3cubmhzaW5mb3JtLnNjb3QvaGVhbHRoeS1saXZpbmcvbWVudGFsLXdlbGxiZWluZy9hbmdlci1tYW5hZ2VtZW50L2hvdy10by1jb250cm9sLXlvdXItYW5nZXIiCnNjcmFwZWRfYXQ6ICIyMDI2LTExLTE1IgpjaGFubmVsOiAibmhzaW5mb3JtLnNjb3Qg5a6Y5pa5Igpub3RlOiAi5oqT5Y+W55WZ55eV77yM6YCQ5a2X6JC955uY77yb5rS+55Sf5L6d5o2u5Lul5pys5paH5Lu25Li65YeG77yMU0hBMjU2IOingSBpbnRha2Vfbm90ZXPjgILnlKjkuo7ooaXlhYXkupTnsbvouqvkvZPpooTorabjgIzlvZPlnLrliqjkvZzjgI3liJfnmoTpgJDlrZfmnaXmupDjgIIiCi0tLQoKIyBIb3cgdG8gY29udHJvbCB5b3VyIGFuZ2VyCgpBbmdlciBpcyBhIG5vcm1hbCwgaGVhbHRoeSBlbW90aW9uLiBCdXQgaXQgY2FuIGJlY29tZSBhIHByb2JsZW0gaWYgeW91IGZpbmQgaXQgZGlmZmljdWx0IHRvIGtlZXAgeW91ciBhbmdlciB1bmRlciBjb250cm9sLgoKIyMgUmVjb2duaXNlIHNpZ25zIG9mIHlvdXIgYW5nZXIKClNpZ25zIG9mIGFuZ2VyIGNhbiBpbmNsdWRlOgoKLSBhIGZhc3QgaGVhcnRiZWF0Ci0gcXVpY2sgYnJlYXRoaW5nCi0gdGVuc2lvbiBpbiB5b3VyIHNob3VsZGVycwotIGNsZW5jaGluZyB5b3VyIGZpcnN0cwoKSXQncyBpbXBvcnRhbnQgdG8gdHJ5IHRvIG1hbmFnZSB5b3VyIGFuZ2VyLgoKSWYgeW91IG5vdGljZSB0aGVzZSBzaWducyBhbmQgaGF2ZSBhIGhpc3Rvcnkgb2YgbG9zaW5nIGNvbnRyb2wsIHlvdSBzaG91bGQgZ2V0IG91dCBvZiB0aGUgc2l0dWF0aW9uLiBGb3IgZXhhbXBsZSwgeW91IHNob3VsZCB3YWxrIGF3YXkgaWYgcG9zc2libGUuCgojIyBQcmFjdGljZSBicmVhdGhpbmcgZXhlcmNpc2VzCgpJZiB5b3Ugbm90aWNlIHRoYXQgeW91J3JlIGhhdmluZyBzaWducyBvZiBhbmdlciwgdHJ5IGNvdW50aW5nIHRvIDEwLiBUaGlzIHdpbGwgZ2l2ZSB5b3UgdGltZSB0byBjb29sIGRvd24sIHRoaW5rIG1vcmUgY2xlYXJseSwgYW5kIG92ZXJjb21lIHRoZSBpbXB1bHNlIHRvIGxhc2ggb3V0LgoKWW91IGF1dG9tYXRpY2FsbHkgYnJlYXRoZSBpbiBtb3JlIHRoYW4gb3V0IHdoZW4geW91J3JlIGZlZWxpbmcgYW5ncnkuIFNvIHRyeSBicmVhdGhpbmcgb3V0IG1vcmUgdGhhbiBpbiB0byBjYWxtIHlvdXJzZWxmIGRvd24gYW5kIGhlbHAgeW91IHRoaW5rIG1vcmUgY2xlYXJseS4KCllvdSBjYW4gYWxzbyB0cnkgYnJlYXRoaW5nIHNsb3dseS4gQnJlYXRoZSBpbiwgdGhlbiBicmVhdGhlIG91dCBmb3IgbG9uZ2VyIHRoYW4geW91IGJyZWF0aGVkIGluLiBSZWxheCBhcyB5b3UgYnJlYXRoZSBvdXQuCgojIyBMZXQgZ28gb2YgYW5ncnkgdGhvdWdodHMgYW5kIHdvcmRzCgpUcnkgdG8gbGV0IGdvIG9mIGFueSB1bmhlbHBmdWwgd2F5cyBvZiB0aGlua2luZy4gVGhvdWdodHMgbGlrZSAiaXQncyBub3QgZmFpciIgY2FuIG1ha2UgYW5nZXIgd29yc2UuIFRoYXQncyBiZWNhdXNlIHRoaW5raW5nIGxpa2UgdGhpcyB3aWxsIGtlZXAgeW91IGZvY3VzZWQgb24gd2hhdGV2ZXIgaXQgaXMgdGhhdCdzIG1ha2luZyB5b3UgYW5ncnkuCgpJZiB5b3UgY2FuIGxlYXJuIHRvIGxldCB1bmhlbHBmdWwgdGhvdWdodHMgZ28sIGl0J2xsIGJlIGVhc2llciB0byBjYWxtIGRvd24uCgpUaGVyZSBhcmUgY2VydGFpbiB3b3JkcyBhbmQgcGhyYXNlcyB0aGF0LCB3aGVuIHlvdSB0aGluayBvciBzYXkgdGhlbSwgY2FuIG1ha2UgYW5nZXIgd29yc2UgYW5kIGluY3JlYXNlIHRoZSB0ZW5zaW9uIGluIGEgY29udmVyc2F0aW9uLiBUaGVzZSBpbmNsdWRlOgoKLSBhbHdheXMKLSBuZXZlcgotIHNob3VsZCBhbmQgc2hvdWxkbid0Ci0gbXVzdCBhbmQgbXVzdG4ndAotIG5vdCBmYWlyCgojIyBSZWNvZ25pc2UgYW54aWV0eSwgZmVhciBhbmQgYW5nZXIKCk9mdGVuIHdoZW4gcGVvcGxlIGV4cGVyaWVuY2Ugb3Igc2hvdyBhbmdlciwgaXQncyBiZWNhdXNlIHRoZXkgYWxzbyBmZWVsIHNjYXJlZCwgb3IgZmVlbCB0aGVyZSdzIGEgdGhyZWF0LiBUaGV5IHRoZW4gaGF2ZSBhICdmaWdodCcgcmVzcG9uc2UgdG8gdGhpcy4KCklmIHlvdSBhc2sgeW91cnNlbGYgd2hhdCB5b3UgY291bGQgYmUgc2NhcmVkIG9mLCB0aGlzIGNhbiBnaXZlIHlvdSBhIGRpZmZlcmVudCBzZXQgb2YgY2hvaWNlcyBhYm91dCBob3cgdG8gcmVzcG9uZC4KCllvdSBtaWdodCBiZSBhbmdyeSB0aGF0IHNvbWV0aGluZyBoYXMgbm90IGdvbmUgeW91ciB3YXkuIEJ1dCB5b3UgbWF5IGFsc28gYmUgc2NhcmVkIHRoYXQgeW91IGNvdWxkIGJlIGJsYW1lZCBvciBodXJ0IGFzIGEgcmVzdWx0LiBSZWNvZ25pc2luZyB0aGlzIG1pZ2h0IGhlbHAgeW91IHRvIHRoaW5rIGFuZCBhY3QgZGlmZmVyZW50bHkuCgojIyBNYW5hZ2UgYW5nZXIgaW4gdGhlIGxvbmcgdGVybQoKT25jZSB5b3UgY2FuIHJlY29nbmlzZSB0aGF0IHlvdSdyZSBnZXR0aW5nIGFuZ3J5IGFuZCBjYW4gY2FsbSB5b3Vyc2VsZiBkb3duLCB5b3UgY2FuIHN0YXJ0IGxvb2tpbmcgYXQgd2F5cyB0byBjb250cm9sIHlvdXIgYW5nZXIgbW9yZSBnZW5lcmFsbHkuCgojIyMgRG8KCi0gZXhlcmNpc2UgcmVndWxhcmx5IOKAkyBhY3Rpdml0aWVzIGxpa2Ugd2Fsa2luZywgc3dpbW1pbmcgYW5kIHJ1bm5pbmcgY2FuIHJlZHVjZSBzdHJlc3MKLSB0cnkgWW9nYSBvciBtaW5kZnVsbmVzcwotIG1ha2Ugc3VyZSB5b3UgZ2V0IGVub3VnaCBzbGVlcAotIG1ha2UgdGltZSB0byByZWxheAotIHRyeSBjcmVhdGl2ZSBhY3Rpdml0aWVzIGxpa2Ugd3JpdGluZywgbWFraW5nIG11c2ljLCBkYW5jaW5nIG9yIHBhaW50aW5nIHRvIHJlbGVhc2UgdGVuc2lvbgoKWW91IGNvdWxkIGFsc28gdGFsayB0byBmcmllbmRzIG9yIGZhbWlseSBhYm91dCBob3cgeW91IGZlZWwuIFRoZXkgY2FuIGdpdmUgeW91IGEgZGlmZmVyZW50IHBlcnNwZWN0aXZlLiBJZiB5b3UgY2FuJ3QgdGFsayB0byBzb21lb25lIGNsb3NlIHRvIHlvdSwgY29udGFjdCBhIGxpc3RlbmluZyBzZXJ2aWNlIGxpa2UgQnJlYXRoaW5nIFNwYWNlLgoKIyMgV2hlcmUgdG8gZ2V0IGZ1cnRoZXIgaGVscCB3aXRoIGFuZ2VyCgpJZiB5b3UgZmVlbCB5b3UgbmVlZCBoZWxwIGRlYWxpbmcgd2l0aCB5b3VyIGFuZ2VyLCBzcGVhayB0byB5b3VyIEdQLiBUaGVyZSBtaWdodCBiZSBsb2NhbCBhbmdlciBtYW5hZ2VtZW50IGNvdXJzZXMgb3IgY291bnNlbGxpbmcgdGhhdCBjb3VsZCBoZWxwIHlvdS4KClRoZXJlIGFyZSBhbHNvIHByaXZhdGUgY291cnNlcyBhbmQgdGhlcmFwaXN0cyB3aG8gY2FuIGhlbHAgd2l0aCBhbmdlciBpc3N1ZXMuCgpNYWtlIHN1cmUgYW55IHRoZXJhcGlzdCB5b3Ugc2VlIGlzIHJlZ2lzdGVyZWQgd2l0aCBhIHByb2Zlc3Npb25hbCBvcmdhbmlzYXRpb24uIEZvciBleGFtcGxlLCB0aGUgQnJpdGlzaCBBc3NvY2lhdGlvbiBmb3IgQ291bnNlbGxpbmcgYW5kIFBzeWNob3RoZXJhcHkuCgpDb3Vuc2VsbGluZyBhbmQgUHN5Y2hvdGhlcmFweSBpbiBTY290bGFuZCAoQ09TQ0EpIGhhcyBhIGxpc3Qgb2YgdGhlcmFwaXN0cyB0aHJvdWdob3V0IFNjb3RsYW5kLgoKIyMjIEFuZ2VyIG1hbmFnZW1lbnQgcHJvZ3JhbW1lcwoKVGhlIHN0cnVjdHVyZSBvZiBhbmdlciBtYW5hZ2VtZW50IHByb2dyYW1tZXMgdmFyeSBkZXBlbmRpbmcgb24gd2hvJ3MgcHJvdmlkaW5nIGl0LiBUaGV5IGNhbiBhbHNvIHJ1biBmb3IgZGlmZmVyZW50IHBlcmlvZHMgb2YgdGltZS4KCk1vc3QgcHJvZ3JhbW1lcyBpbmNsdWRlIGNvZ25pdGl2ZSBiZWhhdmlvdXJhbCB0aGVyYXB5IChDQlQpIGFuZCBjb3Vuc2VsbGluZywgc29tZXRpbWVzIG9uZSB0byBvbmUuIFlvdSBtYXkgYWxzbyB3b3JrIGluIGEgc21hbGwgZ3JvdXAuCgojIyBIZWxwIHdpdGggZG9tZXN0aWMgdmlvbGVuY2UgYW5kIGFuZ2VyCgpEb21lc3RpYyB2aW9sZW5jZSBpcyB2aW9sZW5jZSBvciB0aHJlYXRlbmluZyBiZWhhdmlvdXIgd2l0aGluIHRoZSBob21lLiBJZiB1bmNvbnRyb2xsZWQgYW5nZXIgbGVhZHMgdG8gZG9tZXN0aWMgdmlvbGVuY2UsIHRoZXJlIGFyZSBwbGFjZXMgdGhhdCBvZmZlciBoZWxwIGFuZCBzdXBwb3J0LgoKSWYgeW91IGZlZWwgYXQgcmlzaywgcGhvbmUgOTk5IG9yIGNvbnRhY3Qgb25lIG9mIHRoZXNlIG9yZ2FuaXNhdGlvbnMgZm9yIGhlbHA6CgotIFJlZnVnZQotIFNjb3R0aXNoIFdvbWVuJ3MgQWlkCi0gVGhlIExHQlQgRG9tZXN0aWMgQWJ1c2UgUHJvamVjdAotIEFidXNlZCBNZW4gaW4gU2NvdGxhbmQK
+---
+source_id_candidate: nhs_inform_anger_control
+source_name: "How to control your anger（NHS inform 苏格兰国民健康服务）"
+source_type: clinical_guideline
+source_url: "https://www.nhsinform.scot/healthy-living/mental-wellbeing/anger-management/how-to-control-your-anger"
+scraped_at: "2026-11-15"
+channel: "nhsinform.scot 官方"
+note: "抓取留痕，逐字落盘；派生依据以本文件为准，SHA256 见 intake_notes。用于补充五类身体预警「当场动作」列的逐字来源。"
+---
+
+# How to control your anger
+
+Anger is a normal, healthy emotion. But it can become a problem if you find it difficult to keep your anger under control.
+
+## Recognise signs of your anger
+
+Signs of anger can include:
+
+- a fast heartbeat
+- quick breathing
+- tension in your shoulders
+- clenching your firsts
+
+It's important to try to manage your anger.
+
+If you notice these signs and have a history of losing control, you should get out of the situation. For example, you should walk away if possible.
+
+## Practice breathing exercises
+
+If you notice that you're having signs of anger, try counting to 10. This will give you time to cool down, think more clearly, and overcome the impulse to lash out.
+
+You automatically breathe in more than out when you're feeling angry. So try breathing out more than in to calm yourself down and help you think more clearly.
+
+You can also try breathing slowly. Breathe in, then breathe out for longer than you breathed in. Relax as you breathe out.
+
+## Let go of angry thoughts and words
+
+Try to let go of any unhelpful ways of thinking. Thoughts like "it's not fair" can make anger worse. That's because thinking like this will keep you focused on whatever it is that's making you angry.
+
+If you can learn to let unhelpful thoughts go, it'll be easier to calm down.
+
+There are certain words and phrases that, when you think or say them, can make anger worse and increase the tension in a conversation. These include:
+
+- always
+- never
+- should and shouldn't
+- must and mustn't
+- not fair
+
+## Recognise anxiety, fear and anger
+
+Often when people experience or show anger, it's because they also feel scared, or feel there's a threat. They then have a 'fight' response to this.
+
+If you ask yourself what you could be scared of, this can give you a different set of choices about how to respond.
+
+You might be angry that something has not gone your way. But you may also be scared that you could be blamed or hurt as a result. Recognising this might help you to think and act differently.
+
+## Manage anger in the long term
+
+Once you can recognise that you're getting angry and can calm yourself down, you can start looking at ways to control your anger more generally.
+
+### Do
+
+- exercise regularly – activities like walking, swimming and running can reduce stress
+- try Yoga or mindfulness
+- make sure you get enough sleep
+- make time to relax
+- try creative activities like writing, making music, dancing or painting to release tension
+
+You could also talk to friends or family about how you feel. They can give you a different perspective. If you can't talk to someone close to you, contact a listening service like Breathing Space.
+
+## Where to get further help with anger
+
+If you feel you need help dealing with your anger, speak to your GP. There might be local anger management courses or counselling that could help you.
+
+There are also private courses and therapists who can help with anger issues.
+
+Make sure any therapist you see is registered with a professional organisation. For example, the British Association for Counselling and Psychotherapy.
+
+Counselling and Psychotherapy in Scotland (COSCA) has a list of therapists throughout Scotland.
+
+### Anger management programmes
+
+The structure of anger management programmes vary depending on who's providing it. They can also run for different periods of time.
+
+Most programmes include cognitive behavioural therapy (CBT) and counselling, sometimes one to one. You may also work in a small group.
+
+## Help with domestic violence and anger
+
+Domestic violence is violence or threatening behaviour within the home. If uncontrolled anger leads to domestic violence, there are places that offer help and support.
+
+If you feel at risk, phone 999 or contact one of these organisations for help:
+
+- Refuge
+- Scottish Women's Aid
+- The LGBT Domestic Abuse Project
+- Abused Men in Scotland

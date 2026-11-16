@@ -1,1 +1,134 @@
-Lyog5om55qyhIDQgwrcg5YmN56uv55yf5o6l57q/77yI5Zyo5om55qyhIDIg5qGl5o6l6aqo5p625LiK5pS257Sn77yM6Zu25YmN56uv5L6d6LWW77yJCiAqCiAqIOiwg+eUqOWlkee6puS4jeWPmO+8mndpbmRvdy5QQ0FwaS5yZXF1ZXN0KHBheWxvYWQpIC0+IFByb21pc2U8cmVzdWx0Pu+8jGFwcC5qcyDml6DpnIDkuLrmoakv55yf5pyN5Yqh5YiG5Y+J44CCCiAqIOaJueasoSA0IOWPmOWMlu+8mgogKiAgIC0gQVBJX0JBU0Ug6buY6K6k5pS55Li657ud5a+55Zyw5Z2AIGh0dHA6Ly8xMjcuMC4wLjE6ODc2Ne+8iOmhtemdouS7jiBmaWxlOi8vIOebtOaOpeaJk+W8gOaXtgogKiAgICAg55u45a+56Lev5b6E5b+F54S26JC956m677yM57ud5a+5IEJBU0Ug5omN5piv55yf5o6l57q/55qE5ZSv5LiA5Y+v6YCJ6aG577yJ77ybCiAqICAgLSDpobblsYLlr7zlh7ogcHJvYmVIZWFsdGgoKe+8muWQr+WKqOaOoua1i+WFpeWPo++8mwogKiAgIC0gM3Mg56Gs6LaF5pe277yIQWJvcnRDb250cm9sbGVyICsgc2V0VGltZW91dO+8jOS4jeaYryBmZXRjaCDpu5jorqTml6DpmZDnrYnlvoXvvInvvJsKICogICAtIGRlZ3JhZGVk77yI5pyN5Yqh5LiN5ZyoL+i2heaXtu+8ieS4jiBibG9ja2Vk77yIZ3VhcmRyYWlsIOaLpuaIqu+8ieS7jeaYr+S4pOS4queLrOeri+Wtl+aute+8jOS4jea3t+eUqO+8mwogKiAgIC0gYmxvY2tlZCDml7YgVUkg5bGC6LSf6LSj5o+Q56S65paH5qGI77yM5pys5bGC5Y+q5L+d6K+B5LiN5oqK6KKr5oum5paH5pysL+WGhemDqOmUmeivr+W4puWbnueVjOmdouOAggogKiBjcmVhdGUoe2ZldGNoSW1wbCwgdGltZW91dE1zLCBiYXNlfSkg5Y+v5rOo5YWlIGZldGNoL2Jhc2XvvIznlKjkuo4gbm9kZSDpqozmlLbvvIh0ZXN0X2FwaS5qc++8ieOAggogKi8KKGZ1bmN0aW9uIChyb290LCBmYWN0b3J5KSB7CiAgdmFyIGFwaSA9IGZhY3RvcnkoKTsKICBpZiAodHlwZW9mIG1vZHVsZSA9PT0gJ29iamVjdCcgJiYgbW9kdWxlLmV4cG9ydHMpIHsgbW9kdWxlLmV4cG9ydHMgPSBhcGk7IH0KICByb290LlBDQXBpID0gYXBpOwp9KSh0eXBlb2YgZ2xvYmFsVGhpcyAhPT0gJ3VuZGVmaW5lZCcgPyBnbG9iYWxUaGlzIDogdGhpcywgZnVuY3Rpb24gKCkgewogICd1c2Ugc3RyaWN0JzsKCiAgdmFyIERFRkFVTFRfQkFTRSA9ICdodHRwOi8vMTI3LjAuMC4xOjg3NjUnOwogIHZhciBERUZBVUxUX1RJTUVPVVRfTVMgPSAzMDAwOwoKICBmdW5jdGlvbiBjb3JlKCkgewogICAgdmFyIEsgPSAodHlwZW9mIGdsb2JhbFRoaXMgIT09ICd1bmRlZmluZWQnKSA/IGdsb2JhbFRoaXMuUENDb3JlIDogbnVsbDsKICAgIGlmICghSykgeyB0aHJvdyBuZXcgRXJyb3IoJ1BDQ29yZSDmnKrliqDovb0nKTsgfQogICAgcmV0dXJuIEs7CiAgfQoKICBmdW5jdGlvbiBjcmVhdGUob3B0cykgewogICAgb3B0cyA9IG9wdHMgfHwge307CiAgICB2YXIgaW5qZWN0ZWQgPSBvcHRzLmZldGNoSW1wbDsKICAgIHZhciB0aW1lb3V0TXMgPSBvcHRzLnRpbWVvdXRNcyB8fCBERUZBVUxUX1RJTUVPVVRfTVM7CiAgICB2YXIgYmFzZSA9IFN0cmluZyhvcHRzLmJhc2UgIT09IHVuZGVmaW5lZCA/IG9wdHMuYmFzZSA6IERFRkFVTFRfQkFTRSkucmVwbGFjZSgvXC8kLywgJycpOwoKICAgIGZ1bmN0aW9uIGZldGNoZXIoKSB7CiAgICAgIGlmIChpbmplY3RlZCkgeyByZXR1cm4gaW5qZWN0ZWQ7IH0KICAgICAgaWYgKHR5cGVvZiBmZXRjaCA9PT0gJ2Z1bmN0aW9uJykgeyByZXR1cm4gZmV0Y2guYmluZChnbG9iYWxUaGlzKTsgfQogICAgICByZXR1cm4gbnVsbDsKICAgIH0KCiAgICBmdW5jdGlvbiB0aW1lZEZldGNoKHVybCwgaW5pdCkgewogICAgICB2YXIgZiA9IGZldGNoZXIoKTsKICAgICAgaWYgKCFmKSB7IHJldHVybiBQcm9taXNlLnJlamVjdChuZXcgRXJyb3IoJ25vIGZldGNoJykpOyB9CiAgICAgIHZhciBjdGwgPSB0eXBlb2YgQWJvcnRDb250cm9sbGVyICE9PSAndW5kZWZpbmVkJyA/IG5ldyBBYm9ydENvbnRyb2xsZXIoKSA6IG51bGw7CiAgICAgIHZhciB0aW1lciA9IG51bGw7CiAgICAgIHZhciB0aW1lb3V0ID0gbmV3IFByb21pc2UoZnVuY3Rpb24gKF8sIHJlamVjdCkgewogICAgICAgIHRpbWVyID0gc2V0VGltZW91dChmdW5jdGlvbiAoKSB7CiAgICAgICAgICBpZiAoY3RsKSB7IGN0bC5hYm9ydCgpOyB9CiAgICAgICAgICByZWplY3QobmV3IEVycm9yKCd0aW1lb3V0JykpOwogICAgICAgIH0sIHRpbWVvdXRNcyk7CiAgICAgIH0pOwogICAgICB2YXIgcmVxID0gZih1cmwsIGN0bCA/IE9iamVjdC5hc3NpZ24oe30sIGluaXQsIHsgc2lnbmFsOiBjdGwuc2lnbmFsIH0pIDogaW5pdCk7CiAgICAgIHJldHVybiBQcm9taXNlLnJhY2UoW3JlcSwgdGltZW91dF0pLnRoZW4oZnVuY3Rpb24gKHJlcykgewogICAgICAgIGlmICh0aW1lcikgeyBjbGVhclRpbWVvdXQodGltZXIpOyB9CiAgICAgICAgcmV0dXJuIHJlczsKICAgICAgfSwgZnVuY3Rpb24gKGUpIHsKICAgICAgICBpZiAodGltZXIpIHsgY2xlYXJUaW1lb3V0KHRpbWVyKTsgfQogICAgICAgIHRocm93IGU7CiAgICAgIH0pOwogICAgfQoKICAgIGZ1bmN0aW9uIHByb2JlSGVhbHRoKCkgewogICAgICByZXR1cm4gdGltZWRGZXRjaChiYXNlICsgJy9hcGkvaGVhbHRoJywgeyBtZXRob2Q6ICdHRVQnLCBjYWNoZTogJ25vLXN0b3JlJyB9KQogICAgICAgIC50aGVuKGZ1bmN0aW9uIChyZXMpIHsKICAgICAgICAgIGlmICghcmVzIHx8ICFyZXMub2spIHsgdGhyb3cgbmV3IEVycm9yKCdoZWFsdGggbm90IG9rJyk7IH0KICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgIH0pOwogICAgfQoKICAgIGZ1bmN0aW9uIGRlZ3JhZGVkKHJlYXNvbikgewogICAgICB2YXIgciA9IGNvcmUoKS5zdHViUmVzdWx0KCk7CiAgICAgIC8vIOmZjee6p+e7k+aenOeahCBsaW5lL3N0ZXBzIOe9ruepuu+8mlVJIOWvuSBkZWdyYWRlZCDlj6rmmL7npLrmj5DnpLrvvIzkuI3muLLmn5Plj7Dor43lhoXlrrkKICAgICAgci5saW5lID0gbnVsbDsKICAgICAgci5zdGVwcyA9IFtdOwogICAgICByLmRlZ3JhZGVkID0gdHJ1ZTsKICAgICAgci5ibG9ja2VkID0gZmFsc2U7CiAgICAgIHIucmVhc29uID0gcmVhc29uIHx8ICdzZXJ2aWNlX3VuYXZhaWxhYmxlJzsKICAgICAgcmV0dXJuIHI7CiAgICB9CgogICAgZnVuY3Rpb24gcmVxdWVzdChwYXlsb2FkKSB7CiAgICAgIHZhciBwID0gT2JqZWN0LmFzc2lnbih7IGFuZ2VyX2xldmVsOiAzLCBzaXR1YXRpb246ICcnIH0sIHBheWxvYWQgfHwge30pOwogICAgICByZXR1cm4gcHJvYmVIZWFsdGgoKS50aGVuKGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gdGltZWRGZXRjaChiYXNlICsgJy9hcGkvY2FsbV9zY3JpcHQnLCB7CiAgICAgICAgICBtZXRob2Q6ICdQT1NUJywKICAgICAgICAgIGhlYWRlcnM6IHsgJ0NvbnRlbnQtVHlwZSc6ICdhcHBsaWNhdGlvbi9qc29uJyB9LAogICAgICAgICAgYm9keTogSlNPTi5zdHJpbmdpZnkocCksCiAgICAgICAgICBjYWNoZTogJ25vLXN0b3JlJwogICAgICAgIH0pOwogICAgICB9KS50aGVuKGZ1bmN0aW9uIChyZXMpIHsKICAgICAgICBpZiAoIXJlcyB8fCAhcmVzLm9rKSB7IHRocm93IG5ldyBFcnJvcignYmFkIHJlc3BvbnNlJyk7IH0KICAgICAgICByZXR1cm4gcmVzLmpzb24oKTsKICAgICAgfSkudGhlbihmdW5jdGlvbiAoZGF0YSkgewogICAgICAgIHZhciBvdXQgPSB7CiAgICAgICAgICBsaW5lOiB0eXBlb2YgZGF0YS5saW5lID09PSAnc3RyaW5nJyA/IGRhdGEubGluZSA6IG51bGwsCiAgICAgICAgICBzdGVwczogQXJyYXkuaXNBcnJheShkYXRhLnN0ZXBzKSA/IGRhdGEuc3RlcHMgOiBbXSwKICAgICAgICAgIGRpc2NsYWltZXI6IHR5cGVvZiBkYXRhLmRpc2NsYWltZXIgPT09ICdzdHJpbmcnID8gZGF0YS5kaXNjbGFpbWVyIDogJycsCiAgICAgICAgICBkZWdyYWRlZDogQm9vbGVhbihkYXRhLmRlZ3JhZGVkKSwKICAgICAgICAgIGJsb2NrZWQ6IEJvb2xlYW4oZGF0YS5ibG9ja2VkKSwKICAgICAgICAgIGxldmVsOiBkYXRhLmxldmVsIHx8IG51bGwsCiAgICAgICAgICBoaW50OiBkYXRhLmJsb2NrZWQgPyAn6K+35YWI55yL5pKk6YCA5pa55qGIJyA6IChkYXRhLmhpbnQgfHwgJycpLAogICAgICAgICAgc3R1YjogZmFsc2UsCiAgICAgICAgICByZWFzb246IGRhdGEuYmxvY2tlZCA/ICdndWFyZHJhaWxfYmxvY2tlZCcgOiAnJwogICAgICAgIH07CiAgICAgICAgaWYgKG91dC5ibG9ja2VkKSB7CiAgICAgICAgICAvLyDmnI3liqHnq6/mnKzlsLHkuI3ov5Tlm57ooqvmi6bmlofmnKzvvJvlho3lhZzkuIDlsYLvvJpibG9ja2VkIOaXtuS4jeaQuuW4puS7u+S9leWPsOivjeWGheWuue+8jAogICAgICAgICAgLy8gbGluZS9zdGVwcyDnva7nqbrvvIznlLEgVUkg5bGC57uf5LiA5o+Q56S65bm26auY5Lqu5pKk6YCA5pa55qGI5Yy644CCCiAgICAgICAgICBvdXQubGluZSA9IG51bGw7CiAgICAgICAgICBvdXQuc3RlcHMgPSBbXTsKICAgICAgICAgIG91dC5kaXNjbGFpbWVyID0gJyc7CiAgICAgICAgICBvdXQuaGludCA9ICfor7flhYjnnIvmkqTpgIDmlrnmoYgnOwogICAgICAgIH0KICAgICAgICBpZiAob3V0LmRlZ3JhZGVkKSB7CiAgICAgICAgICBvdXQubGluZSA9IG51bGw7CiAgICAgICAgICBvdXQuc3RlcHMgPSBbXTsKICAgICAgICAgIG91dC5oaW50ID0gY29yZSgpLkRFR1JBREVEX0hJTlQ7CiAgICAgICAgfQogICAgICAgIHJldHVybiBvdXQ7CiAgICAgIH0pLmNhdGNoKGZ1bmN0aW9uICgpIHsKICAgICAgICByZXR1cm4gZGVncmFkZWQoJ3NlcnZpY2VfdW5hdmFpbGFibGVfb3JfdGltZW91dCcpOwogICAgICB9KTsKICAgIH0KCiAgICByZXR1cm4geyBwcm9iZTogcHJvYmVIZWFsdGgsIHByb2JlSGVhbHRoOiBwcm9iZUhlYWx0aCwgcmVxdWVzdDogcmVxdWVzdCwKICAgICAgICAgICAgIHN0dWI6IGZhbHNlLCB0aW1lb3V0TXM6IHRpbWVvdXRNcywgYmFzZTogYmFzZSB9OwogIH0KCiAgcmV0dXJuIHsKICAgIGNyZWF0ZTogY3JlYXRlLAogICAgcmVxdWVzdDogZnVuY3Rpb24gKHApIHsgcmV0dXJuIGNyZWF0ZSgpLnJlcXVlc3QocCk7IH0sCiAgICBwcm9iZUhlYWx0aDogZnVuY3Rpb24gKCkgeyByZXR1cm4gY3JlYXRlKCkucHJvYmVIZWFsdGgoKTsgfSwKICAgIHN0dWI6IGZhbHNlCiAgfTsKfSk7Cg==
+/* 批次 4 · 前端真接线（在批次 2 桥接骨架上收紧，零前端依赖）
+ *
+ * 调用契约不变：window.PCApi.request(payload) -> Promise<result>，app.js 无需为桩/真服务分叉。
+ * 批次 4 变化：
+ *   - API_BASE 默认改为绝对地址 http://127.0.0.1:8765（页面从 file:// 直接打开时
+ *     相对路径必然落空，绝对 BASE 才是真接线的唯一可选项）；
+ *   - 顶层导出 probeHealth()：启动探测入口；
+ *   - 3s 硬超时（AbortController + setTimeout，不是 fetch 默认无限等待）；
+ *   - degraded（服务不在/超时）与 blocked（guardrail 拦截）仍是两个独立字段，不混用；
+ *   - blocked 时 UI 层负责提示文案，本层只保证不把被拦文本/内部错误带回界面。
+ * create({fetchImpl, timeoutMs, base}) 可注入 fetch/base，用于 node 验收（test_api.js）。
+ */
+(function (root, factory) {
+  var api = factory();
+  if (typeof module === 'object' && module.exports) { module.exports = api; }
+  root.PCApi = api;
+})(typeof globalThis !== 'undefined' ? globalThis : this, function () {
+  'use strict';
+
+  var DEFAULT_BASE = 'http://127.0.0.1:8765';
+  var DEFAULT_TIMEOUT_MS = 3000;
+
+  function core() {
+    var K = (typeof globalThis !== 'undefined') ? globalThis.PCCore : null;
+    if (!K) { throw new Error('PCCore 未加载'); }
+    return K;
+  }
+
+  function create(opts) {
+    opts = opts || {};
+    var injected = opts.fetchImpl;
+    var timeoutMs = opts.timeoutMs || DEFAULT_TIMEOUT_MS;
+    var base = String(opts.base !== undefined ? opts.base : DEFAULT_BASE).replace(/\/$/, '');
+
+    function fetcher() {
+      if (injected) { return injected; }
+      if (typeof fetch === 'function') { return fetch.bind(globalThis); }
+      return null;
+    }
+
+    function timedFetch(url, init) {
+      var f = fetcher();
+      if (!f) { return Promise.reject(new Error('no fetch')); }
+      var ctl = typeof AbortController !== 'undefined' ? new AbortController() : null;
+      var timer = null;
+      var timeout = new Promise(function (_, reject) {
+        timer = setTimeout(function () {
+          if (ctl) { ctl.abort(); }
+          reject(new Error('timeout'));
+        }, timeoutMs);
+      });
+      var req = f(url, ctl ? Object.assign({}, init, { signal: ctl.signal }) : init);
+      return Promise.race([req, timeout]).then(function (res) {
+        if (timer) { clearTimeout(timer); }
+        return res;
+      }, function (e) {
+        if (timer) { clearTimeout(timer); }
+        throw e;
+      });
+    }
+
+    function probeHealth() {
+      return timedFetch(base + '/api/health', { method: 'GET', cache: 'no-store' })
+        .then(function (res) {
+          if (!res || !res.ok) { throw new Error('health not ok'); }
+          return true;
+        });
+    }
+
+    function degraded(reason) {
+      var r = core().stubResult();
+      // 降级结果的 line/steps 置空：UI 对 degraded 只显示提示，不渲染台词内容
+      r.line = null;
+      r.steps = [];
+      r.degraded = true;
+      r.blocked = false;
+      r.reason = reason || 'service_unavailable';
+      return r;
+    }
+
+    function request(payload) {
+      var p = Object.assign({ anger_level: 3, situation: '' }, payload || {});
+      return probeHealth().then(function () {
+        return timedFetch(base + '/api/calm_script', {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify(p),
+          cache: 'no-store'
+        });
+      }).then(function (res) {
+        if (!res || !res.ok) { throw new Error('bad response'); }
+        return res.json();
+      }).then(function (data) {
+        var out = {
+          line: typeof data.line === 'string' ? data.line : null,
+          steps: Array.isArray(data.steps) ? data.steps : [],
+          disclaimer: typeof data.disclaimer === 'string' ? data.disclaimer : '',
+          degraded: Boolean(data.degraded),
+          blocked: Boolean(data.blocked),
+          level: data.level || null,
+          hint: data.blocked ? '请先看撤退方案' : (data.hint || ''),
+          stub: false,
+          reason: data.blocked ? 'guardrail_blocked' : ''
+        };
+        if (out.blocked) {
+          // 服务端本就不返回被拦文本；再兜一层：blocked 时不携带任何台词内容，
+          // line/steps 置空，由 UI 层统一提示并高亮撤退方案区。
+          out.line = null;
+          out.steps = [];
+          out.disclaimer = '';
+          out.hint = '请先看撤退方案';
+        }
+        if (out.degraded) {
+          out.line = null;
+          out.steps = [];
+          out.hint = core().DEGRADED_HINT;
+        }
+        return out;
+      }).catch(function () {
+        return degraded('service_unavailable_or_timeout');
+      });
+    }
+
+    return { probe: probeHealth, probeHealth: probeHealth, request: request,
+             stub: false, timeoutMs: timeoutMs, base: base };
+  }
+
+  return {
+    create: create,
+    request: function (p) { return create().request(p); },
+    probeHealth: function () { return create().probeHealth(); },
+    stub: false
+  };
+});

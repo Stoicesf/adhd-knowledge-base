@@ -1,1 +1,28 @@
-LS0tCmlkOiBwYXJlbnRfZHJpZnRfZXhwbGFpbl8wMgp0eXBlOiBleHBsYW5hdG9yeQphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBhdHRlbnRpb25fZHJpZnQKZXhlY190YXJnZXQ6IOWQr+WKqApldmlkZW5jZV9sZXZlbDogQgpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IHNhZmUKbGFzdF9yZXZpZXdlZDogMjAyNi0xMS0xMgpzb3VyY2VfaWQ6IHByb2plY3Rfb3JpZ2luYWwKc291cmNlX3ZlcnNpb246ICIyMDI2LTExIgp0ZW1wbGF0ZV9yZWY6IFBUX0RSSUZUXzAxCmRldmlhdGlvbjoKICBraW5kOiB2YWx1ZV9hZGp1c3RlZAogIHJlYXNvbjogIuWtl+autSBhdHRlbnRpb25fc3RhdGUg5Y+W5YC86LaF5Ye65qih5p2/77yIeydhdHRlbnRpb25fc3RhdGUnOiBbJ2RyaWZ0J119IOKGkiB7J2F0dGVudGlvbl9zdGF0ZSc6IFsnZHJpZnQnLCAncmUtZW50cnknXX3vvIkiCndoZW46CiAgdGFza19waGFzZTogW+WQr+WKqCwg5omn6KGMXQogIGF0dGVudGlvbl9zdGF0ZTogW2RyaWZ0LCByZS1lbnRyeV0KICBvd25lcnNoaXA6IFtjaGlsZC1sZWFkaW5nLCBwYXJlbnQtaGludGluZ10KaW5qZWN0X3RleHQ6IHwKICBBREhEIOWtqeWtkOi0n+i0o+WQr+WKqOS7u+WKoeOAgeW/jeS9j+WGsuWKqOOAgeS8sOiuoeaXtumXtOeahOmCo+Wll+iDveWKm+acrOi6q+WwseWBj+W8seOAguS4gOaVtOmhtSAyMCDpopjjgIHkuIDmrrXlj6PlpLTopoHmsYLjgIHkuIDnr4cgMzAwIOWtl+S9nOaWh++8jOWcqOS7luecvOmHjOmDveaYr+S4gOWbouaooeeziueahOS4nOilv++8jOS7luS4jeefpemBk+S7juWTquWEv+S4i+esrOS4gOeslO+8jOS6juaYr+W5suiEhuWPkeWRhuOAgeeOqeapoeearuOAgeemu+W6p+OAguS7u+WKoeWIh+WIsOS7luS4gOecvOiDveeci+aHgueahOS4gOWwj+atpe+8jOS7luaJjei/iOW+l+WKqOesrOS4gOatpeOAggotLS0KCiMgcGFyZW50X2RyaWZ0X2V4cGxhaW5fMDIKCua0vueUn+iHqu+8mkIwMSAvIEIwOSDCt+OAjOS4uuS7gOS5iOi/meagt+WBmuacieaViOOAjeeahOaJp+ihjOWKn+iDveacuuWItuauteiQveOAggoK6Z2i5ZCR5a626ZW/IMK3IOino+mHiuaAp++8iOajgOe0ouWdl++8ie+8muWQr+WKqOWbsOmavuS4juS7u+WKoee7k+aehOWMlueahOWOn+eQhuOAggo=
+---
+id: parent_drift_explain_02
+type: explanatory
+audience: parent
+scenario: attention_drift
+exec_target: 启动
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_DRIFT_01
+deviation:
+  kind: value_adjusted
+  reason: "字段 attention_state 取值超出模板（{'attention_state': ['drift']} → {'attention_state': ['drift', 're-entry']}）"
+when:
+  task_phase: [启动, 执行]
+  attention_state: [drift, re-entry]
+  ownership: [child-leading, parent-hinting]
+inject_text: |
+  ADHD 孩子负责启动任务、忍住冲动、估计时间的那套能力本身就偏弱。一整页 20 题、一段口头要求、一篇 300 字作文，在他眼里都是一团模糊的东西，他不知道从哪儿下第一笔，于是干脆发呆、玩橡皮、离座。任务切到他一眼能看懂的一小步，他才迈得动第一步。
+---
+
+# parent_drift_explain_02
+
+派生自：B01 / B09 ·「为什么这样做有效」的执行功能机制段落。
+
+面向家长 · 解释性（检索块）：启动困难与任务结构化的原理。

@@ -1,1 +1,373 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q615YWtIMK3IFAxIOe8luivkeeuoee6vyAgYnVpbGQucHkK5Y2V5ZG95Luk77ya6K+75rqQ5p2h55uuIOKGkiDot5Hlm5vmnaEgQ0kg56Gs6KeE5YiZIOKGkiDosJPor43nvJbor5HvvIjlkIzkuIAgd2hlbiDnlJ/miJDov4fmu6Qr6Kem5Y+R5Lik6KGo56S677yJCiAgICAgICAg4oaSIOS6p+eJqUEgY2h1bmtzLmpzb25s77yI5qOA57Si5Z2X77yJIOKGkiDkuqfnialCIHNraWxsX3JlZ2lzdHJ5Lmpzb27vvIhza2lsbCBzcGVj77yJCiAgICAgICAg4oaSIOS6p+eJqeWTiOW4jOa4heWNlSBtYW5pZmVzdC5zaGEyNTbvvIhQMyDop4TliJnlm5vvvJrkuqfniankuI7mupDmnaHnm67lk4jluIznu5HlrprvvIkKICAgICAgICDihpIg5YaZ5YWlIDAzX2FnZW5057yW6K+RL291dHB1dC8KCueUqOazle+8mgogICAgcHl0aG9uIGJ1aWxkLnB5ICAgICAgICAgICAgICAjIOagoemqjCArIOe8luivkSArIOWGmeWHugogICAgcHl0aG9uIGJ1aWxkLnB5IC0tc2VsZnRlc3QgICAjIOmineWklui3kSBQMSDpqozmlLbmlq3oqIAKCuivtOaYju+8muecn+WunuWQkemHj+e0ouW8leWxnumDqOe9sumYtuaute+8m+acrOeOr+Wig+OAjOWFiOe7k+aehOWMlui/h+a7pOOAgeWGjeWQkemHj+eyvuaOkuOAjeS4pOauteW8j+S4re+8jArnu5PmnoTljJbov4fmu6TkuLrnoazpl6jvvIzlkJHph4/nsr7mjpLku6XlhbPplK7or43ph43lj6DlgZrljaDkvY3mjpLluo/vvIjmoIfms6jkuLogcGxhY2Vob2xkZXLvvInjgIIKIiIiCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCBqc29uCmltcG9ydCBnbG9iCmltcG9ydCBoYXNobGliCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCiMgYnVpbGQucHkg5L2N5LqOIDAzX2FnZW5057yW6K+RL++8jOmAgOS4gOe6p+aJjeaYr+W3peeoi+ague+8iOatpOWJjemAgOS4pOe6p+eul+aIkCBGOlwg77yMCiMg5a+86Ie0IEVOVFJJRVNfRElSIOS4jeWtmOWcqOOAgeS6p+eJqeWTiOW4jOa4heWNlea8j+aOieWFqOmDqOa6kOadoeebriDigJTigJQgMjAyNi0xMS0xMyDkv67mraPvvInjgIIKUk9PVCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oSEVSRSwgIi4uIikpCk9VVCA9IG9zLnBhdGguam9pbihIRVJFLCAib3V0cHV0IikKTUFOSUZFU1RfUEFUSCA9IG9zLnBhdGguam9pbihPVVQsICJtYW5pZmVzdC5zaGEyNTYiKQoKIyDpmLbmrrUgQSDCtyAyLjVh77yIMjAyNi0xMS0xM++8ie+8muWPlua2iOacrOaWh+S7tueLrOeri+eahCBFTlRSSUVTX0RJUiDnoaznvJbnoIHjgIIKIyDnvJbor5HvvIhjb21waWxlX2VudHJpZXPvvInjgIF3cml0ZV9tYW5pZmVzdOOAgXZlcmlmeV9tYW5pZmVzdCDkuInlpITnmoTot6/lvoTmnaXmupAKIyDnu5/kuIDkuLogX2NvbW1vbi5pdGVyX2VudHJ5X3BhdGhzKCnvvIzkuI7moKHpqozlmajlrozlhajlkIzmupDvvIzmnZznu53jgIzmnaHnm67ov5vkuoYKIyBjaHVua3Mg5L2GIG1hbmlmZXN0IOS4jeimhuebluOAje+8m+S4lOWPr+aJqyAwMl/lhoXlrrnljIUvKi8g5LiL5Lu75oSP5Lmm57GN55uu5b2V44CCCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmpvaW4oSEVSRSwgInZhbGlkYXRvcnMiKSkKZnJvbSBfY29tbW9uIGltcG9ydCBpdGVyX2VudHJpZXMsIGl0ZXJfZW50cnlfcGF0aHMsIGNvbXBpbGVfcHJlZGljYXRlLCBldmFsX3ByZWRpY2F0ZQppbXBvcnQgc2NoZW1hX2NoZWNrLCBwcmVkaWNhdGVfZXF1aXYsIHNhZmV0eV9zY2FuLCBleGl0X2V4aXN0cwppbXBvcnQgc291cmNlX2ludGFrZV9jaGVjaywgdGVtcGxhdGVfY29uZm9ybWFuY2UKCiMg6LCT6K+N5rGC5YC85Ye95pWw5Zyo5pys5qih5Z2X6aG25bGC5pq06Zyy77yM5L6bIHJvdXRlci5weSDnm7TmjqUgaW1wb3J0IOWQjOS4gOWvueixoeOAggojIOWlkee6pu+8mnJvdXRlci5ldmFsX3ByZWRpY2F0ZSBpcyBidWlsZC5ldmFsX3ByZWRpY2F0ZSBpcyBfY29tbW9uLmV2YWxfcHJlZGljYXRlCiMg55SxIHZhbGlkYXRvcnMvcm91dGVyX3Rlc3RzLnB5IOaWreiogO+8jOmYsuatouOAjOS4pOWll+adoeS7tuWIpOaWreOAjea8guenu+OAggoKCmRlZiB2YWxpZGF0ZV9hbGwoKToKICAgIHJlcCA9IHt9CiAgICBva19pbnRha2UsIGVycnNfaW50YWtlLCBuX2ludGFrZSA9IHNvdXJjZV9pbnRha2VfY2hlY2sucnVuKCkKICAgIHJlcFsic291cmNlX2ludGFrZV9jaGVjayJdID0gKG9rX2ludGFrZSwgZXJyc19pbnRha2UsIG5faW50YWtlKQogICAgb2tfY29uZiwgZXJyc19jb25mLCBuX2NvbmYgPSB0ZW1wbGF0ZV9jb25mb3JtYW5jZS5ydW4oKQogICAgcmVwWyJ0ZW1wbGF0ZV9jb25mb3JtYW5jZSJdID0gKG9rX2NvbmYsIGVycnNfY29uZiwgbl9jb25mKQogICAgb2tfc2NoZW1hLCBlcnJzX3NjaGVtYSwgbiA9IHNjaGVtYV9jaGVjay5ydW4oKQogICAgcmVwWyJzY2hlbWFfY2hlY2siXSA9IChva19zY2hlbWEsIGVycnNfc2NoZW1hLCBuKQogICAgb2tfZXF1aXYsIGVycnNfZXF1aXYsIG0gPSBwcmVkaWNhdGVfZXF1aXYucnVuKCkKICAgIHJlcFsicHJlZGljYXRlX2VxdWl2Il0gPSAob2tfZXF1aXYsIGVycnNfZXF1aXYsIG0pCiAgICBva19zYWZlLCBlcnJzX3NhZmUsIGsgPSBzYWZldHlfc2Nhbi5ydW4oKQogICAgcmVwWyJzYWZldHlfc2NhbiJdID0gKG9rX3NhZmUsIGVycnNfc2FmZSwgaykKICAgIG9rX2V4aXQsIGVycnNfZXhpdCwgaiA9IGV4aXRfZXhpc3RzLnJ1bigpCiAgICByZXBbImV4aXRfZXhpc3RzIl0gPSAob2tfZXhpdCwgZXJyc19leGl0LCBqKQogICAgYWxsX29rID0gYWxsKFtva19pbnRha2UsIG9rX2NvbmYsIG9rX3NjaGVtYSwgb2tfZXF1aXYsIG9rX3NhZmUsIG9rX2V4aXRdKQogICAgcmV0dXJuIGFsbF9vaywgcmVwCgoKZGVmIGNvbXBpbGVfZW50cmllcygpOgogICAgIiIi6L+U5ZueIGxpc3Qgb2YgY29tcGlsZWQgZW50cnkgZGljdHPvvIjlkKvlj4zkuqfnianmiYDpnIDlrZfmrrXvvInjgIIiIiIKICAgIGNvbXBpbGVkID0gW10KICAgIGZvciBwYXRoLCBmbSwgX2IgaW4gaXRlcl9lbnRyaWVzKCk6CiAgICAgICAgZSA9IGRpY3QoZm0pCiAgICAgICAgZVsiX3NyYyJdID0gb3MucGF0aC5iYXNlbmFtZShwYXRoKQogICAgICAgIGVbIndoZW5fY29tcGlsZWQiXSA9IGNvbXBpbGVfcHJlZGljYXRlKGZtLmdldCgid2hlbiIpKQogICAgICAgIGVbImV4aXRfd2hlbl9jb21waWxlZCJdID0gY29tcGlsZV9wcmVkaWNhdGUoZm0uZ2V0KCJleGl0X3doZW4iKSkKICAgICAgICBjb21waWxlZC5hcHBlbmQoZSkKICAgIHJldHVybiBjb21waWxlZAoKCmRlZiBfc2hhMjU2KHBhdGgpOgogICAgd2l0aCBvcGVuKHBhdGgsICJyYiIpIGFzIGY6CiAgICAgICAgcmV0dXJuIGhhc2hsaWIuc2hhMjU2KGYucmVhZCgpKS5oZXhkaWdlc3QoKQoKCmRlZiB3cml0ZV9tYW5pZmVzdChjaHVua3NfcGF0aCwgc2tpbGxzX3BhdGgpOgogICAgIiIiUDMg6KeE5YiZ5Zub77ya5oqK5rqQ5p2h55uu5LiO5Lqn54mp55qEIFNIQTI1NiDnu5HlrprvvIzkurrlt6XkuI3nvJbovpHjgIIiIiIKICAgIGxpbmVzID0gWwogICAgICAgICIjIOmYtuauteWFrSDkuqfnianlk4jluIzmuIXljZXvvIhidWlsZC5weSDoh6rliqjnlJ/miJDvvIzkurrlt6XkuI3nvJbovpHvvIkiLAogICAgICAgICIjIOa6kOadoeebruWPmOabtOWQjuacqumHjee8luivkSDihpIgdmVyaWZ5X21hbmlmZXN0IOWksei0pSIsCiAgICAgICAgIiMg5rqQ5p2h55uuIiwKICAgIF0KICAgIGZvciBwIGluIGl0ZXJfZW50cnlfcGF0aHMoKToKICAgICAgICByZWwgPSBvcy5wYXRoLnJlbHBhdGgocCwgUk9PVCkucmVwbGFjZSgiXFwiLCAiLyIpCiAgICAgICAgbGluZXMuYXBwZW5kKGYie19zaGEyNTYocCl9ICB7cmVsfSIpCiAgICBsaW5lcy5hcHBlbmQoIiMg5Lqn54mpIikKICAgIGZvciBwIGluIChjaHVua3NfcGF0aCwgc2tpbGxzX3BhdGgpOgogICAgICAgIGxpbmVzLmFwcGVuZChmIntfc2hhMjU2KHApfSAge29zLnBhdGguYmFzZW5hbWUocCl9IikKICAgIHdpdGggb3BlbihNQU5JRkVTVF9QQVRILCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZi53cml0ZSgiXG4iLmpvaW4obGluZXMpICsgIlxuIikKICAgIHJldHVybiBNQU5JRkVTVF9QQVRICgoKZGVmIHZlcmlmeV9tYW5pZmVzdCgpOgogICAgIiIi54us56uL5qCh6aqM77ya56OB55uY5LiK55qE5rqQ5p2h55uuL+S6p+eJqeWTiOW4jOaYr+WQpuS4jua4heWNleS4gOiHtO+8iOinhOWImeWbm+eahOacrOWcsOWunuijhe+8ieOAggoKICAgIOWcqCB2ZXJpZnlfYWxsLnB5IOS4reS6jumHjee8luivkSoq5LmL5YmNKirosIPnlKjvvIzlj6/mipPjgIzmupDmnaHnm67mlLnkuobkvYbkuqfnianmsqHph43nvJbor5HjgI3vvJsKICAgIOmHjee8luivkeS5i+WQjuiwg+eUqO+8jOWPr+aKk+OAjOS6p+eJqeiiq+S6uuW3peaUuei/h+OAjeOAggogICAgIiIiCiAgICBlcnJvcnMgPSBbXQogICAgY2hlY2tlZCA9IDAKICAgIGlmIG5vdCBvcy5wYXRoLmV4aXN0cyhNQU5JRkVTVF9QQVRIKToKICAgICAgICByZXR1cm4gKEZhbHNlLCBbIm1hbmlmZXN0LnNoYTI1NiDkuI3lrZjlnKjvvJror7flhYjov5DooYwgYnVpbGQucHkg6YeN57yW6K+RIl0sIDApCiAgICByZWNvcmRlZCA9IHt9CiAgICB3aXRoIG9wZW4oTUFOSUZFU1RfUEFUSCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBmb3IgbGluZSBpbiBmOgogICAgICAgICAgICBsaW5lID0gbGluZS5zdHJpcCgpCiAgICAgICAgICAgIGlmIG5vdCBsaW5lIG9yIGxpbmUuc3RhcnRzd2l0aCgiIyIpOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgc2hhLCByZWwgPSBsaW5lLnNwbGl0KE5vbmUsIDEpCiAgICAgICAgICAgIHJlY29yZGVkW3JlbF0gPSBzaGEKICAgIGN1cnJlbnQgPSB7fQogICAgZm9yIHAgaW4gaXRlcl9lbnRyeV9wYXRocygpOgogICAgICAgIHJlbCA9IG9zLnBhdGgucmVscGF0aChwLCBST09UKS5yZXBsYWNlKCJcXCIsICIvIikKICAgICAgICBjdXJyZW50W3JlbF0gPSBfc2hhMjU2KHApCiAgICBmb3IgbmFtZSBpbiAoImNodW5rcy5qc29ubCIsICJza2lsbF9yZWdpc3RyeS5qc29uIik6CiAgICAgICAgcCA9IG9zLnBhdGguam9pbihPVVQsIG5hbWUpCiAgICAgICAgaWYgb3MucGF0aC5leGlzdHMocCk6CiAgICAgICAgICAgIGN1cnJlbnRbbmFtZV0gPSBfc2hhMjU2KHApCiAgICBmb3IgcmVsLCBzaGEgaW4gY3VycmVudC5pdGVtcygpOgogICAgICAgIGNoZWNrZWQgKz0gMQogICAgICAgIGlmIHJlbCBub3QgaW4gcmVjb3JkZWQ6CiAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiLmlrDlop4v5pyq57yW6K+R5p2h55uu77yae3JlbH3vvIjpnIDph43ot5EgYnVpbGQucHnvvIkiKQogICAgICAgIGVsaWYgcmVjb3JkZWRbcmVsXSAhPSBzaGE6CiAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiLlk4jluIzmvILnp7vvvJp7cmVsfe+8iOa6kOaIluS6p+eJqeW3suWPmOabtOS9huacqumHjee8luivkS/ooqvmiYvmlLnvvIkiKQogICAgZm9yIHJlbCBpbiByZWNvcmRlZDoKICAgICAgICBpZiByZWwgbm90IGluIGN1cnJlbnQ6CiAgICAgICAgICAgIGNoZWNrZWQgKz0gMQogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKGYi5riF5Y2V5Lit5a2Y5Zyo5bey5Yig6Zmk5p2h55uu77yae3JlbH0iKQogICAgcmV0dXJuIChsZW4oZXJyb3JzKSA9PSAwLCBlcnJvcnMsIGNoZWNrZWQpCgoKZGVmIHZlcmlmeV9tYW5pZmVzdF9zZWxmdGVzdCgpOgogICAgIiIi6KeE5YiZ5Zub6Ieq6Lqr55qEKirlj6/or4HkvKrmgKcqKuaWreiogO+8muaehOmAoCAyIOS4qui0n+S+i++8jOagoemqjOWZqOW/hemhu+aLkue7ne+8iOmYsuOAjOWBh+e7v+OAje+8ieOAggoKICAgIOS4jeinpueisOS7u+S9leW3peeoi+aWh+S7tu+8muaKiuS8qumAoOa4heWNleWGmeWIsOS4tOaXtuaWh+S7tu+8jOS7heWcqOacrOWHveaVsOWGheS4tOaXtuabv+aNogogICAgTUFOSUZFU1RfUEFUSO+8jGZpbmFsbHkg5oGi5aSN44CCCiAgICAiIiIKICAgIGdsb2JhbCBNQU5JRkVTVF9QQVRICiAgICBpbXBvcnQgdGVtcGZpbGUKICAgIGVycm9ycyA9IFtdCiAgICBjaGVja2VkID0gMAogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKE1BTklGRVNUX1BBVEgpOgogICAgICAgIHJldHVybiAoRmFsc2UsIFsibWFuaWZlc3Quc2hhMjU2IOS4jeWtmOWcqO+8jOaXoOazleWBmuinhOWImeWbm+iHqua1iyJdLCAwKQogICAgd2l0aCBvcGVuKE1BTklGRVNUX1BBVEgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZ29vZCA9IGYucmVhZCgpCiAgICBsaW5lcyA9IGdvb2Quc3BsaXRsaW5lcygpCgogICAgIyDotJ/kvosgMe+8muevoeaUueacgOWQjuS4gOS4quS6p+eJqeWTiOW4jO+8iOaooeaLn+S6uuW3peaUueS6p+eJqe+8iQogICAgYmFkMSA9IGdvb2QucmVwbGFjZShsaW5lc1stMV0uc3BsaXQoKVswXSwgIjAiICogNjQsIDEpCiAgICAjIOi0n+S+iyAy77ya5riF5Y2V5Yig5o6J5LiA5Liq5rqQ5p2h55uu6KGM77yI5qih5ouf5paw5aKe5p2h55uu5pyq6YeN57yW6K+R77yJCiAgICBiYWQyX2xpbmVzLCByZW1vdmVkID0gW10sIEZhbHNlCiAgICBmb3IgbCBpbiBsaW5lczoKICAgICAgICBpZiAobm90IHJlbW92ZWQgYW5kIGwgYW5kIG5vdCBsLnN0YXJ0c3dpdGgoIiMiKQogICAgICAgICAgICAgICAgYW5kICJjaHVua3MuanNvbmwiIG5vdCBpbiBsIGFuZCAic2tpbGxfcmVnaXN0cnkuanNvbiIgbm90IGluIGwpOgogICAgICAgICAgICByZW1vdmVkID0gVHJ1ZQogICAgICAgICAgICBjb250aW51ZQogICAgICAgIGJhZDJfbGluZXMuYXBwZW5kKGwpCiAgICBiYWQyID0gIlxuIi5qb2luKGJhZDJfbGluZXMpICsgIlxuIgoKICAgIG9yaWcgPSBNQU5JRkVTVF9QQVRICiAgICB0bXBfcGF0aCA9IE5vbmUKICAgIHRyeToKICAgICAgICBmb3IgbGFiZWwsIHBheWxvYWQsIGtleXdvcmQgaW4gKAogICAgICAgICAgICAoIuS6p+eJqeWTiOW4jOiiq+evoeaUuSIsIGJhZDEsICLlk4jluIzmvILnp7siKSwKICAgICAgICAgICAgKCLmupDmnaHnm67mnKrnvJbor5EiLCBiYWQyLCAi5paw5aKeL+acque8luivkeadoeebriIpLAogICAgICAgICk6CiAgICAgICAgICAgIGNoZWNrZWQgKz0gMQogICAgICAgICAgICB3aXRoIHRlbXBmaWxlLk5hbWVkVGVtcG9yYXJ5RmlsZSgidyIsIGRlbGV0ZT1GYWxzZSwgZW5jb2Rpbmc9InV0Zi04IiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc3VmZml4PSIuc2hhMjU2IikgYXMgdGY6CiAgICAgICAgICAgICAgICB0Zi53cml0ZShwYXlsb2FkKQogICAgICAgICAgICAgICAgdG1wX3BhdGggPSB0Zi5uYW1lCiAgICAgICAgICAgIE1BTklGRVNUX1BBVEggPSB0bXBfcGF0aAogICAgICAgICAgICBvaywgZXJycywgXyA9IHZlcmlmeV9tYW5pZmVzdCgpCiAgICAgICAgICAgIGlmIG9rIG9yIG5vdCBhbnkoa2V5d29yZCBpbiBlIGZvciBlIGluIGVycnMpOgogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIuinhOWImeWbm+iHqua1i+Wksei0pe+8mntsYWJlbH0g5pyq6KKr5ouS57ud77yIb2s9e29rfSwgZXJycz17ZXJyc1s6Ml1977yJIikKICAgICAgICAgICAgb3MudW5saW5rKHRtcF9wYXRoKQogICAgICAgICAgICB0bXBfcGF0aCA9IE5vbmUKICAgIGZpbmFsbHk6CiAgICAgICAgTUFOSUZFU1RfUEFUSCA9IG9yaWcKICAgICAgICBpZiB0bXBfcGF0aCBhbmQgb3MucGF0aC5leGlzdHModG1wX3BhdGgpOgogICAgICAgICAgICBvcy51bmxpbmsodG1wX3BhdGgpCiAgICByZXR1cm4gKGxlbihlcnJvcnMpID09IDAsIGVycm9ycywgY2hlY2tlZCkKCgpkZWYgZW1pdF9vdXRwdXRzKGNvbXBpbGVkKToKICAgIG9zLm1ha2VkaXJzKE9VVCwgZXhpc3Rfb2s9VHJ1ZSkKICAgICMg5Lqn54mpQe+8muajgOe0ouWdlwogICAgY2h1bmtzID0gW10KICAgIGZvciBlIGluIGNvbXBpbGVkOgogICAgICAgIGNodW5rcy5hcHBlbmQoewogICAgICAgICAgICAiaWQiOiBlWyJpZCJdLAogICAgICAgICAgICAiYXVkaWVuY2UiOiBlWyJhdWRpZW5jZSJdLAogICAgICAgICAgICAic2NlbmFyaW8iOiBlWyJzY2VuYXJpbyJdLAogICAgICAgICAgICAiZXhlY190YXJnZXQiOiBlLmdldCgiZXhlY190YXJnZXQiKSwKICAgICAgICAgICAgImV2aWRlbmNlX2xldmVsIjogZS5nZXQoImV2aWRlbmNlX2xldmVsIiksCiAgICAgICAgICAgICJjb250cmFpbmRpY2F0aW9uX2ZsYWciOiBlLmdldCgiY29udHJhaW5kaWNhdGlvbl9mbGFnIiksCiAgICAgICAgICAgICJ0eXBlIjogZVsidHlwZSJdLAogICAgICAgICAgICAid2hlbiI6IGVbIndoZW5fY29tcGlsZWQiXSwKICAgICAgICAgICAgImV4aXRfd2hlbiI6IGVbImV4aXRfd2hlbl9jb21waWxlZCJdLAogICAgICAgICAgICAiaW5qZWN0X3RleHQiOiBlLmdldCgiaW5qZWN0X3RleHQiLCAiIiksCiAgICAgICAgICAgICJ0ZXh0X2Zvcl9lbWJlZGRpbmciOiBlLmdldCgiaW5qZWN0X3RleHQiLCAiIiksCiAgICAgICAgICAgICJzb3VyY2UiOiBlWyJfc3JjIl0sCiAgICAgICAgfSkKICAgIGNodW5rc19wYXRoID0gb3MucGF0aC5qb2luKE9VVCwgImNodW5rcy5qc29ubCIpCiAgICB3aXRoIG9wZW4oY2h1bmtzX3BhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBmb3IgYyBpbiBjaHVua3M6CiAgICAgICAgICAgIGYud3JpdGUoanNvbi5kdW1wcyhjLCBlbnN1cmVfYXNjaWk9RmFsc2UpICsgIlxuIikKCiAgICAjIOS6p+eJqULvvJpza2lsbCByZWdpc3Ryee+8iOS7hSB0eXBlPXByb2NlZHVyYWwg5LiU5ZCrIGNhbGxhYmxl77yJCiAgICBza2lsbHMgPSBbXQogICAgZm9yIGUgaW4gY29tcGlsZWQ6CiAgICAgICAgaWYgZS5nZXQoInR5cGUiKSA9PSAicHJvY2VkdXJhbCIgYW5kICJjYWxsYWJsZSIgaW4gZToKICAgICAgICAgICAgY2IgPSBlWyJjYWxsYWJsZSJdCiAgICAgICAgICAgIHNraWxscy5hcHBlbmQoewogICAgICAgICAgICAgICAgIm5hbWUiOiBjYi5nZXQoIm5hbWUiKSwKICAgICAgICAgICAgICAgICJhdWRpZW5jZSI6IGVbImF1ZGllbmNlIl0sCiAgICAgICAgICAgICAgICAic2NlbmFyaW8iOiBlWyJzY2VuYXJpbyJdLAogICAgICAgICAgICAgICAgInRyaWdnZXJfY29uZGl0aW9uIjogZVsid2hlbl9jb21waWxlZCJdLAogICAgICAgICAgICAgICAgImV4aXRfY29uZGl0aW9uIjogZVsiZXhpdF93aGVuX2NvbXBpbGVkIl0sCiAgICAgICAgICAgICAgICAicGFyYW1zX3NjaGVtYSI6IGNiLmdldCgicGFyYW1zIiwge30pLAogICAgICAgICAgICAgICAgInJldHVybnNfc2NoZW1hIjogY2IuZ2V0KCJyZXR1cm5zIiwge30pLAogICAgICAgICAgICAgICAgInNpZGVfZWZmZWN0IjogY2IuZ2V0KCJzaWRlX2VmZmVjdCIpLAogICAgICAgICAgICAgICAgIyB2MS4x77ya5pSv5p625by65bqm77yM6buY6K6kIGZ1bGzvvJtsaWdodD1yZS1lbnRyeSDpmY3nuqfmlK/mnrYKICAgICAgICAgICAgICAgICJzY2FmZm9sZF9sZXZlbCI6IGNiLmdldCgic2NhZmZvbGRfbGV2ZWwiLCAiZnVsbCIpLAogICAgICAgICAgICB9KQogICAgc2tpbGxzX3BhdGggPSBvcy5wYXRoLmpvaW4oT1VULCAic2tpbGxfcmVnaXN0cnkuanNvbiIpCiAgICB3aXRoIG9wZW4oc2tpbGxzX3BhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBqc29uLmR1bXAoc2tpbGxzLCBmLCBlbnN1cmVfYXNjaWk9RmFsc2UsIGluZGVudD0yKQoKICAgICMgUDMg6KeE5YiZ5Zub77ya5Lqn54mp5ZOI5biM5LiO5rqQ5p2h55uu5ZOI5biM57uR5a6aCiAgICB3cml0ZV9tYW5pZmVzdChjaHVua3NfcGF0aCwgc2tpbGxzX3BhdGgpCiAgICByZXR1cm4gY2h1bmtzX3BhdGgsIHNraWxsc19wYXRoLCBsZW4oY2h1bmtzKSwgbGVuKHNraWxscykKCgpkZWYgcmV0cmlldmUoYXVkaWVuY2UsIHNjZW5hcmlvLCBzdGF0ZSwgY2h1bmtzX3BhdGg9Tm9uZSk6CiAgICAiIiLkuKTmrrXlvI/mo4DntKLvvJrikaDnu5PmnoTljJbov4fmu6TvvIhhdWRpZW5jZStzY2VuYXJpbyvosJPor43vvInikaHlkJHph4/nsr7mjpLljaDkvY3vvIjlhbPplK7or43ph43lj6DpmY3luo/vvInjgIIKICAgIOaJueasoSA2QSDlrqHorqHnlZnnl5XvvJrikaHnmoTljaDkvY3nsr7mjpLlnKjkuK3mlofor63mlpnkuIrlrp7pmYXml6DljLrliIbluqbigJTigJTmn6Xor6LkuLLvvIhzdGF0ZSDlgLzmlofmnKzljJbvvIwKICAgIOWunumZheS4uiAnbG93Jy8nbWlkJy8naGlnaCcg562J77yJ57uP5a2X56ym6ZuGIG92ZXJsYXAg5LiO5Lit5paHIGluamVjdF90ZXh0IOavlOWvueWunua1i+aBkiAw77yMCiAgICDmjpLluo/pgIDljJbkuLogY2h1bmtzLmpzb25sIOaWh+S7tuW6j++8iFB5dGhvbiBzb3J0IOeos+Wumu+8ieOAguecn+ato+eahOehrOmXqOaYr+KRoOeahOe7k+aehOWMlui/h+a7pO+8mwogICAg5Yu/6K+v5Lul5Li66YeN5Y+g5o6S5bqP5Zyo6LW35L2c55So77yI5a6h6K6h77yaMDVf5a6h5qC45LiO6L+Q6JClL3JlZ3Jlc3Npb24v5om55qyhNkFf5a6h6K6hLm1k77yJ44CCCiAgICDov5Tlm57lkb3kuK3nmoQgY2h1bmsg5a2X5YW45YiX6KGo77yI5ZCrIGlkIC8gaW5qZWN0X3RleHQg562J77yJ77yM5LiN5ZCr6ZSZ6K+vIGF1ZGllbmNlIOeahOWdl+OAgiIiIgogICAgaWYgY2h1bmtzX3BhdGggaXMgTm9uZToKICAgICAgICBjaHVua3NfcGF0aCA9IG9zLnBhdGguam9pbihPVVQsICJjaHVua3MuanNvbmwiKQogICAgaGl0cyA9IFtdCiAgICB3aXRoIG9wZW4oY2h1bmtzX3BhdGgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZm9yIGxpbmUgaW4gZjoKICAgICAgICAgICAgYyA9IGpzb24ubG9hZHMobGluZSkKICAgICAgICAgICAgaWYgY1siYXVkaWVuY2UiXSAhPSBhdWRpZW5jZToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGlmIGNbInNjZW5hcmlvIl0gIT0gc2NlbmFyaW86CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiBub3QgZXZhbF9pbl9zdGF0ZShjWyJ3aGVuIl0sIHN0YXRlKToKICAgICAgICAgICAgICAgIGNvbnRpbnVlCiAgICAgICAgICAgIGhpdHMuYXBwZW5kKGMpCiAgICAjIOWNoOS9jeeyvuaOku+8muWFs+mUruivjemHjeWPoO+8iHN0YXRlIOaWh+acrOWMliB2cyBpbmplY3RfdGV4dO+8iQogICAgcSA9ICIgIi5qb2luKHN0cih2KSBmb3IgdiBpbiBzdGF0ZS52YWx1ZXMoKSkKICAgIGhpdHMuc29ydChrZXk9bGFtYmRhIGM6IG92ZXJsYXAocSwgY1siaW5qZWN0X3RleHQiXSksIHJldmVyc2U9VHJ1ZSkKICAgIHJldHVybiBoaXRzCgoKZGVmIGV2YWxfaW5fc3RhdGUocHJlZCwgc3RhdGUpOgogICAgcmV0dXJuIGV2YWxfcHJlZGljYXRlKHByZWQsIHN0YXRlKQoKCmRlZiBvdmVybGFwKGEsIGIpOgogICAgcmV0dXJuIHN1bSgxIGZvciB3IGluIHNldChhKSBpZiB3IGluIGIpCgoKZGVmIHNlbGZ0ZXN0KCk6CiAgICBwcmludCgiXG49PT0gUDEg6aqM5pS26Ieq5rWLID09PSIpCiAgICBmYWlscyA9IFtdCgogICAgIyAxLiDmnaHnm67orqHmlbDvvIjpmLbmrrUgQSDCtyAyLjVh77yJ77ya5oC75pWw5LiO57G75Z6L5YiG5biD5YWo6YOo5Yqo5oCB5Y+WIGxlbigp77yMCiAgICAjICAgIOaWsOWinuS5puexjeebruW9le+8iOmYtuautSBCIOeahOS5puexjUbvvInlkI7oh6rliqjot5/kuIrvvIzkuI3lho3noaznvJbnoIEgMTgvMTEvN+OAggogICAgIyAgICDkv53nlZnkuKTmnaHml6LmnInmnaXmupDnmoTlrZjph4/ln7rnur/vvIjpmLLml6LmnInmnaHnm67ooqvor6/liKDvvIzmnInku7flgLznmoTlm57lvZLmlq3oqIDvvInvvIwKICAgICMgICAg5bm25paw5aKe44CM57yW6K+R5pWwID09IOa6kOadoeebrui3r+W+hOaVsOOAjeS6pOWPieaWreiogO+8jOebtOaOpemqjOivgeWkmuebruW9leaJq+aPj+aXoOa8j+ivu+OAggogICAgY29tcGlsZWQgPSBjb21waWxlX2VudHJpZXMoKQogICAgcHJvYyA9IFtlIGZvciBlIGluIGNvbXBpbGVkIGlmIGVbInR5cGUiXSA9PSAicHJvY2VkdXJhbCJdCiAgICBleHBsID0gW2UgZm9yIGUgaW4gY29tcGlsZWQgaWYgZVsidHlwZSJdID09ICJleHBsYW5hdG9yeSJdCiAgICBieV9zb3VyY2UgPSB7fQogICAgZm9yIGUgaW4gY29tcGlsZWQ6CiAgICAgICAgYnlfc291cmNlLnNldGRlZmF1bHQoZS5nZXQoInNvdXJjZV9pZCIpLCBbXSkuYXBwZW5kKGUpCiAgICBzdG9jayA9IGJ5X3NvdXJjZS5nZXQoInByb2plY3Rfb3JpZ2luYWwiLCBbXSkKICAgIG5ldyA9IGJ5X3NvdXJjZS5nZXQoImZhbWlseV9lbW90aW9uX3N1cHBvcnQiLCBbXSkKICAgIG5fcGF0aHMgPSBsZW4oaXRlcl9lbnRyeV9wYXRocygpKQogICAgaWYgbGVuKHN0b2NrKSAhPSAxMToKICAgICAgICBmYWlscy5hcHBlbmQoZiLlrZjph48gcHJvamVjdF9vcmlnaW5hbCDmnaHnm67lupTkuLoxMe+8jOWunumZhSB7bGVuKHN0b2NrKX0iKQogICAgaWYgbGVuKG5ldykgIT0gNzoKICAgICAgICBmYWlscy5hcHBlbmQoZiLpppbmibkgZmFtaWx5X2Vtb3Rpb25fc3VwcG9ydCDmnaHnm67lupTkuLo377yM5a6e6ZmFIHtsZW4obmV3KX0iKQogICAgaWYgbGVuKGNvbXBpbGVkKSAhPSBuX3BhdGhzOgogICAgICAgIGZhaWxzLmFwcGVuZChmIue8luivkeadoeebruaVsCh7bGVuKGNvbXBpbGVkKX0pICE9IOa6kOadoeebrui3r+W+hOaVsCh7bl9wYXRoc30p77ya5aSa55uu5b2V5omr5o+P5ryP6K+7IikKICAgIGlmIGxlbihwcm9jKSArIGxlbihleHBsKSAhPSBsZW4oY29tcGlsZWQpOgogICAgICAgIGZhaWxzLmFwcGVuZChmIuexu+Wei+WIhuW4g+S4jeiHqua0ve+8mueoi+W6j+aAp3tsZW4ocHJvYyl9K+ino+mHiuaAp3tsZW4oZXhwbCl9ICE9IOaAu+aVsHtsZW4oY29tcGlsZWQpfSIpCgogICAgIyAyLiDmr4/mnaHnqIvluo/mgKfpg73nlJ/miJAgc2tpbGwgc3BlYwogICAgY2h1bmtzX3BhdGggPSBvcy5wYXRoLmpvaW4oT1VULCAiY2h1bmtzLmpzb25sIikKICAgIHNraWxsc19wYXRoID0gb3MucGF0aC5qb2luKE9VVCwgInNraWxsX3JlZ2lzdHJ5Lmpzb24iKQogICAgd2l0aCBvcGVuKHNraWxsc19wYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHNraWxscyA9IGpzb24ubG9hZChmKQogICAgaWYgbGVuKHNraWxscykgIT0gbGVuKHByb2MpOgogICAgICAgIGZhaWxzLmFwcGVuZChmInNraWxsIHNwZWMg5pWwKHtsZW4oc2tpbGxzKX0pICE9IOeoi+W6j+aAp+adoeebruaVsCh7bGVuKHByb2MpfSkiKQoKICAgICMgMmIuIOmZjee6p+aUr+aetuS6p+eJqeWtl+aute+8iEQyIOijgeWGs++8ie+8muaBsOaciSAxIOadoSBsaWdodO+8jOS4lOadpeiHqiByZWVudHJ5IOadoeebrgogICAgbGlnaHQgPSBbcyBmb3IgcyBpbiBza2lsbHMgaWYgcy5nZXQoInNjYWZmb2xkX2xldmVsIikgPT0gImxpZ2h0Il0KICAgIGlmIGxlbihsaWdodCkgIT0gMSBvciBsaWdodFswXVsibmFtZSJdICE9ICJyZWVudHJ5X2xpZ2h0X3NjYWZmb2xkIjoKICAgICAgICBmYWlscy5hcHBlbmQoZiLpmY3nuqfmlK/mnrbkuqfniankuI3nrKbvvJp7WyhzLmdldCgnbmFtZScpLCBzLmdldCgnc2NhZmZvbGRfbGV2ZWwnKSkgZm9yIHMgaW4gc2tpbGxzXX0iKQoKICAgICMgMy4g5a626ZW/6KeG6KeS5qOA57Si77yaYXR0ZW50aW9uX2RyaWZ0ICsg6LWw56We54q25oCBIOKGkiDlkb3kuK0gcGFyZW50X3JlZGlyZWN0X2RyaWZ0XzAx77yM5LiN5LiyIGNoaWxkCiAgICBzdF9wYXJlbnQgPSB7InRhc2tfcGhhc2UiOiAi5omn6KGMIiwgImF0dGVudGlvbl9zdGF0ZSI6ICJkcmlmdCIsCiAgICAgICAgICAgICAgICAgIm93bmVyc2hpcCI6ICJjaGlsZC1sZWFkaW5nIiwgIndtX2xvYWQiOiAwLAogICAgICAgICAgICAgICAgICJjb25zZWN1dGl2ZV9mYWlsdXJlcyI6IDIsICJjb25zZWN1dGl2ZV9zdWNjZXNzZXMiOiAwfQogICAgcmVzX3AgPSByZXRyaWV2ZSgicGFyZW50IiwgImF0dGVudGlvbl9kcmlmdCIsIHN0X3BhcmVudCwgY2h1bmtzX3BhdGgpCiAgICBpZiBub3QgYW55KHJbImlkIl0gPT0gInBhcmVudF9yZWRpcmVjdF9kcmlmdF8wMSIgZm9yIHIgaW4gcmVzX3ApOgogICAgICAgIGZhaWxzLmFwcGVuZChmIuWutumVv+ajgOe0ouacquWRveS4rSBwYXJlbnRfcmVkaXJlY3RfZHJpZnRfMDHvvIzlrp7pmYXlkb3kuK3vvJp7W3JbJ2lkJ10gZm9yIHIgaW4gcmVzX3BdfSIpCiAgICBpZiBhbnkoclsiYXVkaWVuY2UiXSA9PSAiY2hpbGQiIGZvciByIGluIHJlc19wKToKICAgICAgICBmYWlscy5hcHBlbmQoIuWutumVv+ajgOe0ouS4suWFpeS6hiBjaGlsZCDmnaHnm67vvIjop5LoibLms4TmvI/vvIkiKQoKICAgICMgNC4g5YS/56ul6KeG6KeS5qOA57Si77ya5LiN5LiyIHBhcmVudAogICAgc3RfY2hpbGQgPSB7InRhc2tfcGhhc2UiOiAi5omn6KGMIiwgImF0dGVudGlvbl9zdGF0ZSI6ICJkcmlmdCIsCiAgICAgICAgICAgICAgICAib3duZXJzaGlwIjogImNoaWxkLWxlYWRpbmciLCAid21fbG9hZCI6IDAsCiAgICAgICAgICAgICAgICAiY29uc2VjdXRpdmVfZmFpbHVyZXMiOiAyLCAiY29uc2VjdXRpdmVfc3VjY2Vzc2VzIjogMH0KICAgIHJlc19jID0gcmV0cmlldmUoImNoaWxkIiwgImF0dGVudGlvbl9kcmlmdCIsIHN0X2NoaWxkLCBjaHVua3NfcGF0aCkKICAgIGlmIG5vdCBhbnkoclsiaWQiXSA9PSAiY2hpbGRfcmVkaXJlY3RfZHJpZnRfMDEiIGZvciByIGluIHJlc19jKToKICAgICAgICBmYWlscy5hcHBlbmQoZiLlhL/nq6Xmo4DntKLmnKrlkb3kuK0gY2hpbGRfcmVkaXJlY3RfZHJpZnRfMDHvvIzlrp7pmYXlkb3kuK3vvJp7W3JbJ2lkJ10gZm9yIHIgaW4gcmVzX2NdfSIpCiAgICBpZiBhbnkoclsiYXVkaWVuY2UiXSA9PSAicGFyZW50IiBmb3IgciBpbiByZXNfYyk6CiAgICAgICAgZmFpbHMuYXBwZW5kKCLlhL/nq6Xmo4DntKLkuLLlhaXkuoYgcGFyZW50IOadoeebru+8iOinkuiJsuazhOa8j++8iSIpCgogICAgIyA1LiDlt6XkvZzorrDlv4blnLrmma/mo4DntKIKICAgICMgICAg5rOo5oSP77ya6Kej6YeK5oCn5Z2XIHdoZW4g5LqOIDIwMjYtMTEtMTMg5aKe44CM55+l6K+G57y65Y+j44CN5Luj55CG5L+h5Y+377yI5o6S6ZmkIG9uLXRhc2vvvInvvIwKICAgICMgICAg5pWF5qOA57Si6L6T5YWl5pS55Li6IHJlLWVudHJ577yI5a2Y5Zyo57y65Y+j77yJ5omN5piv5pyJ5pWI5Zy65pmv77yb6L+Z5piv6IGU5Yqo6LCD5pW077yM6Z2e5pS+5a695pat6KiA44CCCiAgICBzdF93bSA9IHsidGFza19waGFzZSI6ICLorqHliJIiLCAiYXR0ZW50aW9uX3N0YXRlIjogInJlLWVudHJ5IiwKICAgICAgICAgICAgICJvd25lcnNoaXAiOiAiY2hpbGQtbGVhZGluZyIsICJ3bV9sb2FkIjogMiwKICAgICAgICAgICAgICJjb25zZWN1dGl2ZV9mYWlsdXJlcyI6IDAsICJjb25zZWN1dGl2ZV9zdWNjZXNzZXMiOiAwfQogICAgcmVzX3cgPSByZXRyaWV2ZSgicGFyZW50IiwgIndtX292ZXJsb2FkIiwgc3Rfd20sIGNodW5rc19wYXRoKQogICAgaWYgbm90IHJlc193OgogICAgICAgIGZhaWxzLmFwcGVuZCgi5bel5L2c6K6w5b+G5Zy65pmv5a626ZW/5qOA57Si5peg5ZG95LitIikKCiAgICBpZiBmYWlsczoKICAgICAgICBwcmludCgiICDinJcg6aqM5pS25pyq6YCa6L+H77yaIikKICAgICAgICBmb3IgZl8gaW4gZmFpbHM6CiAgICAgICAgICAgIHByaW50KCIgICAgLSIsIGZfKQogICAgICAgIHJldHVybiBGYWxzZQogICAgcHJpbnQoZiIgIOKckyDlhajpg6jpqozmlLbmlq3oqIDpgJrov4fvvIh7bGVuKGNvbXBpbGVkKX3mnaEgLyB7bGVuKHByb2Mpfeeoi+W6j+aApyt7bGVuKGV4cGwpfeino+mHiuaApyAvICIKICAgICAgICAgICLpmY3nuqfmlK/mnrblrZfmrrUgLyDop5LoibLpm7bms4TmvI8gLyDlnLrmma/lj6/ovr7vvIkiKQogICAgcmV0dXJuIFRydWUKCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIltidWlsZF0g5qCh6aqMICsg57yW6K+RIC4uLiIpCiAgICBvaywgcmVwID0gdmFsaWRhdGVfYWxsKCkKICAgIGZvciBuYW1lLCAobywgZXJycywgbikgaW4gcmVwLml0ZW1zKCk6CiAgICAgICAgc3RhdHVzID0gIk9LIiBpZiBvIGVsc2UgZiJGQUlMKHtsZW4oZXJycyl9KSIKICAgICAgICBwcmludChmIiAge25hbWV9OiB7c3RhdHVzfSAgKOagt+acrD17bn0pIikKICAgICAgICBmb3IgZSBpbiBlcnJzWzoxMF06CiAgICAgICAgICAgIHByaW50KCIgICAg4pyXIiwgZSkKICAgIGlmIG5vdCBvazoKICAgICAgICBwcmludCgiXG5bYnVpbGRdIENJIOehrOinhOWImeacquWFqOe7v++8jOe7iOatoue8luivke+8iOS4jeWGmeS6p+eJqe+8ieOAgiIpCiAgICAgICAgc3lzLmV4aXQoMSkKCiAgICBjb21waWxlZCA9IGNvbXBpbGVfZW50cmllcygpCiAgICBjaHVua3NfcGF0aCwgc2tpbGxzX3BhdGgsIG5jLCBucyA9IGVtaXRfb3V0cHV0cyhjb21waWxlZCkKICAgIHByaW50KGYiW2J1aWxkXSDlhpnlh7rvvJp7Y2h1bmtzX3BhdGh9ICh7bmN9IOWdlykg77ybe3NraWxsc19wYXRofSAoe25zfSBza2lsbHMpIO+8m21hbmlmZXN0LnNoYTI1NiIpCgogICAgaWYgIi0tc2VsZnRlc3QiIGluIHN5cy5hcmd2OgogICAgICAgIG9rX3N0ID0gc2VsZnRlc3QoKQogICAgICAgIHN5cy5leGl0KDAgaWYgb2tfc3QgZWxzZSAxKQogICAgcHJpbnQoIltidWlsZF0g5a6M5oiQ44CCIikKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""阶段六 · P1 编译管线  build.py
+单命令：读源条目 → 跑四条 CI 硬规则 → 谓词编译（同一 when 生成过滤+触发两表示）
+        → 产物A chunks.jsonl（检索块） → 产物B skill_registry.json（skill spec）
+        → 产物哈希清单 manifest.sha256（P3 规则四：产物与源条目哈希绑定）
+        → 写入 03_agent编译/output/
+
+用法：
+    python build.py              # 校验 + 编译 + 写出
+    python build.py --selftest   # 额外跑 P1 验收断言
+
+说明：真实向量索引属部署阶段；本环境「先结构化过滤、再向量精排」两段式中，
+结构化过滤为硬门，向量精排以关键词重叠做占位排序（标注为 placeholder）。
+"""
+import os
+import sys
+import json
+import glob
+import hashlib
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+# build.py 位于 03_agent编译/，退一级才是工程根（此前退两级算成 F:\ ，
+# 导致 ENTRIES_DIR 不存在、产物哈希清单漏掉全部源条目 —— 2026-11-13 修正）。
+ROOT = os.path.abspath(os.path.join(HERE, ".."))
+OUT = os.path.join(HERE, "output")
+MANIFEST_PATH = os.path.join(OUT, "manifest.sha256")
+
+# 阶段 A · 2.5a（2026-11-13）：取消本文件独立的 ENTRIES_DIR 硬编码。
+# 编译（compile_entries）、write_manifest、verify_manifest 三处的路径来源
+# 统一为 _common.iter_entry_paths()，与校验器完全同源，杜绝「条目进了
+# chunks 但 manifest 不覆盖」；且可扫 02_内容包/*/ 下任意书籍目录。
+sys.path.insert(0, os.path.join(HERE, "validators"))
+from _common import iter_entries, iter_entry_paths, compile_predicate, eval_predicate
+import schema_check, predicate_equiv, safety_scan, exit_exists
+import source_intake_check, template_conformance
+
+# 谓词求值函数在本模块顶层暴露，供 router.py 直接 import 同一对象。
+# 契约：router.eval_predicate is build.eval_predicate is _common.eval_predicate
+# 由 validators/router_tests.py 断言，防止「两套条件判断」漂移。
+
+
+def validate_all():
+    rep = {}
+    ok_intake, errs_intake, n_intake = source_intake_check.run()
+    rep["source_intake_check"] = (ok_intake, errs_intake, n_intake)
+    ok_conf, errs_conf, n_conf = template_conformance.run()
+    rep["template_conformance"] = (ok_conf, errs_conf, n_conf)
+    ok_schema, errs_schema, n = schema_check.run()
+    rep["schema_check"] = (ok_schema, errs_schema, n)
+    ok_equiv, errs_equiv, m = predicate_equiv.run()
+    rep["predicate_equiv"] = (ok_equiv, errs_equiv, m)
+    ok_safe, errs_safe, k = safety_scan.run()
+    rep["safety_scan"] = (ok_safe, errs_safe, k)
+    ok_exit, errs_exit, j = exit_exists.run()
+    rep["exit_exists"] = (ok_exit, errs_exit, j)
+    all_ok = all([ok_intake, ok_conf, ok_schema, ok_equiv, ok_safe, ok_exit])
+    return all_ok, rep
+
+
+def compile_entries():
+    """返回 list of compiled entry dicts（含双产物所需字段）。"""
+    compiled = []
+    for path, fm, _b in iter_entries():
+        e = dict(fm)
+        e["_src"] = os.path.basename(path)
+        e["when_compiled"] = compile_predicate(fm.get("when"))
+        e["exit_when_compiled"] = compile_predicate(fm.get("exit_when"))
+        compiled.append(e)
+    return compiled
+
+
+def _sha256(path):
+    with open(path, "rb") as f:
+        return hashlib.sha256(f.read()).hexdigest()
+
+
+def write_manifest(chunks_path, skills_path):
+    """P3 规则四：把源条目与产物的 SHA256 绑定，人工不编辑。"""
+    lines = [
+        "# 阶段六 产物哈希清单（build.py 自动生成，人工不编辑）",
+        "# 源条目变更后未重编译 → verify_manifest 失败",
+        "# 源条目",
+    ]
+    for p in iter_entry_paths():
+        rel = os.path.relpath(p, ROOT).replace("\\", "/")
+        lines.append(f"{_sha256(p)}  {rel}")
+    lines.append("# 产物")
+    for p in (chunks_path, skills_path):
+        lines.append(f"{_sha256(p)}  {os.path.basename(p)}")
+    with open(MANIFEST_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+    return MANIFEST_PATH
+
+
+def verify_manifest():
+    """独立校验：磁盘上的源条目/产物哈希是否与清单一致（规则四的本地实装）。
+
+    在 verify_all.py 中于重编译**之前**调用，可抓「源条目改了但产物没重编译」；
+    重编译之后调用，可抓「产物被人工改过」。
+    """
+    errors = []
+    checked = 0
+    if not os.path.exists(MANIFEST_PATH):
+        return (False, ["manifest.sha256 不存在：请先运行 build.py 重编译"], 0)
+    recorded = {}
+    with open(MANIFEST_PATH, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#"):
+                continue
+            sha, rel = line.split(None, 1)
+            recorded[rel] = sha
+    current = {}
+    for p in iter_entry_paths():
+        rel = os.path.relpath(p, ROOT).replace("\\", "/")
+        current[rel] = _sha256(p)
+    for name in ("chunks.jsonl", "skill_registry.json"):
+        p = os.path.join(OUT, name)
+        if os.path.exists(p):
+            current[name] = _sha256(p)
+    for rel, sha in current.items():
+        checked += 1
+        if rel not in recorded:
+            errors.append(f"新增/未编译条目：{rel}（需重跑 build.py）")
+        elif recorded[rel] != sha:
+            errors.append(f"哈希漂移：{rel}（源或产物已变更但未重编译/被手改）")
+    for rel in recorded:
+        if rel not in current:
+            checked += 1
+            errors.append(f"清单中存在已删除条目：{rel}")
+    return (len(errors) == 0, errors, checked)
+
+
+def verify_manifest_selftest():
+    """规则四自身的**可证伪性**断言：构造 2 个负例，校验器必须拒绝（防「假绿」）。
+
+    不触碰任何工程文件：把伪造清单写到临时文件，仅在本函数内临时替换
+    MANIFEST_PATH，finally 恢复。
+    """
+    global MANIFEST_PATH
+    import tempfile
+    errors = []
+    checked = 0
+    if not os.path.exists(MANIFEST_PATH):
+        return (False, ["manifest.sha256 不存在，无法做规则四自测"], 0)
+    with open(MANIFEST_PATH, encoding="utf-8") as f:
+        good = f.read()
+    lines = good.splitlines()
+
+    # 负例 1：篡改最后一个产物哈希（模拟人工改产物）
+    bad1 = good.replace(lines[-1].split()[0], "0" * 64, 1)
+    # 负例 2：清单删掉一个源条目行（模拟新增条目未重编译）
+    bad2_lines, removed = [], False
+    for l in lines:
+        if (not removed and l and not l.startswith("#")
+                and "chunks.jsonl" not in l and "skill_registry.json" not in l):
+            removed = True
+            continue
+        bad2_lines.append(l)
+    bad2 = "\n".join(bad2_lines) + "\n"
+
+    orig = MANIFEST_PATH
+    tmp_path = None
+    try:
+        for label, payload, keyword in (
+            ("产物哈希被篡改", bad1, "哈希漂移"),
+            ("源条目未编译", bad2, "新增/未编译条目"),
+        ):
+            checked += 1
+            with tempfile.NamedTemporaryFile("w", delete=False, encoding="utf-8",
+                                             suffix=".sha256") as tf:
+                tf.write(payload)
+                tmp_path = tf.name
+            MANIFEST_PATH = tmp_path
+            ok, errs, _ = verify_manifest()
+            if ok or not any(keyword in e for e in errs):
+                errors.append(f"规则四自测失败：{label} 未被拒绝（ok={ok}, errs={errs[:2]}）")
+            os.unlink(tmp_path)
+            tmp_path = None
+    finally:
+        MANIFEST_PATH = orig
+        if tmp_path and os.path.exists(tmp_path):
+            os.unlink(tmp_path)
+    return (len(errors) == 0, errors, checked)
+
+
+def emit_outputs(compiled):
+    os.makedirs(OUT, exist_ok=True)
+    # 产物A：检索块
+    chunks = []
+    for e in compiled:
+        chunks.append({
+            "id": e["id"],
+            "audience": e["audience"],
+            "scenario": e["scenario"],
+            "exec_target": e.get("exec_target"),
+            "evidence_level": e.get("evidence_level"),
+            "contraindication_flag": e.get("contraindication_flag"),
+            "type": e["type"],
+            "when": e["when_compiled"],
+            "exit_when": e["exit_when_compiled"],
+            "inject_text": e.get("inject_text", ""),
+            "text_for_embedding": e.get("inject_text", ""),
+            "source": e["_src"],
+        })
+    chunks_path = os.path.join(OUT, "chunks.jsonl")
+    with open(chunks_path, "w", encoding="utf-8") as f:
+        for c in chunks:
+            f.write(json.dumps(c, ensure_ascii=False) + "\n")
+
+    # 产物B：skill registry（仅 type=procedural 且含 callable）
+    skills = []
+    for e in compiled:
+        if e.get("type") == "procedural" and "callable" in e:
+            cb = e["callable"]
+            skills.append({
+                "name": cb.get("name"),
+                "audience": e["audience"],
+                "scenario": e["scenario"],
+                "trigger_condition": e["when_compiled"],
+                "exit_condition": e["exit_when_compiled"],
+                "params_schema": cb.get("params", {}),
+                "returns_schema": cb.get("returns", {}),
+                "side_effect": cb.get("side_effect"),
+                # v1.1：支架强度，默认 full；light=re-entry 降级支架
+                "scaffold_level": cb.get("scaffold_level", "full"),
+            })
+    skills_path = os.path.join(OUT, "skill_registry.json")
+    with open(skills_path, "w", encoding="utf-8") as f:
+        json.dump(skills, f, ensure_ascii=False, indent=2)
+
+    # P3 规则四：产物哈希与源条目哈希绑定
+    write_manifest(chunks_path, skills_path)
+    return chunks_path, skills_path, len(chunks), len(skills)
+
+
+def retrieve(audience, scenario, state, chunks_path=None):
+    """两段式检索：①结构化过滤（audience+scenario+谓词）②向量精排占位（关键词重叠降序）。
+    批次 6A 审计留痕：②的占位精排在中文语料上实际无区分度——查询串（state 值文本化，
+    实际为 'low'/'mid'/'high' 等）经字符集 overlap 与中文 inject_text 比对实测恒 0，
+    排序退化为 chunks.jsonl 文件序（Python sort 稳定）。真正的硬门是①的结构化过滤；
+    勿误以为重叠排序在起作用（审计：05_审核与运营/regression/批次6A_审计.md）。
+    返回命中的 chunk 字典列表（含 id / inject_text 等），不含错误 audience 的块。"""
+    if chunks_path is None:
+        chunks_path = os.path.join(OUT, "chunks.jsonl")
+    hits = []
+    with open(chunks_path, encoding="utf-8") as f:
+        for line in f:
+            c = json.loads(line)
+            if c["audience"] != audience:
+                continue
+            if c["scenario"] != scenario:
+                continue
+            if not eval_in_state(c["when"], state):
+                continue
+            hits.append(c)
+    # 占位精排：关键词重叠（state 文本化 vs inject_text）
+    q = " ".join(str(v) for v in state.values())
+    hits.sort(key=lambda c: overlap(q, c["inject_text"]), reverse=True)
+    return hits
+
+
+def eval_in_state(pred, state):
+    return eval_predicate(pred, state)
+
+
+def overlap(a, b):
+    return sum(1 for w in set(a) if w in b)
+
+
+def selftest():
+    print("\n=== P1 验收自测 ===")
+    fails = []
+
+    # 1. 条目计数（阶段 A · 2.5a）：总数与类型分布全部动态取 len()，
+    #    新增书籍目录（阶段 B 的书籍F）后自动跟上，不再硬编码 18/11/7。
+    #    保留两条既有来源的存量基线（防既有条目被误删，有价值的回归断言），
+    #    并新增「编译数 == 源条目路径数」交叉断言，直接验证多目录扫描无漏读。
+    compiled = compile_entries()
+    proc = [e for e in compiled if e["type"] == "procedural"]
+    expl = [e for e in compiled if e["type"] == "explanatory"]
+    by_source = {}
+    for e in compiled:
+        by_source.setdefault(e.get("source_id"), []).append(e)
+    stock = by_source.get("project_original", [])
+    new = by_source.get("family_emotion_support", [])
+    n_paths = len(iter_entry_paths())
+    if len(stock) != 11:
+        fails.append(f"存量 project_original 条目应为11，实际 {len(stock)}")
+    if len(new) != 7:
+        fails.append(f"首批 family_emotion_support 条目应为7，实际 {len(new)}")
+    if len(compiled) != n_paths:
+        fails.append(f"编译条目数({len(compiled)}) != 源条目路径数({n_paths})：多目录扫描漏读")
+    if len(proc) + len(expl) != len(compiled):
+        fails.append(f"类型分布不自洽：程序性{len(proc)}+解释性{len(expl)} != 总数{len(compiled)}")
+
+    # 2. 每条程序性都生成 skill spec
+    chunks_path = os.path.join(OUT, "chunks.jsonl")
+    skills_path = os.path.join(OUT, "skill_registry.json")
+    with open(skills_path, encoding="utf-8") as f:
+        skills = json.load(f)
+    if len(skills) != len(proc):
+        fails.append(f"skill spec 数({len(skills)}) != 程序性条目数({len(proc)})")
+
+    # 2b. 降级支架产物字段（D2 裁决）：恰有 1 条 light，且来自 reentry 条目
+    light = [s for s in skills if s.get("scaffold_level") == "light"]
+    if len(light) != 1 or light[0]["name"] != "reentry_light_scaffold":
+        fails.append(f"降级支架产物不符：{[(s.get('name'), s.get('scaffold_level')) for s in skills]}")
+
+    # 3. 家长视角检索：attention_drift + 走神状态 → 命中 parent_redirect_drift_01，不串 child
+    st_parent = {"task_phase": "执行", "attention_state": "drift",
+                 "ownership": "child-leading", "wm_load": 0,
+                 "consecutive_failures": 2, "consecutive_successes": 0}
+    res_p = retrieve("parent", "attention_drift", st_parent, chunks_path)
+    if not any(r["id"] == "parent_redirect_drift_01" for r in res_p):
+        fails.append(f"家长检索未命中 parent_redirect_drift_01，实际命中：{[r['id'] for r in res_p]}")
+    if any(r["audience"] == "child" for r in res_p):
+        fails.append("家长检索串入了 child 条目（角色泄漏）")
+
+    # 4. 儿童视角检索：不串 parent
+    st_child = {"task_phase": "执行", "attention_state": "drift",
+                "ownership": "child-leading", "wm_load": 0,
+                "consecutive_failures": 2, "consecutive_successes": 0}
+    res_c = retrieve("child", "attention_drift", st_child, chunks_path)
+    if not any(r["id"] == "child_redirect_drift_01" for r in res_c):
+        fails.append(f"儿童检索未命中 child_redirect_drift_01，实际命中：{[r['id'] for r in res_c]}")
+    if any(r["audience"] == "parent" for r in res_c):
+        fails.append("儿童检索串入了 parent 条目（角色泄漏）")
+
+    # 5. 工作记忆场景检索
+    #    注意：解释性块 when 于 2026-11-13 增「知识缺口」代理信号（排除 on-task），
+    #    故检索输入改为 re-entry（存在缺口）才是有效场景；这是联动调整，非放宽断言。
+    st_wm = {"task_phase": "计划", "attention_state": "re-entry",
+             "ownership": "child-leading", "wm_load": 2,
+             "consecutive_failures": 0, "consecutive_successes": 0}
+    res_w = retrieve("parent", "wm_overload", st_wm, chunks_path)
+    if not res_w:
+        fails.append("工作记忆场景家长检索无命中")
+
+    if fails:
+        print("  ✗ 验收未通过：")
+        for f_ in fails:
+            print("    -", f_)
+        return False
+    print(f"  ✓ 全部验收断言通过（{len(compiled)}条 / {len(proc)}程序性+{len(expl)}解释性 / "
+          "降级支架字段 / 角色零泄漏 / 场景可达）")
+    return True
+
+
+def main():
+    print("[build] 校验 + 编译 ...")
+    ok, rep = validate_all()
+    for name, (o, errs, n) in rep.items():
+        status = "OK" if o else f"FAIL({len(errs)})"
+        print(f"  {name}: {status}  (样本={n})")
+        for e in errs[:10]:
+            print("    ✗", e)
+    if not ok:
+        print("\n[build] CI 硬规则未全绿，终止编译（不写产物）。")
+        sys.exit(1)
+
+    compiled = compile_entries()
+    chunks_path, skills_path, nc, ns = emit_outputs(compiled)
+    print(f"[build] 写出：{chunks_path} ({nc} 块) ；{skills_path} ({ns} skills) ；manifest.sha256")
+
+    if "--selftest" in sys.argv:
+        ok_st = selftest()
+        sys.exit(0 if ok_st else 1)
+    print("[build] 完成。")
+
+
+if __name__ == "__main__":
+    main()

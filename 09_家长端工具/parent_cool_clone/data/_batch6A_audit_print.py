@@ -1,1 +1,23 @@
-IyDmibnmrKEgNkEuMSDlj6ror7vlrqHorqHohJrmnKzvvJrmiZPljbDmr4/moaMgY2FuZGlkYXRlcyDpobrluo/jgIFvdmVybGFwIOWAvOOAgWZpcnN0IGlk44CCCiMg5Y+q6K+777yM5LiN5YaZ5Lu75L2V5Lqn54mp77yb5Y+v5aSN6LeR44CCCmltcG9ydCBzeXMKaW1wb3J0IG9zCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEhFUkUsICIuLiIsICIuLiIsICIuLiIsICIwM19hZ2VudOe8luivkSIpKSkKaW1wb3J0IGJ1aWxkICAjIG5vcWE6IEU0MDIKCmZvciBsdiBpbiAoImxvdyIsICJtaWQiLCAiaGlnaCIpOgogICAgc3RhdGUgPSB7InBhcmVudF9hZmZlY3RfbGV2ZWwiOiBsdn0KICAgIGNhbmRzID0gYnVpbGQucmV0cmlldmUoInBhcmVudCIsICJwYXJlbnRfZXNjYWxhdGlvbiIsIHN0YXRlKQogICAgcSA9ICIgIi5qb2luKHN0cih2KSBmb3IgdiBpbiBzdGF0ZS52YWx1ZXMoKSkKICAgIHByaW50KGYiLS0tIHtsdn0gIHE9e3Ehcn0gIG49e2xlbihjYW5kcyl9IikKICAgIGZvciBpLCBjIGluIGVudW1lcmF0ZShjYW5kcyk6CiAgICAgICAgb3YgPSBidWlsZC5vdmVybGFwKHEsIGNbImluamVjdF90ZXh0Il0pCiAgICAgICAgZmlyc3QgPSBjWyJpbmplY3RfdGV4dCJdLnNwbGl0KCLjgIIiKVswXVs6MzBdCiAgICAgICAgcHJpbnQoZiIgIFt7aX1dIHtjWydpZCddfSAgb3ZlcmxhcD17b3Z9ICBmaXJzdD17Zmlyc3R9IikKCiMgc2l0dWF0aW9uIOS4jei/myBzdGF0ZSDnmoTlr7nnhafor4HmmI7vvJrmjaIgc2l0dWF0aW9uIOS4jeS8muaUueWPmCByZXRyaWV2ZSDnu5PmnpwKIyDvvIhzaXR1YXRpb24g5Y+q5Lyg57uZIGFzc2VtYmxl77yMYXNzZW1ibGUg5LiN55So5a6D77yJ44CC5q2k5aSE55u05o6l5ryU56S65ZCM5qGj5Lik56eNCiMgc2l0dWF0aW9uIOS4iyBhc3NlbWJsZSDovpPlh7rkuIDoh7TmgKfnlLEgNkEuMyDmlq3oqIDplIHlrprvvIzmnKzohJrmnKzkuI3ph43lpI3jgIIKcHJpbnQoImF1ZGl0LXByaW50IGRvbmUiKQo=
+# 批次 6A.1 只读审计脚本：打印每档 candidates 顺序、overlap 值、first id。
+# 只读，不写任何产物；可复跑。
+import sys
+import os
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.abspath(os.path.join(HERE, "..", "..", "..", "03_agent编译")))
+import build  # noqa: E402
+
+for lv in ("low", "mid", "high"):
+    state = {"parent_affect_level": lv}
+    cands = build.retrieve("parent", "parent_escalation", state)
+    q = " ".join(str(v) for v in state.values())
+    print(f"--- {lv}  q={q!r}  n={len(cands)}")
+    for i, c in enumerate(cands):
+        ov = build.overlap(q, c["inject_text"])
+        first = c["inject_text"].split("。")[0][:30]
+        print(f"  [{i}] {c['id']}  overlap={ov}  first={first}")
+
+# situation 不进 state 的对照证明：换 situation 不会改变 retrieve 结果
+# （situation 只传给 assemble，assemble 不用它）。此处直接演示同档两种
+# situation 下 assemble 输出一致性由 6A.3 断言锁定，本脚本不重复。
+print("audit-print done")

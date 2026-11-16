@@ -1,1 +1,33 @@
-LS0tCmlkOiBwYXJlbnRfd21fZXh0ZXJuYWxpemVfMDEKdHlwZTogcHJvY2VkdXJhbAphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiB3bV9vdmVybG9hZApleGVjX3RhcmdldDog5bel5L2c6K6w5b+GCmV2aWRlbmNlX2xldmVsOiBCCmNvbnRyYWluZGljYXRpb25fZmxhZzogc2FmZQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTEyCnNvdXJjZV9pZDogcHJvamVjdF9vcmlnaW5hbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEiCnRlbXBsYXRlX3JlZjogUFRfV01fMDEKd2hlbjoKICB0YXNrX3BoYXNlOiBb55CG6KejLCDorqHliJIsIOaJp+ihjF0KICB3bV9sb2FkOiAiPj0yIgogIG93bmVyc2hpcDogW3BhcmVudC1oaW50aW5nLCBjaGlsZC1sZWFkaW5nXQpleGl0X3doZW46CiAgd21fbG9hZDogIjw9MSIKICBjb25zZWN1dGl2ZV9zdWNjZXNzZXM6ICI+PTEiCmluamVjdF90ZXh0OiB8CiAg5oqK5Y+j5aS05biD572u55qE5L2c5Lia5ouG5oiQ44CM56ys5LiA6aKY44CB56ys5LqM6aKY44CN5Lik5q2l6K+077yM5LiN6KaB5LiA5qyh5oCn6K+05a6M5pW06aG144CC5L2c5Lia6YeP5YWI5YeP5LiA5Y2K77yM5YWB6K645LuW5Y+q5YGa5Y2V5pWw6aKY77yM5YGa5a6M5YaN6L+95Yqg77yM5Yir5b2T5LyX6K+044CM5L2g5bCR5YGa44CN44CC5Zyo5LuW5pyA5pyJ5oqK5o+h55qE6aKY5peB6L655YaZ5Liq566t5aS05pS+5pyA5YmN6Z2i44CC5Lmm6Z2i5q+U5Y+j5aS05Y+v6Z2g77yM5YaZ5Zyo6buR5p2/5Zu65a6a5LiA6KeS77yM5LuW5LiN5Lya5ryP5ZCs44CC55So44CM6YCJ5YGa6aKY44CN55qE5pa55byP5YWs5byA77yM5LuW5LiN6KeJ5b6X6KKr54m55q6K5a+55b6F44CCCmNhbGxhYmxlOgogIG5hbWU6IGNodW5rX2hvbWV3b3JrCiAgcGFyYW1zOiB7cmVkdWNlX3JhdGlvOiAiZW51bSgwLjUsIDAuMykifQogIHJldHVybnM6IHtzY3JpcHQ6IHN0cmluZywgYXZvaWQ6IHN0cmluZ30KICBzaWRlX2VmZmVjdDogbm9uZQotLS0KCiMgcGFyZW50X3dtX2V4dGVybmFsaXplXzAxCgrmtL7nlJ/oh6rvvJpCMDlf57uZQURIROWtqeWtkOW4g+e9ruS9nOS4mu+8iOmZjemavuW6puaLhuWIhuaUueimgeaxgu+8ieOAggoK6Z2i5ZCR5a626ZW/IMK3IOW3peS9nOiusOW/huWklue9ru+8iOS9nOS4muaLhuWIhumZjemavuW6pu+8ieOAggo=
+---
+id: parent_wm_externalize_01
+type: procedural
+audience: parent
+scenario: wm_overload
+exec_target: 工作记忆
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_WM_01
+when:
+  task_phase: [理解, 计划, 执行]
+  wm_load: ">=2"
+  ownership: [parent-hinting, child-leading]
+exit_when:
+  wm_load: "<=1"
+  consecutive_successes: ">=1"
+inject_text: |
+  把口头布置的作业拆成「第一题、第二题」两步说，不要一次性说完整页。作业量先减一半，允许他只做单数题，做完再追加，别当众说「你少做」。在他最有把握的题旁边写个箭头放最前面。书面比口头可靠，写在黑板固定一角，他不会漏听。用「选做题」的方式公开，他不觉得被特殊对待。
+callable:
+  name: chunk_homework
+  params: {reduce_ratio: "enum(0.5, 0.3)"}
+  returns: {script: string, avoid: string}
+  side_effect: none
+---
+
+# parent_wm_externalize_01
+
+派生自：B09_给ADHD孩子布置作业（降难度拆分改要求）。
+
+面向家长 · 工作记忆外置（作业拆分降难度）。

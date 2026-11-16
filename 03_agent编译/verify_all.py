@@ -1,1 +1,150 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q615YWtIMK3IOacrOWcsOe7n+S4gOmqjOivgeWFpeWPo++8iOS4jeS+nei1lui/kOihjOaXtiAvIOS4jeinpui/nOeoi++8iQoK5LiA5p2h5ZG95Luk6LeR5a6MIFAw4oCTUDQg5Lit5omA5pyJ44CM57qv5Ye95pWwICsg5pWw5o2u44CN5Y+v6K+B5Lyq55qE6YOo5YiG77yaCiAgUDEgIGJ1aWxkLnB5IOWbm+adoSBDSSDnoazop4TliJkgKyDlj4zkuqfniannvJbor5EgKyDkuqfnianlk4jluIwgKyDpqozmlLboh6rmtYsKICBQMSAgYXJ0aWZhY3RfaGFzaCAg5rqQ5p2h55uuL+S6p+eJqeWTiOW4jOe7keWumu+8iOinhOWImeWbm++8jOmHjee8luivkeS5i+WJjeeLrOeri+agoemqjO+8iQogIFAyICByb3V0ZXJfdGVzdHMgIOi3r+eUseS4ieaAgSAvIOmYsui/h+W6puaUr+aMgSAvIOinkuiJsumbtuazhOa8jyAvIOWQjOa6kOaWreiogAogIFAzICBndWFyZHJhaWxfdGVzdHMgIHBhc3MtYmxvY2stcmV3cml0ZSAvIOa8j+aUvueOhyAvIOivr+aLpueOh+Wfuue6vwogIFA0ICByZWdyZXNzaW9uICAgICDovajov7nlm57lvZIgLyDovajov7nnuqfmjIfmoIcgLyDpmY3nuqfmlK/mnrbmlq3oqIAKICBCMyAgcGFyZW50X2VzY2FsYXRpb25fdGVzdHMgIOmYtuautSBCIOaJueasoSAzIOesrCAxNCDnu4TvvIhQUk9QLTAwMDQvMDAwNe+8iQoK55So5rOV77yaCiAgRTovQU5BQ09OREEvcHl0aG9uLmV4ZSAwM19hZ2VudOe8luivkS92ZXJpZnlfYWxsLnB5CumAgOWHuuegge+8muWFqOmDqOe7vyAw77yb5Lu75LiA5aSx6LSlIDHjgIIKIiIiCmltcG9ydCBvcwppbXBvcnQgc3lzCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCnN5cy5wYXRoLmluc2VydCgwLCBIRVJFKQpzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKEhFUkUsICJ2YWxpZGF0b3JzIikpCgppbXBvcnQgYnVpbGQKaW1wb3J0IHJvdXRlcl90ZXN0cwppbXBvcnQgZ3VhcmRyYWlsX3Rlc3RzCmltcG9ydCByZWdyZXNzaW9uCmltcG9ydCB0ZW1wbGF0ZV9jb25mb3JtYW5jZQppbXBvcnQgcGFyZW50X2VzY2FsYXRpb25fdGVzdHMKCgpkZWYgX3J1bihsYWJlbCwgZm4pOgogICAgb2ssIGVycm9ycywgY2hlY2tlZCA9IGZuKCkKICAgIHN0YXR1cyA9ICJPSyAgIiBpZiBvayBlbHNlICJGQUlMIgogICAgcHJpbnQoZiIgIFt7c3RhdHVzfV0ge2xhYmVsOjwyOH0g5pat6KiAL+agt+acrD17Y2hlY2tlZDo8OH0g5aSx6LSlPXtsZW4oZXJyb3JzKX0iKQogICAgZm9yIGUgaW4gZXJyb3JzWzoxMF06CiAgICAgICAgcHJpbnQoIiAgICAgICAg4pyXIiwgZSkKICAgIHJldHVybiBvaywgbGVuKGVycm9ycyksIGNoZWNrZWQKCgpkZWYgbWFpbigpOgogICAgcHJpbnQoIj0iICogNzIpCiAgICBwcmludCgi6Zi25q615YWtIMK3IOacrOWcsOe7n+S4gOmqjOivge+8iFAxIENJIC8gUDIg6Lev55SxIC8gUDMgZ3VhcmRyYWlsIC8gUDQg5Zue5b2SIC8gQjMg5a626ZW/5oCl5pWR77yJIikKICAgIHByaW50KCI9IiAqIDcyKQoKICAgICMg6Zi25q615oCn5o+Q56S677yIMjAyNi0xMS0xMyDpmLbmrrUgQiDmibnmrKEgM++8ie+8mgogICAgIyBQUk9QLTAwMDQvMDAwNSBmdWxsIOWuoeaJueW3suWQjOaJueiQveWcsO+8jHNjaGVtYSDljYcgdjEuMu+8jAogICAgIyBwYXJlbnRfYWZmZWN0X2xldmVsIOS4jiBwYXJlbnRfZXNjYWxhdGlvbiDov5vlpZHnuqbvvJvmlrDlop4gNiDmnaHop6Pph4rmgKfmnaHnm67jgIEKICAgICMgNiDmnaEgY29uZm9ybWFuY2Ug6L2o6L+577yIZW50cnlfdmlhIOaXgei3r++8ieOAgeesrCAxNCDnu4TpqozmlLbjgIIKICAgICMg5pei5pyJIDI1IOadoei9qOi/ueOAgTE4IOadoeWtmOmHj+adoeebruOAgTExIOS4qiBza2lsbHMg6KGM5Li66Zu25Y+Y5YyW44CCCiAgICBwcmludCgiW1BIQVNFXSDpmLbmrrUgQiDmibnmrKEgM++8mlBST1AtMDAwNC8wMDA1IOW3suiQveWcsO+8iHNjaGVtYSB2MS4y77yJ77ybIgogICAgICAgICAgInBhcmVudF9lc2NhbGF0aW9uIOeLrOeri+WcuuaZryArIFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxIOaYvuW8j+ixgeWFje+8myIKICAgICAgICAgICI2IOadoea0vueUn+adoeebriAvIDYg5p2h5peB6Lev6L2o6L+5IC8g56ysIDE0IOe7hOmqjOaUtuOAgiIKICAgICAgICAgICLlj6PlvoTlpoLlrp7vvJpwYXJhbXNfZXhlbXB0IOaMieadoeebruiuoeaVsOOAgWRpZmZfbW9kZSDnu7TluqbkuI3lj5jvvIhjaGVja2VkIOWboOadoeebruaVsOWinuWKoO+8ieOAgiIpCgogICAgcmVzdWx0cyA9IFtdCgogICAgIyDop4TliJnlm5vvvJrlhYjlnKjjgIzph43nvJbor5HkuYvliY3jgI3ln7rkuo7no4Hnm5jnjrDnirbni6znq4vmoKHpqozlk4jluIzvvIwKICAgICMg5Y+v5oqT44CM5rqQ5p2h55uu5pS55LqG5L2G5Lqn54mp5rKh6YeN57yW6K+R44CN77yb6L+Z5piv5pys57uE5a2Y5Zyo55qE5Li76KaB5oSP5LmJ44CCCiAgICBwcmludCgiXG4tLS0gUDEg5Lqn54mp5ZOI5biM77yI6KeE5YiZ5Zub77yM6YeN57yW6K+R5YmN54us56uL5qCh6aqM77yJLS0tIikKICAgIG8sIG5lLCBuID0gX3J1bigiUDEvYXJ0aWZhY3RfaGFzaCIsIGJ1aWxkLnZlcmlmeV9tYW5pZmVzdCkKICAgIHJlc3VsdHMuYXBwZW5kKCgiUDEvYXJ0aWZhY3RfaGFzaCIsIG8sIG5lLCBuKSkKICAgICMg6KeE5YiZ5Zub6Ieq6Lqr5b+F6aG75Y+v6K+B5Lyq77ya5p6E6YCg6LSf5L6L77yM5qCh6aqM5Zmo5bqU5ouS57ud77yI6Ziy5ZOI5biM5qCh6aqM5Y+Y5oiQ5YGH57u/77yJCiAgICBvLCBuZSwgbiA9IF9ydW4oIlAxL2hhc2hfc2VsZnRlc3QiLCBidWlsZC52ZXJpZnlfbWFuaWZlc3Rfc2VsZnRlc3QpCiAgICByZXN1bHRzLmFwcGVuZCgoIlAxL2hhc2hfc2VsZnRlc3QiLCBvLCBuZSwgbikpCgogICAgIyBQMe+8mue8luivkeacn+ehrOinhOWIme+8iGJ1aWxkLnB5IOeahCB2YWxpZGF0ZV9hbGzvvIkrIOe8luivkSArIHNlbGZ0ZXN0CiAgICBwcmludCgiXG4tLS0gUDEg57yW6K+R5pyf56Gs6KeE5YiZICsg5Y+M5Lqn54mpIC0tLSIpCiAgICBvaywgcmVwID0gYnVpbGQudmFsaWRhdGVfYWxsKCkKICAgIGZvciBuYW1lLCAobywgZXJycywgbikgaW4gcmVwLml0ZW1zKCk6CiAgICAgICAgcmVzdWx0cy5hcHBlbmQoKGYiUDEve25hbWV9IiwgbywgbGVuKGVycnMpLCBuKSkKICAgICAgICBwcmludChmIiAgW3snT0sgICcgaWYgbyBlbHNlICdGQUlMJ31dIFAxL3tuYW1lOjwyM30g5qC35pysPXtuOjw4fSDlpLHotKU9e2xlbihlcnJzKX0iKQogICAgICAgIGZvciBlIGluIGVycnNbOjVdOgogICAgICAgICAgICBwcmludCgiICAgICAgICDinJciLCBlKQogICAgIyDnvJbor5HvvIjkuI3lhpnkuI3lkIjms5XkuqfnianvvInvvJtlbWl0X291dHB1dHMg5ZCM5pe25Yi35pawIG1hbmlmZXN0LnNoYTI1NgogICAgaWYgb2s6CiAgICAgICAgY29tcGlsZWQgPSBidWlsZC5jb21waWxlX2VudHJpZXMoKQogICAgICAgIGNwLCBzcCwgbmMsIG5zID0gYnVpbGQuZW1pdF9vdXRwdXRzKGNvbXBpbGVkKQogICAgICAgIHByaW50KGYiICBbT0sgIF0g5Y+M5Lqn54mp77yae25jfSBjaHVua3MgLyB7bnN9IHNraWxscyDvvJttYW5pZmVzdC5zaGEyNTYg5bey5Yi35pawIikKICAgICAgICBva19zdCA9IGJ1aWxkLnNlbGZ0ZXN0KCkKICAgICAgICAjIOagt+acrOaVsOmaj+adpea6kOaJueasoeWKqOaAgeWPluadoeebruaVsO+8iOmYtuauteS4iemmluaJueWQjiAxMSDihpIgMTjvvIzmibnmrKEgMyDlkI4gMjTvvIkKICAgICAgICByZXN1bHRzLmFwcGVuZCgoIlAxL3NlbGZ0ZXN0Iiwgb2tfc3QsIDAgaWYgb2tfc3QgZWxzZSAxLCBsZW4oY29tcGlsZWQpKSkKICAgIGVsc2U6CiAgICAgICAgcmVzdWx0cy5hcHBlbmQoKCJQMS9zZWxmdGVzdCIsIEZhbHNlLCAxLCAwKSkKCiAgICAjIFAyIC8gUDMgLyBQNCAvIEIzCiAgICBwcmludCgiXG4tLS0gUDIg6Lev55SxIC8gUDMgZ3VhcmRyYWlsIC8gUDQg5Zue5b2SIC8gQjMg5a626ZW/5oCl5pWRIC0tLSIpCiAgICBmb3IgbGFiZWwsIGZuIGluIFsKICAgICAgICAoIlAyL3JvdXRlcl90ZXN0cyIsIHJvdXRlcl90ZXN0cy5ydW4pLAogICAgICAgICgiUDMvZ3VhcmRyYWlsX3Rlc3RzIiwgZ3VhcmRyYWlsX3Rlc3RzLnJ1biksCiAgICAgICAgKCJQNC9yZWdyZXNzaW9uIiwgcmVncmVzc2lvbi5ydW4pLAogICAgICAgICgiQjMvcGFyZW50X2VzY2FsYXRpb25fdGVzdHMiLCBwYXJlbnRfZXNjYWxhdGlvbl90ZXN0cy5ydW4pLAogICAgXToKICAgICAgICBvLCBuZSwgbiA9IF9ydW4obGFiZWwsIGZuKQogICAgICAgIHJlc3VsdHMuYXBwZW5kKChsYWJlbCwgbywgbmUsIG4pKQoKICAgICMg55Sf5oiQ5Zue5b2S5oql5ZGK77yI5Y2z5L6/5LiN6YCa6L+H5Lmf5Lqn5Ye677yM5L6/5LqO5o6S5p+l77yJCiAgICB0cnk6CiAgICAgICAgciA9IHJlZ3Jlc3Npb24uZXZhbHVhdGUoKQogICAgICAgIHJlZ3Jlc3Npb24ud3JpdGVfcmVwb3J0KHIpCiAgICBleGNlcHQgRXhjZXB0aW9uIGFzIGV4OiAgIyBwcmFnbWE6IG5vIGNvdmVyCiAgICAgICAgcHJpbnQoZiIgIFtXQVJOXSDlm57lvZLmiqXlkYrnlJ/miJDlpLHotKXvvJp7ZXh9IikKCiAgICAjIOWQjOa6kOWlkee6puaAu+aWreiogO+8iOacrOi9ruacgOmakOiUveeahOWdke+8iQogICAgcHJpbnQoIlxuLS0tIOWQjOa6kOWlkee6piAtLS0iKQogICAgZnJvbSBfY29tbW9uIGltcG9ydCBldmFsX3ByZWRpY2F0ZSBhcyBjb21tb25fZXZhbAogICAgaW1wb3J0IHJvdXRlcgogICAgc2FtZSA9IChyb3V0ZXIuZXZhbF9wcmVkaWNhdGUgaXMgYnVpbGQuZXZhbF9wcmVkaWNhdGUgaXMgY29tbW9uX2V2YWwpCiAgICBwcmludChmIiAgW3snT0sgICcgaWYgc2FtZSBlbHNlICdGQUlMJ31dIHJvdXRlciDiiaEgYnVpbGQg4omhIF9jb21tb24g55qEIGV2YWxfcHJlZGljYXRlIOS4uuWQjOS4gOWvueixoSIpCiAgICByZXN1bHRzLmFwcGVuZCgoIuWQjOa6kOWlkee6piIsIHNhbWUsIDAgaWYgc2FtZSBlbHNlIDEsIDEpKQoKICAgICMg5rGH5oC7CiAgICB0b3RhbCA9IGxlbihyZXN1bHRzKQogICAgcGFzc2VkID0gc3VtKDEgZm9yIF8sIG8sIF8sIF8gaW4gcmVzdWx0cyBpZiBvKQogICAgdG90YWxfZXJyb3JzID0gc3VtKG5lIGZvciBfLCBfLCBuZSwgXyBpbiByZXN1bHRzKQogICAgdG90YWxfY2hlY2tlZCA9IHN1bShuIGZvciBfLCBfLCBfLCBuIGluIHJlc3VsdHMpCiAgICBwcmludCgiXG4iICsgIj0iICogNzIpCiAgICBwcmludChmIuaxh+aAu++8mntwYXNzZWR9L3t0b3RhbH0g57uE6YCa6L+H77yb5pat6KiAL+eKtuaAgeeCueWQiOiuoSB7dG90YWxfY2hlY2tlZH3vvJvlpLHotKUge3RvdGFsX2Vycm9yc30iKQogICAgZ20gPSBnZXRhdHRyKGd1YXJkcmFpbF90ZXN0cy5ydW4sICJtZXRyaWNzIiwge30pCiAgICBwbSA9IGdldGF0dHIocGFyZW50X2VzY2FsYXRpb25fdGVzdHMucnVuLCAibWV0cmljcyIsIHt9KQogICAgaWYgcG06CiAgICAgICAgcHJpbnQoZiIgICAgICDmibnmrKEz77ya5rS+55Sf5p2h55uuPXtwbS5nZXQoJ2Rlcml2ZWRfZW50cmllcycpfSAgIgogICAgICAgICAgICAgIGYicGFyYW1zX2V4ZW1wdD17cG0uZ2V0KCdwYXJhbXNfZXhlbXB0Jyl977yI5oyJ5p2h55uu6K6h5pWw77ybIgogICAgICAgICAgICAgIGYi6LGB5YWN5qih5p2/56eN57G7PXtwbS5nZXQoJ2V4ZW1wdF90ZW1wbGF0ZV9raW5kcycpfe+8iSAgIgogICAgICAgICAgICAgIGYi5LiJ5qGj5ZG95LitPXtwbS5nZXQoJ3RocmVlX3RpZXJfaGl0cycpfSIpCiAgICB0cnk6CiAgICAgICAgcm0gPSByZWdyZXNzaW9uLmV2YWx1YXRlKClbIm1ldHJpY3MiXQogICAgICAgIHByaW50KGYiICAgICAgZ3VhcmRyYWlsIOa8j+aUvueOhz17Z20uZ2V0KCdsZWFrX3JhdGUnLCAwKSoxMDA6LjFmfSUgICIKICAgICAgICAgICAgICBmIuivr+aLpueOhz17Z20uZ2V0KCdmYWxzZV9ibG9ja19yYXRlJywgMCkqMTAwOi4xZn0l77yI5Z+657q/77yJIikKICAgICAgICBwcmludChmIiAgICAgIOWbnuW9kiBjb25mb3JtYW5jZT17cm1bJ2NvbmZvcm1hbmNlX3Bhc3MnXX0ve3JtWydjb25mb3JtYW5jZV90dXJucyddfSAgIgogICAgICAgICAgICAgIGYi6KeS6Imy5rOE5ryPPXtybVsncm9sZV9sZWFrX2NvdW50J119ICDor4rmlq3moYjkvos9e3JtWydkaWFnbm9zdGljX2lkZW50aWZpZWQnXX0iKQogICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICBwYXNzCgogICAgIyDlgY/nprvnjoflkYrorabvvIjkuI3pmLvmlq3vvIzov5vmiqXlkYrvvInvvJrnu53lr7nkuIrpmZAgNDAlIOS8mOWFiO+8jOWGjeWPoOWKoOebuOWvueS9jeenu+WIpOaWrQogICAgdG0gPSBnZXRhdHRyKHRlbXBsYXRlX2NvbmZvcm1hbmNlLnJ1biwgIm1ldHJpY3MiLCBOb25lKQogICAgaWYgdG06CiAgICAgICAgZHIgPSB0bS5nZXQoImRldmlhdGlvbl9yYXRlIiwgMCkgKiAxMDAKICAgICAgICBpZiBkciA+IDQwOgogICAgICAgICAgICBwcmludChmIltXQVJOXSDmqKHmnb/lgY/nprvnjocge2RyOi4xZn0lIOi2hee7neWvueS4iumZkCA0MCXvvJrmqKHmnb/lupPlj6/og73mlbTkvZPlpLHmlYjvvIwiCiAgICAgICAgICAgICAgICAgIGYi5bqU5YWI5omp5bGV5qih5p2/6ICM6Z2e57un57ut5rS+55SfIikKICAgICAgICBlbGlmIGRyID4gMjA6CiAgICAgICAgICAgIHByaW50KGYiW1dBUk5dIOaooeadv+WBj+emu+eOhyB7ZHI6LjFmfSXvvIzlu7rorq7lrqHop4bmmK/lkKbpnIDopoHmianlsZXmqKHmnb8iKQogICAgICAgIGVsc2U6CiAgICAgICAgICAgIHByaW50KGYiICAgICAg5qih5p2/5YGP56a7546HIHtkcjouMWZ9Je+8iOato+W4uO+8jOS7heiusOW9le+8iSIpCiAgICBwcmludCgiPSIgKiA3MikKICAgIHN5cy5leGl0KDAgaWYgcGFzc2VkID09IHRvdGFsIGVsc2UgMSkKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgbWFpbigpCg==
+# -*- coding: utf-8 -*-
+"""阶段六 · 本地统一验证入口（不依赖运行时 / 不触远程）
+
+一条命令跑完 P0–P4 中所有「纯函数 + 数据」可证伪的部分：
+  P1  build.py 四条 CI 硬规则 + 双产物编译 + 产物哈希 + 验收自测
+  P1  artifact_hash  源条目/产物哈希绑定（规则四，重编译之前独立校验）
+  P2  router_tests  路由三态 / 防过度支持 / 角色零泄漏 / 同源断言
+  P3  guardrail_tests  pass-block-rewrite / 漏放率 / 误拦率基线
+  P4  regression     轨迹回归 / 轨迹级指标 / 降级支架断言
+  B3  parent_escalation_tests  阶段 B 批次 3 第 14 组（PROP-0004/0005）
+
+用法：
+  E:/ANACONDA/python.exe 03_agent编译/verify_all.py
+退出码：全部绿 0；任一失败 1。
+"""
+import os
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, HERE)
+sys.path.insert(0, os.path.join(HERE, "validators"))
+
+import build
+import router_tests
+import guardrail_tests
+import regression
+import template_conformance
+import parent_escalation_tests
+
+
+def _run(label, fn):
+    ok, errors, checked = fn()
+    status = "OK  " if ok else "FAIL"
+    print(f"  [{status}] {label:<28} 断言/样本={checked:<8} 失败={len(errors)}")
+    for e in errors[:10]:
+        print("        ✗", e)
+    return ok, len(errors), checked
+
+
+def main():
+    print("=" * 72)
+    print("阶段六 · 本地统一验证（P1 CI / P2 路由 / P3 guardrail / P4 回归 / B3 家长急救）")
+    print("=" * 72)
+
+    # 阶段性提示（2026-11-13 阶段 B 批次 3）：
+    # PROP-0004/0005 full 审批已同批落地，schema 升 v1.2，
+    # parent_affect_level 与 parent_escalation 进契约；新增 6 条解释性条目、
+    # 6 条 conformance 轨迹（entry_via 旁路）、第 14 组验收。
+    # 既有 25 条轨迹、18 条存量条目、11 个 skills 行为零变化。
+    print("[PHASE] 阶段 B 批次 3：PROP-0004/0005 已落地（schema v1.2）；"
+          "parent_escalation 独立场景 + PT_PARENT_ESCALATION_01 显式豁免；"
+          "6 条派生条目 / 6 条旁路轨迹 / 第 14 组验收。"
+          "口径如实：params_exempt 按条目计数、diff_mode 维度不变（checked 因条目数增加）。")
+
+    results = []
+
+    # 规则四：先在「重编译之前」基于磁盘现状独立校验哈希，
+    # 可抓「源条目改了但产物没重编译」；这是本组存在的主要意义。
+    print("\n--- P1 产物哈希（规则四，重编译前独立校验）---")
+    o, ne, n = _run("P1/artifact_hash", build.verify_manifest)
+    results.append(("P1/artifact_hash", o, ne, n))
+    # 规则四自身必须可证伪：构造负例，校验器应拒绝（防哈希校验变成假绿）
+    o, ne, n = _run("P1/hash_selftest", build.verify_manifest_selftest)
+    results.append(("P1/hash_selftest", o, ne, n))
+
+    # P1：编译期硬规则（build.py 的 validate_all）+ 编译 + selftest
+    print("\n--- P1 编译期硬规则 + 双产物 ---")
+    ok, rep = build.validate_all()
+    for name, (o, errs, n) in rep.items():
+        results.append((f"P1/{name}", o, len(errs), n))
+        print(f"  [{'OK  ' if o else 'FAIL'}] P1/{name:<23} 样本={n:<8} 失败={len(errs)}")
+        for e in errs[:5]:
+            print("        ✗", e)
+    # 编译（不写不合法产物）；emit_outputs 同时刷新 manifest.sha256
+    if ok:
+        compiled = build.compile_entries()
+        cp, sp, nc, ns = build.emit_outputs(compiled)
+        print(f"  [OK  ] 双产物：{nc} chunks / {ns} skills ；manifest.sha256 已刷新")
+        ok_st = build.selftest()
+        # 样本数随来源批次动态取条目数（阶段三首批后 11 → 18，批次 3 后 24）
+        results.append(("P1/selftest", ok_st, 0 if ok_st else 1, len(compiled)))
+    else:
+        results.append(("P1/selftest", False, 1, 0))
+
+    # P2 / P3 / P4 / B3
+    print("\n--- P2 路由 / P3 guardrail / P4 回归 / B3 家长急救 ---")
+    for label, fn in [
+        ("P2/router_tests", router_tests.run),
+        ("P3/guardrail_tests", guardrail_tests.run),
+        ("P4/regression", regression.run),
+        ("B3/parent_escalation_tests", parent_escalation_tests.run),
+    ]:
+        o, ne, n = _run(label, fn)
+        results.append((label, o, ne, n))
+
+    # 生成回归报告（即便不通过也产出，便于排查）
+    try:
+        r = regression.evaluate()
+        regression.write_report(r)
+    except Exception as ex:  # pragma: no cover
+        print(f"  [WARN] 回归报告生成失败：{ex}")
+
+    # 同源契约总断言（本轮最隐蔽的坑）
+    print("\n--- 同源契约 ---")
+    from _common import eval_predicate as common_eval
+    import router
+    same = (router.eval_predicate is build.eval_predicate is common_eval)
+    print(f"  [{'OK  ' if same else 'FAIL'}] router ≡ build ≡ _common 的 eval_predicate 为同一对象")
+    results.append(("同源契约", same, 0 if same else 1, 1))
+
+    # 汇总
+    total = len(results)
+    passed = sum(1 for _, o, _, _ in results if o)
+    total_errors = sum(ne for _, _, ne, _ in results)
+    total_checked = sum(n for _, _, _, n in results)
+    print("\n" + "=" * 72)
+    print(f"汇总：{passed}/{total} 组通过；断言/状态点合计 {total_checked}；失败 {total_errors}")
+    gm = getattr(guardrail_tests.run, "metrics", {})
+    pm = getattr(parent_escalation_tests.run, "metrics", {})
+    if pm:
+        print(f"      批次3：派生条目={pm.get('derived_entries')}  "
+              f"params_exempt={pm.get('params_exempt')}（按条目计数；"
+              f"豁免模板种类={pm.get('exempt_template_kinds')}）  "
+              f"三档命中={pm.get('three_tier_hits')}")
+    try:
+        rm = regression.evaluate()["metrics"]
+        print(f"      guardrail 漏放率={gm.get('leak_rate', 0)*100:.1f}%  "
+              f"误拦率={gm.get('false_block_rate', 0)*100:.1f}%（基线）")
+        print(f"      回归 conformance={rm['conformance_pass']}/{rm['conformance_turns']}  "
+              f"角色泄漏={rm['role_leak_count']}  诊断案例={rm['diagnostic_identified']}")
+    except Exception:
+        pass
+
+    # 偏离率告警（不阻断，进报告）：绝对上限 40% 优先，再叠加相对位移判断
+    tm = getattr(template_conformance.run, "metrics", None)
+    if tm:
+        dr = tm.get("deviation_rate", 0) * 100
+        if dr > 40:
+            print(f"[WARN] 模板偏离率 {dr:.1f}% 超绝对上限 40%：模板库可能整体失效，"
+                  f"应先扩展模板而非继续派生")
+        elif dr > 20:
+            print(f"[WARN] 模板偏离率 {dr:.1f}%，建议审视是否需要扩展模板")
+        else:
+            print(f"      模板偏离率 {dr:.1f}%（正常，仅记录）")
+    print("=" * 72)
+    sys.exit(0 if passed == total else 1)
+
+
+if __name__ == "__main__":
+    main()

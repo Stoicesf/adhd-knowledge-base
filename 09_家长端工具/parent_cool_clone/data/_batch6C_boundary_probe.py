@@ -1,1 +1,94 @@
-IyDmibnmrKEgNkMuMiDovrnnlYzovpPlhaXlrp7mtYvvvJrotbfnnJ/lrp7mnI3liqHvvIjpmo/mnLrnq6/lj6PvvInvvIzpgJDnsbvmiZPovrnnlYzor7fmsYLvvIzorrDlvZXlrp7pmYXooYzkuLrjgIIKIyDlj6ror7vlrqHorqHlt6XlhbfvvIzlj6/lpI3ot5HvvJvkuI3kv67mlLnku7vkvZXmnI3liqHku6PnoIHjgIIKaW1wb3J0IGh0dHAuY2xpZW50CmltcG9ydCBqc29uCmltcG9ydCBzb2NrZXQKaW1wb3J0IHN5cwppbXBvcnQgdGhyZWFkaW5nCmltcG9ydCB0aW1lCgppbXBvcnQgb3MKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKc3lzLnBhdGguaW5zZXJ0KDAsIG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oSEVSRSwgIi4uIiwgInNlcnZlciIpKSkKaW1wb3J0IHNlcnZlciBhcyBzcnZtb2QgICMgbm9xYTogRTQwMgoKUE9SVCA9IDE4OTk5CgoKZGVmIHBvc3QoYm9keV9ieXRlcywgY2w9Tm9uZSwgdGltZW91dD0zKToKICAgIGNvbm4gPSBodHRwLmNsaWVudC5IVFRQQ29ubmVjdGlvbigiMTI3LjAuMC4xIiwgUE9SVCwgdGltZW91dD10aW1lb3V0KQogICAgdHJ5OgogICAgICAgIGhlYWRlcnMgPSB7IkNvbnRlbnQtVHlwZSI6ICJhcHBsaWNhdGlvbi9qc29uIn0KICAgICAgICBpZiBjbCBpcyBub3QgTm9uZToKICAgICAgICAgICAgaGVhZGVyc1siQ29udGVudC1MZW5ndGgiXSA9IHN0cihjbCkKICAgICAgICBlbGlmIGJvZHlfYnl0ZXMgaXMgbm90IE5vbmU6CiAgICAgICAgICAgIGhlYWRlcnNbIkNvbnRlbnQtTGVuZ3RoIl0gPSBzdHIobGVuKGJvZHlfYnl0ZXMpKQogICAgICAgIGNvbm4ucmVxdWVzdCgiUE9TVCIsICIvYXBpL2NhbG1fc2NyaXB0IiwgYm9keT1ib2R5X2J5dGVzLCBoZWFkZXJzPWhlYWRlcnMpCiAgICAgICAgcmVzcCA9IGNvbm4uZ2V0cmVzcG9uc2UoKQogICAgICAgIGRhdGEgPSByZXNwLnJlYWQoKS5kZWNvZGUoInV0Zi04IikKICAgICAgICByZXR1cm4gcmVzcC5zdGF0dXMsIGRhdGFbOjEyMF0KICAgIGV4Y2VwdCAoc29ja2V0LnRpbWVvdXQsIGh0dHAuY2xpZW50LkhUVFBFeGNlcHRpb24sIE9TRXJyb3IpIGFzIGU6CiAgICAgICAgcmV0dXJuICJUSU1FT1VUL0VSUiIsIGYie3R5cGUoZSkuX19uYW1lX199OiB7ZX0iWzoxMjBdCiAgICBmaW5hbGx5OgogICAgICAgIGNvbm4uY2xvc2UoKQoKCmRlZiBjYXNlKGxhYmVsLCBib2R5X2J5dGVzLCBjbD1Ob25lLCB0aW1lb3V0PTMpOgogICAgc3QsIG1zZyA9IHBvc3QoYm9keV9ieXRlcywgY2w9Y2wsIHRpbWVvdXQ9dGltZW91dCkKICAgIHByaW50KGYie2xhYmVsOjwzOH0gLT4ge3N0fSAge21zZ30iKQoKCmRlZiByYXdfY2FzZShsYWJlbCwgcmF3X2J5dGVzLCB0aW1lb3V0PTMpOgogICAgIiIi5Y6f5aeLIHNvY2tldCDlj5HljIXvvJrnlKjkuo7nvLogQ0wg5aS0IC8gQ0wg5LiO5a6e6ZmF5LiN56ym55qE5Zy65pmv44CCIiIiCiAgICBzID0gc29ja2V0LmNyZWF0ZV9jb25uZWN0aW9uKCgiMTI3LjAuMC4xIiwgUE9SVCksIHRpbWVvdXQ9dGltZW91dCkKICAgIHRyeToKICAgICAgICBzLnNlbmRhbGwocmF3X2J5dGVzKQogICAgICAgIHMuc2V0dGltZW91dCh0aW1lb3V0KQogICAgICAgIGRhdGEgPSBzLnJlY3YoNDA5NikKICAgICAgICBpZiBub3QgZGF0YToKICAgICAgICAgICAgcHJpbnQoZiJ7bGFiZWw6PDM4fSAtPiDov57mjqXlhbPpl63ml6Dlk43lupQiKQogICAgICAgICAgICByZXR1cm4KICAgICAgICBoZWFkID0gZGF0YS5zcGxpdChiIlxyXG4iLCAxKVswXS5kZWNvZGUoInV0Zi04IiwgInJlcGxhY2UiKQogICAgICAgIHByaW50KGYie2xhYmVsOjwzOH0gLT4ge2hlYWRbOjEwMF19IikKICAgIGV4Y2VwdCAoc29ja2V0LnRpbWVvdXQsIE9TRXJyb3IpIGFzIGU6CiAgICAgICAgcHJpbnQoZiJ7bGFiZWw6PDM4fSAtPiBUSU1FT1VUL0VSUiAge3R5cGUoZSkuX19uYW1lX199OiB7ZX0iWzoxMjBdKQogICAgZmluYWxseToKICAgICAgICBzLmNsb3NlKCkKCgpkZWYgbWFpbigpOgogICAgaHR0cGQgPSBzcnZtb2QubWFrZV9zZXJ2ZXIoUE9SVCkKICAgIHQgPSB0aHJlYWRpbmcuVGhyZWFkKHRhcmdldD1odHRwZC5zZXJ2ZV9mb3JldmVyLCBkYWVtb249VHJ1ZSkKICAgIHQuc3RhcnQoKQogICAgdGltZS5zbGVlcCgwLjUpCiAgICB0cnk6CiAgICAgICAgb2sgPSBqc29uLmR1bXBzKHsiYW5nZXJfbGV2ZWwiOiAzLCAic2l0dWF0aW9uIjogIuWtqeWtkOWPiOaRlOeslOS6hiJ9KS5lbmNvZGUoKQogICAgICAgIGNhc2UoIuato+W4uOivt+axgu+8iOWvueeFp+e7hO+8iSIsIG9rKQogICAgICAgIGNhc2UoImFuZ2VyX2xldmVsPTAiLCBqc29uLmR1bXBzKHsiYW5nZXJfbGV2ZWwiOiAwfSkuZW5jb2RlKCkpCiAgICAgICAgY2FzZSgiYW5nZXJfbGV2ZWw9NiIsIGpzb24uZHVtcHMoeyJhbmdlcl9sZXZlbCI6IDZ9KS5lbmNvZGUoKSkKICAgICAgICBjYXNlKCdhbmdlcl9sZXZlbD0iMyLvvIjlrZfnrKbkuLLvvIknLCBiJ3siYW5nZXJfbGV2ZWwiOiAiMyJ9JykKICAgICAgICBjYXNlKCJhbmdlcl9sZXZlbD1udWxsIiwgYid7ImFuZ2VyX2xldmVsIjogbnVsbH0nKQogICAgICAgIGNhc2UoInNpdHVhdGlvbj0xMDBLQiDlrZfnrKbkuLIiLAogICAgICAgICAgICAganNvbi5kdW1wcyh7ImFuZ2VyX2xldmVsIjogMywgInNpdHVhdGlvbiI6ICLmkZQiICogMTAyNDAwfSkuZW5jb2RlKCksCiAgICAgICAgICAgICB0aW1lb3V0PTUpCiAgICAgICAgY2FzZSgic2l0dWF0aW9uPeaVsOWtl++8iOmdnuWtl+espuS4su+8iSIsIGIneyJhbmdlcl9sZXZlbCI6IDMsICJzaXR1YXRpb24iOiAxMjN9JykKICAgICAgICBjYXNlKCJzaXR1YXRpb2495a+56LGh77yI6Z2e5a2X56ym5Liy77yJIiwgYid7ImFuZ2VyX2xldmVsIjogMywgInNpdHVhdGlvbiI6IHsiYSI6IDF9fScpCiAgICAgICAgY2FzZSgiYm9keSDml6DmlYggSlNPTiIsIGIidGhpcyBpcyBub3QganNvbnt7eyIpCiAgICAgICAgY2FzZSgiYm9keSDnqbrlrZfoioLmtYEiLCBiIiIpCiAgICAgICAgcmF3X2Nhc2UoIue8uiBDb250ZW50LUxlbmd0aCDlpLTvvIjluKYgYm9kee+8iSIsCiAgICAgICAgICAgICAgICAgYiJQT1NUIC9hcGkvY2FsbV9zY3JpcHQgSFRUUC8xLjFcclxuSG9zdDogMTI3LjAuMC4xXHJcbiIKICAgICAgICAgICAgICAgICBiIkNvbnRlbnQtVHlwZTogYXBwbGljYXRpb24vanNvblxyXG5cclxuIgogICAgICAgICAgICAgICAgIGIneyJhbmdlcl9sZXZlbCI6IDN9JykKICAgICAgICByYXdfY2FzZSgiQ0wg5aOw5piOIDFNQisxIOWPquWPkSAxMCDlrZfoioIiLAogICAgICAgICAgICAgICAgIGIiUE9TVCAvYXBpL2NhbG1fc2NyaXB0IEhUVFAvMS4xXHJcbkhvc3Q6IDEyNy4wLjAuMVxyXG4iCiAgICAgICAgICAgICAgICAgYiJDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb25cclxuQ29udGVudC1MZW5ndGg6IDEwNDg1NzdcclxuXHJcbiIKICAgICAgICAgICAgICAgICBiJ3siYW5nZXJfbCcpCiAgICBmaW5hbGx5OgogICAgICAgIGh0dHBkLnNodXRkb3duKCkKICAgICAgICBodHRwZC5zZXJ2ZXJfY2xvc2UoKQogICAgcHJpbnQoInByb2JlIGRvbmUiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+# 批次 6C.2 边界输入实测：起真实服务（随机端口），逐类打边界请求，记录实际行为。
+# 只读审计工具，可复跑；不修改任何服务代码。
+import http.client
+import json
+import socket
+import sys
+import threading
+import time
+
+import os
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, os.path.abspath(os.path.join(HERE, "..", "server")))
+import server as srvmod  # noqa: E402
+
+PORT = 18999
+
+
+def post(body_bytes, cl=None, timeout=3):
+    conn = http.client.HTTPConnection("127.0.0.1", PORT, timeout=timeout)
+    try:
+        headers = {"Content-Type": "application/json"}
+        if cl is not None:
+            headers["Content-Length"] = str(cl)
+        elif body_bytes is not None:
+            headers["Content-Length"] = str(len(body_bytes))
+        conn.request("POST", "/api/calm_script", body=body_bytes, headers=headers)
+        resp = conn.getresponse()
+        data = resp.read().decode("utf-8")
+        return resp.status, data[:120]
+    except (socket.timeout, http.client.HTTPException, OSError) as e:
+        return "TIMEOUT/ERR", f"{type(e).__name__}: {e}"[:120]
+    finally:
+        conn.close()
+
+
+def case(label, body_bytes, cl=None, timeout=3):
+    st, msg = post(body_bytes, cl=cl, timeout=timeout)
+    print(f"{label:<38} -> {st}  {msg}")
+
+
+def raw_case(label, raw_bytes, timeout=3):
+    """原始 socket 发包：用于缺 CL 头 / CL 与实际不符的场景。"""
+    s = socket.create_connection(("127.0.0.1", PORT), timeout=timeout)
+    try:
+        s.sendall(raw_bytes)
+        s.settimeout(timeout)
+        data = s.recv(4096)
+        if not data:
+            print(f"{label:<38} -> 连接关闭无响应")
+            return
+        head = data.split(b"\r\n", 1)[0].decode("utf-8", "replace")
+        print(f"{label:<38} -> {head[:100]}")
+    except (socket.timeout, OSError) as e:
+        print(f"{label:<38} -> TIMEOUT/ERR  {type(e).__name__}: {e}"[:120])
+    finally:
+        s.close()
+
+
+def main():
+    httpd = srvmod.make_server(PORT)
+    t = threading.Thread(target=httpd.serve_forever, daemon=True)
+    t.start()
+    time.sleep(0.5)
+    try:
+        ok = json.dumps({"anger_level": 3, "situation": "孩子又摔笔了"}).encode()
+        case("正常请求（对照组）", ok)
+        case("anger_level=0", json.dumps({"anger_level": 0}).encode())
+        case("anger_level=6", json.dumps({"anger_level": 6}).encode())
+        case('anger_level="3"（字符串）', b'{"anger_level": "3"}')
+        case("anger_level=null", b'{"anger_level": null}')
+        case("situation=100KB 字符串",
+             json.dumps({"anger_level": 3, "situation": "摔" * 102400}).encode(),
+             timeout=5)
+        case("situation=数字（非字符串）", b'{"anger_level": 3, "situation": 123}')
+        case("situation=对象（非字符串）", b'{"anger_level": 3, "situation": {"a": 1}}')
+        case("body 无效 JSON", b"this is not json{{{")
+        case("body 空字节流", b"")
+        raw_case("缺 Content-Length 头（带 body）",
+                 b"POST /api/calm_script HTTP/1.1\r\nHost: 127.0.0.1\r\n"
+                 b"Content-Type: application/json\r\n\r\n"
+                 b'{"anger_level": 3}')
+        raw_case("CL 声明 1MB+1 只发 10 字节",
+                 b"POST /api/calm_script HTTP/1.1\r\nHost: 127.0.0.1\r\n"
+                 b"Content-Type: application/json\r\nContent-Length: 1048577\r\n\r\n"
+                 b'{"anger_l')
+    finally:
+        httpd.shutdown()
+        httpd.server_close()
+    print("probe done")
+
+
+if __name__ == "__main__":
+    main()

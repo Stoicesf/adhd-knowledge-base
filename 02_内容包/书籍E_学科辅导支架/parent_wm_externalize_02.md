@@ -1,1 +1,36 @@
-LS0tCmlkOiBwYXJlbnRfd21fZXh0ZXJuYWxpemVfMDIKdHlwZTogcHJvY2VkdXJhbAphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiB3bV9vdmVybG9hZApleGVjX3RhcmdldDog5bel5L2c6K6w5b+GCmV2aWRlbmNlX2xldmVsOiBCCmNvbnRyYWluZGljYXRpb25fZmxhZzogc2FmZQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTEyCnNvdXJjZV9pZDogcHJvamVjdF9vcmlnaW5hbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEiCnRlbXBsYXRlX3JlZjogUFRfV01fMDEKZGV2aWF0aW9uOgogIGtpbmQ6IHZhbHVlX2FkanVzdGVkCiAgcmVhc29uOiAi5a2X5q61IGF0dGVudGlvbl9zdGF0ZSDlj5blgLzotoXlh7rmqKHmnb/vvIh7J2F0dGVudGlvbl9zdGF0ZSc6IFsnZHJpZnQnLCAncmUtZW50cnknXX0g4oaSIHsnYXR0ZW50aW9uX3N0YXRlJzogWydkcmlmdCcsICdvbi10YXNrJ11977yJIgp3aGVuOgogIHRhc2tfcGhhc2U6IFvnkIbop6NdCiAgYXR0ZW50aW9uX3N0YXRlOiBbZHJpZnQsIG9uLXRhc2tdCiAgb3duZXJzaGlwOiBbY2hpbGQtbGVhZGluZywgcGFyZW50LWhpbnRpbmddCmV4aXRfd2hlbjoKICBhdHRlbnRpb25fc3RhdGU6IFtvbi10YXNrXQogIGNvbnNlY3V0aXZlX3N1Y2Nlc3NlczogIj49MSIKaW5qZWN0X3RleHQ6IHwKICDkvaDor7TlrozkuIDku7bkuovvvIzlgZwgMiDnp5LvvIzkuI3lgqzjgILor7fku5bnlKjoh6rlt7HnmoTor53lpI3ov7DkuIDlj6XvvJrjgIzkvaDnmoTmhI/mgJ3mmK/igKbigKbjgI3jgILkvaDlj6rnrZTkuKTnp43vvJrjgIzlr7nvvIzlsLHmmK/ov5nkuKrjgI3miJbjgIzlt67kuIDngrnvvIzmmK/igKbigKbjgI3vvIzkuI3lsZXlvIDor4Tku7fjgILkuIDmrKHlj6rkuqTku6PkuIDku7bkuovvvIzlpI3ov7Dlj6rnlKjlnKjph43opoHnmoTkuovkuIrvvIzkuI3opoHmr4/lj6Xor53pg73orqnku5bog4zjgILlpI3ov7DmmK/lnKjlr7nor53ph4zorr7kuIDkuKrms6jmhI/lipvokL3ngrnvvIzmr5Tor7TjgIzorqTnnJ/lkKzjgI3mnInmlYjlvpflpJrigJTigJTlkI7ogIXlj6rkvJrorqnku5blhoXnlprvvIzku4DkuYjpg73kuI3mlLnlj5jjgIIKY2FsbGFibGU6CiAgbmFtZTogcmVwZWF0X2JhY2sKICBwYXJhbXM6IHttb2RlOiAiZW51bShjb25maXJtLCB3cml0dGVuKSJ9CiAgcmV0dXJuczoge3NjcmlwdDogc3RyaW5nLCBhdm9pZDogc3RyaW5nfQogIHNpZGVfZWZmZWN0OiBub25lCi0tLQoKIyBwYXJlbnRfd21fZXh0ZXJuYWxpemVfMDIKCua0vueUn+iHqu+8mkIxNV/kvLTkvqPmgLvooqvor7TmsqHlnKjlkKzvvIjlr7nor53kuK3nlZnlpI3ov7DliqjkvZzvvInCt+OAjOWkjei/sOmUmuWumuazqOaEj+WKm+OAjeOAggoK6Z2i5ZCR5a626ZW/IMK3IOW3peS9nOiusOW/huWklue9ru+8iOWkjei/sOWKqOS9nO+8jOWvueivneS4remUmuWumuazqOaEj+WKm++8ieOAggo=
+---
+id: parent_wm_externalize_02
+type: procedural
+audience: parent
+scenario: wm_overload
+exec_target: 工作记忆
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_WM_01
+deviation:
+  kind: value_adjusted
+  reason: "字段 attention_state 取值超出模板（{'attention_state': ['drift', 're-entry']} → {'attention_state': ['drift', 'on-task']}）"
+when:
+  task_phase: [理解]
+  attention_state: [drift, on-task]
+  ownership: [child-leading, parent-hinting]
+exit_when:
+  attention_state: [on-task]
+  consecutive_successes: ">=1"
+inject_text: |
+  你说完一件事，停 2 秒，不催。请他用自己的话复述一句：「你的意思是……」。你只答两种：「对，就是这个」或「差一点，是……」，不展开评价。一次只交代一件事，复述只用在重要的事上，不要每句话都让他背。复述是在对话里设一个注意力落点，比说「认真听」有效得多——后者只会让他内疚，什么都不改变。
+callable:
+  name: repeat_back
+  params: {mode: "enum(confirm, written)"}
+  returns: {script: string, avoid: string}
+  side_effect: none
+---
+
+# parent_wm_externalize_02
+
+派生自：B15_伴侣总被说没在听（对话中留复述动作）·「复述锚定注意力」。
+
+面向家长 · 工作记忆外置（复述动作，对话中锚定注意力）。

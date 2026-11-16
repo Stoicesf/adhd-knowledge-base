@@ -1,1 +1,73 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IG9zLCByZSwgY3N2CmZyb20gY29sbGVjdGlvbnMgaW1wb3J0IGRlZmF1bHRkaWN0CgpDT1JQVVMgPSAiRjovQURIROaWh+eMri8wMl/lhoXlrrnljIUiCk9VVCA9ICJGOi9BREhE5paH54yuLzA4X0FJ6K+t5paZ5bGCLzAzX2NodW5rL+mYtuauteS4iV/mnK/or63kuIDoh7TmgKdf5Y6f5aeL6K6h5pWwLmNzdiIKCiMgY29yZSB0ZXJtIC0+IGxpc3Qgb2Ygc3VyZmFjZSB2YXJpYW50cyB0byBzZWFyY2gKVEVSTVMgPSB7CiAgICAn5omn6KGM5Yqf6IO9JzogWyfmiafooYzlip/og70nLCAn5omn6KGM5Yqf6IO96Zqc56KNJywgJ+aJp+ihjOWKn+iDvee8uumZtycsICfmiafooYzlip/og73kuI3otrMnLCAnZXhlY3V0aXZlIGZ1bmN0aW9uJywgJ0VGJ10sCiAgICAn5ZCI55CG6LCD5pW0JzogWyflkIjnkIbosIPmlbQnLCAn5ZCI55CG5L6/5YipJywgJ+S+v+WIqeaOquaWvScsICfkvr/liKnosIPmlbQnXSwKICAgICfovazku4snOiAgICAgWyfovazku4snLCAn6L2s6K+KJywgJ+i9rOS7i+WIsCcsICfovazku4voh7MnLCAn6L2s57uZJywgJ3JlZmVyJywgJ3JlZmVycmFsJ10sCiAgICAn5YWx55eFJzogICAgIFsn5YWx55eFJywgJ+WQiOW5tueXhycsICfkvLTpmo/nlr7nl4UnLCAnY29tb3JiaWQnLCAnY29tb3JiaWRpdHknXSwKICAgICfmlK/mjIEnOiAgICAgWyfmlK/mjIHnrZbnlaUnLCAn5pSv5oyB5pa55byPJywgJ+aUr+aMgeezu+e7nycsICflpJbpg6jmlK/mjIEnLCAn56S+5Lya5pSv5oyBJywgJ+aUr+aMgeaApycsICfmlK/mjIEnLCAn5biu5YqpJywgJ+WNj+WKqSddLAogICAgJ+e7k+aehOWMluiuqOiuuic6IFsn57uT5p6E5YyW6K6o6K66JywgJ+e7k+aehOWMluayn+mAmicsICfnu5PmnoTljJblr7nor50nLCAn57uT5p6E5YyW5Lqk5rWBJywgJ+e7k+aehOWMluS8muiwiCcsICfnu5PmnoTljJborr/osIgnXSwKICAgICfnjq/looPosIPmlbQnOiBbJ+eOr+Wig+iwg+aVtCcsICfnjq/looPmlLnpgKAnLCAn546v5aKD5biD572uJywgJ+eOr+Wig+WuieaOkicsICfnjq/looPmlK/mjIEnLCAn54mp55CG546v5aKD6LCD5pW0J10sCn0KCiMgZ2F0aGVyIG1kIGZpbGVzCmZpbGVzID0gW10KZm9yIHJvb3QsIF8sIGZzIGluIG9zLndhbGsoQ09SUFVTKToKICAgIGZvciBmIGluIGZzOgogICAgICAgIGlmIGYuZW5kc3dpdGgoJy5tZCcpOgogICAgICAgICAgICBmaWxlcy5hcHBlbmQob3MucGF0aC5qb2luKHJvb3QsIGYpKQpmaWxlcy5zb3J0KCkKCiMgcGVyICh0ZXJtLCB2YXJpYW50KTogcGVyLWZpbGUgY291bnQKIyBzdHJ1Y3R1cmU6IGRhdGFbdGVybV1bdmFyaWFudF1bcmVsZmlsZV0gPSBjb3VudApkYXRhID0ge3Q6IHt2OiBkZWZhdWx0ZGljdChpbnQpIGZvciB2IGluIHZzfSBmb3IgdCwgdnMgaW4gVEVSTVMuaXRlbXMoKX0KY29ycHVzX2NvdW50ID0ge3Q6IHt2OiAwIGZvciB2IGluIHZzfSBmb3IgdCwgdnMgaW4gVEVSTVMuaXRlbXMoKX0KCmZvciBmcCBpbiBmaWxlczoKICAgIHJlbCA9IG9zLnBhdGgucmVscGF0aChmcCwgQ09SUFVTKQogICAgIyB1c2UgcGFnZSBpZCBmcm9tIGZpbGVuYW1lIGxpa2UgQjQ0X3h4eC5tZCAtPiBCNDQKICAgIG0gPSByZS5tYXRjaChyJyhbQS1EXVxkezJ9KV8nLCBvcy5wYXRoLmJhc2VuYW1lKGZwKSkKICAgIHBpZCA9IG0uZ3JvdXAoMSkgaWYgbSBlbHNlIHJlbAogICAgdGV4dCA9IG9wZW4oZnAsIGVuY29kaW5nPSd1dGYtOCcpLnJlYWQoKQogICAgZm9yIHQsIHZzIGluIFRFUk1TLml0ZW1zKCk6CiAgICAgICAgZm9yIHYgaW4gdnM6CiAgICAgICAgICAgIGMgPSB0ZXh0LmNvdW50KHYpCiAgICAgICAgICAgIGlmIGM6CiAgICAgICAgICAgICAgICBkYXRhW3RdW3ZdW3BpZF0gKz0gYwogICAgICAgICAgICAgICAgY29ycHVzX2NvdW50W3RdW3ZdICs9IGMKCiMgb3V0cHV0IHJhdyBjc3Y6IHRlcm0sIHZhcmlhbnQsIGNvcnB1c190b3RhbCwgbl9maWxlcywgZmlsZXMobGlzdCkKd2l0aCBvcGVuKE9VVCwgJ3cnLCBuZXdsaW5lPScnLCBlbmNvZGluZz0ndXRmLTgtc2lnJykgYXMgZjoKICAgIHcgPSBjc3Yud3JpdGVyKGYpCiAgICB3LndyaXRlcm93KFsn5qC45b+D5pyv6K+tJywgJ+WPmOS9kycsICflhajlupPmrKHmlbAnLCAn5Ye6546w6aG15pWwJywgJ+WHuueOsOmhtemdoiddKQogICAgZm9yIHQsIHZzIGluIFRFUk1TLml0ZW1zKCk6CiAgICAgICAgZm9yIHYgaW4gdnM6CiAgICAgICAgICAgIGZpbGVzX2xzdCA9IHNvcnRlZChkYXRhW3RdW3ZdLmtleXMoKSkKICAgICAgICAgICAgdy53cml0ZXJvdyhbdCwgdiwgY29ycHVzX2NvdW50W3RdW3ZdLCBsZW4oZmlsZXNfbHN0KSwgJzsnLmpvaW4oZmlsZXNfbHN0KV0pCgojIGNvbnNvbGUgc3VtbWFyeQpwcmludCgiPT09PT0g5pyv6K+t5Y+Y5L2T5omr5o+P5pGY6KaBID09PT09IikKZm9yIHQsIHZzIGluIFRFUk1TLml0ZW1zKCk6CiAgICB1c2VkID0gWyh2LCBjb3JwdXNfY291bnRbdF1bdl0pIGZvciB2IGluIHZzIGlmIGNvcnB1c19jb3VudFt0XVt2XSA+IDBdCiAgICBuX3ZhciA9IGxlbih1c2VkKQogICAgcHJpbnQoZiJcbiMjIyB7dH0gICjlh7rnjrDlj5jkvZPmlbA6IHtuX3Zhcn0pIikKICAgIGZvciB2LCBjIGluIHVzZWQ6CiAgICAgICAgcGFnZXMgPSBzb3J0ZWQoZGF0YVt0XVt2XS5rZXlzKCkpCiAgICAgICAgaW50cmEgPSBbcCBmb3IgcCBpbiBwYWdlcyBpZiBzdW0oMSBmb3IgdnYgaW4gdnMgaWYgZGF0YVt0XVt2dl0uZ2V0KHAsMCk+MCkgPiAxXQogICAgICAgIHByaW50KGYiICB7dn06IOWFqOW6kyB7Y30g5qyhLCDpobUge2xlbihwYWdlcyl9OiB7cGFnZXN9IikKICAgIGlmIG5fdmFyID4gMToKICAgICAgICAjIGludHJhLWZpbGU6IGZpbGVzIHVzaW5nID4xIHZhcmlhbnQgb2YgdGhpcyB0ZXJtCiAgICAgICAgaW50cmFfZmlsZXMgPSBzZXQoKQogICAgICAgIGZvciBwIGluIHNldCgpLnVuaW9uKCpbc2V0KGRhdGFbdF1bdl0ua2V5cygpKSBmb3IgdiBpbiB2c10pOgogICAgICAgICAgICBjbnQgPSBzdW0oMSBmb3IgdiBpbiB2cyBpZiBkYXRhW3RdW3ZdLmdldChwLDApPjApCiAgICAgICAgICAgIGlmIGNudCA+IDE6CiAgICAgICAgICAgICAgICBpbnRyYV9maWxlcy5hZGQocCkKICAgICAgICBpZiBpbnRyYV9maWxlczoKICAgICAgICAgICAgcHJpbnQoZiIgID4+IOWQjOmhtea3t+eUqOWkmuWPmOS9kzoge3NvcnRlZChpbnRyYV9maWxlcyl9IikKcHJpbnQoIlxu5Y6f5aeL6K6h5pWw5bey5YaZ5YWlOiIsIE9VVCkK
+# -*- coding: utf-8 -*-
+import os, re, csv
+from collections import defaultdict
+
+CORPUS = "F:/ADHD文献/02_内容包"
+OUT = "F:/ADHD文献/08_AI语料层/03_chunk/阶段三_术语一致性_原始计数.csv"
+
+# core term -> list of surface variants to search
+TERMS = {
+    '执行功能': ['执行功能', '执行功能障碍', '执行功能缺陷', '执行功能不足', 'executive function', 'EF'],
+    '合理调整': ['合理调整', '合理便利', '便利措施', '便利调整'],
+    '转介':     ['转介', '转诊', '转介到', '转介至', '转给', 'refer', 'referral'],
+    '共病':     ['共病', '合并症', '伴随疾病', 'comorbid', 'comorbidity'],
+    '支持':     ['支持策略', '支持方式', '支持系统', '外部支持', '社会支持', '支持性', '支持', '帮助', '协助'],
+    '结构化讨论': ['结构化讨论', '结构化沟通', '结构化对话', '结构化交流', '结构化会谈', '结构化访谈'],
+    '环境调整': ['环境调整', '环境改造', '环境布置', '环境安排', '环境支持', '物理环境调整'],
+}
+
+# gather md files
+files = []
+for root, _, fs in os.walk(CORPUS):
+    for f in fs:
+        if f.endswith('.md'):
+            files.append(os.path.join(root, f))
+files.sort()
+
+# per (term, variant): per-file count
+# structure: data[term][variant][relfile] = count
+data = {t: {v: defaultdict(int) for v in vs} for t, vs in TERMS.items()}
+corpus_count = {t: {v: 0 for v in vs} for t, vs in TERMS.items()}
+
+for fp in files:
+    rel = os.path.relpath(fp, CORPUS)
+    # use page id from filename like B44_xxx.md -> B44
+    m = re.match(r'([A-D]\d{2})_', os.path.basename(fp))
+    pid = m.group(1) if m else rel
+    text = open(fp, encoding='utf-8').read()
+    for t, vs in TERMS.items():
+        for v in vs:
+            c = text.count(v)
+            if c:
+                data[t][v][pid] += c
+                corpus_count[t][v] += c
+
+# output raw csv: term, variant, corpus_total, n_files, files(list)
+with open(OUT, 'w', newline='', encoding='utf-8-sig') as f:
+    w = csv.writer(f)
+    w.writerow(['核心术语', '变体', '全库次数', '出现页数', '出现页面'])
+    for t, vs in TERMS.items():
+        for v in vs:
+            files_lst = sorted(data[t][v].keys())
+            w.writerow([t, v, corpus_count[t][v], len(files_lst), ';'.join(files_lst)])
+
+# console summary
+print("===== 术语变体扫描摘要 =====")
+for t, vs in TERMS.items():
+    used = [(v, corpus_count[t][v]) for v in vs if corpus_count[t][v] > 0]
+    n_var = len(used)
+    print(f"\n### {t}  (出现变体数: {n_var})")
+    for v, c in used:
+        pages = sorted(data[t][v].keys())
+        intra = [p for p in pages if sum(1 for vv in vs if data[t][vv].get(p,0)>0) > 1]
+        print(f"  {v}: 全库 {c} 次, 页 {len(pages)}: {pages}")
+    if n_var > 1:
+        # intra-file: files using >1 variant of this term
+        intra_files = set()
+        for p in set().union(*[set(data[t][v].keys()) for v in vs]):
+            cnt = sum(1 for v in vs if data[t][v].get(p,0)>0)
+            if cnt > 1:
+                intra_files.add(p)
+        if intra_files:
+            print(f"  >> 同页混用多变体: {sorted(intra_files)}")
+print("\n原始计数已写入:", OUT)

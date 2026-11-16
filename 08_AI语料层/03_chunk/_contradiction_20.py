@@ -1,1 +1,319 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGNzdiwgb3MKZnJvbSBjb2xsZWN0aW9ucyBpbXBvcnQgQ291bnRlcgoKT1VUX0RJUiA9ICJGOi9BREhE5paH54yuLzA4X0FJ6K+t5paZ5bGCLzAzX2NodW5rIgpDU1ZfUEFUSCA9IE9VVF9ESVIgKyAiL+mYtuauteS4iV/nn5vnm77mo4DmtYtfMjDpopguY3N2IgpSRVBPUlRfUEFUSCA9IE9VVF9ESVIgKyAiL+mYtuauteS4iV/nn5vnm77mo4DmtYtfMjDpopjmiqXlkYoubWQiCgojIOWtl+autTog6aKY5Y+3IC8g5rWL6K+V57G75Z6LIC8g6Zeu6aKYIC8g5qOA57SidG9wNemhtSAvIOWQhOmhteetlOahiOaRmOimgSAvIOaYr+WQpuefm+ebviAvIOefm+ebvueCuSAvIOWkhOeQhuW7uuiurgojIOaYr+WQpuefm+ebvjog5pivIC8g5ZCmIC8g6YOo5YiGICjkuI3lhYHorrgi5b6F5a6aIjsg6YOo5YiG6aG75YaZ5riF5ZOq6YOo5YiG5LiA6Ie05ZOq6YOo5YiG55+b55u+KQojIOa1i+ivleexu+Weizog5a6J5YWo5LqL5Lu26L6555WM5rWL6K+VIC8g6Leo6aG16KeS6Imy5beu5byC5rWL6K+VIC8g5bi46KeE5LiA6Ie05oCnCiMg6K6+6K6hOiAyIOmimOWuieWFqOS6i+S7tiArIDMg6aKY6Leo6aG16KeS6Imy5beu5byCKOimhuebliBCNDLihpRCNDMsIEIzMuKGlEI0NCwgQzAz4oaUQjEwKSArIDE1IOmimOW4uOinhAoKcm93cyA9IFsKICAgICgiMSIsICLlronlhajkuovku7bovrnnlYzmtYvor5UiLAogICAgICLlranlrZDlm57lrrbor7TlnKjlrabmoKHooqvlkIzlrabmjqjkuobjgIHkuJzopb/ooqvmiqLkuobvvIzmiJHor6XlhYjmib7nj63kuLvku7vov5jmmK/lhYjlnKjlrrbmlZnku5bmgI7kuYjlupTlr7nvvJ8iLAogICAgICJCMzc7IEI0NTsgQjQyOyBDMDM7IEIxMCIsCiAgICAgIkIzNzrmjqjmkKEv5oqi5Lic6KW/L+S4jeiuqeS4iuWOleaJgC/ooqvot5/nnYAv5pOm5LykL+i/nue7reS4jeS4iuWtpuKGkuW9k+WkqeiBlOezu+ePreS4u+S7u+W5tuaMieWtpuagoea1geeoiy/moKHlpJbmsYLliqks5pys6aG15a625bqt5a+56K+d5LuF6YCC55So5LqOJ+ehruiupOaXoOWuieWFqOS6i+S7tuWQjifjgIIiCiAgICAgIkI0NTrmj5LlmLTkvLTpmo/mjqjmkKEv5oqi54mp5ZOBL+aUu+WHu+KGkuWFiOS/neivgeWFtuS7luWtqeWtkOWuieWFqCznj63kuLvku7vlr7nmjqXlubTnuqfnu4Qr5b+D55CG6ICB5biI44CCIgogICAgICJCNDI65Lya5LiK5LiN5bGV5byA5Liq5Lq65Zuw6Zq+LOWutumVv+i/vemXruKGkuS8muWQjuWNleeLrOi9rEIyMeOAgiIKICAgICAiQzAzOuWuieWFqOmjjumZqSjlhrLliqjlj5fkvKQv5Y2x6Zmp6KGM5Li6L+mikee5gei1sOWksSnihpLlsL3lv6vovazku4ss5LiN6K6o6K666I2v54mp44CCIgogICAgICJCMTA66K6w5YW35L2T5LqLL+mikeeOhy/or5Xov4fku4DkuYg75Zuw6Zq+6Z2e54+t6YeM6IO96KaG55uW4oaS5bu66K6u5LiT5Lia6K+E5Lyw44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CC5omA5pyJ55u45YWz6aG15a+5J+aOqOaQoS/miqLkuJzopb8n5Z2H6Lev55Sx5Yiw5qCh5pa5K+S4k+S4muS7i+WFpSxCMzcvQjQ15piO56S65a6J5YWo5LqL5Lu25LyY5YWI5LqO5pel5bi45a+56K+d5YGa5rOVLOaWueWQkeWujOWFqOS4gOiHtOOAgiIsCiAgICAgIuaXoOOAguajgOe0ouaPkOekujrlronlhajkuovku7blhYjnlKhCMzcvQjQ155qE6Lev55SxLOacrOmhteaXpeW4uOWvueivneaague8kzvli7/mioon5Zyo5a625pWZ5bqU5a+5J+e9ruS6juWuieWFqOi3r+eUseS5i+WJjeOAgiIpLAoKICAgICgiMiIsICLlronlhajkuovku7bovrnnlYzmtYvor5UiLAogICAgICLlranlrZDooqvlkIzlrablraTnq4vjgIHmnInlh6DlpKnkuI3ogq/kuIrlrabvvIzkvYbmsqHor7TooqvmrLrotJ/vvIzmiJHlnKjlrrbmgI7kuYjot5/ku5bogYrvvJ8iLAogICAgICJCMzc7IEI0NTsgQjQzOyBDMDM7IEIxMCIsCiAgICAgIkIzNzrnoa7orqTml6Dlronlhajkuovku7blkI7lj6/nlKjlrrbluq3lr7nor50o5YC+5ZCsMTDliIbpkp/lj6rlpI3ov7Av5b2T5pmaMzDnp5LmlK/mjIHor50v5L2O5Y6L5Yqb5bCP5o6l6Kem55Sx5a2p5a2Q5a6aKTvkvYYn5Zue6YG/5LiK5a2mL+iHquS8pOihqOi/sOKGkuWwveW/q+eyvuelnuenkeivhOS8sCfjgIIiCiAgICAgIkI0NTrkuJPorrLmj5LlmLTlvZPloILlm57lupQs5LiN6YCC55So5a2k56uL5Zy65pmv44CCIgogICAgICJCNDM65ou/6K+E5Lyw5oql5ZGK5Zue5qCh6LCI6K++5aCC6LCD5pW044CCIgogICAgICJDMDM65oyB57ut5Zuw6Zq+5Y2z5Y+v5ZCv5Yqo6K+E5LywO+WFseeXheS/oeWPtyjmg4Xnu6rkvY7okL0v54Sm6JmRL+iHquS8pCnihpLlsL3lv6vovazku4vjgIIiCiAgICAgIkIxMDrorrDlvZXlhbfkvZPkuovkuI3lhpnliKTmlq3or43jgIIiLAogICAgICLlkKYiLAogICAgICLml6Dnoaznn5vnm77jgIJCMzfnu5nlrrbluq3lr7nor53lgZrms5UsQzAz57uZ6L2s5LuL5pe25py6LEIzN+eahCflm57pgb/kuIrlrabihpLkuJPkuJror4TkvLAn5LiOQzAzJ+WFseeXheKGkui9rOS7iyfkuIDoh7Q75a2k56uL5pel5bi45a+56K+d5LiO6L2s5LuL5piv5LiN5ZCM5bGC57qnLOS4jeWGsueqgeOAgiIsCiAgICAgIuaXoOOAguaPkOekujpCMzfnmoQn5Zue6YG/5LiK5a2mL+iHquS8pOKGkueyvuelnuenkSfovrnnlYzlupTkuI7ml6XluLjlr7nor53lgZrms5XljLrliIblj6zlm54s6YG/5YWN5Y+q57uZ5a+56K+d5LiN57uZ5Y2H57qn6Lev5b6E44CCIiksCgogICAgKCIzIiwgIui3qOmhteinkuiJsuW3ruW8gua1i+ivlSIsCiAgICAgIuWutumVv+S8muS4iuiAgeW4iOmXruaIkeWtqeWtkOivvuWgguihqOeOsO+8jOaIkeiDveS4jeiDvemhuuS+v+aPkOS7luaDs+iwg+W6p+S9jeeahOS6i++8nyIsCiAgICAgIkI0MjsgQjQzOyBCMjE7IEIwNDsgQjQ1IiwKICAgICAiQjQyKOmdouWQkTrlrrbplb/kvJrpm4bkvZPlnLrlkIgpOuS8muS4iuWPquiusumdouWQkeWFqOePremAmueUqOWBmuazlSzkuI3lsZXlvIDku7vkvZXlranlrZDkuKrkurrlm7Dpmr476ZyA5Y2V54us6LCI55qE5Lya5ZCO5Y2V54us57qm55u45bqU5a626ZW/LOS4jeWcqOmbhuS9k+WcuuWQiOivtCjovaxCMjEp44CCIgogICAgICJCNDMo6Z2i5ZCROuaLv+aKpeWRiuWbnuagoeS4quWIq+iwiCk65YWI57qm54+t5Li75Lu76LCI6K++5aCC6LCD5pW0KOW6p+S9jS/kvZzkuJrph48v5o+Q6YaSL+iAg+ivleWbm+exuyks5LiN6LaK57qn44CCIgogICAgICJCMjE66Z2i6LCI5YmNMTDliIbpkp/lpIfosIjor53muIXljZUs5aGr5YW35L2T5Zy65pmv5LiN5YaZ6K+E5Lu36K+N44CCIgogICAgICJCMDQ65ZCR5a2m5qCh6K+05piO5LiA6aG157q4LOWPquWGmeWFt+S9k+WcuuaZr+OAgiIKICAgICAiQjQ1OuW9k+WgguaPkuWYtOWbnuW6lCjml6DlhbPmnKzpl64p44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQjQyKOmbhuS9k+WPo+W+hDrkvJrkuIrkuI3ngrnlkI0p5LiOQjQzKOS4quWIq+mdouiwiDrlhYjnuqbnj63kuLvku7sp5LiA6Ie05oyH5ZCRJ+S4quS6uuiwg+aVtOS4jeaUvuWcqOWutumVv+S8muS4iuOAgeaUueS4quWIq+iwiCfjgILkvYbkuKTpobXop5LoibIv5Zy65pmv5LiN5ZCMOkI0MuaYr+mbhuS9k+WcuuWQiOS4jeaJqeaVoyxCNDPmmK/kuIDlr7nkuIDpnaLosIjosIjosIPmlbTjgIIiLAogICAgICLot6jpobXop5LoibLlt67lvILmtYvor5U6QjQy4oaUQjQz44CC5qOA57Si5bGC6aG75Yy65YiGJ+WutumVv+S8mijpm4bkvZMpJ+S4jiflm57moKHkuKrliKvosIgo5LiA5a+55LiA6Z2i6LCIKSfkuKTlnLrmma8s5Yu/5oqKQjQyJ+S4jeeCueWQjSfkuI5CNDMn57qm54+t5Li75Lu7J+a3t+S4uuWQjOS4gOadoTvpl64n5a626ZW/5Lya5LiK5o+Q5bqn5L2NJ+W6lOWPrEI0MijkvJrlkI7ljZXni6wpLOiAjOmdnuebtOaOpee7mUI0M+eahOS4quWIq+iwiOa1geeoi+OAgiIpLAoKICAgICgiNCIsICLot6jpobXop5LoibLlt67lvILmtYvor5UiLAogICAgICLpnZLmmKXmnJ/lranlrZDkuIDlj5HohL7msJTmiJHlsLHmg7Pot5/ku5borrLpgZPnkIbvvIzotororrLotorngrjvvIzmiJHor6XlhYjnrqHku5bov5jmmK/lhYjnrqHoh6rlt7HvvJ8iLAogICAgICJCMzI7IEI0NDsgQjAzOyBCMDU7IEIyMiIsCiAgICAgIkIzMijpnaLlkJE65a626ZW/L+mdkuaYpeacn+WtqeWtkCk654Gr5rCU5LiK5p2l5YWI5LiN5o6l6YGT55CG5LiN5LqJ5a+56ZSZLOe7meiHquW3seWSjOS7lueVmeWuiemdmeaXtumXtDvlhrLnqoHliJrotbfor7Qn5oiR546w5Zyo5LiN6Lef5L2g5LqJJzvkuovlkI7lubPpnZnlj6rosIjov5nkuIDku7bkuovjgIIiCiAgICAgIkI0NCjpnaLlkJE65oiQ5Lq65pys5Lq6KTrngavmsJTliJrlhpLlpLTlhYjnprvlvIDnjrDlnLo15YiG6ZKfO+mHjeivneWGmeWkh+W/mOW9lemalDIw5YiG6ZKfO+edoeWJjeWkjeebmOOAgiIKICAgICAiQjAzKOmdouWQkTrlrrbplb/kv67lpI0pOuetieW5s+mdmeWQjuS4u+WKqOivtOesrOS4gOWPpeS/ruWkjeivneOAgiIKICAgICAiQjA1OuiusOWGsueqgeaXtumXtOWcsOeCueaXtumVv+OAgiIKICAgICAiQjIyKOmdouWQkTrkvLTkvqPkv67lpI0pOuetieW5s+mdmeivtOS/ruWkjeivneOAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIzMuivu+iAhT3lrrbplb8o5YWI5o6l5oOF57uq5YaN6LCIKSxCNDTor7vogIU95oiQ5Lq65pys5Lq6KOWFiOemu+WcuinjgILkuI3lkIzor7vogIXkuI3lkIzpobUs5q2j56Gu5YiG5rWBLOmhtemdouacrOi6q+S4jeWGsueqgeOAgiIsCiAgICAgIui3qOmhteinkuiJsuW3ruW8gua1i+ivlTpCMzLihpRCNDTjgILmo4DntKLlsYLpobvmjIkn6Z2i5ZCRJ+Wtl+auteWMuuWIhuWutumVv+eJiC/miJDkurrniYg76ZeuJ+WutumVv+mdouWvuemdkuaYpeacn+WtqeWtkOWPkeeBqyflupTlj6zlm55CMzLogIzpnZ5CNDQs5Y+N5LmLJ+aIkOS6uuiHquW3seWPkeeBqyflupTlj6zlm55CNDTjgILoi6Xmt7fnlKgo5oqKQjQ0J+emu+W8gOeOsOWcujXliIbpkp8n57uZ5a626ZW/5a+56Z2S5pil5pyf5a2p5a2QKSzkvJrplJnkvY3jgIIiKSwKCiAgICAoIjUiLCAi6Leo6aG16KeS6Imy5beu5byC5rWL6K+VIiwKICAgICAi6ICB5biI6KeC5a+f5a2p5a2Q5Yeg5ZGo6KeJ5b6X5pyJ5aSa5Yqo5YC+5ZCR77yM5LuA5LmI5oOF5Ya15LiL6K+l5bim5a2p5a2Q5Y676K+E5Lyw77yfIiwKICAgICAiQzAzOyBCMTA7IEEwODsgRDAxOyBCNDMiLAogICAgICJDMDMo6Z2i5ZCROkLnq68v5a626ZW/5Z+56K6tKTrlranlrZDlnKjlrabkuJov6KGM5Li6L+ekvuS6pOWHuueOsOaMgee7reWbsOmavuaXtuWNs+WPr+WQr+WKqOivhOS8sCzkuI3lv4XnrYnliLAn5pu05Lil6YeNJ+aJjei9rDvovazku4vluKbot6jlnLrmma/orrDlvZUv5pWw5o2u6KGoKDMtN+WkqeWfuue6vykv5pWZ5biI5Y+N6aaI44CCIgogICAgICJCMTAo6Z2i5ZCROuaVmeW4iOmmluasoeinguWvnyk65Zuw6Zq+5bey5LiN5piv54+t6YeM6LCD5LiA6LCD6IO96KaG55uWKOaYjuaYvuW9seWTjeWtpuS5oC/popHnuYHlhrLnqoEv5oyB57ut5LiA5a2m5pyf5Lul5LiKKeKGkuW7uuiuruWutumVv+S4k+S4muivhOS8sDvorrDlvZXkuI3lhplBREhE5Yik5pat6K+NLOaVmeW4iOS4jeS4i+iviuaWreOAgiIKICAgICAiQTA4OuaKiuiusOW9leaVtOeQhuaIkDEtMumhteW4puWOu+mXqOiviuOAgiIKICAgICAiRDAxOuiviuaWreagh+WHhuaRmOimgSzkuI3mja7kuKrkurrkuIvor4rmlq3jgIIiCiAgICAgIkI0Mzrmi7/miqXlkYrlm57moKHosIjosIPmlbTjgIIiLAogICAgICLpg6jliIYiLAogICAgICLkuIDoh7TlpIQ66YO96K6k5ZCMJ+eUseS4k+S4muS6uuWRmOiviuaWrSfjgIEn5pWZ5biI5LiN5YaZQURIROWIpOaWreivjSfjgIEn6ZyA5bim5LqL5a6e6K6w5b2VJyzot6/nlLHmlrnlkJHkuIDoh7TjgIIiCiAgICAgIuefm+ebvuWkhCjpg6jliIYpOuWQr+WKqOaXtuacuumYiOWAvOS4jeWQjOKAlOKAlEMwM+S4u+W8oCfmjIHnu63lm7Dpmr7ljbPlj6/lkK/liqgnKELnq68v5a626ZW/5ZCv5Yqo5Y+j5b6EKSxCMTDopoHmsYIn5oyB57ut5LiA5a2m5pyf5Lul5LiKJ+aJjeW7uuiurijmlZnluIjop4Llr5/pmIjlgLwp44CC5ZCM5LiAJ+S9leaXtuivpei9rOS7iyfpl67popgs5Lik6aG157uZ5LiN5ZCM5pe26Ze056qXLOivu+iAhSjlsKTlhbbmlZnluIgp5Y+v6IO95Zuw5oOR5Yiw5bqV5Yeg5ZGo6K+l6L2s5LuL44CCIiwKICAgICAi6Leo6aG16KeS6Imy5beu5byC5rWL6K+VOkMwM+KGlEIxMOOAguWcqOi9rOS7i+i+ueeVjOWjsOaYjumhtS/mnK/or63ooajms6jmmI7kuKTogIXop5LoibLlj6PlvoTkuI3lkIwoQzAz5Li6Querry/lrrbplb/lkK/liqjlj6PlvoQsQjEw5Li65pWZ5biI6KeC5a+f6ZiI5YC8KSzkuI3nn5vnm77kvYbpnIDmoIfms6gs6YG/5YWN6Leo6aG16K+v6K+744CCIiksCgogICAgKCI2IiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuWtqeWtkOWGmeS9nOS4mumikee5geemu+W6p++8jOaIkeiuqeS7luWdkOWlveS7luabtOeCuO+8jOaAjuS5iOWKnu+8nyIsCiAgICAgIkIwMTsgQjA1OyBCMDM7IEEwMTsgQjAyIiwKICAgICAiQjAxOuahjOmdouWFiOeugOWMlueOr+Wig+WGjeiwiOWdkOS9jzvlgZrmu6HkuKTlkajnprvluqfmsqHpmY3jgIHlj43ogIzkuIDmj5DkvZzkuJrlsLHltKnihpLlhYjlgZznjq/looPosIPmlbQs5YWI5L+u5aSN5Lqy5a2Q5rCU5rCb44CCIgogICAgICJCMDU65LuK5pma6K6w6KGM5Li66K6w5b2V6KGoKOe6uOavlOaJi+acuuaWueS+vynjgIIiCiAgICAgIkIwMzrnrYnlubPpnZnlkI7kuLvliqjor7TnrKzkuIDlj6Xkv67lpI3or53jgIIiCiAgICAgIkEwMTrmiorkuIDlj6Xor4Tku7fmjaLmiJDooYzkuLrmj4/ov7As5LuK5aSp5Y+q6K+06KeC5a+f5Yiw55qE5Yqo5L2c44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQjAx6Ieq6Lqr5ZCrJ+S4gOaPkOS9nOS4muWwseW0qeKGkuWFiOS/ruWkjSfovrnnlYws5LiOQjAz5L+u5aSN5a+56K+d5LiA6Ie0O+eOr+Wig+iwg+aVtOS4juWFs+ezu+S/ruWkjeS4uumAkui/m+iAjOmdnuWGsueqgeOAgiIsCiAgICAgIuaXoOOAgiIpLAoKICAgICgiNyIsICLluLjop4TkuIDoh7TmgKciLAogICAgICLml6nmmajlh7rpl6jmiZPku5fkuIDmoLfvvIzmtYHnqIvooajotLTkuobkuIDlkajov5jmmK/lkLXvvIzmgI7kuYjlip7vvJ8iLAogICAgICJCMDI7IEIxOTsgQjE4OyBCMDE7IEIyMCIsCiAgICAgIkIwMjrmiormj5DphpLku47kurrlmLTmjKrliLDlopnkuIrmtYHnqIvooag76LS05LiA5ZGo6L+Y5q+P5aSp5aSn5ZC14oaS5YWI5qOA5p+l5piv5ZCm5YmN5LiA5pma552h5aSq5pma44CB552h55yg5LiN6Laz44CCIgogICAgICJCMTko5a2m5YmNKTrnlLs15q2l5Ye66Zeo6aG65bqP5Zu+6LS05aSn6Zeo44CCIgogICAgICJCMTgo5oiQ5Lq6KTrmkYblpb3ooaPmnI3ku43phpLkuI3mnaXihpLlhYjnnIvnnaHnnKDlpJ/kuI3lpJ8s6ZW/5pyf552h5LiN5aSf5aSW6YOo57uT5p6E5pWR5LiN5LqG44CCIgogICAgICJCMjAo552h5YmNKTrlm7rlrpo05q2l5rWB56iL44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQjAyL0IxOS9CMTjliIbliKvpkojlr7nkuI3lkIzlubTpvoQv6KeS6ImyLOS6kuS4jeWMheWQqzsn5qOA5p+l552h55ygJ+WPo+W+hOWcqEIwMuS4jkIxOOS4gOiHtOOAgiIsCiAgICAgIuaXoOOAguaPkOekujrmo4DntKLmjInlubTpvoTmrrUo5a2m6b6EL+WtpuWJjS/miJDkurop5YiG5rWB5Y2z5Y+vLOaXoOmcgOWQiOW5tuOAgiIpLAoKICAgICgiOCIsICLluLjop4TkuIDoh7TmgKciLAogICAgICLlranlrZDnnaHliY3mtYHnqIvotbDkuKTlkajov5jmmK/lhbPnga/lkI7lk63ljYrlsI/ml7bvvIzmgI7kuYjlip7vvJ8iLAogICAgICJCMjA7IEIyNDsgQjMwOyBCMDI7IEIxOSIsCiAgICAgIkIyMDrnnaHliY005q2l5Zu65a6a6aG65bqPO+S4pOWRqOi/mOWTreKGkuajgOafpeeZveWkqeWNiOedoeWkqumVvy/lsY/luZXlpKrlpJos5LiN57un57ut5Yqg56CB6Zmq5Ly044CCIgogICAgICJCMjQ65Y+v5omT5Y2w552h5YmN6KGoO+S7jeavj+atpeWCrOKGkuenu+ihqOavj+atpeWPqueVmeWFs+mUruivjemFjeWwj+WbvuOAgiIKICAgICAiQjMwKOW5vOWEv+WNiOS8kSk65Y2I5LyR5a6M5YWo5peg5rOV6L+b6KGM5LiU5aSc6Ze05Lmf5p6B6Zq+4oaS5YWI5aSE55CG5aSc6Ze0552h55ygLOacrOmhteWNiOS8keWuieaOkuS4jemAgueUqOOAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIyMOS4jkIyNOS6kuihpSjmtYHnqIsr6KGo5qC857uG5YyWKSxCMzDkuIDoh7TmjIflkJEn5YWI5aSE55CG5aSc6Ze0552h55ygJ+OAgiIsCiAgICAgIuaXoOOAgiIpLAoKICAgICgiOSIsICLluLjop4TkuIDoh7TmgKciLAogICAgICLkvLTkvqPmgLvlv5jkuovjgIHkuI3miormiJHmlL7lv4Pph4zvvIzmiJHor6XmgI7kuYjor7TvvJ8iLAogICAgICJCMTI7IEIxNDsgQjEzOyBCMTU7IEIyMiIsCiAgICAgIkIxMjrlv5jkuovpgqPkuIDliLvlhYjlgZwz56eSLOaNoifku5blj4jpnaDohJHlrZDnoazorrDkuoYn5YaN5byA5Y+j44CCIgogICAgICJCMTQ65YaZNeS7tuaYk+W/mOS6i+S4pOS6uuWIhuiwgeadpeiusDvku5bmi5Lnu53orr7mj5DphpLihpLlm57liLDmsp/pgJrmnKzouqvjgIIiCiAgICAgIkIxMzrnnaHliY0xMOWIhumSn+aKiui/n+WIsOWGmeaIkOe6puWumizpnZ7ljZXmlrnpnaLpgJrnn6XjgIIiCiAgICAgIkIxNTrku5bor7TkvaDmsqHlnKjlkKzihpLkuI3lj43pqbMs5YWI56Gu6K6kJ+S9oOWImuaJjeivtOeahOaYr+KApuWvueWQlyfjgIIiCiAgICAgIkIyMjrnrYnlubPpnZnlkI7or7TnrKzkuIDlj6Xkv67lpI3or53jgIIiLAogICAgICLlkKYiLAogICAgICLml6Dnoaznn5vnm77jgILlm5vpobXpkojlr7nkvLTkvqPkuI3lkIzkvqfpnaIo5b+Y5LqLL+WIhuW3pS/ov5/liLAv5rKh5Zyo5ZCsKSzlnYflvLrosIMn5YWI5bmz6Z2Z44CB5LiN5Y+N6amz44CB56Gu6K6k5pS25YiwJyzkupLooaXkuI3lhrLnqoHjgIIiLAogICAgICLml6DjgIIiKSwKCiAgICAoIjEwIiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuWtqeWtkOS4iuS4reWtpuWbnuWutuWwseWFs+mXqOS4jeivtOivne+8jOaIkeaDs+iBiuaAjuS5iOW8gOWPo+S4jeW8leeIhu+8nyIsCiAgICAgIkIyOTsgQjMyOyBCMDM7IEIyNTsgQjQ0IiwKICAgICAiQjI5OuWFs+mXqOS4jeivtOivnSzmg7Por7Tor53mgI7kuYjlvIDlj6PkuI3lvJXniIY75LiN5LuF5YWz6Zeo6L+Y6L+e57ut5L2O6JC9L+S4jeWOu+S4iuWtpuKGkui9rEEwNOaJvuS4k+S4muOAgiIKICAgICAiQjMyOumdkuaYpeacn+WPkeiEvuawlOWFiOaOpeaDhee7quWGjeiwiOOAgiIKICAgICAiQjAzOuetieW5s+mdmeS4u+WKqOivtOS/ruWkjeivneOAgiIKICAgICAiQjI1OuaLv+iviuaWreWktOS4g+WkqeWutumVv+ivpeWBmi/kuI3or6XlgZrjgIIiLAogICAgICLlkKYiLAogICAgICLml6Dnoaznn5vnm77jgIJCMjnkuI5CMzLkupLooaUo5Z2H6Z2i5ZCR5a626ZW/KSxCMjkn6L2sQTA0J+S4jkEwNOS4gOiHtOOAgiIsCiAgICAgIuaPkOekuijmo4DntKLpo47pmakpOumXriflrrbplb/pnaLlr7npnZLmmKXmnJ/lranlrZAn5bqU5Y+sQjI5L0IzMizli7/or6/lj6xCNDQo5oiQ5Lq65pys5Lq654mIKTvpobXpnaLmnKzouqvkuI3nn5vnm77jgIIiKSwKCiAgICAoIjExIiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuWtqeWtkOS4iuivvuWdkOS4jeS9j++8jOiAgeW4iOS7iuWkqeiDveiwg+W6p+S9jeWQl++8nyIsCiAgICAgIkIwODsgQjM1OyBCMTA7IEIwOTsgQzAxIiwKICAgICAiQjA4OuW6p+S9jeiwg+WIsOemu+iusuWPsOi/keemu+mXqOeql+i/nCzku4rlpKnosIMs5LiN55So562J5Lu75L2V6K+E5LywO+S4pOWRqOi/mOWGsueqgeKGkuiBlOezu+WutumVv+WBmui3qOWcuuaZr+iusOOAgiIKICAgICAiQjM1OuiAg+ivleW6p+S9jeiAg+WJjeS4gOWRqOiBlOezu+ePreS4u+S7uy/ogIPliqEs6Z2g5YmN6Z2g6Zeo5bCR5bmy5omw44CCIgogICAgICJCMTA66K6w5YW35L2T5LqL5LiN5YaZ5Yik5pat6K+N44CCIgogICAgICJCMDk65L2c5Lia5ouG5Lik5q2l6K+044CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQjA4KOaXpeW4uOivvuWgguW6p+S9jeS7iuWkqeiwgynkuI5CMzUo6ICD6K+V5bqn5L2N6ICD5YmN6LCDKeWcuuaZr+S4jeWQjOS4jeWGsueqgTvlnYfmjIflkJHmlZnluIjlj6/kuLvliqjosIPluqfkvY3jgIIiLAogICAgICLml6DjgIIiKSwKCiAgICAoIjEyIiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuiAgeW4iOesrOS4gOasoeWPkeeOsOWtqeWtkOWPr+iDveacieWkmuWKqO+8jOimgeiusOWTquS4ieS7tuS6i++8nyIsCiAgICAgIkIxMDsgQjA4OyBCMDk7IEIxMTsgQzAxIiwKICAgICAiQjEwOuiusOWFt+S9k+S6iyjlk6rlpKkv56ys5Yeg6IqC6K++L+WBmuS6huS7gOS5iC/mjIHnu63lpJrkuYUp44CB6K6w6aKR546H44CB6K6w6K+V6L+H5LuA5LmIO+S4jeWGmUFESETliKTmlq3or43jgIIiCiAgICAgIkMwMTrmiorkuLvop4Lor7Tms5XmjaLmiJDlj6/op4Llr5/lj6/orqHmlbDnmoTooYzkuLrlrprkuYks5Y+q5YaZ55y8552b6IO955yL5Yiw44CB5omL6IO95pWw5Yiw55qE5Yqo5L2c44CCIgogICAgICJCMDgvQjA5Ouiwg+W6p+S9jS/mi4bkvZzkuJoo6KGM5Yqo5bGCKeOAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIxMOiusOW9leWOn+WImSgn5LiN5YaZ5Yik5pat6K+N44CB6K6w5YW35L2T5LqLJynkuI5DMDEoJ+WPr+inguWvn+WPr+iuoeaVsCcp5a6M5YWo5LiA6Ie044CCIiwKICAgICAi5peg44CCIiksCgogICAgKCIxMyIsICLluLjop4TkuIDoh7TmgKciLAogICAgICLmjqXliLDogIHluIjnlLXor53or7TlranlrZDlnKjmoKHooajnjrDkuI3lpb3vvIzmiJHlvZPkuIvmgI7kuYjlm57vvJ8iLAogICAgICJCMjY7IEI0MjsgQjA2OyBCMDQ7IEIyMSIsCiAgICAgIkIyNjrlvZPkuIvlj6ror7Qn5aW955qE5oiR55+l6YGT5LqGLOS7iuaZmuWSjOS7luiBiizmmI7lpKnkuIrljYjnu5nmgqjlm57mtojmga8nLOS4jeino+mHiuS4jeabv+WtqeWtkOmBk+atiTvkuIDpl67lsLHlk60v5pGU6Zeo4oaS6L2sQjAz44CCIgogICAgICJCNDI65Lya5LiK5LiN5bGV5byA5Liq5Lq65Zuw6Zq+44CCIgogICAgICJCMDY65om+6ICB5biI5YmN5YWI5oqK6KaB6K+055qE6K+d5YaZ5oiQ5Lik5Y+l6K+dKOS4gOWPpeS6i+WunivkuIDlj6Xmg7Pop6PlhrPnmoTpl67popgp44CCIgogICAgICJCMDQ65ZCR5a2m5qCh6K+05piO5LiA6aG157q45Y+q5YaZ5YW35L2T5Zy65pmv44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQjI2J+W9k+S4i+eugOefreWbnuW6lCfkuI5CMDYvQjA0J+WHhuWkh+WFt+S9k+S6i+WunifkuLon5YWI5Zue5bqU5ZCO5YeG5aSHJ+eahOmhuuaJvyzkuI3lhrLnqoHjgIIiLAogICAgICLml6DjgIIiKSwKCiAgICAoIjE0IiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuWtqeWtkOeci+eUteinhueOqeaJi+acuuWkqeWkqeWGsueqge+8jOinhOWImeaAjuS5iOWumu+8nyIsCiAgICAgIkIyODsgQjIzOyBCMzQ7IEIxMjsgQjI3IiwKICAgICAiQjI4OuWxj+W5leimgeiwiOWHuuWPjOaWueiupOeahOe7k+aehCzkuI3pnaDmiqLlkLzlgbflgbfol4875Lik5ZGo5LuN6Z2g5ZC85omN6IO95YGc4oaS6KeE5YiZ5aSq5qih57OKLOaKiuWHoOeCuS/lh6DliIbpkp8v5pS+5ZOq5YaZ5q2744CCIgogICAgICJCMjM65Yeg5a625aSn5Lq66K+05rOV5LiN5LiA6Ie04oaS5YWI57uf5LiAO+iAgeS6uuS7jeWBt+WBt+WWgi/lvIDnlLXop4bihpLlhYjljZXni6zmsp/pgJos6LCI5LiN5oui5YiZ6auY5Y+R5LqL6aG55pS554mp55CG6ZqU56a744CCIgogICAgICJCMzQo5oiQ5Lq65Zue5a62KTrov5vpl6jnlZkyMOWIhumSn+WuiemdmSzkuI3nq4vliLvmtL7lvoXlip7jgIIiLAogICAgICLlkKYiLAogICAgICLml6Dnoaznn5vnm77jgIJCMjgo5bGP5bmV6KeE5YiZKeS4jkIyMyjplb/ovojlj6PlvoTnu5/kuIAp5LqS6KGlOuWFiOWumuinhOWImeWGjee7n+S4gOaJp+ihjOWPo+W+hOOAgiIsCiAgICAgIuaXoOOAgiIpLAoKICAgICgiMTUiLCAi5bi46KeE5LiA6Ie05oCnIiwKICAgICAi5a2p5a2Q6KKr5ZCM5a2m5a2k56uL77yM5oiR5Zyo5a626IO96K+V5LuA5LmI5a+56K+d77yfIiwKICAgICAiQjM3OyBCMTc7IEI0NTsgQzAzOyBCMTAiLAogICAgICJCMzc656Gu6K6k5peg5a6J5YWo5LqL5Lu25ZCO5a625bqt5a+56K+dKOWAvuWQrDEw5YiG6ZKf5Y+q5aSN6L+w5LqL5a6eL+W9k+aZmjMw56eS5pSv5oyB6K+dL+S9juWOi+WKm+Wwj+aOpeinpueUseWtqeWtkOWuminjgIIiCiAgICAgIkIxNyjpnaLlkJE65oiQ5Lq656S+5Lqk5bC05bCsKTrov5/liLDpooTlhYjpgJrnn6XmqKHmnb/nrYks6Z2i5ZCR5oiQ5Lq65LiN5raJ5YS/56ul5a2k56uL44CCIgogICAgICJCNDU65o+S5Zi05b2T5aCC5Zue5bqUKOaXoOWFsynjgIIiLAogICAgICLlkKYiLAogICAgICLml6Dnoaznn5vnm77jgIJCMzfkuLrlhL/nq6XlraTnq4vkuJPpobk7QjE36Z2i5ZCR5oiQ5Lq656S+5LqkLOS6kuS4jeimhuebluOAgiIsCiAgICAgIuaPkOekuijmo4DntKLpo47pmakpOumXriflrrbplb/lr7nlhL/nq6XlraTnq4sn5bqU5Y+sQjM3LOWLv+ivr+WPrEIxNyjmiJDkurrnpL7kuqQpO+mhtemdouacrOi6q+S4jeefm+ebvuOAgiIpLAoKICAgICgiMTYiLCAi5bi46KeE5LiA6Ie05oCnIiwKICAgICAi5oiR5oiQ5bm05LqG77yM5bel5L2c5oC75ryP5LqL44CB5ouW5bu25Lil6YeN5b2x5ZON55Sf5rS777yM5oCO5LmI5Yqe77yfIiwKICAgICAiQjA3OyBCMTY7IEIzODsgQjE4OyBCMTciLAogICAgICJCMDc66K6+5LiA5Liq5pS25Lu25aSEKOWkh+W/mOW9lS/nurgv5Y+j6KKL5pys5Y+q55So5YW25LiAKSzopoHorrDnmoTlj6rov5vov5nkuIDlpIQ76K+V5Lik5ZGo5LuN5Lil6YeN5b2x5ZON5bel5L2cL+WFs+ezuy/mg4Xnu6rihpLlgLzlvpfmraPlvI/or4TkvLDjgIIiCiAgICAgIkIxNjo15YiG6ZKf5rOVKOiuvuiuoeaXtuWZqOWPquWBmjXliIbpkp8pO+S4pOWRqOS7jeWujOWFqOWKqOS4jeS6huKGkuS7u+WKoeWkquWkpyzmi4bkuIvkuIDkuKrliqjkvZzjgIIiCiAgICAgIkIzOCjogYzlnLopOuWbuuWumuWKqOS9nOiusOW9lTvkuKTlkajku43mmI7mmL7ihpLor4TkvLDjgIIiCiAgICAgIkIxOCjml6nmmagpOuaRhuWlveiho+acjeS7jemGkuS4jeadpeKGkueci+edoeecoOWkn+S4jeWkn+OAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIwNy9CMTYvQjM45LiA6Ie0OuWFiOWklumDqOe7k+aehCzkuKTlkajml6DmlYjihpLmraPlvI/or4TkvLA76ZiI5YC85LiO5Y2H57qn6Lev5b6E57uf5LiA44CCIiwKICAgICAi5peg44CCIiksCgogICAgKCIxNyIsICLluLjop4TkuIDoh7TmgKciLAogICAgICLlranlrZDliJrmi7/liLBBREhE6K+K5pat77yM5a626ZW/56ys5LiA5ZGo6K+l5YGa5LuA5LmI77yfIiwKICAgICAiQjI1OyBCNDM7IEEwNjsgQjAzOyBBMDUiLAogICAgICJCMjU65aS05LiD5aSp5a626ZW/6K+l5YGaL+S4jeivpeWBmjvov57nu63lh6DmmZrlk60v5b+N5LiN5L2P5Y+R54Gr4oaS6L2sQjAz5om+6Ieq5bex5pSv5oyB44CCIgogICAgICJCNDM65ou/5oql5ZGK5Zue5qCh6LCI6K++5aCC6LCD5pW044CCIgogICAgICJBMDY66I2v54mp5pys5bqT6IO9562U5LuA5LmIO+WFt+S9k+eUqOiNr+eWkemXruWGmeS4i+adpeW4pue7meWMu+eUnyzkuI3ku47mlofnq6Av576k6IGKL+efreinhumikeaJvuetlOahiOOAgiIKICAgICAiQTA1Oui0tOagh+etvumhvuiZkeWFiOWGmeS4i+adpemBv+WFjeaUvuWkp+OAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIyNS9CNDMvQTA25LqS6KGlKOesrOS4gOWRqOWutumVv+ihjOS4ui/lm57moKHosIgv6I2v54mp55aR6Zeu5bim57uZ5Yy755SfKTtCMjUn6L2sQjAzJ+S4jkIwM+S4gOiHtOOAgiIsCiAgICAgIuaXoOOAgiIpLAoKICAgICgiMTgiLCAi5bi46KeE5LiA6Ie05oCnIiwKICAgICAi5oiR5oOz5YWI5byE5riFQURIROaYr+S7gOS5iOOAgeaYr+S4jeaYr+aHku+8jOWGjeWGs+WumuimgeS4jeimgeivhOS8sO+8nyIsCiAgICAgIkEwMTsgQjM5OyBBMDc7IEExMDsgQTAyIiwKICAgICAiQTAxOuaKiuivhOS7t+aNouaIkOihjOS4uuaPj+i/sCzku4rlpKnlj6ror7Top4Llr5/liLDnmoTliqjkvZzjgIIiCiAgICAgIkIzOSjmiJDlubTlkI7pnaLor4opOuacrOmhteWPquW4rue7hOe7h+mZiOi/sOS4jeabv+WIpOaWrTvlj6rmg7PlvITmuIXmnKzouqvihpLovaxBMDHjgIIiCiAgICAgIkEwNyjmiJDlubTnrKzkuIDmrKHmg7Pmn6UpOuWGmei3qOWcuuaZr+aXtumXtOe6vzvov5jlnKjnirnosasn566X5LiN566XJ+KGkuWFiOivu0EwMS9BMDLjgIIiCiAgICAgIkExMDroh6rmtYvnu5PmnpzlhYjlrZjlpb0s5Yir5oCl552A5a6j5biDJ+aIkeWwseaYrycs5a6D5Y+q5piv5Y+C6ICD57q/57Si44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQTAxL0IzOS9BMDfkuIDoh7Q65YWI55CG6KejQURIROacrOi6q+WGjeWGs+WumuaYr+WQpuivhOS8sCzkuI3ot7PmraXjgIIiLAogICAgICLml6DjgIIiKSwKCiAgICAoIjE5IiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuWtqeWtkOWbsOmavuWPquWcqOWutumHjOWHuueOsOOAgeWtpuagoeivtOS4gOWIh+ato+W4uO+8jOaYr+S4jeaYr0FESETvvJ8iLAogICAgICJCMDU7IEEwMjsgQTAxOyBCMDE7IEIzMSIsCiAgICAgIkIwNTrorrDkuKTlkajlm7Dpmr7lj6rlnKjlrrbph4zjgIHlrabmoKHmraPluLjihpLlhYjliKvlvoBBREhE5oOzLOWFiOWvueavlOS4pOWcuuaZr+imgeaxguW3ruWIq+OAgiIKICAgICAiQTAyOuWbsOmavuWPquWcqOS4gOS4quWcuuaZr+WHuueOsCzlhYjliKvmgKXnnYDlrprmgKcs5YWI5q+U6L6D5Lik5Liq5Zy65pmv6KaB5rGC5beu5Yir44CCIgogICAgICJCMDE65YaZ5L2c5Lia56a75bqnO+WBmua7oeS4pOWRqOayoemZjeWPjeiAjOS4gOaPkOWwseW0qeKGkuWFiOS/ruWkjeOAgiIsCiAgICAgIuWQpiIsCiAgICAgIuaXoOehrOefm+ebvuOAgkIwNeS4jkEwMuWujOWFqOS4gOiHtDrljZXlnLrmma/lhYjlr7nmr5TopoHmsYLlt67liKvjgIHkuI3mgKXkuo7lrprmgKfjgIIiLAogICAgICLml6DjgIIiKSwKCiAgICAoIjIwIiwgIuW4uOinhOS4gOiHtOaApyIsCiAgICAgIuacuuaehOivtCfljLvpmaLmn6XkuI3lh7rmnaXnmoTmiJHku6zog73mn6Xlh7rmnaUn77yM6IO95L+h5ZCX77yfIiwKICAgICAiQTA5OyBBMDg7IEQwMjsgRDAxOyBBMDYiLAogICAgICJBMDk65py65p6E56ewJ+WMu+mZouafpeS4jeWHuuadpeeahOaIkeS7rOiDveafpeWHuuadpSflsZ7otornur/or53mnK8s5o2i5pyJ5YS/56ul57K+56We56eRL+WPkeiCsuihjOS4uuWEv+enkeeahOato+inhOWMu+mZouaMieivhOS8sOa1geeoi+OAgiIKICAgICAiRDAyOumHj+ihqOW3peWFt+S4ieaho+WumuS9jSzkuI3lpLjlpKfnlKjpgJTjgIIiCiAgICAgIkQwMTror4rmlq3moIflh4bmkZjopoEs5LiN5o2u5Liq5Lq65LiL6K+K5pat44CCIgogICAgICJBMDg65pW055CG6K6w5b2V5bim5Y675q2j6KeE6Zeo6K+K44CCIiwKICAgICAi5ZCmIiwKICAgICAi5peg56Gs55+b55u+44CCQTA5L0QwMi9EMDHkuIDoh7Q66LWw5q2j6KeE6K+E5Lyw5rWB56iL44CB6K2m5oOV6LaK57q/6K+d5pyv44CB5bel5YW35LiN5aS45aSn44CCIiwKICAgICAi5peg44CCIiksCl0KCiMg56iL5bqP5YyW57uf6K6hCmFzc2VydCBhbGwocls1XSBpbiAoIuaYryIsICLlkKYiLCAi6YOo5YiGIikgZm9yIHIgaW4gcm93cyksICLmmK/lkKbnn5vnm74g5b+F6aG75Li6IOaYry/lkKYv6YOo5YiGLOS4jeWFgeiuuOW+heWumiIKY250ID0gQ291bnRlcihyWzVdIGZvciByIGluIHJvd3MpCmFzc2VydCBsZW4ocm93cykgPT0gMjAsICLlv4XpobvmraPlpb0gMjAg6aKYIgpzYWZldHkgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbMV0gPT0gIuWuieWFqOS6i+S7tui+ueeVjOa1i+ivlSJdCnJvbGVkaWZmID0gW3IgZm9yIHIgaW4gcm93cyBpZiByWzFdID09ICLot6jpobXop5LoibLlt67lvILmtYvor5UiXQphc3NlcnQgbGVuKHNhZmV0eSkgPj0gMiwgIuiHs+WwkSAyIOmimOimhuebluWuieWFqOS6i+S7tui+ueeVjCIKYXNzZXJ0IGxlbihyb2xlZGlmZikgPj0gMywgIuiHs+WwkSAzIOmimOimhueblui3qOmhteinkuiJsuW3ruW8giIKCmhlYWRlciA9IFsi6aKY5Y+3IiwgIua1i+ivleexu+WeiyIsICLpl67popgiLCAi5qOA57SidG9wNemhtSIsICLlkITpobXnrZTmoYjmkZjopoEiLCAi5piv5ZCm55+b55u+IiwgIuefm+ebvueCuSIsICLlpITnkIblu7rorq4iXQp3aXRoIG9wZW4oQ1NWX1BBVEgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04LXNpZyIsIG5ld2xpbmU9IiIpIGFzIGY6CiAgICB3ID0gY3N2LndyaXRlcihmKQogICAgdy53cml0ZXJvdyhoZWFkZXIpCiAgICBmb3IgciBpbiByb3dzOgogICAgICAgIHcud3JpdGVyb3cocikKCnByaW50KCJDU1Y6IiwgQ1NWX1BBVEgpCnByaW50KCLmmK/lkKbnn5vnm77orqHmlbA6IiwgZGljdChjbnQpKQpwcmludCgi5a6J5YWo5LqL5Lu25rWL6K+V6aKYOiIsIFtyWzBdIGZvciByIGluIHNhZmV0eV0pCnByaW50KCLot6jpobXop5LoibLlt67lvILmtYvor5Xpopg6IiwgW3JbMF0gZm9yIHIgaW4gcm9sZWRpZmZdKQoKIyDmiqXlkYoKc2FmZXR5X2lkcyA9ICLjgIEiLmpvaW4oclswXSBmb3IgciBpbiBzYWZldHkpCnJvbGVfaWRzID0gIuOAgSIuam9pbihyWzBdIGZvciByIGluIHJvbGVkaWZmKQpwYXJ0X3EgPSBbciBmb3IgciBpbiByb3dzIGlmIHJbNV0gPT0gIumDqOWIhiJdCgpyZXBvcnQgPSBmIiIiIyDpmLbmrrXkuInCt+efm+ebvuajgOa1iyAyMCDpopjmiqXlkYoKCj4g5pa55rOVOuS7pemYtuauteS4gCBtZXRhZGF0YSBg6YCC55So5p2h5Lu2YC9g5LiN6YCC55So5p2h5Lu2YCDlhaggNjMg6aG15oq95Y+W5Li65qOA57Si5bqVLOiuvuiuoSAyMCDkuKrnnJ/lrp7or7vogIXmn6Xor6IsCj4g5q+P6aKY5qOA57SiIHRvcDUg6aG144CB5pGY5b2V5ZCE6aG1562U5qGI5pGY6KaB44CB5Yik5a6aKirmmK/lkKbnn5vnm74qKijmmK8v5ZCmL+mDqOWIhizkuI3lhYHorrgi5b6F5a6aIinjgIIKPiDlr7ki6YOo5YiG55+b55u+Iumhu+WGmea4hSoq5ZOq6YOo5YiG5LiA6Ie044CB5ZOq6YOo5YiG55+b55u+KirjgIIKPiDljp/liJk6Kirlj6rmiqXlt67lvIIs5LiN5pS55q2j5paHKirjgIIKCiMjIOS4gOOAgeaYr+WQpuefm+ebvuiuoeaVsCjmsYfmgLspCgp8IOaYr+WQpuefm+ebviB8IOmimOaVsCB8CnwtLS18LS0tfAp8IOaYryjnoaznn5vnm74pIHwge2NudFsn5pivJ119IHwKfCDlkKYo5LiA6Ie0L+aXoOWGsueqgSkgfCB7Y250WyflkKYnXX0gfAp8IOmDqOWIhijpmIjlgLwv6KeS6Imy5beu5byCKSB8IHtjbnRbJ+mDqOWIhiddfSB8CnwgKirlkIjorqEqKiB8ICoqe2xlbihyb3dzKX0qKiB8Cgo+IDIwIOmimOebuOWKoCA9IHtjbnRbJ+aYryddfSt7Y250WyflkKYnXX0re2NudFsn6YOo5YiGJ119ID0ge2xlbihyb3dzKX3jgIIKCiMjIOS6jOOAgeS4k+mhuea1i+ivleimhueblijoo4HlhrPlm5sv5LqU6KaB5rGCKQoKLSAqKuWuieWFqOS6i+S7tui+ueeVjOa1i+ivlSh7bGVuKHNhZmV0eSl9IOmimCzpopjlj7cge3NhZmV0eV9pZHN9KSoqOumXriLlranlrZDor7TlnKjlrabmoKHooqvmjqjkuoYv5oqi5LqGL+WtpOeri+S4jeiCr+S4iuWtpiLnsbssCiAg6aqM6K+BIEFJIOaYr+WQpuWQjOaXtuWPrOWbniBCMzcg55qE5a6J5YWo5LqL5Lu26Lev55Sx5LiO5YW25LuW6aG15pel5bi45YGa5rOV44CB5LiU5LiN5oqK5pel5bi45a+56K+d572u5LqO5a6J5YWo6Lev55Sx5LmL5YmN44CC5Lik6aKY5Z2H5YikKirlkKYqKijpobXpmYXot6/nlLHkuIDoh7QpLOS9huaPkOekuumhu+WMuuWIhiLlronlhajot6/nlLEi5LiOIuaXpeW4uOWvueivnSLkuKTlsYLlj6zlm57jgIIKLSAqKui3qOmhteinkuiJsuW3ruW8gua1i+ivlSh7bGVuKHJvbGVkaWZmKX0g6aKYLOmimOWPtyB7cm9sZV9pZHN9KSoqOuimhuebluijgeWGs+S6jOWPkeeOsOeahCA0IOe7hOinkuiJsuW3ruW8guS4reeahCAzIOe7hDoKICAtIOmimDMgPSBCNDLihpRCNDMo5a626ZW/5Lya6ZuG5L2T5Y+j5b6EIHZzIOWbnuagoeS4quWIq+ayn+mAmikKICAtIOmimDQgPSBCMzLihpRCNDQo5a626ZW/6KeC5a+f6Z2S5pil5pyfIHZzIOaIkOS6uuacrOS6uikKICAtIOmimDUgPSBDMDPihpRCMTAoIuaMgee7reWbsOmavuWNs+WQr+WKqCIgdnMgIuaMgee7reS4gOWtpuacn+S7peS4iiIpCiAgLSDkuInpopjlnYfliKQqKuWQpioqKOmhtemdouacrOi6q+S4jeWGsueqgSzlm6Dor7vogIXop5LoibLkuI3lkIzogIzliIbmtYHmraPnoa4pO+a1i+ivleebrueahOaYr+mqjOivgSBBSSAqKuS4jeS8muaKiuS4pOadoea3t+eUqCoq4oCU4oCU5qOA57Si5bGC6aG75oyJIumdouWQkSLlrZfmrrXljLrliIblrrbplb/niYgv5oiQ5Lq654mI44CB5oyJ5Zy65pmv5Yy65YiG6ZuG5L2TL+S4quWIq+OAggoKIyMg5LiJ44CB5qC45b+D57uT6K66CgoxLiAqKuaXoOehrOefm+ebvijmmK8gPSAwKSoqOjIwIOmimOWdh+acquWPkeeOsCLlkIzkuIDpl67popjkuI3lkIzpobXnu5nnm7TmjqXlhrLnqoHnrZTmoYgi55qE5oOF5Ya1LOS4jui+ueeVjOS4gOiHtOaAp+aJq+aPjyjnn5vnm749MCnnu5PorrrkupLor4HjgIIKMi4gKirpg6jliIbnn5vnm74gPSB7Y250Wyfpg6jliIYnXX0g6aKYKOmimHsoJywgJy5qb2luKHFbMF0gZm9yIHEgaW4gcGFydF9xKSl9KSoqOuS7hSBDMDPihpRCMTAg55qEIui9rOS7i+WQr+WKqOaXtuacuiLpmIjlgLzlt67kuIDmoaMo5oyB57ut5Zuw6Zq+5Y2z5ZCv5YqoIHZzIOaMgee7reS4gOWtpuacn+S7peS4iiks5bGe6KeS6Imy5Y+j5b6E5beu5byCLOmdnumAu+i+keWGsueqgTvkuIDoh7TlpIQo6YO95Lqk5LiT5Lia6K+K5pat44CB6YO95bim5LqL5a6e6K6w5b2VKeS4juefm+ebvuWkhCjlkK/liqjml7bmnLrpmIjlgLwp5bey5Zyo55+b55u+54K55YaZ5riF44CCCjMuICoq5LiA6Ie0ID0ge2NudFsn5ZCmJ119IOmimCoqOuimhuebluS9nOS4mi/ml6nmmagv552h5YmNL+ekvuS6pC/ogYzlnLov5bCx6K+KL+WutuW6reWGsueqgeetieWkmuWcuuaZryzot6jpobXmjIflr7zmlrnlkJHkuIDoh7TjgIIKNC4gKirkuLvopoHpo47pmanlnKgi5qOA57Si5bGC5re355SoIuiAjOmdniLmraPmlofnn5vnm74iKio6QjQy4oaUQjQz44CBQjMy4oaUQjQ044CBQzAz4oaUQjEwIOS4iee7hOiLpeiiqyBBSSDot6jop5LoibIv6Leo5Zy65pmv5re35Y+sLOS8mue7meWHuumUmeS9jeetlOahiDvov5nmraPlr7nlupToo4HlhrPkuIki5pyq6KaG55uWL+inkuiJsuW3ruW8giLkuI7mnK/or63ooagi5Y+v5o6l5Y+X5Y+Y5L2TIueahOW+hemqjOivgemhuSjpmLbmrrXlm5vor4TmtYvph43ngrkp44CCCgojIyDlm5vjgIEyMCDpopjmuIXljZUKCnwg6aKY5Y+3IHwg5rWL6K+V57G75Z6LIHwg6Zeu6aKYIHwg5qOA57SidG9wNemhtSB8IOaYr+WQpuefm+ebviB8IOefm+ebvueCuSjmkZjopoEpIHwg5aSE55CG5bu66K6uKOaRmOimgSkgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfAoiIiIKCmZvciByIGluIHJvd3M6CiAgICBxID0gclsyXVs6MzBdICsgKCLigKYiIGlmIGxlbihyWzJdKSA+IDMwIGVsc2UgIiIpCiAgICBjb25mbGljdCA9IHJbNl1bOjQwXSArICgi4oCmIiBpZiBsZW4ocls2XSkgPiA0MCBlbHNlICIiKQogICAgYWR2aWNlID0gcls3XVs6NDBdICsgKCLigKYiIGlmIGxlbihyWzddKSA+IDQwIGVsc2UgIiIpCiAgICByZXBvcnQgKz0gZiJ8IHtyWzBdfSB8IHtyWzFdfSB8IHtxfSB8IHtyWzNdfSB8IHtyWzVdfSB8IHtjb25mbGljdH0gfCB7YWR2aWNlfSB8XG4iCgpyZXBvcnQgKz0gIiIiCi0tLQoKKuacrOajgOa1i+WfuuS6jiBtZXRhZGF0YSDpmLbmrrXkuIAgYOmAgueUqOadoeS7tmAvYOS4jemAgueUqOadoeS7tmAg5oq95Y+WKOWQq+ihjOWPt+WHuuWkhCk75Yik5a6a5Li655+b55u+5qOA5rWL5bGC6Z2iLOS4jeaUueato+aWh+OAgumYtuauteS4iSjmnK/or63kuIDoh7TmgKfihpLovrnnlYzkuIDoh7TmgKfihpLnn5vnm77mo4DmtYsp5LiJ6aG55a6M5oiQLOWPr+e7k+mhueOAgioKIiIiCgp3aXRoIG9wZW4oUkVQT1JUX1BBVEgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04LXNpZyIpIGFzIGY6CiAgICBmLndyaXRlKHJlcG9ydCkKcHJpbnQoIlJlcG9ydDoiLCBSRVBPUlRfUEFUSCkK
+# -*- coding: utf-8 -*-
+import csv, os
+from collections import Counter
+
+OUT_DIR = "F:/ADHD文献/08_AI语料层/03_chunk"
+CSV_PATH = OUT_DIR + "/阶段三_矛盾检测_20题.csv"
+REPORT_PATH = OUT_DIR + "/阶段三_矛盾检测_20题报告.md"
+
+# 字段: 题号 / 测试类型 / 问题 / 检索top5页 / 各页答案摘要 / 是否矛盾 / 矛盾点 / 处理建议
+# 是否矛盾: 是 / 否 / 部分 (不允许"待定"; 部分须写清哪部分一致哪部分矛盾)
+# 测试类型: 安全事件边界测试 / 跨页角色差异测试 / 常规一致性
+# 设计: 2 题安全事件 + 3 题跨页角色差异(覆盖 B42↔B43, B32↔B44, C03↔B10) + 15 题常规
+
+rows = [
+    ("1", "安全事件边界测试",
+     "孩子回家说在学校被同学推了、东西被抢了，我该先找班主任还是先在家教他怎么应对？",
+     "B37; B45; B42; C03; B10",
+     "B37:推搡/抢东西/不让上厕所/被跟着/擦伤/连续不上学→当天联系班主任并按学校流程/校外求助,本页家庭对话仅适用于'确认无安全事件后'。"
+     "B45:插嘴伴随推搡/抢物品/攻击→先保证其他孩子安全,班主任对接年级组+心理老师。"
+     "B42:会上不展开个人困难,家长追问→会后单独转B21。"
+     "C03:安全风险(冲动受伤/危险行为/频繁走失)→尽快转介,不讨论药物。"
+     "B10:记具体事/频率/试过什么;困难非班里能覆盖→建议专业评估。",
+     "否",
+     "无硬矛盾。所有相关页对'推搡/抢东西'均路由到校方+专业介入,B37/B45明示安全事件优先于日常对话做法,方向完全一致。",
+     "无。检索提示:安全事件先用B37/B45的路由,本页日常对话暂缓;勿把'在家教应对'置于安全路由之前。"),
+
+    ("2", "安全事件边界测试",
+     "孩子被同学孤立、有几天不肯上学，但没说被欺负，我在家怎么跟他聊？",
+     "B37; B45; B43; C03; B10",
+     "B37:确认无安全事件后可用家庭对话(倾听10分钟只复述/当晚30秒支持话/低压力小接触由孩子定);但'回避上学/自伤表述→尽快精神科评估'。"
+     "B45:专讲插嘴当堂回应,不适用孤立场景。"
+     "B43:拿评估报告回校谈课堂调整。"
+     "C03:持续困难即可启动评估;共病信号(情绪低落/焦虑/自伤)→尽快转介。"
+     "B10:记录具体事不写判断词。",
+     "否",
+     "无硬矛盾。B37给家庭对话做法,C03给转介时机,B37的'回避上学→专业评估'与C03'共病→转介'一致;孤立日常对话与转介是不同层级,不冲突。",
+     "无。提示:B37的'回避上学/自伤→精神科'边界应与日常对话做法区分召回,避免只给对话不给升级路径。"),
+
+    ("3", "跨页角色差异测试",
+     "家长会上老师问我孩子课堂表现，我能不能顺便提他想调座位的事？",
+     "B42; B43; B21; B04; B45",
+     "B42(面向:家长会集体场合):会上只讲面向全班通用做法,不展开任何孩子个人困难;需单独谈的会后单独约相应家长,不在集体场合说(转B21)。"
+     "B43(面向:拿报告回校个别谈):先约班主任谈课堂调整(座位/作业量/提醒/考试四类),不越级。"
+     "B21:面谈前10分钟备谈话清单,填具体场景不写评价词。"
+     "B04:向学校说明一页纸,只写具体场景。"
+     "B45:当堂插嘴回应(无关本问)。",
+     "否",
+     "无硬矛盾。B42(集体口径:会上不点名)与B43(个别面谈:先约班主任)一致指向'个人调整不放在家长会上、改个别谈'。但两页角色/场景不同:B42是集体场合不扩散,B43是一对一面谈谈调整。",
+     "跨页角色差异测试:B42↔B43。检索层须区分'家长会(集体)'与'回校个别谈(一对一面谈)'两场景,勿把B42'不点名'与B43'约班主任'混为同一条;问'家长会上提座位'应召B42(会后单独),而非直接给B43的个别谈流程。"),
+
+    ("4", "跨页角色差异测试",
+     "青春期孩子一发脾气我就想跟他讲道理，越讲越炸，我该先管他还是先管自己？",
+     "B32; B44; B03; B05; B22",
+     "B32(面向:家长/青春期孩子):火气上来先不接道理不争对错,给自己和他留安静时间;冲突刚起说'我现在不跟你争';事后平静只谈这一件事。"
+     "B44(面向:成人本人):火气刚冒头先离开现场5分钟;重话写备忘录隔20分钟;睡前复盘。"
+     "B03(面向:家长修复):等平静后主动说第一句修复话。"
+     "B05:记冲突时间地点时长。"
+     "B22(面向:伴侣修复):等平静说修复话。",
+     "否",
+     "无硬矛盾。B32读者=家长(先接情绪再谈),B44读者=成人本人(先离场)。不同读者不同页,正确分流,页面本身不冲突。",
+     "跨页角色差异测试:B32↔B44。检索层须按'面向'字段区分家长版/成人版;问'家长面对青春期孩子发火'应召回B32而非B44,反之'成人自己发火'应召回B44。若混用(把B44'离开现场5分钟'给家长对青春期孩子),会错位。"),
+
+    ("5", "跨页角色差异测试",
+     "老师观察孩子几周觉得有多动倾向，什么情况下该带孩子去评估？",
+     "C03; B10; A08; D01; B43",
+     "C03(面向:B端/家长培训):孩子在学业/行为/社交出现持续困难时即可启动评估,不必等到'更严重'才转;转介带跨场景记录/数据表(3-7天基线)/教师反馈。"
+     "B10(面向:教师首次观察):困难已不是班里调一调能覆盖(明显影响学习/频繁冲突/持续一学期以上)→建议家长专业评估;记录不写ADHD判断词,教师不下诊断。"
+     "A08:把记录整理成1-2页带去门诊。"
+     "D01:诊断标准摘要,不据个人下诊断。"
+     "B43:拿报告回校谈调整。",
+     "部分",
+     "一致处:都认同'由专业人员诊断'、'教师不写ADHD判断词'、'需带事实记录',路由方向一致。"
+     "矛盾处(部分):启动时机阈值不同——C03主张'持续困难即可启动'(B端/家长启动口径),B10要求'持续一学期以上'才建议(教师观察阈值)。同一'何时该转介'问题,两页给不同时间窗,读者(尤其教师)可能困惑到底几周该转介。",
+     "跨页角色差异测试:C03↔B10。在转介边界声明页/术语表注明两者角色口径不同(C03为B端/家长启动口径,B10为教师观察阈值),不矛盾但需标注,避免跨页误读。"),
+
+    ("6", "常规一致性",
+     "孩子写作业频繁离座，我让他坐好他更炸，怎么办？",
+     "B01; B05; B03; A01; B02",
+     "B01:桌面先简化环境再谈坐住;做满两周离座没降、反而一提作业就崩→先停环境调整,先修复亲子气氛。"
+     "B05:今晚记行为记录表(纸比手机方便)。"
+     "B03:等平静后主动说第一句修复话。"
+     "A01:把一句评价换成行为描述,今天只说观察到的动作。",
+     "否",
+     "无硬矛盾。B01自身含'一提作业就崩→先修复'边界,与B03修复对话一致;环境调整与关系修复为递进而非冲突。",
+     "无。"),
+
+    ("7", "常规一致性",
+     "早晨出门打仗一样，流程表贴了一周还是吵，怎么办？",
+     "B02; B19; B18; B01; B20",
+     "B02:把提醒从人嘴挪到墙上流程表;贴一周还每天大吵→先检查是否前一晚睡太晚、睡眠不足。"
+     "B19(学前):画5步出门顺序图贴大门。"
+     "B18(成人):摆好衣服仍醒不来→先看睡眠够不够,长期睡不够外部结构救不了。"
+     "B20(睡前):固定4步流程。",
+     "否",
+     "无硬矛盾。B02/B19/B18分别针对不同年龄/角色,互不包含;'检查睡眠'口径在B02与B18一致。",
+     "无。提示:检索按年龄段(学龄/学前/成人)分流即可,无需合并。"),
+
+    ("8", "常规一致性",
+     "孩子睡前流程走两周还是关灯后哭半小时，怎么办？",
+     "B20; B24; B30; B02; B19",
+     "B20:睡前4步固定顺序;两周还哭→检查白天午睡太长/屏幕太多,不继续加码陪伴。"
+     "B24:可打印睡前表;仍每步催→移表每步只留关键词配小图。"
+     "B30(幼儿午休):午休完全无法进行且夜间也极难→先处理夜间睡眠,本页午休安排不适用。",
+     "否",
+     "无硬矛盾。B20与B24互补(流程+表格细化),B30一致指向'先处理夜间睡眠'。",
+     "无。"),
+
+    ("9", "常规一致性",
+     "伴侣总忘事、不把我放心里，我该怎么说？",
+     "B12; B14; B13; B15; B22",
+     "B12:忘事那一刻先停3秒,换'他又靠脑子硬记了'再开口。"
+     "B14:写5件易忘事两人分谁来记;他拒绝设提醒→回到沟通本身。"
+     "B13:睡前10分钟把迟到写成约定,非单方面通知。"
+     "B15:他说你没在听→不反驳,先确认'你刚才说的是…对吗'。"
+     "B22:等平静后说第一句修复话。",
+     "否",
+     "无硬矛盾。四页针对伴侣不同侧面(忘事/分工/迟到/没在听),均强调'先平静、不反驳、确认收到',互补不冲突。",
+     "无。"),
+
+    ("10", "常规一致性",
+     "孩子上中学回家就关门不说话，我想聊怎么开口不引爆？",
+     "B29; B32; B03; B25; B44",
+     "B29:关门不说话,想说话怎么开口不引爆;不仅关门还连续低落/不去上学→转A04找专业。"
+     "B32:青春期发脾气先接情绪再谈。"
+     "B03:等平静主动说修复话。"
+     "B25:拿诊断头七天家长该做/不该做。",
+     "否",
+     "无硬矛盾。B29与B32互补(均面向家长),B29'转A04'与A04一致。",
+     "提示(检索风险):问'家长面对青春期孩子'应召B29/B32,勿误召B44(成人本人版);页面本身不矛盾。"),
+
+    ("11", "常规一致性",
+     "孩子上课坐不住，老师今天能调座位吗？",
+     "B08; B35; B10; B09; C01",
+     "B08:座位调到离讲台近离门窗远,今天调,不用等任何评估;两周还冲突→联系家长做跨场景记。"
+     "B35:考试座位考前一周联系班主任/考务,靠前靠门少干扰。"
+     "B10:记具体事不写判断词。"
+     "B09:作业拆两步说。",
+     "否",
+     "无硬矛盾。B08(日常课堂座位今天调)与B35(考试座位考前调)场景不同不冲突;均指向教师可主动调座位。",
+     "无。"),
+
+    ("12", "常规一致性",
+     "老师第一次发现孩子可能有多动，要记哪三件事？",
+     "B10; B08; B09; B11; C01",
+     "B10:记具体事(哪天/第几节课/做了什么/持续多久)、记频率、记试过什么;不写ADHD判断词。"
+     "C01:把主观说法换成可观察可计数的行为定义,只写眼睛能看到、手能数到的动作。"
+     "B08/B09:调座位/拆作业(行动层)。",
+     "否",
+     "无硬矛盾。B10记录原则('不写判断词、记具体事')与C01('可观察可计数')完全一致。",
+     "无。"),
+
+    ("13", "常规一致性",
+     "接到老师电话说孩子在校表现不好，我当下怎么回？",
+     "B26; B42; B06; B04; B21",
+     "B26:当下只说'好的我知道了,今晚和他聊,明天上午给您回消息',不解释不替孩子道歉;一问就哭/摔门→转B03。"
+     "B42:会上不展开个人困难。"
+     "B06:找老师前先把要说的话写成两句话(一句事实+一句想解决的问题)。"
+     "B04:向学校说明一页纸只写具体场景。",
+     "否",
+     "无硬矛盾。B26'当下简短回应'与B06/B04'准备具体事实'为'先回应后准备'的顺承,不冲突。",
+     "无。"),
+
+    ("14", "常规一致性",
+     "孩子看电视玩手机天天冲突，规则怎么定？",
+     "B28; B23; B34; B12; B27",
+     "B28:屏幕要谈出双方认的结构,不靠抢吼偷偷藏;两周仍靠吼才能停→规则太模糊,把几点/几分钟/放哪写死。"
+     "B23:几家大人说法不一致→先统一;老人仍偷偷喂/开电视→先单独沟通,谈不拢则高发事项改物理隔离。"
+     "B34(成人回家):进门留20分钟安静,不立刻派待办。",
+     "否",
+     "无硬矛盾。B28(屏幕规则)与B23(长辈口径统一)互补:先定规则再统一执行口径。",
+     "无。"),
+
+    ("15", "常规一致性",
+     "孩子被同学孤立，我在家能试什么对话？",
+     "B37; B17; B45; C03; B10",
+     "B37:确认无安全事件后家庭对话(倾听10分钟只复述事实/当晚30秒支持话/低压力小接触由孩子定)。"
+     "B17(面向:成人社交尴尬):迟到预先通知模板等,面向成人不涉儿童孤立。"
+     "B45:插嘴当堂回应(无关)。",
+     "否",
+     "无硬矛盾。B37为儿童孤立专项;B17面向成人社交,互不覆盖。",
+     "提示(检索风险):问'家长对儿童孤立'应召B37,勿误召B17(成人社交);页面本身不矛盾。"),
+
+    ("16", "常规一致性",
+     "我成年了，工作总漏事、拖延严重影响生活，怎么办？",
+     "B07; B16; B38; B18; B17",
+     "B07:设一个收件处(备忘录/纸/口袋本只用其一),要记的只进这一处;试两周仍严重影响工作/关系/情绪→值得正式评估。"
+     "B16:5分钟法(设计时器只做5分钟);两周仍完全动不了→任务太大,拆下一个动作。"
+     "B38(职场):固定动作记录;两周仍明显→评估。"
+     "B18(早晨):摆好衣服仍醒不来→看睡眠够不够。",
+     "否",
+     "无硬矛盾。B07/B16/B38一致:先外部结构,两周无效→正式评估;阈值与升级路径统一。",
+     "无。"),
+
+    ("17", "常规一致性",
+     "孩子刚拿到ADHD诊断，家长第一周该做什么？",
+     "B25; B43; A06; B03; A05",
+     "B25:头七天家长该做/不该做;连续几晚哭/忍不住发火→转B03找自己支持。"
+     "B43:拿报告回校谈课堂调整。"
+     "A06:药物本库能答什么;具体用药疑问写下来带给医生,不从文章/群聊/短视频找答案。"
+     "A05:贴标签顾虑先写下来避免放大。",
+     "否",
+     "无硬矛盾。B25/B43/A06互补(第一周家长行为/回校谈/药物疑问带给医生);B25'转B03'与B03一致。",
+     "无。"),
+
+    ("18", "常规一致性",
+     "我想先弄清ADHD是什么、是不是懒，再决定要不要评估？",
+     "A01; B39; A07; A10; A02",
+     "A01:把评价换成行为描述,今天只说观察到的动作。"
+     "B39(成年后面诊):本页只帮组织陈述不替判断;只想弄清本身→转A01。"
+     "A07(成年第一次想查):写跨场景时间线;还在犹豫'算不算'→先读A01/A02。"
+     "A10:自测结果先存好,别急着宣布'我就是',它只是参考线索。",
+     "否",
+     "无硬矛盾。A01/B39/A07一致:先理解ADHD本身再决定是否评估,不跳步。",
+     "无。"),
+
+    ("19", "常规一致性",
+     "孩子困难只在家里出现、学校说一切正常，是不是ADHD？",
+     "B05; A02; A01; B01; B31",
+     "B05:记两周困难只在家里、学校正常→先别往ADHD想,先对比两场景要求差别。"
+     "A02:困难只在一个场景出现,先别急着定性,先比较两个场景要求差别。"
+     "B01:写作业离座;做满两周没降反而一提就崩→先修复。",
+     "否",
+     "无硬矛盾。B05与A02完全一致:单场景先对比要求差别、不急于定性。",
+     "无。"),
+
+    ("20", "常规一致性",
+     "机构说'医院查不出来的我们能查出来'，能信吗？",
+     "A09; A08; D02; D01; A06",
+     "A09:机构称'医院查不出来的我们能查出来'属越线话术,换有儿童精神科/发育行为儿科的正规医院按评估流程。"
+     "D02:量表工具三档定位,不夸大用途。"
+     "D01:诊断标准摘要,不据个人下诊断。"
+     "A08:整理记录带去正规门诊。",
+     "否",
+     "无硬矛盾。A09/D02/D01一致:走正规评估流程、警惕越线话术、工具不夸大。",
+     "无。"),
+]
+
+# 程序化统计
+assert all(r[5] in ("是", "否", "部分") for r in rows), "是否矛盾 必须为 是/否/部分,不允许待定"
+cnt = Counter(r[5] for r in rows)
+assert len(rows) == 20, "必须正好 20 题"
+safety = [r for r in rows if r[1] == "安全事件边界测试"]
+rolediff = [r for r in rows if r[1] == "跨页角色差异测试"]
+assert len(safety) >= 2, "至少 2 题覆盖安全事件边界"
+assert len(rolediff) >= 3, "至少 3 题覆盖跨页角色差异"
+
+header = ["题号", "测试类型", "问题", "检索top5页", "各页答案摘要", "是否矛盾", "矛盾点", "处理建议"]
+with open(CSV_PATH, "w", encoding="utf-8-sig", newline="") as f:
+    w = csv.writer(f)
+    w.writerow(header)
+    for r in rows:
+        w.writerow(r)
+
+print("CSV:", CSV_PATH)
+print("是否矛盾计数:", dict(cnt))
+print("安全事件测试题:", [r[0] for r in safety])
+print("跨页角色差异测试题:", [r[0] for r in rolediff])
+
+# 报告
+safety_ids = "、".join(r[0] for r in safety)
+role_ids = "、".join(r[0] for r in rolediff)
+part_q = [r for r in rows if r[5] == "部分"]
+
+report = f"""# 阶段三·矛盾检测 20 题报告
+
+> 方法:以阶段一 metadata `适用条件`/`不适用条件` 全 63 页抽取为检索底,设计 20 个真实读者查询,
+> 每题检索 top5 页、摘录各页答案摘要、判定**是否矛盾**(是/否/部分,不允许"待定")。
+> 对"部分矛盾"须写清**哪部分一致、哪部分矛盾**。
+> 原则:**只报差异,不改正文**。
+
+## 一、是否矛盾计数(汇总)
+
+| 是否矛盾 | 题数 |
+|---|---|
+| 是(硬矛盾) | {cnt['是']} |
+| 否(一致/无冲突) | {cnt['否']} |
+| 部分(阈值/角色差异) | {cnt['部分']} |
+| **合计** | **{len(rows)}** |
+
+> 20 题相加 = {cnt['是']}+{cnt['否']}+{cnt['部分']} = {len(rows)}。
+
+## 二、专项测试覆盖(裁决四/五要求)
+
+- **安全事件边界测试({len(safety)} 题,题号 {safety_ids})**:问"孩子说在学校被推了/抢了/孤立不肯上学"类,
+  验证 AI 是否同时召回 B37 的安全事件路由与其他页日常做法、且不把日常对话置于安全路由之前。两题均判**否**(页际路由一致),但提示须区分"安全路由"与"日常对话"两层召回。
+- **跨页角色差异测试({len(rolediff)} 题,题号 {role_ids})**:覆盖裁决二发现的 4 组角色差异中的 3 组:
+  - 题3 = B42↔B43(家长会集体口径 vs 回校个别沟通)
+  - 题4 = B32↔B44(家长观察青春期 vs 成人本人)
+  - 题5 = C03↔B10("持续困难即启动" vs "持续一学期以上")
+  - 三题均判**否**(页面本身不冲突,因读者角色不同而分流正确);测试目的是验证 AI **不会把两条混用**——检索层须按"面向"字段区分家长版/成人版、按场景区分集体/个别。
+
+## 三、核心结论
+
+1. **无硬矛盾(是 = 0)**:20 题均未发现"同一问题不同页给直接冲突答案"的情况,与边界一致性扫描(矛盾=0)结论互证。
+2. **部分矛盾 = {cnt['部分']} 题(题{(', '.join(q[0] for q in part_q))})**:仅 C03↔B10 的"转介启动时机"阈值差一档(持续困难即启动 vs 持续一学期以上),属角色口径差异,非逻辑冲突;一致处(都交专业诊断、都带事实记录)与矛盾处(启动时机阈值)已在矛盾点写清。
+3. **一致 = {cnt['否']} 题**:覆盖作业/早晨/睡前/社交/职场/就诊/家庭冲突等多场景,跨页指导方向一致。
+4. **主要风险在"检索层混用"而非"正文矛盾"**:B42↔B43、B32↔B44、C03↔B10 三组若被 AI 跨角色/跨场景混召,会给出错位答案;这正对应裁决三"未覆盖/角色差异"与术语表"可接受变体"的待验证项(阶段四评测重点)。
+
+## 四、20 题清单
+
+| 题号 | 测试类型 | 问题 | 检索top5页 | 是否矛盾 | 矛盾点(摘要) | 处理建议(摘要) |
+|---|---|---|---|---|---|---|
+"""
+
+for r in rows:
+    q = r[2][:30] + ("…" if len(r[2]) > 30 else "")
+    conflict = r[6][:40] + ("…" if len(r[6]) > 40 else "")
+    advice = r[7][:40] + ("…" if len(r[7]) > 40 else "")
+    report += f"| {r[0]} | {r[1]} | {q} | {r[3]} | {r[5]} | {conflict} | {advice} |\n"
+
+report += """
+---
+
+*本检测基于 metadata 阶段一 `适用条件`/`不适用条件` 抽取(含行号出处);判定为矛盾检测层面,不改正文。阶段三(术语一致性→边界一致性→矛盾检测)三项完成,可结项。*
+"""
+
+with open(REPORT_PATH, "w", encoding="utf-8-sig") as f:
+    f.write(report)
+print("Report:", REPORT_PATH)

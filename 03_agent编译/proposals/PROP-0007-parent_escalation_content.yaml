@@ -1,1 +1,101 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDmianlsZXmj5DmoYggUFJPUC0wMDA377yIQiDnsbsgwrcgZnVsbCDCtyDpmLbmrrUgQiDmibnmrKEgOO+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIDYg5LiqIHBlbmRpbmdfYmF0Y2gzIOanveS9je+8iOS/ruWkjeWNoSAxICsg5LqU57G76aKE6K2mIDXvvInmjojmnYPmipPlj5bmnaXmupDmjqXlhaXjgIIKIyDop6PpmaTmibnmrKEgMy81IOmBl+eVmeeahOOAjOWOn+aWh+S4jeWcqOaJi+OAjeaMgui0pu+8jHBlbmRpbmcgNiDihpIgMOOAggojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKcHJvcG9zYWxfaWQ6IFBST1AtMDAwNwp0eXBlOiBCICAgICAgICAgICAgICAgICAgICAjIOaWsOWinuadpea6kOWGheWuuSDihpIgZnVsbAp0aXRsZTogIuS/ruWkjeWNoSArIOS6lOexu+mihOitpuaOiOadg+aKk+WPluadpea6kOaOpeWFpe+8iOino+mZpCA2IOS4qiBwZW5kaW5nX2JhdGNoMyDmp73kvY3vvIkiCgpyZXF1aXJlbWVudDogPgogIOmYtuautSBCIOaJueasoSAzIOi1t++8jDYg5Liq6Z2Z5oCB5qe95L2N77yIcmVwYWlyX2NhcmRfMDEgKyB3YXJuaW5nX3NpZ25zX+WRvOWQuC/ogozogokvCiAg5aOw6Z+zL+iDuOWPoy/lv7XlpLTvvInlm6DjgIzljp/mlofkuI3lnKjmiYvjgI3mjInkuI3nvJbpgKDnuqrlvovkv53nlZkgcGVuZGluZ19iYXRjaDMg5Y2g5L2N44CCCiAg5om55qyhIDgg55So5oi35o6I5p2D6LWwIEIg6Lev57q/77ya5oqT5Y+W5aSW6YOo5p2l5rqQ6YCQ5a2X6JC9IDAwX+adpea6kOayu+eQhi9fc3RhZ2luZy8g55WZCiAgU0hBMjU277yM5LuO5Lit5paH5p2l5rqQ6YCQ5a2X5rS+55SfIDYg5p2hIGV4cGxhbmF0b3J5IOa6kOadoeebru+8jOWbnuWhq+i/mSA2IOS4quanveS9jeOAggoKd2h5X2V4aXN0aW5nX2luc3VmZmljaWVudDogPgogIOaJueasoSA2LUQg5bey5a+5IDI0IOadoeeLrOeri+WkjeaguOehruiupOS/ruWkjeWNoeOAjOaXoOWPr+a0vueUn+aWh+ahiOOAjeKAlOKAlOS4jeaYr+aooeeziuetieWGheWuue+8jAogIOaYr+W3suivgeS8qu+8iOS4peagvOS/oeWPtyAwIOWRveS4re+8jOWAmemAieWPpeaWueWQkeS4juS4u+WKqOS/ruWkjeebuOWPje+8ieOAguS6lOexu+mihOitpuWQjOeQhu+8mgogIOeOsOaciSAxOCDmnaHlhajmmK/lrabnp5HovoXlr7zmlK/mnrbvvIzml6Dlrrbplb/ouqvkvZPpooTorabljp/nlJ/mlofmoYjvvJtmZXNfcGFyZW50Xyog6YeM55qECiAg44CM562J5LuW5ZG85ZC45bmz5LqG44CN5oyH5a2p5a2Q77yM5LiN5Y+v5oyq5L2c5a626ZW/6aKE6K2m44CC5pWF5b+F6aG75byV5YWl5aSW6YOo5p2l5rqQ77yM5LiN6IO96Z2gCiAg5a2Y6YeP6K+t5paZ5rS+55Sf44CCCgpwcm9wb3NhbDogPgogIOKRoCDmipPlj5YgNSDkuKrlpJbpg6jmnaXmupDpgJDlrZfokL0gX3N0YWdpbmcvIOeVmSBTSEEyNTbvvJoKICAgICAtIGZoc19oa19hbmdlcl9tYW5hZ2VtZW5077yI6aaZ5riv5Y2r55Sf572y77yM5Lit5paH77yMbGl0ZXJhdHVyZe+8iQogICAgIC0gYWlhZGhkX3llbGxfcmVwYWly77yIYWlhZGhkIOS4reaWh+evh++8jGxpdGVyYXR1cmXvvIkKICAgICAtIG5oc19pbmZvcm1fYW5nZXJfY29udHJvbO+8iE5IU++8jOiLseaWh++8jGNsaW5pY2FsX2d1aWRlbGluZe+8iQogICAgIC0gcGtqY29hY2hpbmdfcGF1c2VfcmVwYWly77yI6Iux5paH77yMbGl0ZXJhdHVyZe+8iQogICAgIC0gY2FsbWhvbWVfM3NlbnRlbmNlX3JlcGFpcu+8iOiLseaWh++8jGxpdGVyYXR1cmXvvIkKICDikaEg6K+t6KiA6KOB5Yaz77ya5Lit5paH5rS+55SfICsg6Iux5paH55WZ55eV44CC5Lit5paH5p2l5rqQ77yIZmhzIC8gYWlhZGhk77yJ5bu65o6l5YWl5Y2h5bm25rS+55Sf77ybCiAgICAg6Iux5paH5p2l5rqQ77yIbmhzIC8gcGtqIC8gY2FsbWhvbWXvvInlkIjlubbkuLogMSDlvKDnlZnnl5Xlj4LnhafljaEKICAgICDvvIhfcmVmZXJlbmNlX2VuZ2xpc2hfc291cmNlcy55YW1s77yM5LiL5YiS57q/5byA5aS077yMc291cmNlX2ludGFrZV9jaGVjayDot7Pov4fvvInvvIwKICAgICDkuI3ov5vmoKHpqozjgIHkuI3mtL7nlJ/jgIIKICDikaIg5YaZIGRlcml2ZV9iYXRjaDhfZW50cmllcy5wee+8muS7juS4reaWhyBzdGFnaW5nIOWOn+aWh+mAkOWtl+aRmOWPpe+8jOeUn+aIkCA2IOadoQogICAgIGV4cGxhbmF0b3J5IOa6kOadoeebru+8iHBjX3JlcGFpcl9jYXJkXzAxICsgcGNfd2FybmluZ197YnJlYXRoLG11c2NsZSx2b2ljZSwKICAgICBjaGVzdCx0aG91Z2h0fV8wMe+8ie+8jHNjZW5hcmlvPXBhcmVudF9lc2NhbGF0aW9u44CBCiAgICAgdGVtcGxhdGVfcmVmPVBUX1BBUkVOVF9FU0NBTEFUSU9OXzAx44CBd2hlbiDkuInmoaMgW2xvdyxtaWQsaGlnaF3jgIEKICAgICBzb3VyY2VfaWQg55So5paw5Y2h77yI6Z2eIHBhcmVudF9jb29s77yJ44CBc291cmNlX3ZlcnNpb249IjIwMjYtMTEtMTUi44CCCiAg4pGjIOWbnuWhqyBjb3B5X21hcHBpbmcuanNvbu+8mjYg5LiqIHBlbmRpbmcg5qe95L2NIOKGkiBtYXBwZWTvvIx0ZXh0IOmAkOWtl+WPluiHqgogICAgIOaWsOadoeebriBpbmplY3RfdGV4dO+8iGJ1aWxkX2NvcHlfbWFwcGluZy5weSBCQVRDSDhfU0xPVF9NQVDvvInjgIIKICDikaQg5L+u5q2j6IGU5Yqo5pat6KiA77yI5pyJ55CG55Sx44CB5Y+v6K+B5Lyq77yM5LiN5YeR57u/77yJ77yaCiAgICAgLSByb3V0ZXJfdGVzdHMgNkUgRTPvvJrmmL7lvI8gcGFyZW50X2VzY2FsYXRpb24g5p+l6K+iIHBjXyog5ZG95LitIDLihpI477yMCiAgICAgICDmnJ/mnJvlgLzmlLnkuLogX2V4cGVjdCDni6znq4vph43nrpfvvIjkuI3noaznvJbnoIHvvInjgIIKICAgICAtIHBhcmVudF9lc2NhbGF0aW9uX3Rlc3RzIOKRoe+8muS4ieaho+WRveS4rSAy4oaSOO+8iOaXouaciSAyIOWNleahoyArIOaWsCA2IOS4ieaho++8ie+8jAogICAgICAg5pat6KiA5pS55Li644CM5pei5pyJ5Y2V5qGj5LuN5ZyoICsg5oC75pWwIDjjgI3vvJtwYXJhbXNfZXhlbXB0IDbihpIxMu+8iOaMieadoeebruiuoeaVsO+8ieOAggogICAgIC0gdGVzdF9zdGF0aWMuanPvvJpwZW5kaW5nIDbihpIw44CB6aKE6K2m6KGoL+S/ruWkjeWNoeWNoOS9jSDihpIgbWFwcGVkIOmAkOWtl+OAggoKaW1wYWN0OgogIGNodW5rczogIjI0IOKGkiAzMO+8iCs2IOadoSBwYXJlbnRfZXNjYWxhdGlvbiDop6Pph4rmgKfmnaHnm67vvIkiCiAgc2tpbGxzOiAiMTHvvIjkuI3lj5jvvJvmlrDmnaHnm67lhaggZXhwbGFuYXRvcnkg5pegIGNhbGxhYmxl77yJIgogIHBlbmRpbmdfYmF0Y2gzOiAiNiDihpIgMO+8iOS/ruWkjeWNoSAxICsg5LqU57G76aKE6K2mIDUg5YWo6YOoIG1hcHBlZO+8iSIKICBwYXJhbXNfZXhlbXB0OiAiNiDihpIgMTLvvIjmjInmnaHnm67orqHmlbDvvJvosYHlhY3mqKHmnb/np43nsbvku43kuLogMe+8iSIKICB0aHJlZV90aWVyX2hpdHM6ICJsb3cvbWlkL2hpZ2gg5ZCEIDIg4oaSIDgiCiAgcHJlZGljYXRlX2VxdWl2X3N0YXRlX3NwYWNlOiAiU1RBVEVfUE9JTlRfQ09VTlQ9MTAzNjgg5LiN5Y+Y77yI5peg5paw57u05bqm77yJIgogIGFmZmVjdGVkX2VudHJpZXM6ICJbXe+8iOaXouaciSAxOCDmnaEgKyA2IOadoSBwYXJlbnRfY29vbCDooYzkuLrpm7blj5jljJbvvIkiCgp2ZXJpZmljYXRpb246ID4KICDikaAgdmVyaWZ5X2FsbCAxNC8xNCDnu4Tnu7/jgIEzMTg0NzUg5pat6KiA44CB5aSx6LSlIDDvvJsKICDikaEgc291cmNlX2ludGFrZV9jaGVjayDml6DlraTlhL/ljaHvvIgzNSDpobkgMCDplJnor6/vvInvvJsKICDikaIgcGFyZW50X2VzY2FsYXRpb25fdGVzdHMg4pGlJyDmlrDlop7jgIzmibnmrKEgOCDkuI3nvJbpgKDjgI3mlq3oqIDvvJrmlrAgNiDmnaHmr4/lj6UKICAgICDlv4XpobvmmK8gc3RhZ2luZyDljp/mlofpgJDlrZflrZDkuLLvvIjni6znq4vkuo4gZGVyaXZlIOiEmuacrO+8jOWPr+ivgeS8qu+8ie+8mwogIOKRoyB0ZXN0X3NlcnZlciAxNS8xNeOAgXRlc3Rfc3RhdGljIDQyLzQy44CBdGVzdF9hcGkgMjEvMjHvvJsKICDikaQg5Zue5b2SIGNvbmZvcm1hbmNlIDQ2LzQ244CB6KeS6Imy5rOE5ryPIDDjgIHor4rmlq0gMOOAgeS4u+WBj+emu+eOhyAwLjAl44CCCgpyb2xsYmFjazogPgogIOWIoOmZpCA1IOW8oOaOpeWFpeWNoSArIF9yZWZlcmVuY2VfZW5nbGlzaF9zb3VyY2VzLnlhbWzjgIFkZXJpdmVfYmF0Y2g4X2VudHJpZXMucHnjgIEKICA2IOadoeaWsOa6kOadoeebru+8m+mHjei3kSBidWlsZC5weSDkuI4gYnVpbGRfY29weV9tYXBwaW5nLnB5IOWbnumAgCBjb3B5X21hcHBpbmfvvJsKICDlm57pgIAgcm91dGVyX3Rlc3RzIC8gcGFyZW50X2VzY2FsYXRpb25fdGVzdHMgLyB0ZXN0X3N0YXRpYyDnmoTmibnmrKEgOCDmlq3oqIDkv67mlLnjgIIKICDml6LmnIkgMTgg5p2h44CBNiDmnaEgcGFyZW50X2Nvb2zjgIEyNCBjaHVua3Mg5Z+657q/5LiN5Y+X5b2x5ZON44CCCgphcHByb3ZhbF90aWVyOiBmdWxsCgpzdGF0dXM6IGFwcHJvdmVkCgphcHByb3ZhbF9yZWNvcmQ6CiAgZGF0ZTogIjIwMjYtMTEtMTUiCiAgdGllcjogZnVsbAogIGNoYW5uZWw6ID4KICAgIOeUqOaItyAyMDI2LTExLTE144CM5Y2H57qn5pW05Liq6aG555uuIOKGkiDmjqjov5vliankvZnmjILotKbjgI3pgJDpobnmi43mnb/vvJoKICAgIOKRoCA2IOS4qiBwZW5kaW5nIOanveS9jei1sCBCIOi3r+e6v++8iOaOiOadg+aKk+WPlu+8ie+8m+KRoSDmipPlj5bmnaXmupDlm5vpgInlhajpgIkKICAgIO+8iGZocyAvIENoaWxkIE1pbmQg57O7IC8gYWlhZGhkIC8gY2FsbWhvbWXvvInvvJvikaIg5q+P5rqQ5LiA5Y2h77ybCiAgICDikaMg6aKE6K2m5qe944CM5Y2V5q615Y+M5q615byP44CN77yb4pGkIOaWsOadoeebruW5tuWFpSBwYXJlbnRfZXNjYWxhdGlvbu+8mwogICAg4pGlIHdoZW4g5aWX5qih5p2/5LiJ5qGj77yb4pGmIOS6lOexu+mihOitpuOAjOW9k+WcuuWKqOS9nOOAjeWIl+WGjeaKk+S4k+mXqOadpea6kO+8iE5IU++8ie+8mwogICAg4pGnIOivneacr+OAjOS4reaWh+a0vueUnyArIOiLseaWh+eVmeeXleOAje+8m+KRqCAzIOW8oOiLseaWh+WNoeWQiOW5tuS4uueVmeeXleWPgueFp+WNoeOAggogIGRlY2lzaW9uOiA+CiAgICDph4fnurPjgILmlrDmnaHnm67lubblhaUgcGFyZW50X2VzY2FsYXRpb27vvIzkuInmoaPlkb3kuK3jgIFwYXJhbXNfZXhlbXB044CBcm91dGVyCiAgICDnmb3lkI3ljZXkuInlpITmlq3oqIDmjInjgIzmnInnkIbnlLHjgIHlj6/or4HkvKrjgI3lj6PlvoTlkIzmraXkv67mraPvvIzkuI3lh5Hnu7/vvJvoi7HmlofmnaXmupAKICAgIOS7heeVmeeXleS4jea0vueUn++8jOmBv+WFjeaKiuiLseaWh+ivneacr+Whnui/m+S4reaWh+W3peWFt+OAggogIGxpdGVyYWxfZGV2aWF0aW9uczoKICAgIC0gIuS4ieaho+WRveS4rSAy4oaSOOOAgXBhcmFtc19leGVtcHQgNuKGkjEy44CBcGNfKiDlkb3kuK0gMuKGkjjvvJrlnYfkuLrmlrDmnaHnm67lubblhaXnmoTmraPlvZPov57plIHvvIzpgJDkuIDmlLnlhpnmlq3oqIDlubbnlZnnl5XvvIzpnZ7mlL7lrr3lj6PlvoTjgIIiCgprbm93bl9yaXNrOiA+CiAg4pGgIOaWsCA2IOadoSB3aGVuIOS4ieaho+WFqOWRveS4re+8jOS9huaWh+S7tuWQjeaOkuW6j+mdoOWQju+8iHBjX2VzY2FsYXRpb25fKiA8IHBjX3JlcGFpciAvCiAgICAgcGNfd2FybmluZ++8ie+8jGNhbmRpZGF0ZXNbMF0g5LuN5Li65pei5pyJ5Y2V5qGj5p2h55uu77yM5LiJ5qGjIGxpbmUg6L6T5Ye65LiN5Y+Y77ybCiAgICAg5pyq5p2l6Iul6LCD5pW05paH5Lu25ZCN5oiW5o6S5bqP77yMRVhQRUNURURfRklSU1Qg5pat6KiA5Lya5Y+Y57qi77yM5by65Yi26LWw5rWB56iL44CCCiAg4pGhIOS6lOexu+mihOitpueahOOAjOW9k+WcuuWKqOS9nOOAjeWIl+aYr+mAmueUqOWKqOS9nOmAkOWtl+WPluiHquadpea6kO+8jOmdnumAkOexu+S4gOS4gOWvueW6lAogICAgIO+8iOa6kOacrOi6q+aXoOmAkOexu+WKqOS9nOaYoOWwhO+8ie+8m+W3suaYjuehruagh+azqO+8jOS4jeS8quijheaIkOmAkOexu+WvueW6lOOAggogIOKRoiDkv67lpI3ljaHor53mnK/pgJDlrZflj5boh6ogYWlhZGhkIOS4reaWh+evh++8iOWVhuS4muenkeaZruerme+8jOivgeaNruetiee6pyBD77yJ77yMCiAgICAg6Z2e5Li05bqK5oyH5Y2X77yb6Z2i5ZCR5a626ZW/5pe25Lul44CM5Y+C6ICD6K+d5pyv44CN5ZGI546w77yM5LiN5aOw56ew5Yy75a2m5p2D5aiB44CCCg==
+# =====================================================================
+# 扩展提案 PROP-0007（B 类 · full · 阶段 B 批次 8）
+# ---------------------------------------------------------------------
+# 6 个 pending_batch3 槽位（修复卡 1 + 五类预警 5）授权抓取来源接入。
+# 解除批次 3/5 遗留的「原文不在手」挂账，pending 6 → 0。
+# =====================================================================
+
+proposal_id: PROP-0007
+type: B                    # 新增来源内容 → full
+title: "修复卡 + 五类预警授权抓取来源接入（解除 6 个 pending_batch3 槽位）"
+
+requirement: >
+  阶段 B 批次 3 起，6 个静态槽位（repair_card_01 + warning_signs_呼吸/肌肉/
+  声音/胸口/念头）因「原文不在手」按不编造纪律保留 pending_batch3 占位。
+  批次 8 用户授权走 B 路线：抓取外部来源逐字落 00_来源治理/_staging/ 留
+  SHA256，从中文来源逐字派生 6 条 explanatory 源条目，回填这 6 个槽位。
+
+why_existing_insufficient: >
+  批次 6-D 已对 24 条独立复核确认修复卡「无可派生文案」——不是模糊等内容，
+  是已证伪（严格信号 0 命中，候选句方向与主动修复相反）。五类预警同理：
+  现有 18 条全是学科辅导支架，无家长身体预警原生文案；fes_parent_* 里的
+  「等他呼吸平了」指孩子，不可挪作家长预警。故必须引入外部来源，不能靠
+  存量语料派生。
+
+proposal: >
+  ① 抓取 5 个外部来源逐字落 _staging/ 留 SHA256：
+     - fhs_hk_anger_management（香港卫生署，中文，literature）
+     - aiadhd_yell_repair（aiadhd 中文篇，literature）
+     - nhs_inform_anger_control（NHS，英文，clinical_guideline）
+     - pkjcoaching_pause_repair（英文，literature）
+     - calmhome_3sentence_repair（英文，literature）
+  ② 语言裁决：中文派生 + 英文留痕。中文来源（fhs / aiadhd）建接入卡并派生；
+     英文来源（nhs / pkj / calmhome）合并为 1 张留痕参照卡
+     （_reference_english_sources.yaml，下划线开头，source_intake_check 跳过），
+     不进校验、不派生。
+  ③ 写 derive_batch8_entries.py：从中文 staging 原文逐字摘句，生成 6 条
+     explanatory 源条目（pc_repair_card_01 + pc_warning_{breath,muscle,voice,
+     chest,thought}_01），scenario=parent_escalation、
+     template_ref=PT_PARENT_ESCALATION_01、when 三档 [low,mid,high]、
+     source_id 用新卡（非 parent_cool）、source_version="2026-11-15"。
+  ④ 回填 copy_mapping.json：6 个 pending 槽位 → mapped，text 逐字取自
+     新条目 inject_text（build_copy_mapping.py BATCH8_SLOT_MAP）。
+  ⑤ 修正联动断言（有理由、可证伪，不凑绿）：
+     - router_tests 6E E3：显式 parent_escalation 查询 pc_* 命中 2→8，
+       期望值改为 _expect 独立重算（不硬编码）。
+     - parent_escalation_tests ②：三档命中 2→8（既有 2 单档 + 新 6 三档），
+       断言改为「既有单档仍在 + 总数 8」；params_exempt 6→12（按条目计数）。
+     - test_static.js：pending 6→0、预警表/修复卡占位 → mapped 逐字。
+
+impact:
+  chunks: "24 → 30（+6 条 parent_escalation 解释性条目）"
+  skills: "11（不变；新条目全 explanatory 无 callable）"
+  pending_batch3: "6 → 0（修复卡 1 + 五类预警 5 全部 mapped）"
+  params_exempt: "6 → 12（按条目计数；豁免模板种类仍为 1）"
+  three_tier_hits: "low/mid/high 各 2 → 8"
+  predicate_equiv_state_space: "STATE_POINT_COUNT=10368 不变（无新维度）"
+  affected_entries: "[]（既有 18 条 + 6 条 parent_cool 行为零变化）"
+
+verification: >
+  ① verify_all 14/14 组绿、318475 断言、失败 0；
+  ② source_intake_check 无孤儿卡（35 项 0 错误）；
+  ③ parent_escalation_tests ⑥' 新增「批次 8 不编造」断言：新 6 条每句
+     必须是 staging 原文逐字子串（独立于 derive 脚本，可证伪）；
+  ④ test_server 15/15、test_static 42/42、test_api 21/21；
+  ⑤ 回归 conformance 46/46、角色泄漏 0、诊断 0、主偏离率 0.0%。
+
+rollback: >
+  删除 5 张接入卡 + _reference_english_sources.yaml、derive_batch8_entries.py、
+  6 条新源条目；重跑 build.py 与 build_copy_mapping.py 回退 copy_mapping；
+  回退 router_tests / parent_escalation_tests / test_static 的批次 8 断言修改。
+  既有 18 条、6 条 parent_cool、24 chunks 基线不受影响。
+
+approval_tier: full
+
+status: approved
+
+approval_record:
+  date: "2026-11-15"
+  tier: full
+  channel: >
+    用户 2026-11-15「升级整个项目 → 推进剩余挂账」逐项拍板：
+    ① 6 个 pending 槽位走 B 路线（授权抓取）；② 抓取来源四选全选
+    （fhs / Child Mind 系 / aiadhd / calmhome）；③ 每源一卡；
+    ④ 预警槽「单段双段式」；⑤ 新条目并入 parent_escalation；
+    ⑥ when 套模板三档；⑦ 五类预警「当场动作」列再抓专门来源（NHS）；
+    ⑧ 话术「中文派生 + 英文留痕」；⑨ 3 张英文卡合并为留痕参照卡。
+  decision: >
+    采纳。新条目并入 parent_escalation，三档命中、params_exempt、router
+    白名单三处断言按「有理由、可证伪」口径同步修正，不凑绿；英文来源
+    仅留痕不派生，避免把英文话术塞进中文工具。
+  literal_deviations:
+    - "三档命中 2→8、params_exempt 6→12、pc_* 命中 2→8：均为新条目并入的正当连锁，逐一改写断言并留痕，非放宽口径。"
+
+known_risk: >
+  ① 新 6 条 when 三档全命中，但文件名排序靠后（pc_escalation_* < pc_repair /
+     pc_warning），candidates[0] 仍为既有单档条目，三档 line 输出不变；
+     未来若调整文件名或排序，EXPECTED_FIRST 断言会变红，强制走流程。
+  ② 五类预警的「当场动作」列是通用动作逐字取自来源，非逐类一一对应
+     （源本身无逐类动作映射）；已明确标注，不伪装成逐类对应。
+  ③ 修复卡话术逐字取自 aiadhd 中文篇（商业科普站，证据等级 C），
+     非临床指南；面向家长时以「参考话术」呈现，不声称医学权威。

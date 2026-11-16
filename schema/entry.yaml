@@ -1,1 +1,157 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDmupDmnaHnm64gc2NoZW1hIOWGu+e7k+Wlkee6piAgdjEuMiAgICjpmLbmrrXlha0gwrcgUDAgLyDpmLbmrrUgQiDmibnmrKEgMyDkv67orqIpCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg5q+P5Liq5Y+v6KKrIGFnZW50IOa2iOi0ueeahOOAjOa6kOadoeebruOAjeaYr+S4gOS4queLrOeriyAubWQg5paH5Lu277yaCiMgICBZQU1MIGZyb250bWF0dGVy77yI5pys5paH5Lu25a6a5LmJ55qE5a2X5q6177yJKyBNYXJrZG93biDmraPmlofvvIjop4EgaW5qZWN0X3RleHTvvIkKIyDkvY3nva7vvJowMl/lhoXlrrnljIUvKi8qLm1k77yI5ZCrIHNvdXJjZV9pZCDnmoTmiY3mmK/mupDmnaHnm67vvJs2MyDpobUgQm9va1N0YWNrCiMgICAgICAg5q2j5paH5bimIGZyb250bWF0dGVyIOS9huaXoCBzb3VyY2VfaWTvvIzkuI3ov5vnvJbor5HnrqHnur/vvIkKIwojIOacrOaWh+S7tuaYr+OAjOWNleS4gOS6i+Wunuadpea6kOOAje+8muazqOWFpemAmumBk++8iOajgOe0oui/h+a7pO+8ieS4jiBza2lsbCDpgJrpgZPvvIjosIPluqbop6blj5HvvIkKIyDlhbHnlKjlkIzkuIDku70gd2hlbi9leGl0X3doZW7vvIznpoHmraLkuKTmnaHpgJrpgZPlkIToh6rnu7TmiqTmnaHku7bjgIIKIyDmnKzlpZHnuqbooqsgMDNfYWdlbnTnvJbor5EvdmFsaWRhdG9ycy9zY2hlbWFfY2hlY2sucHkg55u05o6l6K+75Y+W5YGa5qCh6aqM44CCCiMgPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CgptZXRhOgogIHNjaGVtYV92ZXJzaW9uOiAxLjIKICBmcm96ZW5fYXQ6IDIwMjYtMTEtMTIKICByZXZpc2VkX2F0OiAyMDI2LTExLTEzCiAgZGVzY3JpcHRpb246ICLljZXmupDmnaHnm64g4oaSIOWPjOS6p+eJqe+8iOajgOe0ouWdlyArIHNraWxsIHNwZWPvvInnmoTlrZfmrrXlpZHnuqYiCiAgY2hhbmdlbG9nOgogICAgLSAidjEuMSAoMjAyNi0xMS0xMynvvJpjYWxsYWJsZSDlop4gc2NhZmZvbGRfbGV2ZWwoZnVsbHxsaWdodCnvvIznlKjkuo4gcmUtZW50cnkg6ZmN57qn5pSv5p6277yb55So5oi36KOB5YazIEQyIOi1sOmZjee6p+ivreS5ieOAgndoZW4vZXhpdF93aGVuIOeZveWQjeWNleS4juiwk+ivjeivreazleacquWPmOOAgiIKICAgIC0gInYxLjIgKDIwMjYtMTEtMTPvvIzpmLbmrrUgQiDmibnmrKEgMyDCtyBQUk9QLTAwMDQvMDAwNSnvvJpzY2VuYXJpbyDlop4gcGFyZW50X2VzY2FsYXRpb27vvJt3aGVuLmFsbG93ZWRfZmllbGRzIOS4jiBmaWVsZF9lbnVtcyDlop4gcGFyZW50X2FmZmVjdF9sZXZlbD1bbG93LG1pZCxoaWdoXe+8iOWutumVv+eBq+awlO+8jOS4juWtqeWtkOaDhee7qiBhZmZlY3Qg5piO56Gu5Yy65YiG77yJ44CC5rOo5oSP77ya6K+l57u05bqm5Zyo6Zi25q61IEEgMi41YiDlt7LlubblhaUgcHJlZGljYXRlX2VxdWl2Lml0ZXJfc3RhdGVzKCnvvIzmnKzniYjlj6rlgZrlo7DmmI7lsYLooaXpvZDvvIzmsYLlgLzlrp7njrDkuI7nirbmgIHnqbrpl7Tnu7TluqblnYfmnKrmlLnliqjjgIIiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOWtl+auteWumuS5ie+8iHJlcXVpcmVkPeW/hemhu+WHuueOsOWcqCBmcm9udG1hdHRlcu+8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpmaWVsZHM6CgogIGlkOgogICAgcmVxdWlyZWQ6IHRydWUKICAgIHR5cGU6IHN0cmluZwogICAgcGF0dGVybjogIl5bYS16XVthLXowLTlfXSokIiAgICAgICAgIyBzbmFrZV9jYXNl77yM5YWo5bGA5ZSv5LiACiAgICBub3RlOiAi5bu66K6u5ZG95ZCN77yaPGF1ZGllbmNlPl88c2NlbmFyaW8+XzxuPu+8jOWmgiBwYXJlbnRfcmVkaXJlY3RfZHJpZnRfMDEiCgogIHR5cGU6CiAgICByZXF1aXJlZDogdHJ1ZQogICAgdHlwZTogZW51bQogICAgdmFsdWVzOiBbcHJvY2VkdXJhbCwgZXhwbGFuYXRvcnksIGJvdW5kYXJ5XQogICAgbm90ZTogPgogICAgICDnqIvluo/mgKfmlK/mnrY96ZyAIGFnZW50IOaUueWPmOS4i+S4gOatpeWKqOS9nOaIluiwg+eUqOWPguaVsO+8iOS4u+S6p+eJqSBza2lsbCBzcGVj77yMCiAgICAgIGluamVjdF90ZXh0IOS9nCBmYWxsYmFjay/lj6/osIPor5XmlofmnKzvvInvvJvop6Pph4rmgKfnn6Xor4Y95Y+q5b2x5ZON5LiK5LiL5paH5o6q6L6eCiAgICAgIO+8iOS4u+S6p+eJqeajgOe0ouWdl++8jOaXoCBjYWxsYWJsZe+8ie+8m+i+ueeVjOS4juWuieWFqD3kuLvkuqfniakgZ3VhcmRyYWlsIOinhOWImQogICAgICDvvIjop4EgMDVf5a6h5qC45LiO6L+Q6JClL2d1YXJkcmFpbF9ydWxlcy55YW1s77yJ44CCCgogIGF1ZGllbmNlOgogICAgcmVxdWlyZWQ6IHRydWUKICAgIHR5cGU6IGVudW0KICAgIHZhbHVlczogW3BhcmVudCwgY2hpbGQsIGNsaW5pY2lhbiwgYm90aF0KCiAgc2NlbmFyaW86CiAgICByZXF1aXJlZDogdHJ1ZQogICAgdHlwZTogZW51bQogICAgdmFsdWVzOiBbdGFza19pbml0aWF0aW9uLCBhdHRlbnRpb25fZHJpZnQsIGZydXN0cmF0aW9uX2VzY2FsYXRpb24sIHdtX292ZXJsb2FkLCB0cmFuc2l0aW9uLCBwYXJlbnRfZXNjYWxhdGlvbl0KICAgIG5vdGU6ID4KICAgICAgcGFyZW50X2VzY2FsYXRpb27vvIhQUk9QLTAwMDXvvInmmK8qKuWutumVv+iHqui6q+aDhee7quaApeaVkSoq5Zy65pmv77yM5LiO5YmN5LqU6aG5CiAgICAgIOOAjOWtqeWtkOS9nOS4mui/h+eoi+OAjeWcuuaZr+S4u+S9k+S4jeWQjOOAgui/kOihjOacn+i1sAogICAgICAwOV/lrrbplb/nq6/lt6XlhbcvcGFyZW50X2Nvb2xfY2xvbmUvc2VydmVyL3NlcnZlci5weSDnmoQKICAgICAgaGFuZGxlX3BhcmVudF9lc2NhbGF0aW9uKCkg5peB6Lev77yM5Y+q6LCDIGJ1aWxkLnJldHJpZXZlICsKICAgICAgZ3VhcmRyYWlsX25vZGUuanVkZ2XvvIwqKuS4jeiwgyByb3V0ZXIucm91dGUoKSoq77ybcm91dGVyLmluX3Njb3BlKCkg5oyJCiAgICAgIHNjZW5hcmlvIOeyvuehruaUtueqhO+8jOS/neivgeaWsOaXp+i9qOi/ueS6kuS4jeaxoeafk+OAggoKICBleGVjX3RhcmdldDoKICAgIHJlcXVpcmVkOiB0cnVlCiAgICB0eXBlOiBlbnVtCiAgICB2YWx1ZXM6IFvlkK/liqgsIOW3peS9nOiusOW/hiwg5oqR5Yi25o6n5Yi2LCDmg4Xnu6rosIPoioIsIOaXtumXtOaEn+efpV0KCiAgZXZpZGVuY2VfbGV2ZWw6CiAgICByZXF1aXJlZDogdHJ1ZQogICAgdHlwZTogZW51bQogICAgdmFsdWVzOiBbQSwgQiwgQ10gICAgICAgICMg5rK/55So5LuT5bqT546w5pyJ5YiG57qn77yIQT3mjIfljZcv6K+V6aqMLCBCPee7j+mqjOaAp+etlueVpSwgQz3lvoXmoLjpqozvvIkKCiAgY29udHJhaW5kaWNhdGlvbl9mbGFnOgogICAgcmVxdWlyZWQ6IHRydWUKICAgIHR5cGU6IGVudW0KICAgIHZhbHVlczogW3NhZmUsIGNhdXRpb24sIHJlc3RyaWN0ZWRdCgogIGxhc3RfcmV2aWV3ZWQ6CiAgICByZXF1aXJlZDogdHJ1ZQogICAgdHlwZTogZGF0ZSAgICAgICAgICAgICAgICMgWVlZWS1NTS1ERAoKICAjIC0tLS0g6LCT6K+N57uE77ya5rOo5YWl6YCa6YGT5LiOIHNraWxsIOmAmumBk+WFseeUqOWQjOS4gOS7vSAtLS0tCiAgd2hlbjoKICAgIHJlcXVpcmVkOiB0cnVlCiAgICB0eXBlOiBvYmplY3QKICAgIG5vdGU6ID4KICAgICAg5p6B5bCP6KGo6L6+5byP5a2Q6ZuG77ya5a2X5q615ZCNICsg5q+U6L6D6L+Q566X56ymICsg5a2X6Z2i6YeP77yb5ZCM5a2X5q615aSa5YC8PU9S77yM5aSa5a2X5q61PUFOROOAggogICAgICDimqAg5Li75L2T5Yy65YiG77yaYWZmZWN077yI5a2p5a2Q5oOF57uq77yM5LuF5paH5qGj5bGC77yM5LiU5LiN5ZyoCiAgICAgIHByZWRpY2F0ZV9lcXVpdi5pdGVyX3N0YXRlcygpIOeKtuaAgeepuumXtOWGhe+8ieS4jiBwYXJlbnRfYWZmZWN0X2xldmVsCiAgICAgIO+8iOWutumVv+eBq+awlO+8jOaxguWAvOWxgu+8ieaYr+S4jeWQjOS4u+S9k++8jOS4jeW+l+S6kuebuOS7o+abv++8iFBST1AtMDAwNCBrbm93bl9yaXNr77yJ44CCCiAgICAgIOKaoCDmnprkuL7lrZfmrrXlv4XpobvlhpnmiJDliJfooajvvIjnvJbor5HkuLogb3A9aW7vvInvvJpfY29tbW9uLmV2YWxfcHJlZGljYXRlIOWvuQogICAgICDpnZ4gaW4g5q+U6L6D5Lya5omn6KGMIGludChzdinvvIzoo7jlrZfnrKbkuLLmnprkuL7lgLzlpoIgImxvdyIg5Lya5oGS5Li65YGH44CCCiAgICBhbGxvd2VkX2ZpZWxkczogW3Rhc2tfcGhhc2UsIGF0dGVudGlvbl9zdGF0ZSwgb3duZXJzaGlwLCB3bV9sb2FkLCBjb25zZWN1dGl2ZV9mYWlsdXJlcywgcGFyZW50X2FmZmVjdF9sZXZlbF0KICAgIG9wZXJhdG9yczogWyI+PSIsICI8PSIsICI+IiwgIjwiLCAiPT0iLCAiIT0iLCAiaW4iXQogICAgZmllbGRfZW51bXM6CiAgICAgIHRhc2tfcGhhc2U6IFvlkK/liqgsIOeQhuinoywg6K6h5YiSLCDmiafooYwsIOajgOafpSwg5b6u5LyR5oGvXQogICAgICBhdHRlbnRpb25fc3RhdGU6IFtvbi10YXNrLCBkcmlmdCwgcmUtZW50cnldCiAgICAgIG93bmVyc2hpcDogW2NoaWxkLWxlYWRpbmcsIHBhcmVudC1oaW50aW5nLCBwYXJlbnQtdGFraW5nLW92ZXJdCiAgICAgIHBhcmVudF9hZmZlY3RfbGV2ZWw6IFtsb3csIG1pZCwgaGlnaF0KICAgIG5lc3RlZF92YWxpZGF0aW9uX25vdGU6ID4KICAgICAg4pqgIOW3suefpemZkOWItu+8iFBST1AtMDAwNCDoh6rliqjljJbpooTmo4DorrDlvZXvvInvvJpzY2hlbWFfY2hlY2sucHkg5Y+q5qCh6aqMCiAgICAgIGZpZWxkcyDkuIvnmoTpobblsYLlv4Xloasv5p6a5Li+L+agvOW8j++8jCoq5LiN6K+7KirmnKzoioIgYWxsb3dlZF9maWVsZHMg5LiOCiAgICAgIGZpZWxkX2VudW1z44CC5paw5a2X5q6155qE5ZCI5rOV5oCn55SxCiAgICAgIDAzX2FnZW5057yW6K+RL3ZhbGlkYXRvcnMvcGFyZW50X2VzY2FsYXRpb25fdGVzdHMucHkg5pi+5byP5pat6KiA5YWc5L2P77yMCiAgICAgIOS4jeiDveWPqumdoOaUueacrOaWh+S7tuWwseiupOS4uuOAjOWtl+auteW3suiiq+agoemqjOOAjeOAggoKICBleGl0X3doZW46CiAgICByZXF1aXJlZDogZmFsc2UKICAgIHR5cGU6IG9iamVjdAogICAgbm90ZTogImNhbGxhYmxlIOadoeebruW/hemhu+mdnuepuu+8m+WQpuWImSBDSShleGl0X2V4aXN0cykg5ouS57ud5ZCI5bm2IgogICAgYWxsb3dlZF9maWVsZHM6IFthdHRlbnRpb25fc3RhdGUsIHdtX2xvYWQsIGNvbnNlY3V0aXZlX3N1Y2Nlc3Nlcywgb3duZXJzaGlwXQogICAgb3BlcmF0b3JzOiBbIj49IiwgIjw9IiwgIj4iLCAiPCIsICI9PSIsICIhPSJdCgogIGluamVjdF90ZXh0OgogICAgcmVxdWlyZWQ6IHRydWUKICAgIHR5cGU6IHN0cmluZwogICAgbm90ZTogPgogICAgICDpnaLlkJHnlKjmiLfnmoTlrp7pmYXmlofmnKzjgILplb/luqbnspLluqbvvJrlrrbplb/nq68gMTUw4oCTMjUwIOWtl++8iOaDheaZryvlj6/or7TnmoTor50r5LiN6KaB6K+055qE6K+d77yJ77ybCiAgICAgIOWEv+erpeerryA4MOKAkzE1MCDlrZfvvIjlvq7mraXpqqTmjIfku6Qr5a6M5oiQ5L+h5Y+377yJ77yb5Li05bqK6L6555WM5L+d55WZ5a6M5pW05q616JC944CCCgogIGNhbGxhYmxlOgogICAgcmVxdWlyZWQ6IGZhbHNlCiAgICB0eXBlOiBvYmplY3QKICAgIG5vdGU6ICLku4UgdHlwZT1wcm9jZWR1cmFsIOS4lOmcgOiiq+iwg+W6puWZqOinpuWPkeaXtuWtmOWcqCIKICAgIHN1YmZpZWxkczoKICAgICAgbmFtZToge3JlcXVpcmVkOiB0cnVlLCB0eXBlOiBzdHJpbmd9CiAgICAgIHBhcmFtczoge3JlcXVpcmVkOiBmYWxzZSwgdHlwZTogb2JqZWN0fQogICAgICByZXR1cm5zOiB7cmVxdWlyZWQ6IHRydWUsIHR5cGU6IG9iamVjdH0KICAgICAgc2lkZV9lZmZlY3Q6IHtyZXF1aXJlZDogdHJ1ZSwgdHlwZTogZW51bSwgdmFsdWVzOiBbbm9uZSwgc3RhdGUtd3JpdGUsIGxvZy1vbmx5XX0KICAgICAgc2NhZmZvbGRfbGV2ZWw6CiAgICAgICAgcmVxdWlyZWQ6IGZhbHNlCiAgICAgICAgdHlwZTogZW51bQogICAgICAgIHZhbHVlczogW2Z1bGwsIGxpZ2h0XQogICAgICAgIGRlZmF1bHQ6IGZ1bGwKICAgICAgICBub3RlOiAi5pSv5p625by65bqm44CCZnVsbD3mraPluLjmlK/mnrbvvJtsaWdodD3pmY3nuqfmlK/mnrbvvIhyZS1lbnRyeSDkuK3pl7TmgIHlj6rnu5nlrozmiJDkv6Hlj7fvvIzkuI3ooaXorrIv5LiN5Yqg5paw5oyH5Luk77yJ44CC5LuF5Lqn54mp5a2X5q6177yM5LiN5paw5aKe54q25oCB5py65a2X5q6177yM5LiN5pS55Y+Y6Lev55Sx5LiJ5oCB44CCIgoKICByZWxhdGVkX2lkczoKICAgIHJlcXVpcmVkOiBmYWxzZQogICAgdHlwZTogbGlzdAogICAgbm90ZTogIua3t+WQiOadoeebruaLhuS4pOadoeaXtueUqO+8jOS4jeehrOWhnui/m+WNlSBzY2hlbWEiCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOiwk+ivjeivreazle+8iOS+myBwcmVkaWNhdGVfZXF1aXYucHkgLyBidWlsZC5weSDop6PmnpDvvIkKIyAtLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KcHJlZGljYXRlX2dyYW1tYXI6CiAgZmllbGRfb3I6ICLlkIzlrZfmrrXlpJrlgLwg4oaSIE9SIgogIGZpZWxkX2FuZDogIuWkmuWtl+autSDihpIgQU5EIgogIHZhbHVlX2Zvcm1hdHM6CiAgICBlbnVtX2ZpZWxkOiAiW3YxLCB2MiwgLi4uXSAgIOKGkiBvcD1pbiIKICAgIGludF9maWVsZDogICJcIj49MlwiIC8gXCI8MVwiIC8gXCI9PTNcIiDihpIg5q+U6L6D6L+Q566X56ymICsg5pW05pWwIgogIGZvcmJpZGRlbjogWyLltYzlpZfluIPlsJQiLCAi6Leo5a2X5q615byV55SoIiwgIuWHveaVsOiwg+eUqCJdCgojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQojIOS6p+eJqeW9kuWxnu+8iOWGu+e7k++8jOS4jeWFgeiuuOmAkOadoeWVhumHj++8iQojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpwcm9kdWN0X2F0dHJpYnV0aW9uOgogIHByb2NlZHVyYWw6ICAgIHtwcmltYXJ5OiBza2lsbF9zcGVjLCAgIHNlY29uZGFyeTogaW5qZWN0X3RleHRfYXNfZmFsbGJhY2t9CiAgZXhwbGFuYXRvcnk6ICAge3ByaW1hcnk6IHJldHJpZXZhbF9jaHVuaywgc2Vjb25kYXJ5OiBub25lfQogIGJvdW5kYXJ5OiAgICAgIHtwcmltYXJ5OiBndWFyZHJhaWxfcnVsZSwgc2Vjb25kYXJ5OiByZXRyaWV2YWxfY2h1bmtfZm9yX2V4cGxhaW59Cg==
+# =====================================================================
+# 源条目 schema 冻结契约  v1.2   (阶段六 · P0 / 阶段 B 批次 3 修订)
+# ---------------------------------------------------------------------
+# 每个可被 agent 消费的「源条目」是一个独立 .md 文件：
+#   YAML frontmatter（本文件定义的字段）+ Markdown 正文（见 inject_text）
+# 位置：02_内容包/*/*.md（含 source_id 的才是源条目；63 页 BookStack
+#       正文带 frontmatter 但无 source_id，不进编译管线）
+#
+# 本文件是「单一事实来源」：注入通道（检索过滤）与 skill 通道（调度触发）
+# 共用同一份 when/exit_when，禁止两条通道各自维护条件。
+# 本契约被 03_agent编译/validators/schema_check.py 直接读取做校验。
+# =====================================================================
+
+meta:
+  schema_version: 1.2
+  frozen_at: 2026-11-12
+  revised_at: 2026-11-13
+  description: "单源条目 → 双产物（检索块 + skill spec）的字段契约"
+  changelog:
+    - "v1.1 (2026-11-13)：callable 增 scaffold_level(full|light)，用于 re-entry 降级支架；用户裁决 D2 走降级语义。when/exit_when 白名单与谓词语法未变。"
+    - "v1.2 (2026-11-13，阶段 B 批次 3 · PROP-0004/0005)：scenario 增 parent_escalation；when.allowed_fields 与 field_enums 增 parent_affect_level=[low,mid,high]（家长火气，与孩子情绪 affect 明确区分）。注意：该维度在阶段 A 2.5b 已并入 predicate_equiv.iter_states()，本版只做声明层补齐，求值实现与状态空间维度均未改动。"
+
+# ---------------------------------------------------------------------
+# 字段定义（required=必须出现在 frontmatter）
+# ---------------------------------------------------------------------
+fields:
+
+  id:
+    required: true
+    type: string
+    pattern: "^[a-z][a-z0-9_]*$"        # snake_case，全局唯一
+    note: "建议命名：<audience>_<scenario>_<n>，如 parent_redirect_drift_01"
+
+  type:
+    required: true
+    type: enum
+    values: [procedural, explanatory, boundary]
+    note: >
+      程序性支架=需 agent 改变下一步动作或调用参数（主产物 skill spec，
+      inject_text 作 fallback/可调试文本）；解释性知识=只影响上下文措辞
+      （主产物检索块，无 callable）；边界与安全=主产物 guardrail 规则
+      （见 05_审核与运营/guardrail_rules.yaml）。
+
+  audience:
+    required: true
+    type: enum
+    values: [parent, child, clinician, both]
+
+  scenario:
+    required: true
+    type: enum
+    values: [task_initiation, attention_drift, frustration_escalation, wm_overload, transition, parent_escalation]
+    note: >
+      parent_escalation（PROP-0005）是**家长自身情绪急救**场景，与前五项
+      「孩子作业过程」场景主体不同。运行期走
+      09_家长端工具/parent_cool_clone/server/server.py 的
+      handle_parent_escalation() 旁路，只调 build.retrieve +
+      guardrail_node.judge，**不调 router.route()**；router.in_scope() 按
+      scenario 精确收窄，保证新旧轨迹互不污染。
+
+  exec_target:
+    required: true
+    type: enum
+    values: [启动, 工作记忆, 抑制控制, 情绪调节, 时间感知]
+
+  evidence_level:
+    required: true
+    type: enum
+    values: [A, B, C]        # 沿用仓库现有分级（A=指南/试验, B=经验性策略, C=待核验）
+
+  contraindication_flag:
+    required: true
+    type: enum
+    values: [safe, caution, restricted]
+
+  last_reviewed:
+    required: true
+    type: date               # YYYY-MM-DD
+
+  # ---- 谓词组：注入通道与 skill 通道共用同一份 ----
+  when:
+    required: true
+    type: object
+    note: >
+      极小表达式子集：字段名 + 比较运算符 + 字面量；同字段多值=OR，多字段=AND。
+      ⚠ 主体区分：affect（孩子情绪，仅文档层，且不在
+      predicate_equiv.iter_states() 状态空间内）与 parent_affect_level
+      （家长火气，求值层）是不同主体，不得互相代替（PROP-0004 known_risk）。
+      ⚠ 枚举字段必须写成列表（编译为 op=in）：_common.eval_predicate 对
+      非 in 比较会执行 int(sv)，裸字符串枚举值如 "low" 会恒为假。
+    allowed_fields: [task_phase, attention_state, ownership, wm_load, consecutive_failures, parent_affect_level]
+    operators: [">=", "<=", ">", "<", "==", "!=", "in"]
+    field_enums:
+      task_phase: [启动, 理解, 计划, 执行, 检查, 微休息]
+      attention_state: [on-task, drift, re-entry]
+      ownership: [child-leading, parent-hinting, parent-taking-over]
+      parent_affect_level: [low, mid, high]
+    nested_validation_note: >
+      ⚠ 已知限制（PROP-0004 自动化预检记录）：schema_check.py 只校验
+      fields 下的顶层必填/枚举/格式，**不读**本节 allowed_fields 与
+      field_enums。新字段的合法性由
+      03_agent编译/validators/parent_escalation_tests.py 显式断言兜住，
+      不能只靠改本文件就认为「字段已被校验」。
+
+  exit_when:
+    required: false
+    type: object
+    note: "callable 条目必须非空；否则 CI(exit_exists) 拒绝合并"
+    allowed_fields: [attention_state, wm_load, consecutive_successes, ownership]
+    operators: [">=", "<=", ">", "<", "==", "!="]
+
+  inject_text:
+    required: true
+    type: string
+    note: >
+      面向用户的实际文本。长度粒度：家长端 150–250 字（情景+可说的话+不要说的话）；
+      儿童端 80–150 字（微步骤指令+完成信号）；临床边界保留完整段落。
+
+  callable:
+    required: false
+    type: object
+    note: "仅 type=procedural 且需被调度器触发时存在"
+    subfields:
+      name: {required: true, type: string}
+      params: {required: false, type: object}
+      returns: {required: true, type: object}
+      side_effect: {required: true, type: enum, values: [none, state-write, log-only]}
+      scaffold_level:
+        required: false
+        type: enum
+        values: [full, light]
+        default: full
+        note: "支架强度。full=正常支架；light=降级支架（re-entry 中间态只给完成信号，不补讲/不加新指令）。仅产物字段，不新增状态机字段，不改变路由三态。"
+
+  related_ids:
+    required: false
+    type: list
+    note: "混合条目拆两条时用，不硬塞进单 schema"
+
+# ---------------------------------------------------------------------
+# 谓词语法（供 predicate_equiv.py / build.py 解析）
+# ---------------------------------------------------------------------
+predicate_grammar:
+  field_or: "同字段多值 → OR"
+  field_and: "多字段 → AND"
+  value_formats:
+    enum_field: "[v1, v2, ...]   → op=in"
+    int_field:  "\">=2\" / \"<1\" / \"==3\" → 比较运算符 + 整数"
+  forbidden: ["嵌套布尔", "跨字段引用", "函数调用"]
+
+# ---------------------------------------------------------------------
+# 产物归属（冻结，不允许逐条商量）
+# ---------------------------------------------------------------------
+product_attribution:
+  procedural:    {primary: skill_spec,   secondary: inject_text_as_fallback}
+  explanatory:   {primary: retrieval_chunk, secondary: none}
+  boundary:      {primary: guardrail_rule, secondary: retrieval_chunk_for_explain}

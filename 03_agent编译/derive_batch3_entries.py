@@ -1,1 +1,242 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q61IEIg5om55qyhIDMgwrcg5Lmm57GNRiDmupDmnaHnm67mtL7nlJ/ohJrmnKzvvIjpgJDlrZflj6/muq/jgIHlj6/lpI3ot5HjgIHlj6/or4HkvKrvvIkKCue6quW+i++8iOeUqOaItyAyMDI2LTExLTEzIOmYtuautSBCIOaWueahiO+8ie+8mgogIC0g5LiN5L6d6LWWIHBhcmVudC1jb29sIOWOn+aWh++8m+aWh+ahiOWPquS7jueOsOaciSAxOCDmnaHmupDmnaHnm67lj5bvvJsKICAtIOaYoOWwhOS4jeS4iueahOanveS9jeaghyBwZW5kaW5nX2JhdGNoM++8jCoq5LiN57yW6YCgKirjgIIKCuacrOiEmuacrOWboOatpOS4jeaJi+WGmeS7u+S9leS4gOWPpSBpbmplY3RfdGV4dO+8muS7jiBjaHVua3MuanNvbmwg546w5pyJIDE4IOadoeeahAppbmplY3RfdGV4dCDmjInjgIzjgILjgI3liIflj6XvvIzmjIkgREVSSVZBVElPTlMg5oyH5a6a55qEICjmnaXmupDmnaHnm64sIOWPpeW6j+WPtykK5Y+W5Y6f5Y+l77yM55So44CM44CC44CN6YeN5paw5ou85o6l44CC5q+P5p2h5pawIGluamVjdF90ZXh0IOeahOavj+S4gOWPpemDveW/heWumuaYr+afkOadoQrnjrDmnIkgaW5qZWN0X3RleHQg55qE6YCQ5a2X5a2Q5Liy77ybcGFyZW50X2VzY2FsYXRpb25fdGVzdHMucHkg5Lya55So54us56uL55qECuOAjOS4jee8lumAoOaWreiogOOAjeWGjemqjOS4gOmBje+8jOWPr+ivgeS8quOAggoK55So5rOV77yaRTovQU5BQ09OREEvcHl0aG9uLmV4ZSAwM19hZ2VudOe8luivkS9kZXJpdmVfYmF0Y2gzX2VudHJpZXMucHkK6L6T5Ye677yaMDJf5YaF5a655YyFL+S5puexjUZf5a626ZW/5oCl5pWRLyoubWTvvIg2IOadoSBleHBsYW5hdG9yeSDmnaHnm67vvIkKIiIiCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCBqc29uCgpIRVJFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpClJPT1QgPSBvcy5wYXRoLmFic3BhdGgob3MucGF0aC5qb2luKEhFUkUsICIuLiIpKQpDSFVOS1MgPSBvcy5wYXRoLmpvaW4oSEVSRSwgIm91dHB1dCIsICJjaHVua3MuanNvbmwiKQpPVVRfRElSID0gb3MucGF0aC5qb2luKFJPT1QsICIwMl/lhoXlrrnljIUiLCAi5Lmm57GNRl/lrrbplb/mgKXmlZEiKQpTVE9DS19TT1VSQ0VTID0geyJwcm9qZWN0X29yaWdpbmFsIiwgImZhbWlseV9lbW90aW9uX3N1cHBvcnQifQoKIyAo5p2l5rqQ5p2h55uuIGlkLCDmjInjgIzjgILjgI3liIfliIblkI7nmoTlj6Xluo/lj7cpCkRFUklWQVRJT05TID0gWwogICAgewogICAgICAgICJpZCI6ICJwY19lc2NhbGF0aW9uX3Jlc3RhdGVfMDEiLAogICAgICAgICJzbG90IjogInNjcmlwdF9jYXJkXzA4IiwKICAgICAgICAiZmxhZyI6ICJzYWZlIiwKICAgICAgICAidGl0bGUiOiAi54Gr5rCU5LiK5p2l5pe25YWI5aSN6L+w77yM5Yir5oCl552A57uZ5Yqe5rOVIiwKICAgICAgICAiYm91bmRhcnkiOiAi5aSN6L+w5LiO5YiG6L6o5Zub57G75oOF5Ya177yb5LiN5a6j56ew5oyJ54Gr5rCUIDHigJQ1IOWIhuaho+OAgiIsCiAgICAgICAgInNlbnRlbmNlcyI6IFsKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3Jlc3RhdGVfMDEiLCAwKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3Jlc3RhdGVfMDEiLCAxKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3Jlc3RhdGVfMDEiLCAyKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3Jlc3RhdGVfMDEiLCA0KSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NjcmlwdF8wMSIsIDUpLAogICAgICAgIF0sCiAgICB9LAogICAgewogICAgICAgICJpZCI6ICJwY19lc2NhbGF0aW9uX3N0b3BfMDEiLAogICAgICAgICJzbG90IjogInNjcmlwdF9jYXJkXzA5IiwKICAgICAgICAiZmxhZyI6ICJjYXV0aW9uIiwKICAgICAgICAidGl0bGUiOiAi5Ye6546w5Y6L5LiN5L2P54Gr55qE5L+h5Y+35bCx5pW05Liq5YGc5LiL44CB56a75byA5Lmm5qGMIiwKICAgICAgICAiYm91bmRhcnkiOiAi5ZCr5LiT5Lia6L2s5LuL6L6555WM77yb5pys5Y+l5Y6f5paH5YaZ55qE5piv44CM5a2p5a2Q5piO5pi+5bSp5rqD4oCm5oiW5a626ZW/6Ieq5bex5bey57uP5Y6L5LiN5L2P54Gr44CN77yM5pyq5pS55YaZ5Li65a626ZW/6Lqr5L2T6aKE6K2m44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImZlc19wYXJlbnRfcGF1c2Vfc2lnbmFsXzAxIiwgMCksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9zZXR0bGVfMDEiLCAwKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3BhdXNlX3NpZ25hbF8wMSIsIDEpLAogICAgICAgICAgICAoImZlc19wYXJlbnRfcGF1c2Vfc2lnbmFsXzAxIiwgMyksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9wYXVzZV9zaWduYWxfMDEiLCA0KSwKICAgICAgICBdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAicGNfZXNjYWxhdGlvbl9zY29wZV8wMSIsCiAgICAgICAgInNsb3QiOiAic2NyaXB0X2NhcmRfMTAiLAogICAgICAgICJmbGFnIjogInNhZmUiLAogICAgICAgICJ0aXRsZSI6ICLlj6rorrLmnIDov5HkuIDmrKHlhbfkvZPlnLrmma/vvIzkuI3pk7rlvIDliLDkuaDmg6/kuI7kvZzmga8iLAogICAgICAgICJib3VuZGFyeSI6ICLlnLrmma/mlLbnqoTkuI7mjInmg4Xnu6rlhYjlpITnkIbvvJvkuI3mnoTmiJDngavmsJTliIbnuqfjgIIiLAogICAgICAgICJzZW50ZW5jZXMiOiBbCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9zaW5nbGVfc2NlbmVfMDEiLCAwKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NpbmdsZV9zY2VuZV8wMSIsIDEpLAogICAgICAgICAgICAoImZlc19wYXJlbnRfc2luZ2xlX3NjZW5lXzAxIiwgNCksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9zaW5nbGVfc2NlbmVfMDEiLCA3KSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NldHRsZV8wMSIsIDgpLAogICAgICAgIF0sCiAgICB9LAogICAgewogICAgICAgICJpZCI6ICJwY19lc2NhbGF0aW9uX29uZV9zdGVwXzAxIiwKICAgICAgICAic2xvdCI6ICJzY3JpcHRfY2FyZF8xMSIsCiAgICAgICAgImZsYWciOiAic2FmZSIsCiAgICAgICAgInRpdGxlIjogIuS7iuaZmuWPqueVmeS4gOS4quiDveaUtuWwvueahOWKqOS9nO+8jOWBmuWujOWwseaUtiIsCiAgICAgICAgImJvdW5kYXJ5IjogIuOAjOWBmuWujOWwseaUtuOAjeeahOi+ueeVjO+8m+S4jeabv+S7o+S4ieaho+aSpOmAgOWIhue6p+aWh+ahiOOAgiIsCiAgICAgICAgInNlbnRlbmNlcyI6IFsKICAgICAgICAgICAgKCJmZXNfcGFyZW50X2xvd19wcmVzc3VyZV8wMSIsIDApLAogICAgICAgICAgICAoImZlc19wYXJlbnRfb25lX25pZ2h0X3Njb3BlXzAxIiwgMSksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9sb3dfcHJlc3N1cmVfMDEiLCAyKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NldHRsZV8wMSIsIDcpLAogICAgICAgICAgICAoImZlc19wYXJlbnRfb25lX25pZ2h0X3Njb3BlXzAxIiwgNSksCiAgICAgICAgXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogInBjX2VzY2FsYXRpb25fcmVmZXJfMDEiLAogICAgICAgICJzbG90IjogInNjcmlwdF9jYXJkXzEyIiwKICAgICAgICAiZmxhZyI6ICJjYXV0aW9uIiwKICAgICAgICAidGl0bGUiOiAi5LiT5Lia5pSv5oyB6L6555WM5LiO5LiN6LS05qCH562+55qE6K+05rOVIiwKICAgICAgICAiYm91bmRhcnkiOiAi5rK/55So5pys5bqT5pei5pyJ6L6555WM5Y+l77yb5YWN6LSj5aOw5piO5Y6f5paH5LiN5Zyo5omL77yM5pyq6Ieq5pKw44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImZlc19wYXJlbnRfcGF1c2Vfc2lnbmFsXzAxIiwgMiksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9zY3JpcHRfMDEiLCAzKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NjcmlwdF8wMSIsIDQpLAogICAgICAgICAgICAoImZlc19wYXJlbnRfc2NyaXB0XzAxIiwgNSksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9wYXVzZV9zaWduYWxfMDEiLCA0KSwKICAgICAgICBdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAicGNfZXNjYWxhdGlvbl9ub19sYWJlbF8wMSIsCiAgICAgICAgInNsb3QiOiBOb25lLCAgICMg57qv6L+Q6KGM5pe25qOA57Si5YCZ6YCJ77yM5LiN5Y2g6Z2Z5oCB5qe95L2NCiAgICAgICAgImZsYWciOiAic2FmZSIsCiAgICAgICAgInRpdGxlIjogIuWQjOS4gOWPpeaPkOmGkuaNouS4quivtOazle+8jOS4jeS4i+e7k+iuuuS4jei0tOagh+etviIsCiAgICAgICAgImJvdW5kYXJ5IjogIuesrCA2IOadoeWPquacjeWKoSBhaV9saW5lIOWKqOaAgeajgOe0ou+8jOS4jeaYoOWwhOWIsOS7u+S9lemdmeaAgeanveS9je+8jOmBv+WFjeS4uuWHkeaVsOehrOWhnuOAgiIsCiAgICAgICAgInNlbnRlbmNlcyI6IFsKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NjcmlwdF8wMSIsIDApLAogICAgICAgICAgICAoImZlc19wYXJlbnRfc2NyaXB0XzAxIiwgMSksCiAgICAgICAgICAgICgiZmVzX3BhcmVudF9zY3JpcHRfMDEiLCAyKSwKICAgICAgICAgICAgKCJmZXNfcGFyZW50X3NjcmlwdF8wMSIsIDMpLAogICAgICAgICAgICAoImZlc19wYXJlbnRfc2NyaXB0XzAxIiwgNSksCiAgICAgICAgXSwKICAgIH0sCl0KCkZNX1RNUEwgPSAiIiItLS0KaWQ6IHtpZH0KdHlwZTogZXhwbGFuYXRvcnkKYXVkaWVuY2U6IHBhcmVudApzY2VuYXJpbzogcGFyZW50X2VzY2FsYXRpb24KZXhlY190YXJnZXQ6IOaDhee7quiwg+iKggpldmlkZW5jZV9sZXZlbDogQwpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IHtmbGFnfQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTEzCnNvdXJjZV9pZDogcGFyZW50X2Nvb2wKc291cmNlX3ZlcnNpb246ICIyMDI2LTExLTEzIgp0ZW1wbGF0ZV9yZWY6IFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxCnByb3Bvc2FsX3JlZjogUFJPUC0wMDA1CndoZW46CiAgcGFyZW50X2FmZmVjdF9sZXZlbDogW2xvdywgbWlkLCBoaWdoXQppbmplY3RfdGV4dDogfAp7dGV4dH0tLS0KIiIiCgpCT0RZX1RNUEwgPSAiIiIKIyB7aWR9Cgp7dGl0bGV9CgotICoq5a2X5q615L6d5o2uKirvvJpgUFJPUC0wMDA0YO+8iGBwYXJlbnRfYWZmZWN0X2xldmVsYCDov5sgYHdoZW5gIOeZveWQjeWNle+8ie+8mwogICoq5Zy65pmv5L6d5o2uKirvvJpgUFJPUC0wMDA1YO+8iGBwYXJlbnRfZXNjYWxhdGlvbmAgKyBgUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDFg77yJ44CCCiAg5ZCO6ICF5YaZ5ZyoIGBwcm9wb3NhbF9yZWZg77yM5YmN6ICF5Zyo5pys6KGM55WZ55eV77yM5Y+M5ZCR5Y+v6L+95rqv44CCCi0gKirmnaXmupAqKu+8mmBwYXJlbnRfY29vbGAg5o6l5YWl5Y2h77yIYHByb2plY3RfaW50ZXJuYWxg77yM5Y6f5paH5LiN5Zyo5omL77yJ44CCCiAgYGluamVjdF90ZXh0YCDnmoTmr4/kuIDlj6XpgJDlrZflj5boh6rnjrDmnIkgMTgg5p2h5rqQ5p2h55uu77yM55SxCiAgYDAzX2FnZW5057yW6K+RL2Rlcml2ZV9iYXRjaDNfZW50cmllcy5weWAg5oyJ5Y+l5bqP5Y+35py65qKw5ou85o6l77yM5pyq5pS55YaZ44CB5pyq5qaC5ous44CB5pyq5paw5aKe44CCCi0gKirmp73kvY0qKu+8mntzbG90X2xpbmV9Ci0gKiror63kuYnovrnnlYwqKu+8mntib3VuZGFyeX0KICDnjrDmnIkgMTgg5p2h5YWo5Li65a2m56eR6L6F5a+85pSv5p6277yM5pys5p2h5piv44CM6YCQ5a2X5pGY5Y+l6YeN57uEICsg5paw5Zy65pmv5qCH562+44CN77yMCiAgKirkuI3mnoTmiJDlrrbplb/ngavmsJQgMeKAlDUg5YiG5qGj5YaF5a65KirvvJvliIbmoaPor53mnK/jgIHkupTnsbvouqvkvZPpooTorabooajjgIHkv67lpI3or53mnK/jgIEKICDlhY3otKPlo7DmmI7ljp/mloflnYfml6DmnaXmupDvvIzmjInkuI3nvJbpgKDnuqrlvovlnKggYGNvcHlfbWFwcGluZy5qc29uYCDkv53nlZkKICBgcGVuZGluZ19iYXRjaDNgIOWNoOS9jeOAggoKIyMg6YCQ5Y+l5p2l5rqQ77yI5Y+v5aSN6LeR5q+U5a+577yJCgp8IOWPpeW6jyB8IOadpea6kOadoeebriB8IOWOn+WPpeW6j+WPtyB8CnwtLS18LS0tfC0tLXwKe3Jvd3N9CgotIOexu+WeiyBgZXhwbGFuYXRvcnlg44CB5pegIGBjYWxsYWJsZWDjgIHml6AgYGV4aXRfd2hlbmDvvIzlj6rov5sgYGNodW5rcy5qc29ubGDvvIwKICDkuI3kuqcgYHNraWxsX3JlZ2lzdHJ5Lmpzb25gIOadoeebruOAggotIGB3aGVuYCDkuKXmoLzlpZfmqKHmnb/pm7blgY/nprvvvJvkuInmoaPlhajlkb3kuK3vvIzmnaHnm67nuqfkuI3lgZrlhoXlrrnliIbmoaMKICDvvIjlpoLpnIDliIbmoaPpobvmlLbnqoQgYHdoZW5gIOW5tuiusCBgdmFsdWVfYWRqdXN0ZWRg77yM6KeBIFBST1AtMDAwNSBrbm93bl9yaXNr77yJ44CCCiIiIgoKCmRlZiBsb2FkX3N0b2NrX3RleHRzKCk6CiAgICAiIiLlj6rlj5blrZjph48gMTgg5p2h77yI5o6S6Zmk5pys5om55qyh5paw5aKe77yJ77yM5L2c5Li65ZSv5LiA5Y+v5byV55So5paH5qGI5rGg44CCIiIiCiAgICB0ZXh0cyA9IHt9CiAgICB3aXRoIG9wZW4oQ0hVTktTLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGZvciBsaW5lIGluIGY6CiAgICAgICAgICAgIGlmIG5vdCBsaW5lLnN0cmlwKCk6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICByb3cgPSBqc29uLmxvYWRzKGxpbmUpCiAgICAgICAgICAgICMgY2h1bmtzLmpzb25sIOS4jeWQqyBzb3VyY2VfaWTvvIznlKjml6Lnn6XlrZjph48gaWQg5YmN57yAICsg5Zy65pmv6L+H5rukCiAgICAgICAgICAgIGlmIHJvd1sic2NlbmFyaW8iXSA9PSAicGFyZW50X2VzY2FsYXRpb24iOgogICAgICAgICAgICAgICAgY29udGludWUKICAgICAgICAgICAgdGV4dHNbcm93WyJpZCJdXSA9IHJvd1siaW5qZWN0X3RleHQiXQogICAgcmV0dXJuIHRleHRzCgoKZGVmIHNwbGl0X3NlbnRlbmNlcyh0ZXh0KToKICAgIHJldHVybiBbcC5zdHJpcCgpIGZvciBwIGluIHRleHQucmVwbGFjZSgiXG4iLCAiIikuc3BsaXQoIuOAgiIpXQoKCmRlZiBtYWluKCk6CiAgICBzdG9jayA9IGxvYWRfc3RvY2tfdGV4dHMoKQogICAgaWYgbGVuKHN0b2NrKSAhPSAxODoKICAgICAgICBwcmludChmIltkZXJpdmVdIOWtmOmHj+aWh+ahiOaxoOW6lOS4uiAxOCDmnaHvvIzlrp7pmYUge2xlbihzdG9jayl9IikKICAgICAgICByZXR1cm4gMQogICAgb3MubWFrZWRpcnMoT1VUX0RJUiwgZXhpc3Rfb2s9VHJ1ZSkKCiAgICBmb3IgZCBpbiBERVJJVkFUSU9OUzoKICAgICAgICBwYXJ0cywgcm93cyA9IFtdLCBbXQogICAgICAgIGZvciBpLCAoc3JjLCBpZHgpIGluIGVudW1lcmF0ZShkWyJzZW50ZW5jZXMiXSwgMSk6CiAgICAgICAgICAgIGlmIHNyYyBub3QgaW4gc3RvY2s6CiAgICAgICAgICAgICAgICBwcmludChmIltkZXJpdmVdIHtkWydpZCddfSDlvJXnlKjkuobkuI3lrZjlnKjnmoTmnaXmupDmnaHnm64ge3NyY30iKQogICAgICAgICAgICAgICAgcmV0dXJuIDEKICAgICAgICAgICAgc2VncyA9IHNwbGl0X3NlbnRlbmNlcyhzdG9ja1tzcmNdKQogICAgICAgICAgICBpZiBpZHggPj0gbGVuKHNlZ3MpIG9yIG5vdCBzZWdzW2lkeF06CiAgICAgICAgICAgICAgICBwcmludChmIltkZXJpdmVdIHtkWydpZCddfSDlj6Xluo/lj7fotornlYzvvJp7c3JjfVt7aWR4fV0iKQogICAgICAgICAgICAgICAgcmV0dXJuIDEKICAgICAgICAgICAgc2VnID0gc2Vnc1tpZHhdCiAgICAgICAgICAgICMg6YCQ5a2X5Y+v5rqv5pat6KiA77ya54mH5q615b+F5piv5p+Q5p2h5a2Y6YePIGluamVjdF90ZXh0IOeahOi/nue7reWtkOS4sgogICAgICAgICAgICBpZiBub3QgYW55KHNlZyBpbiB0IGZvciB0IGluIHN0b2NrLnZhbHVlcygpKToKICAgICAgICAgICAgICAgIHByaW50KGYiW2Rlcml2ZV0ge2RbJ2lkJ119IOesrCB7aX0g5Y+l6Z2e6YCQ5a2X5Y+v5rqv77yae3NlZ1s6NDBdfSIpCiAgICAgICAgICAgICAgICByZXR1cm4gMQogICAgICAgICAgICBwYXJ0cy5hcHBlbmQoc2VnKQogICAgICAgICAgICByb3dzLmFwcGVuZChmInwge2l9IHwgYHtzcmN9YCB8IFt7aWR4fV0gfCIpCgogICAgICAgIGluamVjdF90ZXh0ID0gIuOAgiIuam9pbihwYXJ0cykgKyAi44CCXG4iCiAgICAgICAgdGV4dF9ibG9jayA9ICIiLmpvaW4oIiAgIiArIGxuICsgIlxuIiBmb3IgbG4gaW4gaW5qZWN0X3RleHQucnN0cmlwKCJcbiIpLnNwbGl0KCJcbiIpKQogICAgICAgIGZtID0gRk1fVE1QTC5mb3JtYXQoaWQ9ZFsiaWQiXSwgZmxhZz1kWyJmbGFnIl0sIHRleHQ9dGV4dF9ibG9jaykKICAgICAgICBzbG90X2xpbmUgPSAoZiJge2RbJ3Nsb3QnXX1g77yI5om55qyhIDMg5Zue5aGr5Li6IG1hcHBlZO+8iSIgaWYgZFsic2xvdCJdCiAgICAgICAgICAgICAgICAgICAgIGVsc2UgIuaXoO+8iOe6r+i/kOihjOaXtiBgYWlfbGluZWAg5qOA57Si5YCZ6YCJ77yM5LiN5Y2g6Z2Z5oCB5qe95L2N77yJIikKICAgICAgICBib2R5ID0gQk9EWV9UTVBMLmZvcm1hdCgKICAgICAgICAgICAgaWQ9ZFsiaWQiXSwgdGl0bGU9ZFsidGl0bGUiXSwgc2xvdF9saW5lPXNsb3RfbGluZSwKICAgICAgICAgICAgYm91bmRhcnk9ZFsiYm91bmRhcnkiXSwgcm93cz0iXG4iLmpvaW4ocm93cykpCiAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihPVVRfRElSLCBkWyJpZCJdICsgIi5tZCIpCiAgICAgICAgd2l0aCBvcGVuKHBhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmbSArIGJvZHkpCgogICAgICAgICMg5Zue6K+75qCh6aqM77yaZnJvbnRtYXR0ZXIg5Y+v6Kej5p6Q44CBd2hlbiDmmK/liJfooajjgIHml6AgY2FsbGFibGUgLyBleGl0X3doZW4KICAgICAgICBzeXMucGF0aC5pbnNlcnQoMCwgb3MucGF0aC5qb2luKEhFUkUsICJ2YWxpZGF0b3JzIikpCiAgICAgICAgZnJvbSBfY29tbW9uIGltcG9ydCBwYXJzZV9mcm9udG1hdHRlcgogICAgICAgIHdpdGggb3BlbihwYXRoLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgICAgICBnb3QgPSBwYXJzZV9mcm9udG1hdHRlcihmLnJlYWQoKSkKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShnb3QsIGRpY3QpIG9yIGdvdC5nZXQoInNjZW5hcmlvIikgIT0gInBhcmVudF9lc2NhbGF0aW9uIjoKICAgICAgICAgICAgcHJpbnQoZiJbZGVyaXZlXSB7ZFsnaWQnXX0gZnJvbnRtYXR0ZXIg5Zue6K+75aSx6LSlIikKICAgICAgICAgICAgcmV0dXJuIDEKICAgICAgICBpZiBub3QgaXNpbnN0YW5jZShnb3RbIndoZW4iXVsicGFyZW50X2FmZmVjdF9sZXZlbCJdLCBsaXN0KToKICAgICAgICAgICAgcHJpbnQoZiJbZGVyaXZlXSB7ZFsnaWQnXX0gd2hlbiDmnKrlhpnmiJDliJfooajvvIhvcD1pbu+8iSIpCiAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgaWYgImNhbGxhYmxlIiBpbiBnb3Qgb3IgImV4aXRfd2hlbiIgaW4gZ290OgogICAgICAgICAgICBwcmludChmIltkZXJpdmVdIHtkWydpZCddfSDop6Pph4rmgKfmnaHnm67kuI3lvpflkKsgY2FsbGFibGUgLyBleGl0X3doZW4iKQogICAgICAgICAgICByZXR1cm4gMQogICAgICAgIHByaW50KGYiICBbT0tdIHtkWydpZCddfSAg5Y+l5pWwPXtsZW4ocGFydHMpfSAgc2xvdD17ZFsnc2xvdCddIG9yICfigJQnfSIpCgogICAgcHJpbnQoZiJbZGVyaXZlXSA2IOadoSBleHBsYW5hdG9yeSDmnaHnm67lhpnlh7og4oaSIHtPVVRfRElSfe+8m+mAkOWtl+WPr+a6r+aWreiogOWFqOmAmui/hyIpCiAgICByZXR1cm4gMAoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBzeXMuZXhpdChtYWluKCkpCg==
+# -*- coding: utf-8 -*-
+"""阶段 B 批次 3 · 书籍F 源条目派生脚本（逐字可溯、可复跑、可证伪）
+
+纪律（用户 2026-11-13 阶段 B 方案）：
+  - 不依赖 parent-cool 原文；文案只从现有 18 条源条目取；
+  - 映射不上的槽位标 pending_batch3，**不编造**。
+
+本脚本因此不手写任何一句 inject_text：从 chunks.jsonl 现有 18 条的
+inject_text 按「。」切句，按 DERIVATIONS 指定的 (来源条目, 句序号)
+取原句，用「。」重新拼接。每条新 inject_text 的每一句都必定是某条
+现有 inject_text 的逐字子串；parent_escalation_tests.py 会用独立的
+「不编造断言」再验一遍，可证伪。
+
+用法：E:/ANACONDA/python.exe 03_agent编译/derive_batch3_entries.py
+输出：02_内容包/书籍F_家长急救/*.md（6 条 explanatory 条目）
+"""
+import os
+import sys
+import json
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.abspath(os.path.join(HERE, ".."))
+CHUNKS = os.path.join(HERE, "output", "chunks.jsonl")
+OUT_DIR = os.path.join(ROOT, "02_内容包", "书籍F_家长急救")
+STOCK_SOURCES = {"project_original", "family_emotion_support"}
+
+# (来源条目 id, 按「。」切分后的句序号)
+DERIVATIONS = [
+    {
+        "id": "pc_escalation_restate_01",
+        "slot": "script_card_08",
+        "flag": "safe",
+        "title": "火气上来时先复述，别急着给办法",
+        "boundary": "复述与分辨四类情况；不宣称按火气 1—5 分档。",
+        "sentences": [
+            ("fes_parent_restate_01", 0),
+            ("fes_parent_restate_01", 1),
+            ("fes_parent_restate_01", 2),
+            ("fes_parent_restate_01", 4),
+            ("fes_parent_script_01", 5),
+        ],
+    },
+    {
+        "id": "pc_escalation_stop_01",
+        "slot": "script_card_09",
+        "flag": "caution",
+        "title": "出现压不住火的信号就整个停下、离开书桌",
+        "boundary": "含专业转介边界；本句原文写的是「孩子明显崩溃…或家长自己已经压不住火」，未改写为家长身体预警。",
+        "sentences": [
+            ("fes_parent_pause_signal_01", 0),
+            ("fes_parent_settle_01", 0),
+            ("fes_parent_pause_signal_01", 1),
+            ("fes_parent_pause_signal_01", 3),
+            ("fes_parent_pause_signal_01", 4),
+        ],
+    },
+    {
+        "id": "pc_escalation_scope_01",
+        "slot": "script_card_10",
+        "flag": "safe",
+        "title": "只讲最近一次具体场景，不铺开到习惯与作息",
+        "boundary": "场景收窄与按情绪先处理；不构成火气分级。",
+        "sentences": [
+            ("fes_parent_single_scene_01", 0),
+            ("fes_parent_single_scene_01", 1),
+            ("fes_parent_single_scene_01", 4),
+            ("fes_parent_single_scene_01", 7),
+            ("fes_parent_settle_01", 8),
+        ],
+    },
+    {
+        "id": "pc_escalation_one_step_01",
+        "slot": "script_card_11",
+        "flag": "safe",
+        "title": "今晚只留一个能收尾的动作，做完就收",
+        "boundary": "「做完就收」的边界；不替代三档撤退分级文案。",
+        "sentences": [
+            ("fes_parent_low_pressure_01", 0),
+            ("fes_parent_one_night_scope_01", 1),
+            ("fes_parent_low_pressure_01", 2),
+            ("fes_parent_settle_01", 7),
+            ("fes_parent_one_night_scope_01", 5),
+        ],
+    },
+    {
+        "id": "pc_escalation_refer_01",
+        "slot": "script_card_12",
+        "flag": "caution",
+        "title": "专业支持边界与不贴标签的说法",
+        "boundary": "沿用本库既有边界句；免责声明原文不在手，未自撰。",
+        "sentences": [
+            ("fes_parent_pause_signal_01", 2),
+            ("fes_parent_script_01", 3),
+            ("fes_parent_script_01", 4),
+            ("fes_parent_script_01", 5),
+            ("fes_parent_pause_signal_01", 4),
+        ],
+    },
+    {
+        "id": "pc_escalation_no_label_01",
+        "slot": None,   # 纯运行时检索候选，不占静态槽位
+        "flag": "safe",
+        "title": "同一句提醒换个说法，不下结论不贴标签",
+        "boundary": "第 6 条只服务 ai_line 动态检索，不映射到任何静态槽位，避免为凑数硬塞。",
+        "sentences": [
+            ("fes_parent_script_01", 0),
+            ("fes_parent_script_01", 1),
+            ("fes_parent_script_01", 2),
+            ("fes_parent_script_01", 3),
+            ("fes_parent_script_01", 5),
+        ],
+    },
+]
+
+FM_TMPL = """---
+id: {id}
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: {flag}
+last_reviewed: 2026-11-13
+source_id: parent_cool
+source_version: "2026-11-13"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0005
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+{text}---
+"""
+
+BODY_TMPL = """
+# {id}
+
+{title}
+
+- **字段依据**：`PROP-0004`（`parent_affect_level` 进 `when` 白名单）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  后者写在 `proposal_ref`，前者在本行留痕，双向可追溯。
+- **来源**：`parent_cool` 接入卡（`project_internal`，原文不在手）。
+  `inject_text` 的每一句逐字取自现有 18 条源条目，由
+  `03_agent编译/derive_batch3_entries.py` 按句序号机械拼接，未改写、未概括、未新增。
+- **槽位**：{slot_line}
+- **语义边界**：{boundary}
+  现有 18 条全为学科辅导支架，本条是「逐字摘句重组 + 新场景标签」，
+  **不构成家长火气 1—5 分档内容**；分档话术、五类身体预警表、修复话术、
+  免责声明原文均无来源，按不编造纪律在 `copy_mapping.json` 保留
+  `pending_batch3` 占位。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源条目 | 原句序号 |
+|---|---|---|
+{rows}
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。
+- `when` 严格套模板零偏离；三档全命中，条目级不做内容分档
+  （如需分档须收窄 `when` 并记 `value_adjusted`，见 PROP-0005 known_risk）。
+"""
+
+
+def load_stock_texts():
+    """只取存量 18 条（排除本批次新增），作为唯一可引用文案池。"""
+    texts = {}
+    with open(CHUNKS, encoding="utf-8") as f:
+        for line in f:
+            if not line.strip():
+                continue
+            row = json.loads(line)
+            # chunks.jsonl 不含 source_id，用既知存量 id 前缀 + 场景过滤
+            if row["scenario"] == "parent_escalation":
+                continue
+            texts[row["id"]] = row["inject_text"]
+    return texts
+
+
+def split_sentences(text):
+    return [p.strip() for p in text.replace("\n", "").split("。")]
+
+
+def main():
+    stock = load_stock_texts()
+    if len(stock) != 18:
+        print(f"[derive] 存量文案池应为 18 条，实际 {len(stock)}")
+        return 1
+    os.makedirs(OUT_DIR, exist_ok=True)
+
+    for d in DERIVATIONS:
+        parts, rows = [], []
+        for i, (src, idx) in enumerate(d["sentences"], 1):
+            if src not in stock:
+                print(f"[derive] {d['id']} 引用了不存在的来源条目 {src}")
+                return 1
+            segs = split_sentences(stock[src])
+            if idx >= len(segs) or not segs[idx]:
+                print(f"[derive] {d['id']} 句序号越界：{src}[{idx}]")
+                return 1
+            seg = segs[idx]
+            # 逐字可溯断言：片段必是某条存量 inject_text 的连续子串
+            if not any(seg in t for t in stock.values()):
+                print(f"[derive] {d['id']} 第 {i} 句非逐字可溯：{seg[:40]}")
+                return 1
+            parts.append(seg)
+            rows.append(f"| {i} | `{src}` | [{idx}] |")
+
+        inject_text = "。".join(parts) + "。\n"
+        text_block = "".join("  " + ln + "\n" for ln in inject_text.rstrip("\n").split("\n"))
+        fm = FM_TMPL.format(id=d["id"], flag=d["flag"], text=text_block)
+        slot_line = (f"`{d['slot']}`（批次 3 回填为 mapped）" if d["slot"]
+                     else "无（纯运行时 `ai_line` 检索候选，不占静态槽位）")
+        body = BODY_TMPL.format(
+            id=d["id"], title=d["title"], slot_line=slot_line,
+            boundary=d["boundary"], rows="\n".join(rows))
+        path = os.path.join(OUT_DIR, d["id"] + ".md")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(fm + body)
+
+        # 回读校验：frontmatter 可解析、when 是列表、无 callable / exit_when
+        sys.path.insert(0, os.path.join(HERE, "validators"))
+        from _common import parse_frontmatter
+        with open(path, encoding="utf-8") as f:
+            got = parse_frontmatter(f.read())
+        if not isinstance(got, dict) or got.get("scenario") != "parent_escalation":
+            print(f"[derive] {d['id']} frontmatter 回读失败")
+            return 1
+        if not isinstance(got["when"]["parent_affect_level"], list):
+            print(f"[derive] {d['id']} when 未写成列表（op=in）")
+            return 1
+        if "callable" in got or "exit_when" in got:
+            print(f"[derive] {d['id']} 解释性条目不得含 callable / exit_when")
+            return 1
+        print(f"  [OK] {d['id']}  句数={len(parts)}  slot={d['slot'] or '—'}")
+
+    print(f"[derive] 6 条 explanatory 条目写出 → {OUT_DIR}；逐字可溯断言全通过")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

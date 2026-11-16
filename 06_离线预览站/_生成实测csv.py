@@ -1,1 +1,104 @@
-IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIC0qLSBjb2Rpbmc6IHV0Zi04IC0qLQoiIiIK5pCc57Si5a6e5rWL57uT5p6cLmNzdiDnlJ/miJDohJrmnKzvvIjlj6/lpI3nrpfvvIkKLSDku44gaW5kZXguaHRtbCDlhoXltYznmoQgUEFHRVMgSlNPTiDlpI3liLvmkJzntKLpgLvovpEKLSDku44g6YeN5a6a5ZCR6aG15L+d55WZ5riF5Y2VLmNzdiDor7vlj5YgMTgg5p2h5aOz6aG15qCH6aKYCi0g5a+5IDgg5Liq5p+l6K+i6K+N6YCQ5p2h57uf6K6h77ya5qiq5bmFL+i3s+i9rC/liY0xMOadoeagh+mimC/lo7PpobXljaDmr5Qv546w5a2Y5aOz6aG15qCH6aKY5ZG95Lit5pWwCui+k+WHuu+8muaQnOe0ouWunua1i+e7k+aenC5jc3YgKFVURi04IEJPTSkKIiIiCmltcG9ydCBjc3YsIGpzb24sIHJlLCBzeXMKZnJvbSBwYXRobGliIGltcG9ydCBQYXRoCgpST09UID0gUGF0aChfX2ZpbGVfXykucmVzb2x2ZSgpLnBhcmVudApIVE1MID0gUk9PVCAvICJpbmRleC5odG1sIgpDU1ZfSU4gPSBST09ULnBhcmVudCAvICIwM1/pm7bnlKjoja/ns7vnu5/phY3nva4iIC8gIumHjeWumuWQkemhteS/neeVmea4heWNlS5jc3YiCkNTVl9PVVQgPSBST09UIC8gIuaQnOe0ouWunua1i+e7k+aenC5jc3YiCgojIC0tLS0gMS4g5LuOIGluZGV4Lmh0bWwg5o+Q5Y+W5YaF5bWMIEpTIOS4reeahCBQQUdFUyAvIE1FREtXIC8gUkVESVJFQ1RfVEVSTVMgLS0tLQpodG1sID0gSFRNTC5yZWFkX3RleHQoZW5jb2Rpbmc9InV0Zi04IikKbSA9IHJlLnNlYXJjaChyIjxzY3JpcHQ+KFtcc1xTXSo/KTwvc2NyaXB0PiIsIGh0bWwpCmpzID0gbS5ncm91cCgxKQoKZGVmIGdyYWIobmFtZSwganMpOgogICAgbSA9IHJlLnNlYXJjaChyInZhciAlcyA9IChcWy4qP1xdKTsiICUgbmFtZSwganMsIHJlLlMpCiAgICByZXR1cm4ganNvbi5sb2FkcyhtLmdyb3VwKDEpKQoKUEFHRVMgPSBncmFiKCJQQUdFUyIsIGpzKQpNRURLVyA9IGdyYWIoIk1FREtXIiwganMpClJFRElSRUNUX1RFUk1TID0gZ3JhYigiUkVESVJFQ1RfVEVSTVMiLCBqcykKCiMgLS0tLSAyLiDor7vlj5YgMTgg5p2h5aOz6aG15qCH6aKY77yIQ1NWIOadg+Woge+8iSAtLS0tCnNoZWxsX3RpdGxlcyA9IFtdCndpdGggb3BlbihDU1ZfSU4sIGVuY29kaW5nPSJ1dGYtOC1zaWciLCBuZXdsaW5lPSIiKSBhcyBmOgogICAgZm9yIHJvdyBpbiBjc3YuRGljdFJlYWRlcihmKToKICAgICAgICB0ID0gKHJvdy5nZXQoIuivjeadoSIpIG9yICIiKS5zdHJpcCgpCiAgICAgICAgaWYgdDoKICAgICAgICAgICAgc2hlbGxfdGl0bGVzLmFwcGVuZCh0KQpwcmludCgi5aOz6aG15qCH6aKY5pWwOiAlZCIgJSBsZW4oc2hlbGxfdGl0bGVzKSkKCiMgLS0tLSAzLiDlpI3liLvmkJzntKLpgLvovpEgLS0tLQpkZWYgZG9fc2VhcmNoKHEpOgogICAgcWwgPSBxLnN0cmlwKCkubG93ZXIoKQogICAgbWVkX2hpdCA9IGFueShrdy5sb3dlcigpIGluIHFsIGZvciBrdyBpbiBNRURLVykKICAgIHJlZGlyZWN0X2hpdCA9IGFueShrdy5sb3dlcigpIGluIHFsIGZvciBrdyBpbiBSRURJUkVDVF9URVJNUykKICAgIGhpdHMgPSBbcCBmb3IgcCBpbiBQQUdFUyBpZiBxbCBpbiAocFsidGl0bGUiXSArICIgIiArIHBbInRleHQiXSkubG93ZXIoKV0KICAgIGhpdHMuc29ydChrZXk9bGFtYmRhIHA6IDAgaWYgcWwgaW4gcFsidGl0bGUiXS5sb3dlcigpIGVsc2UgMSkKICAgIHJldHVybiBtZWRfaGl0LCByZWRpcmVjdF9oaXQsIGhpdHMKCiMgLS0tLSA0LiA4IOS4quafpeivouivjSAtLS0tCnF1ZXJpZXMgPSBbCiAgICAoIuiNr+eJqSIsICLpgJrnlKjor40iKSwKICAgICgi5YmC6YePIiwgIumAmueUqOivjSIpLAogICAgKCLlia/kvZznlKgiLCAi6YCa55So6K+NIiksCiAgICAoIuimgeS4jeimgeWQg+iNryIsICLpgJrnlKjor40iKSwKICAgICgi5LiT5rOo6L6+IiwgIuiNr+WTgeWQjSIpLAogICAgKCLmi6nmgJ3ovr4iLCAi6I2v5ZOB5ZCNIiksCiAgICAoIuS9nOS4miIsICLmma7pgJror40iKSwKICAgICgi6ICB5biIIiwgIuaZrumAmuivjSIpLApdCgpyb3dzID0gW10KZm9yIHEsIHF0eXBlIGluIHF1ZXJpZXM6CiAgICBtZWRfaGl0LCByZWRpcmVjdF9oaXQsIGhpdHMgPSBkb19zZWFyY2gocSkKICAgIHRvcDEwID0gaGl0c1s6MTBdCiAgICB0aXRsZXMgPSBbKCIlcyDCtyAlcyIgJSAocFsiaWQiXSwgcFsidGl0bGUiXSkpIGZvciBwIGluIHRvcDEwXQogICAgIyDlo7PpobXljaDmr5TvvJrpooTop4jmkJzntKLntKLlvJXph4zlj6rmnIkgMTkg5Liq5YaF5a656aG177yM5aOz6aG15LiN5Zyo57Si5byV6YeM77yM5omA5Lul5oGS5Li6IDAKICAgIHNoZWxsX2luX3Jlc3VsdHMgPSBbdCBmb3IgdCBpbiB0aXRsZXMgaWYgYW55KHNoZWxsIGluIHQgZm9yIHNoZWxsIGluIHNoZWxsX3RpdGxlcyldCiAgICAjIOeOsOWtmOWjs+mhteagh+mimOWRveS4reaVsO+8mjE4IOS4quWjs+mhteagh+mimOS4reWQq+ivpeafpeivouivjeeahOadoeaVsAogICAgc2hlbGxfdGl0bGVfaGl0cyA9IFtzIGZvciBzIGluIHNoZWxsX3RpdGxlcyBpZiBxIGluIHNdCiAgICByb3dzLmFwcGVuZCh7CiAgICAgICAgIuafpeivouivjSI6IHEsCiAgICAgICAgIuivjeadoeexu+WeiyI6IHF0eXBlLAogICAgICAgICLliY0xMOadoee7k+aenOadoeaVsCI6IGxlbihoaXRzKSwKICAgICAgICAi5YW25Lit6YeN5a6a5ZCR5aOz6aG15p2h5pWwIjogbGVuKHNoZWxsX2luX3Jlc3VsdHMpLAogICAgICAgICLmmK/lkKblh7rnjrDmqKrluYUiOiAi5pivIiBpZiBtZWRfaGl0IGVsc2UgIuWQpiIsCiAgICAgICAgIuaYr+WQpuWHuueOsOi3s+i9rOaPkOekuiI6ICLmmK8iIGlmIHJlZGlyZWN0X2hpdCBlbHNlICLlkKYiLAogICAgICAgICLot7PovazokL3ngrkiOiAiQTA277yI55So6I2v5YWc5bqV6aG1IG1lZGljYXRpb24tYm91bmRhcnnvvIkiIGlmIHJlZGlyZWN0X2hpdCBlbHNlICLigJQiLAogICAgICAgICLnjrDlrZjlo7PpobXmoIfpopjlkb3kuK3mlbAiOiBsZW4oc2hlbGxfdGl0bGVfaGl0cyksCiAgICAgICAgIuWJjTEw5p2h57uT5p6c5qCH6aKYKOeUqDvliIbpmpQpIjogIjsgIi5qb2luKHRpdGxlcyksCiAgICAgICAgIuWFtuS4reWjs+mhteagh+mimCI6ICI7ICIuam9pbihzaGVsbF9pbl9yZXN1bHRzKSwKICAgIH0pCgojIC0tLS0gNS4g5YaZIENTViAoVVRGLTggQk9NKSAtLS0tCk1FQVNVUkVNRU5UX0JBU0lTID0gIumihOiniOermeacrOWcsOajgOe0ouaooeaLn++8iOmdnuecn+WuniBCb29rU3RhY2sg56uZ5YaF5pCc57Si77yJIgpmaWVsZG5hbWVzID0gWyLmtYvph4/lj6PlvoQiLCLmn6Xor6Lor40iLCLor43mnaHnsbvlnosiLCLliY0xMOadoee7k+aenOadoeaVsCIsIuWFtuS4remHjeWumuWQkeWjs+mhteadoeaVsCIsCiAgICAgICAgICAgICAgIuaYr+WQpuWHuueOsOaoquW5hSIsIuaYr+WQpuWHuueOsOi3s+i9rOaPkOekuiIsIui3s+i9rOiQveeCuSIsCiAgICAgICAgICAgICAgIueOsOWtmOWjs+mhteagh+mimOWRveS4reaVsCIsIuWJjTEw5p2h57uT5p6c5qCH6aKYKOeUqDvliIbpmpQpIiwi5YW25Lit5aOz6aG15qCH6aKYIl0Kd2l0aCBvcGVuKENTVl9PVVQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04LXNpZyIsIG5ld2xpbmU9IiIpIGFzIGY6CiAgICB3ID0gY3N2LkRpY3RXcml0ZXIoZiwgZmllbGRuYW1lcz1maWVsZG5hbWVzKQogICAgdy53cml0ZWhlYWRlcigpCiAgICBmb3IgciBpbiByb3dzOgogICAgICAgIHJvd19vdXQgPSB7Iua1i+mHj+WPo+W+hCI6IE1FQVNVUkVNRU5UX0JBU0lTfQogICAgICAgIHJvd19vdXQudXBkYXRlKHIpCiAgICAgICAgdy53cml0ZXJvdyhyb3dfb3V0KQoKcHJpbnQoIui+k+WHujogJXMiICUgQ1NWX09VVCkKcHJpbnQoIuihjOaVsCjlkKvooajlpLQpOiAlZCIgJSAobGVuKHJvd3MpICsgMSkpCnByaW50KCLliJfmlbA6ICVkIiAlIGxlbihmaWVsZG5hbWVzKSkKcHJpbnQoKQpwcmludCgiPT09IOWFs+mUrue7n+iuoSA9PT0iKQpmb3IgciBpbiByb3dzOgogICAgcHJpbnQoIiVzXHTmqKrluYU9JXNcdOi3s+i9rD0lc1x057uT5p6c5pWwPSVkXHTlo7PpobXlkb3kuK09JWRcdOeOsOWtmOWjs+mhteagh+mimOWRveS4rT0lZCIKICAgICAgICAgICUgKHJbIuafpeivouivjSJdLCByWyLmmK/lkKblh7rnjrDmqKrluYUiXSwgclsi5piv5ZCm5Ye6546w6Lez6L2s5o+Q56S6Il0sCiAgICAgICAgICAgICByWyLliY0xMOadoee7k+aenOadoeaVsCJdLCByWyLlhbbkuK3ph43lrprlkJHlo7PpobXmnaHmlbAiXSwgclsi546w5a2Y5aOz6aG15qCH6aKY5ZG95Lit5pWwIl0pKQo=
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+搜索实测结果.csv 生成脚本（可复算）
+- 从 index.html 内嵌的 PAGES JSON 复刻搜索逻辑
+- 从 重定向页保留清单.csv 读取 18 条壳页标题
+- 对 8 个查询词逐条统计：横幅/跳转/前10条标题/壳页占比/现存壳页标题命中数
+输出：搜索实测结果.csv (UTF-8 BOM)
+"""
+import csv, json, re, sys
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent
+HTML = ROOT / "index.html"
+CSV_IN = ROOT.parent / "03_零用药系统配置" / "重定向页保留清单.csv"
+CSV_OUT = ROOT / "搜索实测结果.csv"
+
+# ---- 1. 从 index.html 提取内嵌 JS 中的 PAGES / MEDKW / REDIRECT_TERMS ----
+html = HTML.read_text(encoding="utf-8")
+m = re.search(r"<script>([\s\S]*?)</script>", html)
+js = m.group(1)
+
+def grab(name, js):
+    m = re.search(r"var %s = (\[.*?\]);" % name, js, re.S)
+    return json.loads(m.group(1))
+
+PAGES = grab("PAGES", js)
+MEDKW = grab("MEDKW", js)
+REDIRECT_TERMS = grab("REDIRECT_TERMS", js)
+
+# ---- 2. 读取 18 条壳页标题（CSV 权威） ----
+shell_titles = []
+with open(CSV_IN, encoding="utf-8-sig", newline="") as f:
+    for row in csv.DictReader(f):
+        t = (row.get("词条") or "").strip()
+        if t:
+            shell_titles.append(t)
+print("壳页标题数: %d" % len(shell_titles))
+
+# ---- 3. 复刻搜索逻辑 ----
+def do_search(q):
+    ql = q.strip().lower()
+    med_hit = any(kw.lower() in ql for kw in MEDKW)
+    redirect_hit = any(kw.lower() in ql for kw in REDIRECT_TERMS)
+    hits = [p for p in PAGES if ql in (p["title"] + " " + p["text"]).lower()]
+    hits.sort(key=lambda p: 0 if ql in p["title"].lower() else 1)
+    return med_hit, redirect_hit, hits
+
+# ---- 4. 8 个查询词 ----
+queries = [
+    ("药物", "通用词"),
+    ("剂量", "通用词"),
+    ("副作用", "通用词"),
+    ("要不要吃药", "通用词"),
+    ("专注达", "药品名"),
+    ("择思达", "药品名"),
+    ("作业", "普通词"),
+    ("老师", "普通词"),
+]
+
+rows = []
+for q, qtype in queries:
+    med_hit, redirect_hit, hits = do_search(q)
+    top10 = hits[:10]
+    titles = [("%s · %s" % (p["id"], p["title"])) for p in top10]
+    # 壳页占比：预览搜索索引里只有 19 个内容页，壳页不在索引里，所以恒为 0
+    shell_in_results = [t for t in titles if any(shell in t for shell in shell_titles)]
+    # 现存壳页标题命中数：18 个壳页标题中含该查询词的条数
+    shell_title_hits = [s for s in shell_titles if q in s]
+    rows.append({
+        "查询词": q,
+        "词条类型": qtype,
+        "前10条结果条数": len(hits),
+        "其中重定向壳页条数": len(shell_in_results),
+        "是否出现横幅": "是" if med_hit else "否",
+        "是否出现跳转提示": "是" if redirect_hit else "否",
+        "跳转落点": "A06（用药兜底页 medication-boundary）" if redirect_hit else "—",
+        "现存壳页标题命中数": len(shell_title_hits),
+        "前10条结果标题(用;分隔)": "; ".join(titles),
+        "其中壳页标题": "; ".join(shell_in_results),
+    })
+
+# ---- 5. 写 CSV (UTF-8 BOM) ----
+MEASUREMENT_BASIS = "预览站本地检索模拟（非真实 BookStack 站内搜索）"
+fieldnames = ["测量口径","查询词","词条类型","前10条结果条数","其中重定向壳页条数",
+              "是否出现横幅","是否出现跳转提示","跳转落点",
+              "现存壳页标题命中数","前10条结果标题(用;分隔)","其中壳页标题"]
+with open(CSV_OUT, "w", encoding="utf-8-sig", newline="") as f:
+    w = csv.DictWriter(f, fieldnames=fieldnames)
+    w.writeheader()
+    for r in rows:
+        row_out = {"测量口径": MEASUREMENT_BASIS}
+        row_out.update(r)
+        w.writerow(row_out)
+
+print("输出: %s" % CSV_OUT)
+print("行数(含表头): %d" % (len(rows) + 1))
+print("列数: %d" % len(fieldnames))
+print()
+print("=== 关键统计 ===")
+for r in rows:
+    print("%s\t横幅=%s\t跳转=%s\t结果数=%d\t壳页命中=%d\t现存壳页标题命中=%d"
+          % (r["查询词"], r["是否出现横幅"], r["是否出现跳转提示"],
+             r["前10条结果条数"], r["其中重定向壳页条数"], r["现存壳页标题命中数"]))

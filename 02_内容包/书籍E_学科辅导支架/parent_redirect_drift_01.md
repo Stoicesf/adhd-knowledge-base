@@ -1,1 +1,34 @@
-LS0tCmlkOiBwYXJlbnRfcmVkaXJlY3RfZHJpZnRfMDEKdHlwZTogcHJvY2VkdXJhbAphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBhdHRlbnRpb25fZHJpZnQKZXhlY190YXJnZXQ6IOaKkeWItuaOp+WItgpldmlkZW5jZV9sZXZlbDogQgpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IHNhZmUKbGFzdF9yZXZpZXdlZDogMjAyNi0xMS0xMgpzb3VyY2VfaWQ6IHByb2plY3Rfb3JpZ2luYWwKc291cmNlX3ZlcnNpb246ICIyMDI2LTExIgp0ZW1wbGF0ZV9yZWY6IFBUX0RSSUZUXzAxCndoZW46CiAgdGFza19waGFzZTogW+aJp+ihjF0KICBhdHRlbnRpb25fc3RhdGU6IFtkcmlmdF0KICBjb25zZWN1dGl2ZV9mYWlsdXJlczogIj49MiIKICBvd25lcnNoaXA6IFtjaGlsZC1sZWFkaW5nLCBwYXJlbnQtaGludGluZ10KZXhpdF93aGVuOgogIGF0dGVudGlvbl9zdGF0ZTogW29uLXRhc2tdCiAgY29uc2VjdXRpdmVfc3VjY2Vzc2VzOiAiPj0yIgppbmplY3RfdGV4dDogfAogIOWtqeWtkOi1sOelnuaXtu+8jOWFiOS4jeimgemHjeWkjemimOebru+8jOS5n+WIq+i/nuedgOeUqeWHuuS4ieadoeaMh+S7pOOAguWPr+S7peaMh+edgOW9k+WJjei/meS4gOatpeivtO+8muOAjOS9oOeOsOWcqOWPqumcgOimgeeci+i/meS4gOWPpeivne+8jOaJvuWHuuS4gOS4quW3suefpeaVsOWtl+OAguOAjeaKiuahjOS4iuWFtuS7luS4nOilv+aUtui1sO+8jOahjOinkuaUvuS4gOS4queci+W+l+ingeeahOiuoeaXtuWZqOOAguS4jeimgeivtOeahOaYr++8muOAjOS9oOaAjuS5iOWPiOi1sOelnuS6huOAjeOAjOWImuaJjeS4jeaYr+iusui/h+S6huWQl+OAjeOAguetieS7luWBmuWujOi/meS4gOatpeOAgeWkjei/sOS4gOmBje+8jOWGjeivtOS4i+S4gOadoeOAgueOr+Wig+aUueeugOWNle+8jOetieS6juabv+S7luaKiuaKouazqOaEj+WKm+eahOW+heWKnuaPkOWJjeWIoOaOieOAggpjYWxsYWJsZToKICBuYW1lOiByZWRpcmVjdF9sb3dfYWZmZWN0CiAgcGFyYW1zOiB7c2lnbmFsOiAiZW51bShkcmlmdCwgZmlkZ2V0LCBnYXplX29mZikifQogIHJldHVybnM6IHtzY3JpcHQ6IHN0cmluZywgYXZvaWQ6IHN0cmluZ30KICBzaWRlX2VmZmVjdDogbm9uZQotLS0KCiMgcGFyZW50X3JlZGlyZWN0X2RyaWZ0XzAxCgrmtL7nlJ/oh6rvvJpCMDFf5YaZ5L2c5Lia6aKR57mB56a75bqn77yI5a625bqt546v5aKD6LCD5pW055qEIDUg5Liq5YW35L2T5Yqo5L2c77yJwrfjgIzmjIfku6TkuIDmrKHkuIDmnaEgLyDorqHml7blmajlj6/op4EgLyDkuI3opoHph43lpI3popjnm67jgI0KCumdouWQkeWutumVvyDCtyDotbDnpZ7ph43lrprlkJHvvIjkvY7mg4Xnu6rvvInjgILkvZzkuLogc2tpbGwg5Li75Lqn54mp77yMaW5qZWN0X3RleHQg5ZCM5pe25L2c5Li65Y+v6LCD6K+V5paH5pysIGZhbGxiYWNr44CCCg==
+---
+id: parent_redirect_drift_01
+type: procedural
+audience: parent
+scenario: attention_drift
+exec_target: 抑制控制
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_DRIFT_01
+when:
+  task_phase: [执行]
+  attention_state: [drift]
+  consecutive_failures: ">=2"
+  ownership: [child-leading, parent-hinting]
+exit_when:
+  attention_state: [on-task]
+  consecutive_successes: ">=2"
+inject_text: |
+  孩子走神时，先不要重复题目，也别连着甩出三条指令。可以指着当前这一步说：「你现在只需要看这一句话，找出一个已知数字。」把桌上其他东西收走，桌角放一个看得见的计时器。不要说的是：「你怎么又走神了」「刚才不是讲过了吗」。等他做完这一步、复述一遍，再说下一条。环境改简单，等于替他把抢注意力的待办提前删掉。
+callable:
+  name: redirect_low_affect
+  params: {signal: "enum(drift, fidget, gaze_off)"}
+  returns: {script: string, avoid: string}
+  side_effect: none
+---
+
+# parent_redirect_drift_01
+
+派生自：B01_写作业频繁离座（家庭环境调整的 5 个具体动作）·「指令一次一条 / 计时器可见 / 不要重复题目」
+
+面向家长 · 走神重定向（低情绪）。作为 skill 主产物，inject_text 同时作为可调试文本 fallback。

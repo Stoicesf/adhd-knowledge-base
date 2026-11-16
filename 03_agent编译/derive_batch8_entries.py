@@ -1,1 +1,232 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q61IEIg5om55qyhIDggwrcg5Lmm57GNRiDmupDmnaHnm67mtL7nlJ/ohJrmnKzvvIjkv67lpI3ljaEgKyDkupTnsbvpooTorabvvJvpgJDlrZflj6/muq/jgIHlj6/or4HkvKrvvIkKCuiDjOaZr++8mjYg5LiqIHBlbmRpbmdfYmF0Y2gzIOanveS9je+8iHJlcGFpcl9jYXJkXzAxICsgd2FybmluZ19zaWduc1/lkbzlkLgv6IKM6IKJL+WjsOmfsy8K6IO45Y+jL+W/teWktO+8ieWcqOaJueasoSAzLzUg5Z2H5peg5p2l5rqQ44CC5om55qyhIDgg55So5oi35o6I5p2D6LWwIEIg6Lev57q/77ya5oqT5Y+W5aSW6YOo5p2l5rqQ6YCQ5a2X6JC9CjAwX+adpea6kOayu+eQhi9fc3RhZ2luZy8g55WZIFNIQTI1Nu+8jOacrOiEmuacrOS7juS4reaWh+adpea6kOmAkOWtl+aRmOWPpeeUn+aIkCA2IOadoSBleHBsYW5hdG9yeQrmupDmnaHnm67jgIIKCuivreiogOijgeWGs++8iOeUqOaIt+aJueasoSA4IOaLjeadv+OAjOS4reaWh+a0vueUnyArIOiLseaWh+eVmeeXleOAje+8ie+8mgogIC0g5Lit5paH5p2l5rqQ77yIZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnQgLyBhaWFkaGRfeWVsbF9yZXBhaXLvvInihpIg6YCQ5a2X5rS+55Sf77ybCiAgLSDoi7HmlofmnaXmupDvvIhuaHNfaW5mb3JtIC8gcGtqY29hY2hpbmcgLyBjYWxtaG9tZe+8ieKGkiDku4UgX3N0YWdpbmcg55WZ55eV5L2c5Y+C54Wn77yMCiAgICDkuI3mtL7nlJ/vvIjpnaLlkJHkuK3mloflrrbplb/nmoTlt6XlhbfvvIzoi7Hmlofor53mnK/kuI3nm7TmjqXov5sgaW5qZWN0X3RleHTvvInjgIIKCue6quW+i++8iOS4jiBkZXJpdmVfYmF0Y2gzX2VudHJpZXMucHkg5ZCM5rqQ77yJ77yaCiAgLSDkuI3nvJbpgKDvvJppbmplY3RfdGV4dCDnmoTmr4/kuIDlj6Xlv4XpobvmmK/mn5Dku70gc3RhZ2luZyDljp/mlofnmoTpgJDlrZflrZDkuLLvvJsKICAtIOS4jeaJi+WGmeaWh+ahiO+8muWPquaMiSAo5p2l5rqQ5paH5Lu2LCDpgJDlrZfniYfmrrUpIOacuuaisOaRmOWPlu+8jOeJh+autemXtOeUqOS4reaWh+WPpeWPt+OAjOOAguOAjeaLvOaOpe+8mwogIC0gcGFyZW50X2VzY2FsYXRpb25fdGVzdHMucHkg55So54us56uL55qE44CM5LiN57yW6YCg5pat6KiA44CN5YaN6aqM5LiA6YGN77yM5Y+v6K+B5Lyq44CCCgrnlKjms5XvvJpFOi9BTkFDT05EQS9weXRob24uZXhlIDAzX2FnZW5057yW6K+RL2Rlcml2ZV9iYXRjaDhfZW50cmllcy5weQrovpPlh7rvvJowMl/lhoXlrrnljIUv5Lmm57GNRl/lrrbplb/mgKXmlZEvKi5tZO+8iDYg5p2hIGV4cGxhbmF0b3J5IOadoeebru+8iQoiIiIKaW1wb3J0IG9zCmltcG9ydCBzeXMKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUk9PVCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oSEVSRSwgIi4uIikpCk9VVF9ESVIgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIjAyX+WGheWuueWMhSIsICLkuabnsY1GX+WutumVv+aApeaVkSIpClNUQUdJTkcgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIjAwX+adpea6kOayu+eQhiIsICJfc3RhZ2luZyIpCgpTUkNfRklMRVMgPSB7CiAgICAiZmhzIjogImZoc19nb3ZfaGtfcGFyZW50X2FuZ2VyX21hbmFnZW1lbnRfdGNfMjAyNi0xMS0xNS5tZCIsCiAgICAiYWlhZGhkIjogImFpYWRoZF95ZWxsX3JlcGFpcl8yMDI2LTExLTE1Lm1kIiwKfQoKIyDmr4/mnaHmlrDmnaHnm67vvJrku47kuK3mlofmnaXmupDmkZjlk6rlh6Dlj6XvvIjpgJDlrZflrZDkuLLvvIznsr7noa7ljLnphY3vvInjgIIKIyDniYfmrrXpobvmmK8gc3RhZ2luZyDljp/mlofvvIjop4TojIPljJbmjaLooYzihpLnqbrmoLzlkI7vvInnmoTov57nu63lrZDkuLLvvJvniYfmrrXpl7TnlKjjgIzjgILjgI3mi7zmjqXjgIIKREVSSVZBVElPTlMgPSBbCiAgICB7CiAgICAgICAgImlkIjogInBjX3JlcGFpcl9jYXJkXzAxIiwKICAgICAgICAic2xvdCI6ICJyZXBhaXJfY2FyZF8wMSIsCiAgICAgICAgInNvdXJjZV9pZCI6ICJhaWFkaGRfeWVsbF9yZXBhaXIiLAogICAgICAgICJmbGFnIjogInNhZmUiLAogICAgICAgICJ0aXRsZSI6ICLlj5HngavkuYvlkI7kuLrooYzkuLrpgZPmrYnjgIHkuI3nv7vml6fotKYiLAogICAgICAgICJib3VuZGFyeSI6ICLkv67lpI3ljaHmoLjlv4Por53mnK/vvJvpgJDlrZflj5YgYWlhZGhkIOS4reaWh+evh+OAjOS4uuihjOS4uuiAjOmdnuaDhee7qumBk+atieOAjSsgZmhz44CM5Li65Y+R5oCS6KGM5Li66YGT5q2J44CN44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImFpYWRoZCIsICLlr7nkuI3otbfvvIzliJrmiY3lpojlpogv54i454i45rKh5pyJ5o6n5Yi25aW96Ieq5bex55qE6IS+5rCU77yM5a+55L2g5aSn5ZC85aSn5Y+r5LqG44CC5oiR5oSf5Yiw5b6I55Sf5rCU77yM5L2G6L+Z5LiN6IO95oiQ5Li65oiR5Lyk5a6z5L2g55qE55CG55Sx44CC5oiR54ix5L2g44CCIiksCiAgICAgICAgICAgICgiZmhzIiwgIuWwjeS4jei1t++8jOWNs+S9v+aIkeW+iOeUn+awo++8jOaIkeS5n+S4jeaHieipsuWkp+iBsue9teS9oOeahCIpLAogICAgICAgICAgICAoImFpYWRoZCIsICLkuLrmgqjnmoRcIuihjOS4ulwi6ICM6Z2e5oKo55qEXCLmg4Xnu6pcIumBk+atiSIpLAogICAgICAgICAgICAoImZocyIsICLlvoXpm5nmlrnlhrfpnZzpgY7lvozvvIzlkJHlvbzmraToqqrlh7roh6rlt7HnmoTmhJ/lj5flkozmg7Pms5UiKSwKICAgICAgICAgICAgKCJhaWFkaGQiLCAi54ix77yM5bm26Z2e5oSP5ZGz552A5rC45LiN54qv6ZSZ77yM6ICM5piv5Zyo6aOO5pq06L+H5ZCO77yM5rC46L+c5pyJ5YuH5rCU5Zue5p2l77yM6YeN5paw5oul5oqx44CCIiksCiAgICAgICAgXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogInBjX3dhcm5pbmdfYnJlYXRoXzAxIiwKICAgICAgICAic2xvdCI6ICJ3YXJuaW5nX3NpZ25zX+WRvOWQuCIsCiAgICAgICAgInNvdXJjZV9pZCI6ICJmaHNfaGtfYW5nZXJfbWFuYWdlbWVudCIsCiAgICAgICAgImZsYWciOiAiY2F1dGlvbiIsCiAgICAgICAgInRpdGxlIjogIuWRvOWQuOmihOitpu+8muWRvOWQuOefrea1heaXtuWFiOaFouaFouWRvOWQuCIsCiAgICAgICAgImJvdW5kYXJ5IjogIuS/oeWPt+mAkOWtl+WPliBmaHPjgIzlkbzlkLjnn63ogIzmt7rjgI3vvJvliqjkvZzpgJDlrZflj5YgZmhz44CM5oWi5oWi5Zyw5ZG85ZC444CN57qi57u/54Gv5bu66K6u44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImZocyIsICLlkbzlkLjnn63ogIzmt7oiKSwKICAgICAgICAgICAgKCJmaHMiLCAi5b+D6Lez5Yqg6YCfIiksCiAgICAgICAgICAgICgiZmhzIiwgIuaFouaFouWcsOWRvOWQuCIpLAogICAgICAgICAgICAoImZocyIsICLlubPlvqnlv4Pot7Plj4rlkbzlkLjnmoTpoLvnjofvvIzluavliqnmlL7prIYiKSwKICAgICAgICAgICAgKCJhaWFkaGQiLCAi5bCG5omL5pS+5Zyo5b+D6ISP55qE5L2N572u77yM5YGa5LiJ5qyh57yT5oWi44CB5rex6ZW/55qE6IW55byP5ZG85ZC4IiksCiAgICAgICAgXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogInBjX3dhcm5pbmdfbXVzY2xlXzAxIiwKICAgICAgICAic2xvdCI6ICJ3YXJuaW5nX3NpZ25zX+iCjOiCiSIsCiAgICAgICAgInNvdXJjZV9pZCI6ICJmaHNfaGtfYW5nZXJfbWFuYWdlbWVudCIsCiAgICAgICAgImZsYWciOiAiY2F1dGlvbiIsCiAgICAgICAgInRpdGxlIjogIuiCjOiCiemihOitpu+8mue0p+e7t+aXtuWFiOaUvuadvui6q+S9kyIsCiAgICAgICAgImJvdW5kYXJ5IjogIuS/oeWPt+mAkOWtl+WPliBmaHPjgIzogozogonnuYPnt4rjgI3vvJvliqjkvZzpgJDlrZflj5YgZmhz44CM5oWi5oWi5Zyw5ZG85ZC44oCm5pS+6ayG6Lqr6auU44CN44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImZocyIsICLogozogonnuYPnt4oiKSwKICAgICAgICAgICAgKCJmaHMiLCAi5omL5b+D5Ye65rGXIiksCiAgICAgICAgICAgICgiZmhzIiwgIuaFouaFouWcsOWRvOWQuCIpLAogICAgICAgICAgICAoImZocyIsICLlnKjlkLjmsKPmmYLlv4Poo6Hpu5jlv7UgMe+8jOWRvOawo+aZguaUvumshui6q+mrlCIpLAogICAgICAgICAgICAoImZocyIsICLliIbmlaPms6jmhI/lipsiKSwKICAgICAgICBdLAogICAgfSwKICAgIHsKICAgICAgICAiaWQiOiAicGNfd2FybmluZ192b2ljZV8wMSIsCiAgICAgICAgInNsb3QiOiAid2FybmluZ19zaWduc1/lo7Dpn7MiLAogICAgICAgICJzb3VyY2VfaWQiOiAiZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnQiLAogICAgICAgICJmbGFnIjogImNhdXRpb24iLAogICAgICAgICJ0aXRsZSI6ICLlo7Dpn7PpooTorabvvJrlo7Dnur/mj5Dpq5jml7blhYjnprvlvIDnjrDlnLoiLAogICAgICAgICJib3VuZGFyeSI6ICLkv6Hlj7fpgJDlrZflj5YgZmhz44CM6IGy57ea5o+Q6auY44CN77yb5Yqo5L2c6YCQ5a2X5Y+WIGZoc+OAjOmboumWi+ePvuWgtOKApuWIhuaVo+azqOaEj+WKm+OAjeOAgiIsCiAgICAgICAgInNlbnRlbmNlcyI6IFsKICAgICAgICAgICAgKCJmaHMiLCAi6IGy57ea5o+Q6auYIiksCiAgICAgICAgICAgICgiZmhzIiwgIumdoue0heiAs+eGsSIpLAogICAgICAgICAgICAoImZocyIsICLpm6Lplovnj77loLTvvIzmuJvlsJHnkrDlooPluLbkvobnmoTmg4Xnt5LliLrmv4AiKSwKICAgICAgICAgICAgKCJmaHMiLCAi5YiG5pWj5rOo5oSP5YqbIiksCiAgICAgICAgICAgICgiYWlhZGhkIiwgIuaIkeeOsOWcqOaEn+iniemdnuW4uOeUn+awlO+8jOaIkemcgOimgeWOu+WPpuS4gOS4quaIv+mXtOWGt+mdmeS4pOWIhumSn++8jOaIkeS7rOeojeWQjuWGjeiwiOOAgiIpLAogICAgICAgIF0sCiAgICB9LAogICAgewogICAgICAgICJpZCI6ICJwY193YXJuaW5nX2NoZXN0XzAxIiwKICAgICAgICAic2xvdCI6ICJ3YXJuaW5nX3NpZ25zX+iDuOWPoyIsCiAgICAgICAgInNvdXJjZV9pZCI6ICJmaHNfaGtfYW5nZXJfbWFuYWdlbWVudCIsCiAgICAgICAgImZsYWciOiAiY2F1dGlvbiIsCiAgICAgICAgInRpdGxlIjogIuiDuOWPo+mihOitpu+8muiDuOmXt+aXtue8k+aFouWRvOWQuOW5s+WkjSIsCiAgICAgICAgImJvdW5kYXJ5IjogIuS/oeWPt+mAkOWtl+WPliBmaHPjgIzog7jmgrbjgI3vvJvliqjkvZzpgJDlrZflj5YgZmhz44CM5oWi5oWi5Zyw5ZG85ZC44oCm5bmz5b6p5b+D6Lez44CN44CCIiwKICAgICAgICAic2VudGVuY2VzIjogWwogICAgICAgICAgICAoImZocyIsICLog7jmgrYiKSwKICAgICAgICAgICAgKCJmaHMiLCAi5omL5b+D5Ye65rGXIiksCiAgICAgICAgICAgICgiZmhzIiwgIuaFouaFouWcsOWRvOWQuCIpLAogICAgICAgICAgICAoImZocyIsICLlubPlvqnlv4Pot7Plj4rlkbzlkLjnmoTpoLvnjofvvIzluavliqnmlL7prIYiKSwKICAgICAgICAgICAgKCJhaWFkaGQiLCAi55So5Ya35rC05Yay5rSX5LiA5LiL5omL6IWV5ZKM6IS46YOoIiksCiAgICAgICAgXSwKICAgIH0sCiAgICB7CiAgICAgICAgImlkIjogInBjX3dhcm5pbmdfdGhvdWdodF8wMSIsCiAgICAgICAgInNsb3QiOiAid2FybmluZ19zaWduc1/lv7XlpLQiLAogICAgICAgICJzb3VyY2VfaWQiOiAiZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnQiLAogICAgICAgICJmbGFnIjogImNhdXRpb24iLAogICAgICAgICJ0aXRsZSI6ICLlv7XlpLTpooTorabvvJrngb7pmr7ljJblv7XlpLTlh7rnjrDml7blhYjlgZzkuIvmg7PkuIDmg7MiLAogICAgICAgICJib3VuZGFyeSI6ICLkv6Hlj7fpgJDlrZflj5YgZmhz44CM54G96Zuj5YyW44CN77yb5Yqo5L2c6YCQ5a2X5Y+WIGZoc+OAjOaDs+S4gOaDs+KApuaPkOWHuuWQiOeQhueahOitieaTmuOAjeOAgiIsCiAgICAgICAgInNlbnRlbmNlcyI6IFsKICAgICAgICAgICAgKCJmaHMiLCAi54G96Zuj5YyWIiksCiAgICAgICAgICAgICgiZmhzIiwgIuWkqeWViu+8geaIkeawuOmBoOmDveaVmeS4jeWlveWtqeWtkO+8gSIpLAogICAgICAgICAgICAoImZocyIsICLku5TntLDmg7PkuIDmg7Pmg4Xnt5Llh7rnj77nmoTljp/lm6AiKSwKICAgICAgICAgICAgKCJmaHMiLCAi5ZiX6Kmm5o+Q5Ye65ZCI55CG55qE6K2J5pOa5L6G5Yqg5Lul6K2J5a+m6Ieq5bex55qE5LiA5Lqb5LiN5ZCI55CG55qE5oOz5rOVIiksCiAgICAgICAgICAgICgiYWlhZGhkIiwgIuWcqOaIkeeIhuWPkeeahOWJjeS4gOenku+8jOaIkeiEkeWtkOmHjOmXqui/h+eahOmCo+S4qifng63lv7XlpLQn5piv5LuA5LmIIiksCiAgICAgICAgXSwKICAgIH0sCl0KCkZNX1RNUEwgPSAiIiItLS0KaWQ6IHtpZH0KdHlwZTogZXhwbGFuYXRvcnkKYXVkaWVuY2U6IHBhcmVudApzY2VuYXJpbzogcGFyZW50X2VzY2FsYXRpb24KZXhlY190YXJnZXQ6IOaDhee7quiwg+iKggpldmlkZW5jZV9sZXZlbDogQwpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IHtmbGFnfQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTE1CnNvdXJjZV9pZDoge3NvdXJjZV9pZH0Kc291cmNlX3ZlcnNpb246ICIyMDI2LTExLTE1Igp0ZW1wbGF0ZV9yZWY6IFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxCnByb3Bvc2FsX3JlZjogUFJPUC0wMDA3CndoZW46CiAgcGFyZW50X2FmZmVjdF9sZXZlbDogW2xvdywgbWlkLCBoaWdoXQppbmplY3RfdGV4dDogfAp7dGV4dH0tLS0KIiIiCgpCT0RZX1RNUEwgPSAiIiIKIyB7aWR9Cgp7dGl0bGV9CgotICoq5a2X5q615L6d5o2uKirvvJpgUFJPUC0wMDA3YO+8iOaJueasoSA4IOaOiOadg+aKk+WPluadpea6kOaOpeWFpe+8ie+8mwogICoq5Zy65pmv5L6d5o2uKirvvJpgUFJPUC0wMDA1YO+8iGBwYXJlbnRfZXNjYWxhdGlvbmAgKyBgUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDFg77yJ44CCCiAgKirmnaXmupAqKu+8mmB7c291cmNlX2lkfWAg5o6l5YWl5Y2h44CCCiAgYGluamVjdF90ZXh0YCDnmoTmr4/kuIDlj6XpgJDlrZflj5boh6ogYDAwX+adpea6kOayu+eQhi9fc3RhZ2luZy9gIOWvueW6lOS4reaWh+WOn+aWh++8jOeUsQogIGAwM19hZ2VudOe8luivkS9kZXJpdmVfYmF0Y2g4X2VudHJpZXMucHlgIOacuuaisOaRmOWPlu+8jOacquaUueWGmeOAgeacquamguaLrOOAgeacquaWsOWinuOAggotICoq5qe95L2NKirvvJpge3Nsb3R9YO+8iOaJueasoSA4IOWbnuWhq+S4uiBtYXBwZWTvvIkKLSAqKuivreS5iei+ueeVjCoq77yae2JvdW5kYXJ5fQogIOacrOadoeebruaYr+OAjOmAkOWtl+aRmOWPpemHjee7hCArIOWutumVv+eBq+awlOWcuuaZr+agh+etvuOAje+8jOWPquS9nOS6lOexu+mihOitpi/kv67lpI3nmoQKICDlj4LogIPmlofmoYjvvJvkv6Hlj7fkuI7liqjkvZzliIbliJfvvIzliqjkvZzliJfpgJDlrZflj5boh6rkuK3mlofmnaXmupDvvIzkuI3pgJDnsbvnvJbpgKDjgIIKICDoi7HmlofmnaXmupDvvIhOSFMgLyBQS0ogLyBDYWxtSG9tZe+8ieS7hSBfc3RhZ2luZyDnlZnnl5XkvZzlj4LnhafvvIzkuI3mtL7nlJ/jgIIKLSBgd2hlbmAg5Lil5qC85aWX5qih5p2/5LiJ5qGjIGBbbG93LCBtaWQsIGhpZ2hdYO+8iOS4jeWNleaho+WMlu+8jOeQhueUseingSBQUk9QLTAwMDfvvInvvJsKICDkupTnsbvpooTorabkuI7kv67lpI3ljaHmmK8qKueBq+awlOS4iuWNhy/kuovlkI4qKueahOmAmueUqOWPguiAg++8jOS4jeaMieeBq+awlCAx4oCUNSDliIbmoaPjgIIKCiMjIOmAkOWPpeadpea6kO+8iOWPr+Wkjei3keavlOWvue+8iQoKfCDlj6Xluo8gfCDmnaXmupAgc3RhZ2luZyDmlofku7YgfCDpgJDlrZfniYfmrrUgfAp8LS0tfC0tLXwtLS18Cntyb3dzfQoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIKIiIiCgoKZGVmIGxvYWRfc3RhZ2luZygpOgogICAgdGV4dHMgPSB7fQogICAgZm9yIGtleSwgZm4gaW4gU1JDX0ZJTEVTLml0ZW1zKCk6CiAgICAgICAgcCA9IG9zLnBhdGguam9pbihTVEFHSU5HLCBmbikKICAgICAgICB3aXRoIG9wZW4ocCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgdGV4dHNba2V5XSA9IGYucmVhZCgpCiAgICByZXR1cm4gdGV4dHMKCgpkZWYgbm9ybShzKToKICAgIHJldHVybiBzLnJlcGxhY2UoIlxuIiwgIiAiKS5zdHJpcCgpCgoKZGVmIG1haW4oKToKICAgIHRleHRzID0gbG9hZF9zdGFnaW5nKCkKICAgIG9zLm1ha2VkaXJzKE9VVF9ESVIsIGV4aXN0X29rPVRydWUpCgogICAgZm9yIGQgaW4gREVSSVZBVElPTlM6CiAgICAgICAgcGFydHMsIHJvd3MgPSBbXSwgW10KICAgICAgICBmb3IgaSwgKHNyYywgc2VnKSBpbiBlbnVtZXJhdGUoZFsic2VudGVuY2VzIl0sIDEpOgogICAgICAgICAgICBib2R5ID0gbm9ybSh0ZXh0c1tzcmNdKQogICAgICAgICAgICAjIOmAkOWtl+WPr+a6r+aWreiogO+8mueJh+auteW/hemhu+aYr+ivpSBzdGFnaW5nIOWOn+aWh++8iOinhOiMg+WMluWQju+8ieeahOi/nue7reWtkOS4sgogICAgICAgICAgICBpZiBzZWcgbm90IGluIGJvZHk6CiAgICAgICAgICAgICAgICBwcmludChmIltkZXJpdmU4XSB7ZFsnaWQnXX0g56ysIHtpfSDlj6XpnZ7pgJDlrZflj6/muq/vvJp7c2VnWzo0MF19IikKICAgICAgICAgICAgICAgIHJldHVybiAxCiAgICAgICAgICAgIHBhcnRzLmFwcGVuZChzZWcpCiAgICAgICAgICAgIHJvd3MuYXBwZW5kKGYifCB7aX0gfCBge1NSQ19GSUxFU1tzcmNdfWAgfCB7c2VnWzo0MF19IHwiKQoKICAgICAgICAjIOaLvOaOpe+8mueJh+auteiLpeW3suS7peS4reaWh+WPpeWPt+e7k+WwvuWImeS4jemHjeWkjeWKoO+8iOmBv+WFjeOAjOOAguOAguOAjeeRleeWte+8iQogICAgICAgIGluamVjdF90ZXh0ID0gIiIKICAgICAgICBmb3IgcGFydCBpbiBwYXJ0czoKICAgICAgICAgICAgaWYgaW5qZWN0X3RleHQgYW5kIG5vdCBpbmplY3RfdGV4dC5lbmRzd2l0aCgi44CCIik6CiAgICAgICAgICAgICAgICBpbmplY3RfdGV4dCArPSAi44CCIgogICAgICAgICAgICBpbmplY3RfdGV4dCArPSBwYXJ0CiAgICAgICAgaWYgbm90IGluamVjdF90ZXh0LmVuZHN3aXRoKCLjgIIiKToKICAgICAgICAgICAgaW5qZWN0X3RleHQgKz0gIuOAgiIKICAgICAgICBpbmplY3RfdGV4dCArPSAiXG4iCiAgICAgICAgdGV4dF9ibG9jayA9ICIiLmpvaW4oIiAgIiArIGxuICsgIlxuIiBmb3IgbG4gaW4gaW5qZWN0X3RleHQucnN0cmlwKCJcbiIpLnNwbGl0KCJcbiIpKQogICAgICAgIGZtID0gRk1fVE1QTC5mb3JtYXQoaWQ9ZFsiaWQiXSwgZmxhZz1kWyJmbGFnIl0sCiAgICAgICAgICAgICAgICAgICAgICAgICAgICBzb3VyY2VfaWQ9ZFsic291cmNlX2lkIl0sIHRleHQ9dGV4dF9ibG9jaykKICAgICAgICBib2R5ID0gQk9EWV9UTVBMLmZvcm1hdCgKICAgICAgICAgICAgaWQ9ZFsiaWQiXSwgdGl0bGU9ZFsidGl0bGUiXSwgc2xvdD1kWyJzbG90Il0sCiAgICAgICAgICAgIHNvdXJjZV9pZD1kWyJzb3VyY2VfaWQiXSwgYm91bmRhcnk9ZFsiYm91bmRhcnkiXSwKICAgICAgICAgICAgcm93cz0iXG4iLmpvaW4ocm93cykpCiAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihPVVRfRElSLCBkWyJpZCJdICsgIi5tZCIpCiAgICAgICAgd2l0aCBvcGVuKHBhdGgsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICAgICAgZi53cml0ZShmbSArIGJvZHkpCiAgICAgICAgcHJpbnQoZiIgIFtPS10ge2RbJ2lkJ119ICDlj6XmlbA9e2xlbihwYXJ0cyl9ICBzbG90PXtkWydzbG90J119ICBzcmM9e2RbJ3NvdXJjZV9pZCddfSIpCgogICAgcHJpbnQoZiJbZGVyaXZlOF0gNiDmnaEgZXhwbGFuYXRvcnkg5p2h55uu5YaZ5Ye6IOKGkiB7T1VUX0RJUn3vvJvpgJDlrZflj6/muq/mlq3oqIDlhajpgJrov4ciKQogICAgcmV0dXJuIDAKCgppZiBfX25hbWVfXyA9PSAiX19tYWluX18iOgogICAgc3lzLmV4aXQobWFpbigpKQo=
+# -*- coding: utf-8 -*-
+"""阶段 B 批次 8 · 书籍F 源条目派生脚本（修复卡 + 五类预警；逐字可溯、可证伪）
+
+背景：6 个 pending_batch3 槽位（repair_card_01 + warning_signs_呼吸/肌肉/声音/
+胸口/念头）在批次 3/5 均无来源。批次 8 用户授权走 B 路线：抓取外部来源逐字落
+00_来源治理/_staging/ 留 SHA256，本脚本从中文来源逐字摘句生成 6 条 explanatory
+源条目。
+
+语言裁决（用户批次 8 拍板「中文派生 + 英文留痕」）：
+  - 中文来源（fhs_hk_anger_management / aiadhd_yell_repair）→ 逐字派生；
+  - 英文来源（nhs_inform / pkjcoaching / calmhome）→ 仅 _staging 留痕作参照，
+    不派生（面向中文家长的工具，英文话术不直接进 inject_text）。
+
+纪律（与 derive_batch3_entries.py 同源）：
+  - 不编造：inject_text 的每一句必须是某份 staging 原文的逐字子串；
+  - 不手写文案：只按 (来源文件, 逐字片段) 机械摘取，片段间用中文句号「。」拼接；
+  - parent_escalation_tests.py 用独立的「不编造断言」再验一遍，可证伪。
+
+用法：E:/ANACONDA/python.exe 03_agent编译/derive_batch8_entries.py
+输出：02_内容包/书籍F_家长急救/*.md（6 条 explanatory 条目）
+"""
+import os
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.abspath(os.path.join(HERE, ".."))
+OUT_DIR = os.path.join(ROOT, "02_内容包", "书籍F_家长急救")
+STAGING = os.path.join(ROOT, "00_来源治理", "_staging")
+
+SRC_FILES = {
+    "fhs": "fhs_gov_hk_parent_anger_management_tc_2026-11-15.md",
+    "aiadhd": "aiadhd_yell_repair_2026-11-15.md",
+}
+
+# 每条新条目：从中文来源摘哪几句（逐字子串，精确匹配）。
+# 片段须是 staging 原文（规范化换行→空格后）的连续子串；片段间用「。」拼接。
+DERIVATIONS = [
+    {
+        "id": "pc_repair_card_01",
+        "slot": "repair_card_01",
+        "source_id": "aiadhd_yell_repair",
+        "flag": "safe",
+        "title": "发火之后为行为道歉、不翻旧账",
+        "boundary": "修复卡核心话术；逐字取 aiadhd 中文篇「为行为而非情绪道歉」+ fhs「为发怒行为道歉」。",
+        "sentences": [
+            ("aiadhd", "对不起，刚才妈妈/爸爸没有控制好自己的脾气，对你大吼大叫了。我感到很生气，但这不能成为我伤害你的理由。我爱你。"),
+            ("fhs", "對不起，即使我很生氣，我也不應該大聲罵你的"),
+            ("aiadhd", "为您的\"行为\"而非您的\"情绪\"道歉"),
+            ("fhs", "待雙方冷靜過後，向彼此說出自己的感受和想法"),
+            ("aiadhd", "爱，并非意味着永不犯错，而是在风暴过后，永远有勇气回来，重新拥抱。"),
+        ],
+    },
+    {
+        "id": "pc_warning_breath_01",
+        "slot": "warning_signs_呼吸",
+        "source_id": "fhs_hk_anger_management",
+        "flag": "caution",
+        "title": "呼吸预警：呼吸短浅时先慢慢呼吸",
+        "boundary": "信号逐字取 fhs「呼吸短而淺」；动作逐字取 fhs「慢慢地呼吸」红绿灯建议。",
+        "sentences": [
+            ("fhs", "呼吸短而淺"),
+            ("fhs", "心跳加速"),
+            ("fhs", "慢慢地呼吸"),
+            ("fhs", "平復心跳及呼吸的頻率，幫助放鬆"),
+            ("aiadhd", "将手放在心脏的位置，做三次缓慢、深长的腹式呼吸"),
+        ],
+    },
+    {
+        "id": "pc_warning_muscle_01",
+        "slot": "warning_signs_肌肉",
+        "source_id": "fhs_hk_anger_management",
+        "flag": "caution",
+        "title": "肌肉预警：紧绷时先放松身体",
+        "boundary": "信号逐字取 fhs「肌肉繃緊」；动作逐字取 fhs「慢慢地呼吸…放鬆身體」。",
+        "sentences": [
+            ("fhs", "肌肉繃緊"),
+            ("fhs", "手心出汗"),
+            ("fhs", "慢慢地呼吸"),
+            ("fhs", "在吸氣時心裡默念 1，呼氣時放鬆身體"),
+            ("fhs", "分散注意力"),
+        ],
+    },
+    {
+        "id": "pc_warning_voice_01",
+        "slot": "warning_signs_声音",
+        "source_id": "fhs_hk_anger_management",
+        "flag": "caution",
+        "title": "声音预警：声线提高时先离开现场",
+        "boundary": "信号逐字取 fhs「聲線提高」；动作逐字取 fhs「離開現場…分散注意力」。",
+        "sentences": [
+            ("fhs", "聲線提高"),
+            ("fhs", "面紅耳熱"),
+            ("fhs", "離開現場，減少環境帶來的情緒刺激"),
+            ("fhs", "分散注意力"),
+            ("aiadhd", "我现在感觉非常生气，我需要去另一个房间冷静两分钟，我们稍后再谈。"),
+        ],
+    },
+    {
+        "id": "pc_warning_chest_01",
+        "slot": "warning_signs_胸口",
+        "source_id": "fhs_hk_anger_management",
+        "flag": "caution",
+        "title": "胸口预警：胸闷时缓慢呼吸平复",
+        "boundary": "信号逐字取 fhs「胸悶」；动作逐字取 fhs「慢慢地呼吸…平復心跳」。",
+        "sentences": [
+            ("fhs", "胸悶"),
+            ("fhs", "手心出汗"),
+            ("fhs", "慢慢地呼吸"),
+            ("fhs", "平復心跳及呼吸的頻率，幫助放鬆"),
+            ("aiadhd", "用冷水冲洗一下手腕和脸部"),
+        ],
+    },
+    {
+        "id": "pc_warning_thought_01",
+        "slot": "warning_signs_念头",
+        "source_id": "fhs_hk_anger_management",
+        "flag": "caution",
+        "title": "念头预警：灾难化念头出现时先停下想一想",
+        "boundary": "信号逐字取 fhs「災難化」；动作逐字取 fhs「想一想…提出合理的證據」。",
+        "sentences": [
+            ("fhs", "災難化"),
+            ("fhs", "天啊！我永遠都教不好孩子！"),
+            ("fhs", "仔細想一想情緒出現的原因"),
+            ("fhs", "嘗試提出合理的證據來加以證實自己的一些不合理的想法"),
+            ("aiadhd", "在我爆发的前一秒，我脑子里闪过的那个'热念头'是什么"),
+        ],
+    },
+]
+
+FM_TMPL = """---
+id: {id}
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: {flag}
+last_reviewed: 2026-11-15
+source_id: {source_id}
+source_version: "2026-11-15"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0007
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+{text}---
+"""
+
+BODY_TMPL = """
+# {id}
+
+{title}
+
+- **字段依据**：`PROP-0007`（批次 8 授权抓取来源接入）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  **来源**：`{source_id}` 接入卡。
+  `inject_text` 的每一句逐字取自 `00_来源治理/_staging/` 对应中文原文，由
+  `03_agent编译/derive_batch8_entries.py` 机械摘取，未改写、未概括、未新增。
+- **槽位**：`{slot}`（批次 8 回填为 mapped）
+- **语义边界**：{boundary}
+  本条目是「逐字摘句重组 + 家长火气场景标签」，只作五类预警/修复的
+  参考文案；信号与动作分列，动作列逐字取自中文来源，不逐类编造。
+  英文来源（NHS / PKJ / CalmHome）仅 _staging 留痕作参照，不派生。
+- `when` 严格套模板三档 `[low, mid, high]`（不单档化，理由见 PROP-0007）；
+  五类预警与修复卡是**火气上升/事后**的通用参考，不按火气 1—5 分档。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源 staging 文件 | 逐字片段 |
+|---|---|---|
+{rows}
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。
+"""
+
+
+def load_staging():
+    texts = {}
+    for key, fn in SRC_FILES.items():
+        p = os.path.join(STAGING, fn)
+        with open(p, encoding="utf-8") as f:
+            texts[key] = f.read()
+    return texts
+
+
+def norm(s):
+    return s.replace("\n", " ").strip()
+
+
+def main():
+    texts = load_staging()
+    os.makedirs(OUT_DIR, exist_ok=True)
+
+    for d in DERIVATIONS:
+        parts, rows = [], []
+        for i, (src, seg) in enumerate(d["sentences"], 1):
+            body = norm(texts[src])
+            # 逐字可溯断言：片段必须是该 staging 原文（规范化后）的连续子串
+            if seg not in body:
+                print(f"[derive8] {d['id']} 第 {i} 句非逐字可溯：{seg[:40]}")
+                return 1
+            parts.append(seg)
+            rows.append(f"| {i} | `{SRC_FILES[src]}` | {seg[:40]} |")
+
+        # 拼接：片段若已以中文句号结尾则不重复加（避免「。。」瑕疵）
+        inject_text = ""
+        for part in parts:
+            if inject_text and not inject_text.endswith("。"):
+                inject_text += "。"
+            inject_text += part
+        if not inject_text.endswith("。"):
+            inject_text += "。"
+        inject_text += "\n"
+        text_block = "".join("  " + ln + "\n" for ln in inject_text.rstrip("\n").split("\n"))
+        fm = FM_TMPL.format(id=d["id"], flag=d["flag"],
+                            source_id=d["source_id"], text=text_block)
+        body = BODY_TMPL.format(
+            id=d["id"], title=d["title"], slot=d["slot"],
+            source_id=d["source_id"], boundary=d["boundary"],
+            rows="\n".join(rows))
+        path = os.path.join(OUT_DIR, d["id"] + ".md")
+        with open(path, "w", encoding="utf-8") as f:
+            f.write(fm + body)
+        print(f"  [OK] {d['id']}  句数={len(parts)}  slot={d['slot']}  src={d['source_id']}")
+
+    print(f"[derive8] 6 条 explanatory 条目写出 → {OUT_DIR}；逐字可溯断言全通过")
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())

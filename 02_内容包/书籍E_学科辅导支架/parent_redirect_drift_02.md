@@ -1,1 +1,33 @@
-LS0tCmlkOiBwYXJlbnRfcmVkaXJlY3RfZHJpZnRfMDIKdHlwZTogcHJvY2VkdXJhbAphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBhdHRlbnRpb25fZHJpZnQKZXhlY190YXJnZXQ6IOWQr+WKqApldmlkZW5jZV9sZXZlbDogQgpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IHNhZmUKbGFzdF9yZXZpZXdlZDogMjAyNi0xMS0xMgpzb3VyY2VfaWQ6IHByb2plY3Rfb3JpZ2luYWwKc291cmNlX3ZlcnNpb246ICIyMDI2LTExIgp0ZW1wbGF0ZV9yZWY6IFBUX0RSSUZUXzAxCndoZW46CiAgdGFza19waGFzZTogW+aJp+ihjF0KICBhdHRlbnRpb25fc3RhdGU6IFtkcmlmdF0KICBvd25lcnNoaXA6IFtwYXJlbnQtaGludGluZ10KZXhpdF93aGVuOgogIGF0dGVudGlvbl9zdGF0ZTogW29uLXRhc2tdCiAgY29uc2VjdXRpdmVfc3VjY2Vzc2VzOiAiPj0xIgppbmplY3RfdGV4dDogfAogIOaKiuOAjOS4k+W/g+WGmeOAjeaNouaIkOOAjOeOsOWcqOWGmeesrOS4gOmimOOAjeOAguS4gOasoeWPquivtOS4gOadoeaMh+S7pO+8jOetieS7luWBmuWujOOAgeWkjei/sOS4gOmBje+8jOWGjeivtOS4i+S4gOadoe+8jOS4jeimgei/nuedgOeUqeWHuuS4ieadoeOAguS7lui0n+i0o+WQr+WKqOS7u+WKoeeahOiDveWKm+WBj+W8se+8jOS7u+WKoeWIh+WIsOS4gOecvOiDveeci+aHgueahOS4gOWwj+atpe+8jOS7luaJjei/iOW+l+WKqOesrOS4gOatpeOAguS9oOWkmuaPkOmGkuWHoOmBje+8jOS7lui2iuS4jemcgOimgeiHquW3seWQr+WKqO+8jOi2iuS+nei1luS9oOWCrOOAguWFiOeUqOihjOS4uuiusOW9leihqOeci+emu+W6p+asoeaVsOacieayoeacieWPmOWMlu+8jOWGjeWGs+WumuS4i+S4gOatpeOAggpjYWxsYWJsZToKICBuYW1lOiBzaW5nbGVfaW5zdHJ1Y3Rpb24KICBwYXJhbXM6IHt9CiAgcmV0dXJuczoge3NjcmlwdDogc3RyaW5nLCBhdm9pZDogc3RyaW5nfQogIHNpZGVfZWZmZWN0OiBub25lCi0tLQoKIyBwYXJlbnRfcmVkaXJlY3RfZHJpZnRfMDIKCua0vueUn+iHqu+8mkIwMV/lhpnkvZzkuJrpopHnuYHnprvluqcgwrfjgIzmiorkuJPlv4PlhpnmjaLmiJDnjrDlnKjlhpnnrKzkuIDpopggLyDmjIfku6TkuIDmrKHkuIDmnaEgLyDlpI3ov7DjgI0KCumdouWQkeWutumVvyDCtyDotbDnpZ7ml7bnmoTljZXmraXmjIfku6TnrZbnlaXjgIIK
+---
+id: parent_redirect_drift_02
+type: procedural
+audience: parent
+scenario: attention_drift
+exec_target: 启动
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_DRIFT_01
+when:
+  task_phase: [执行]
+  attention_state: [drift]
+  ownership: [parent-hinting]
+exit_when:
+  attention_state: [on-task]
+  consecutive_successes: ">=1"
+inject_text: |
+  把「专心写」换成「现在写第一题」。一次只说一条指令，等他做完、复述一遍，再说下一条，不要连着甩出三条。他负责启动任务的能力偏弱，任务切到一眼能看懂的一小步，他才迈得动第一步。你多提醒几遍，他越不需要自己启动，越依赖你催。先用行为记录表看离座次数有没有变化，再决定下一步。
+callable:
+  name: single_instruction
+  params: {}
+  returns: {script: string, avoid: string}
+  side_effect: none
+---
+
+# parent_redirect_drift_02
+
+派生自：B01_写作业频繁离座 ·「把专心写换成现在写第一题 / 指令一次一条 / 复述」
+
+面向家长 · 走神时的单步指令策略。

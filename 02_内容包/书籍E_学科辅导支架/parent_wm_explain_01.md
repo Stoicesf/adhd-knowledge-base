@@ -1,1 +1,29 @@
-LS0tCmlkOiBwYXJlbnRfd21fZXhwbGFpbl8wMQp0eXBlOiBleHBsYW5hdG9yeQphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiB3bV9vdmVybG9hZApleGVjX3RhcmdldDog5bel5L2c6K6w5b+GCmV2aWRlbmNlX2xldmVsOiBCCmNvbnRyYWluZGljYXRpb25fZmxhZzogc2FmZQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTEyCnNvdXJjZV9pZDogcHJvamVjdF9vcmlnaW5hbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEiCnRlbXBsYXRlX3JlZjogUFRfV01fMDEKZGV2aWF0aW9uOgogIGtpbmQ6IHZhbHVlX2FkanVzdGVkCiAgcmVhc29uOiAi5a2X5q61IHdtX2xvYWQg5Y+W5YC86LaF5Ye65qih5p2/77yIeyd3bV9sb2FkJzogJz49Mid9IOKGkiB7J3dtX2xvYWQnOiAnPj0xJ33vvIkiCndoZW46CiAgdGFza19waGFzZTogW+eQhuinoywg6K6h5YiSLCDmiafooYxdCiAgd21fbG9hZDogIj49MSIKICBhdHRlbnRpb25fc3RhdGU6IFtkcmlmdCwgcmUtZW50cnldCiAgb3duZXJzaGlwOiBbY2hpbGQtbGVhZGluZywgcGFyZW50LWhpbnRpbmddCmluamVjdF90ZXh0OiB8CiAg5LiA5Liq5Lq66ISR5a2Q6YeM5ZCM5pe25oyC5aW95Yeg5Lu25b6F5Yqe77yM562J5LqO5ZCM5pe25b2T6LCD5bqm5ZGY5ZKM5Yqe5LqL5ZGY4oCU4oCU6K6w5LiN5L2P5LiN5piv5LiN5LiK5b+D77yM5piv44CM6K6w5oCn5bel5L2c44CN5pys5bCx5LiN6K+l5pS+5Zyo6ISR5a2Q6YeM44CC5aSW6YOo5o+Q6YaS5YiG5bel55qE5qC45b+D77yM5piv5oqK6K6w5b+G5LuO5Lik5Liq5Lq655qE6ISR5a2Q6YeM5oyq5Yiw5aSW6YOo57O757uf44CC5LiA5aSE5pS25Y+j5q+U5bel5YW36auY57qn6YeN6KaB77ya5aSa5aSE6K6w562J5LqO5rKh6K6w44CCCi0tLQoKIyBwYXJlbnRfd21fZXhwbGFpbl8wMQoK5rS+55Sf6Ieq77yaQjE0X+S8tOS+o+W/mOS6i+S4jeaYr+aAgeW6pumXrumimO+8iOS4gOWRqOWklumDqOaPkOmGkuWIhuW3pe+8icK344CM6K6w5b+G5oyq5Yiw5aSW6YOo57O757ufIC8g5LiA5aSE5pS25Y+j44CN44CCCgrpnaLlkJHlrrbplb8gwrcg6Kej6YeK5oCn77yI5qOA57Si5Z2X77yJ77ya5Li65LuA5LmI5bel5L2c6K6w5b+G6KaB5aSW572u44CCCg==
+---
+id: parent_wm_explain_01
+type: explanatory
+audience: parent
+scenario: wm_overload
+exec_target: 工作记忆
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_WM_01
+deviation:
+  kind: value_adjusted
+  reason: "字段 wm_load 取值超出模板（{'wm_load': '>=2'} → {'wm_load': '>=1'}）"
+when:
+  task_phase: [理解, 计划, 执行]
+  wm_load: ">=1"
+  attention_state: [drift, re-entry]
+  ownership: [child-leading, parent-hinting]
+inject_text: |
+  一个人脑子里同时挂好几件待办，等于同时当调度员和办事员——记不住不是不上心，是「记性工作」本就不该放在脑子里。外部提醒分工的核心，是把记忆从两个人的脑子里挪到外部系统。一处收口比工具高级重要：多处记等于没记。
+---
+
+# parent_wm_explain_01
+
+派生自：B14_伴侣忘事不是态度问题（一周外部提醒分工）·「记忆挪到外部系统 / 一处收口」。
+
+面向家长 · 解释性（检索块）：为什么工作记忆要外置。

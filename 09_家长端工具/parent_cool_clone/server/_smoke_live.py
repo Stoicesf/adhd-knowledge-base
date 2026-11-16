@@ -1,1 +1,55 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi54us56uL6L+b56iL6LW355yf5a6eIHNlcnZlci5weSArIEhUVFAg5a6e5rWL77yM5YWo6YOo5Zyo5LiA5Liq6ISa5pys5YaF6Ieq5riF55CG44CCIiIiCmltcG9ydCBqc29uCmltcG9ydCBvcwppbXBvcnQgc3VicHJvY2VzcwppbXBvcnQgc3lzCmltcG9ydCB0aW1lCmltcG9ydCB1cmxsaWIucmVxdWVzdAoKSEVSRSA9IG9zLnBhdGguZGlybmFtZShvcy5wYXRoLmFic3BhdGgoX19maWxlX18pKQpQT1JUID0gMTg3NjcKc3J2ID0gb3MucGF0aC5qb2luKEhFUkUsICJzZXJ2ZXIucHkiKQpwID0gc3VicHJvY2Vzcy5Qb3Blbihbc3lzLmV4ZWN1dGFibGUsIHNydiwgIi0tcG9ydCIsIHN0cihQT1JUKV0sCiAgICAgICAgICAgICAgICAgICAgIHN0ZG91dD1zdWJwcm9jZXNzLlBJUEUsIHN0ZGVycj1zdWJwcm9jZXNzLlBJUEUpCmxpbmVzID0gW10KdHJ5OgogICAgIyDova7or6LnrYnlvoXnq6/lj6PlsLHnu6rvvIzmnIDlpJogOCDnp5IKICAgIHJlYWR5ID0gRmFsc2UKICAgIGZvciBfIGluIHJhbmdlKDQwKToKICAgICAgICB0cnk6CiAgICAgICAgICAgIHdpdGggdXJsbGliLnJlcXVlc3QudXJsb3BlbihmImh0dHA6Ly8xMjcuMC4wLjE6e1BPUlR9L2FwaS9oZWFsdGgiLCB0aW1lb3V0PTEpIGFzIHI6CiAgICAgICAgICAgICAgICBoID0ganNvbi5sb2FkcyhyLnJlYWQoKS5kZWNvZGUoInV0Zi04IikpCiAgICAgICAgICAgICAgICBpZiByLnN0YXR1cyA9PSAyMDAgYW5kIGguZ2V0KCJzdGF0dXMiKSA9PSAib2siOgogICAgICAgICAgICAgICAgICAgIHJlYWR5ID0gVHJ1ZQogICAgICAgICAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmIkdFVCAvYXBpL2hlYWx0aCAtPiAyMDAge2pzb24uZHVtcHMoaCwgZW5zdXJlX2FzY2lpPUZhbHNlKX0iKQogICAgICAgICAgICAgICAgICAgIGJyZWFrCiAgICAgICAgZXhjZXB0IEV4Y2VwdGlvbjoKICAgICAgICAgICAgdGltZS5zbGVlcCgwLjIpCiAgICBpZiBub3QgcmVhZHk6CiAgICAgICAgbGluZXMuYXBwZW5kKCJGQUlMOiAvYXBpL2hlYWx0aCDmnKrlsLHnu6oiKQogICAgZWxzZToKICAgICAgICByZXEgPSB1cmxsaWIucmVxdWVzdC5SZXF1ZXN0KAogICAgICAgICAgICBmImh0dHA6Ly8xMjcuMC4wLjE6e1BPUlR9L2FwaS9jYWxtX3NjcmlwdCIsCiAgICAgICAgICAgIGRhdGE9anNvbi5kdW1wcyh7ImFuZ2VyX2xldmVsIjogNSwgInNpdHVhdGlvbiI6ICLplJnpopjlj4jplJnkuoYifSkuZW5jb2RlKCJ1dGYtOCIpLAogICAgICAgICAgICBoZWFkZXJzPXsiQ29udGVudC1UeXBlIjogImFwcGxpY2F0aW9uL2pzb24ifSwgbWV0aG9kPSJQT1NUIikKICAgICAgICB3aXRoIHVybGxpYi5yZXF1ZXN0LnVybG9wZW4ocmVxLCB0aW1lb3V0PTMpIGFzIHI6CiAgICAgICAgICAgIGIgPSBqc29uLmxvYWRzKHIucmVhZCgpLmRlY29kZSgidXRmLTgiKSkKICAgICAgICAgICAgbGluZXMuYXBwZW5kKGYiUE9TVCAvYXBpL2NhbG1fc2NyaXB0IC0+IDIwMCBkZWdyYWRlZD17YlsnZGVncmFkZWQnXX0gIgogICAgICAgICAgICAgICAgICAgICAgICAgZiJibG9ja2VkPXtiWydibG9ja2VkJ119IGxldmVsPXtiWydsZXZlbCddfSBzdGVwcz17bGVuKGJbJ3N0ZXBzJ10pfSIpCiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmImxpbmUgPSB7YlsnbGluZSddfSIpCiAgICBsaW5lcy5hcHBlbmQoZiJSRVNVTFQ9eydPSycgaWYgcmVhZHkgZWxzZSAnRkFJTCd9IikKZmluYWxseToKICAgIHAudGVybWluYXRlKCkKICAgIHRyeToKICAgICAgICBwLndhaXQodGltZW91dD0zKQogICAgZXhjZXB0IHN1YnByb2Nlc3MuVGltZW91dEV4cGlyZWQ6CiAgICAgICAgcC5raWxsKCkKICAgIGxpbmVzLmFwcGVuZCgic2VydmVyIHN0b3BwZWQgKG5vIG9ycGhhbiBwcm9jZXNzKSIpCgpvdXQgPSBvcy5wYXRoLmpvaW4oSEVSRSwgIi4uIiwgImRhdGEiLCAi5om55qyhMl/mnI3liqHlrp7mtYsubWQiKQp3aXRoIG9wZW4ob3V0LCAidyIsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICBmLndyaXRlKCIjIOmYtuautSBCIOaJueasoSAyIMK3IOeLrOeri+i/m+eoi+acjeWKoeWunua1i1xuXG4iKQogICAgZi53cml0ZSgi5ZG95Luk77yaYHB5dGhvbiBzZXJ2ZXIucHkgLS1wb3J0IDE4NzY3YO+8jOecn+WunueLrOeri+i/m+eoi++8m+e7k+adn+WQjiB0ZXJtaW5hdGUg6Ieq5riF55CG44CCXG5cbiIpCiAgICBmLndyaXRlKCJcbiIuam9pbigiLSAiICsgbCBmb3IgbCBpbiBsaW5lcykgKyAiXG4iKQpwcmludCgiXG4iLmpvaW4obGluZXMpKQo=
+# -*- coding: utf-8 -*-
+"""独立进程起真实 server.py + HTTP 实测，全部在一个脚本内自清理。"""
+import json
+import os
+import subprocess
+import sys
+import time
+import urllib.request
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+PORT = 18767
+srv = os.path.join(HERE, "server.py")
+p = subprocess.Popen([sys.executable, srv, "--port", str(PORT)],
+                     stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+lines = []
+try:
+    # 轮询等待端口就绪，最多 8 秒
+    ready = False
+    for _ in range(40):
+        try:
+            with urllib.request.urlopen(f"http://127.0.0.1:{PORT}/api/health", timeout=1) as r:
+                h = json.loads(r.read().decode("utf-8"))
+                if r.status == 200 and h.get("status") == "ok":
+                    ready = True
+                    lines.append(f"GET /api/health -> 200 {json.dumps(h, ensure_ascii=False)}")
+                    break
+        except Exception:
+            time.sleep(0.2)
+    if not ready:
+        lines.append("FAIL: /api/health 未就绪")
+    else:
+        req = urllib.request.Request(
+            f"http://127.0.0.1:{PORT}/api/calm_script",
+            data=json.dumps({"anger_level": 5, "situation": "错题又错了"}).encode("utf-8"),
+            headers={"Content-Type": "application/json"}, method="POST")
+        with urllib.request.urlopen(req, timeout=3) as r:
+            b = json.loads(r.read().decode("utf-8"))
+            lines.append(f"POST /api/calm_script -> 200 degraded={b['degraded']} "
+                         f"blocked={b['blocked']} level={b['level']} steps={len(b['steps'])}")
+            lines.append(f"line = {b['line']}")
+    lines.append(f"RESULT={'OK' if ready else 'FAIL'}")
+finally:
+    p.terminate()
+    try:
+        p.wait(timeout=3)
+    except subprocess.TimeoutExpired:
+        p.kill()
+    lines.append("server stopped (no orphan process)")
+
+out = os.path.join(HERE, "..", "data", "批次2_服务实测.md")
+with open(out, "w", encoding="utf-8") as f:
+    f.write("# 阶段 B 批次 2 · 独立进程服务实测\n\n")
+    f.write("命令：`python server.py --port 18767`，真实独立进程；结束后 terminate 自清理。\n\n")
+    f.write("\n".join("- " + l for l in lines) + "\n")
+print("\n".join(lines))

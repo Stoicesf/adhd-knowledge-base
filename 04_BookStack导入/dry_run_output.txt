@@ -1,1 +1,85 @@
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CkRSWSBSVU7vvIjlrozlhajnprvnur/vvIzmnKrlj5Hotbfku7vkvZXnvZHnu5zor7fmsYLvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CuWGheWuueagueebruW9le+8mkY6XEFESETmlofnjK5cMDJf5YaF5a655YyFCuazqOWGjOihqOadoeebru+8mjE577yb5pys5qyh57qz5YWl77yaMTkKCltBXSDlhazlvIDnn6Xor4blupPvvIhDIOerr++8iSAgc2x1Zz1wdWJsaWMta2IKICAg56ug6IqC77ya6K6k6K+GQURIRAogICAgICAtIFtBMDFdIHNsdWc9YWRoZC13aGF0LWl0LWlzICAo5a2Y5ZyoKSAgQURIRCDmmK/ku4DkuYjvvJrkuI3mmK/mh5LvvIzkuZ/kuI3mmK/kuI3liqrlipsKICAgICAgLSBbQTAyXSBzbHVnPWFnZS1kaWZmZXJlbmNlcyAgKOWtmOWcqCkgIOS4jeWQjOW5tOm+hOauteeahOihqOeOsOW3ruW8gu+8muWtpuWJjSAvIOWtpum+hCAvIOmdkuaYpeacnyAvIOaIkOS6ugogICAgICAtIFtBMDNdIHNsdWc9Z2lybHMtYW5kLXdvbWVuICAo5a2Y5ZyoKSAg5aWz5a2p5LiO5aWz5oCn55qEIEFESETvvJrkuLrku4DkuYjlrrnmmJPooqvmvI/mjokKICAg56ug6IqC77ya5Y6755yL5Yy755Sf5LmL5YmNCiAgICAgIC0gW0EwNF0gc2x1Zz1iZWZvcmUtYXBwb2ludG1lbnQgICjlrZjlnKgpICDlsLHor4rliY3opoHlh4blpIfku4DkuYjvvJrnl4fnirborrDlvZXjgIHot6jlnLrmma/kvovlrZDjgIHmg7Ppl67ljLvnlJ/nmoTpl67popjmuIXljZUKICAgICAgLSBbQTA1XSBzbHVnPWxhYmVsLWNvbmNlcm5zICAo5a2Y5ZyoKSAg4oCc6LS05qCH562+4oCd55qE6aG+6JmR77ya6K+K5pat6IO95bim5p2l5LuA5LmI44CB5LiN5bim5p2l5LuA5LmICiAgIOeroOiKgu+8mui+ueeVjOivtOaYjgogICAgICAtIFtBMDZdIHNsdWc9bWVkaWNhdGlvbi1ib3VuZGFyeSAgKOWtmOWcqCkgIOWFs+S6juiNr+eJqe+8muacrOW6k+iDveWbnuetlOS7gOS5iOOAgeS4jeiDveWbnuetlOS7gOS5iAogICDvvIjkuabnsY3pobblsYLpobXpnaLvvIkKICAgICAgLSBbQTAwXSBzbHVnPXN0YXJ0LWhlcmUgICjlrZjlnKgpICDpppbpobXvvJrku47kvaDpgYfliLDnmoTmg4XlhrXlvIDlp4sKW0JdIOWutuW6reW3peWFt+S4juaDheaZr+ahiOS+iyAgc2x1Zz1mYW1pbHktdG9vbHMKICAg56ug6IqC77ya5pel5bi45Zy65pmv5LiO5a625bqt6LCD5pW0CiAgICAgIC0gW0IwMV0gc2x1Zz1ob21ld29yay1sZWF2aW5nLXNlYXQgICjlrZjlnKgpICDlhpnkvZzkuJrpopHnuYHnprvluqfvvJrlrrbluq3njq/looPosIPmlbTnmoQgNSDkuKrlhbfkvZPliqjkvZwKICAgICAgLSBbQjAyXSBzbHVnPW1vcm5pbmctcm91dGluZSAgKOWtmOWcqCkgIOaXqeaZqOWHuumXqOWGsueqge+8muinhuiniea1geeoi+ihqOS4jui/h+a4oeaPkOekuuaAjuS5iOeUqAogICDnq6DoioLvvJrlrrbplb/oh6rlt7EKICAgICAgLSBbQjAzXSBzbHVnPXBhcmVudC1yZXBhaXItc2NyaXB0ICAo5a2Y5ZyoKSAg5a626ZW/6Ieq5bex5bSp5rqD5LmL5ZCO77ya5L+u5aSN5a+56K+d55qE6ISa5pysCiAgIOeroOiKgu+8muWtpuagoeayn+mAmgogICAgICAtIFtCMDRdIHNsdWc9b25lLXBhZ2UtZm9yLXNjaG9vbCAgKOWtmOWcqCkgIOWmguS9leWQkeWtpuagoeaPj+i/sOWtqeWtkOeahOaDheWGte+8muS4gOmhtee6uOaooeadv++8iOWutumVv+erryArIOaVmeW4iOerr++8iQogICAgICAtIFtCMDZdIHNsdWc9dGFsay13aXRoLXRlYWNoZXIgICjlrZjlnKgpICDkuI7ogIHluIjmsp/pgJrnmoQgMyDkuKror53mnK/vvJrku47igJzlkYrnirbigJ3liLDigJzlkIjkvZzigJ0KICAg56ug6IqC77ya6K6w5b2V5LiO5bel5YW3CiAgICAgIC0gW0IwNV0gc2x1Zz1iZWhhdmlvci1sb2cgICjlrZjlnKgpICDooYzkuLrorrDlvZXooajvvIjlj6/miZPljbDvvInvvJrorrDlvZXku4DkuYjjgIHkuI3orrDlvZXku4DkuYjjgIHluKbljrvnu5nosIHnnIsKICAg56ug6IqC77ya5oiQ5Lq66Ieq5bexCiAgICAgIC0gW0IwN10gc2x1Zz1hZHVsdC1zdGFydGVyICAo5a2Y5ZyoKSAg5oiQ5Lq6IEFESEQg6Ieq5oiR566h55CG6LW35q2l77ya5aSW6YOo5YyW6K6w5b+G5LiO5Lu75Yqh5ouG5YiG55qEIDMg5Liq5bel5YW3CltDXSBCIOerr+W3peS9nOaJi+WGjCAgc2x1Zz1jbGluaWNpYW4taGFuZGJvb2sKICAg56ug6IqC77ya6KGM5Li655uu5qCH5LiO5pWw5o2uCiAgICAgIC0gW0MwMV0gc2x1Zz10YXJnZXQtYmVoYXZpb3ItdHJhY2tpbmcgICjlrZjlnKgpICDnm67moIfooYzkuLrnmoTlrprkuYnkuI7mlbDmja7ov73ouKrooajmqKHmnb8KICAg56ug6IqC77ya5a626ZW/5Z+56K6tCiAgICAgIC0gW0MwMl0gc2x1Zz1wYXJlbnQtdHJhaW5pbmctY3VycmljdWx1bSAgKOWtmOWcqCkgIOWutumVv+ihjOS4uueuoeeQhuWfueiureeahOivvueoi+e7k+aehOaooeadv++8iOS4jeWQq+iNr+eJqeivnemimOaooeWdl++8iQogICDnq6DoioLvvJrovazku4vkuI7ovrnnlYwKICAgICAgLSBbQzAzXSBzbHVnPXJlZmVycmFsLWNoZWNrbGlzdCAgKOWtmOWcqCkgIOi9rOS7i+a4heWNleS4juagh+WHhuWbnuW6lO+8muW7uuiuruWwseiviui3r+W+hCArIOKAnOS4jeiuqOiuuuiNr+eJqemAieaLqeKAneWbuuWumuivneacrwpbRF0g5Li05bqK6L6555WM5Y+C6ICDICBzbHVnPWNsaW5pY2FsLWJvdW5kYXJ5CiAgIOeroOiKgu+8muiviuaWreS4juivhOS8sOi+ueeVjAogICAgICAtIFtEMDFdIHNsdWc9ZGlhZ25vc3RpYy1jcml0ZXJpYS1zdW1tYXJ5ICAo5a2Y5ZyoKSAgRFNNLTUtVFIgLyBJQ0QtMTEg6K+K5pat5qCH5YeG5pGY6KaB77yI5LuF5pGY6KaB5bGC57qn77yJCiAgICAgIC0gW0QwMl0gc2x1Zz1hc3Nlc3NtZW50LXRvb2xzLXBvc2l0aW9uaW5nICAo5a2Y5ZyoKSAg6K+E5Lyw5bel5YW355qE5Yqf6IO95a6a5L2N5a+554Wn77ya562b5p+lIC8g6K+K5pat6L6F5YqpIC8g55uR5rWLCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K6ZO+5o6l5pS55YaZ5qCh6aqM77yI55u45a+5IC5tZCDpk77mjqUg4oaSIEJvb2tTdGFjayBVUkzvvIkKLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCuW3suino+aekOmTvuaOpe+8mjEwMgrmnKrop6PmnpDpk77mjqXvvJowCgotLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0K6aG16Z2i5qCh6aqM5rGH5oC7Ci0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQogIFtPSyBdIEEwMCAg6aaW6aG177ya5LuO5L2g6YGH5Yiw55qE5oOF5Ya15byA5aeLCiAgICAgICAgISDliYLph4/nsbvor43lkb3kuK3vvIjor7fkurrlt6XlpI3moLjmmK/lkKbkuLrlhYPovrnnlYzlkKblrprlj6XvvInvvJrliYLph48KICAgICAgICAhIOWJgumHj+exu+ivjeWRveS4re+8iOivt+S6uuW3peWkjeaguOaYr+WQpuS4uuWFg+i+ueeVjOWQpuWumuWPpe+8ie+8muWHj+mHjwogICAgICAgICEg5Yaz562W57G76K+N5ZG95Lit77yI6K+35Lq65bel5aSN5qC45piv5ZCm5Li65YWD6L6555WM5ZCm5a6a5Y+l77yJ77ya5YGc6I2vCiAgICAgICAgISDlhrPnrZbnsbvor43lkb3kuK3vvIjor7fkurrlt6XlpI3moLjmmK/lkKbkuLrlhYPovrnnlYzlkKblrprlj6XvvInvvJrkuI3oia/lj43lupQKICBbT0sgXSBBMDEgIEFESEQg5piv5LuA5LmI77ya5LiN5piv5oeS77yM5Lmf5LiN5piv5LiN5Yqq5YqbCiAgW09LIF0gQTAyICDkuI3lkIzlubTpvoTmrrXnmoTooajnjrDlt67lvILvvJrlrabliY0gLyDlrabpvoQgLyDpnZLmmKXmnJ8gLyDmiJDkuroKICBbT0sgXSBBMDMgIOWls+WtqeS4juWls+aAp+eahCBBREhE77ya5Li65LuA5LmI5a655piT6KKr5ryP5o6JCiAgW09LIF0gQTA0ICDlsLHor4rliY3opoHlh4blpIfku4DkuYjvvJrnl4fnirborrDlvZXjgIHot6jlnLrmma/kvovlrZDjgIHmg7Ppl67ljLvnlJ/nmoTpl67popjmuIXljZUKICBbT0sgXSBBMDUgIOKAnOi0tOagh+etvuKAneeahOmhvuiZke+8muiviuaWreiDveW4puadpeS7gOS5iOOAgeS4jeW4puadpeS7gOS5iAogIFtPSyBdIEEwNiAg5YWz5LqO6I2v54mp77ya5pys5bqT6IO95Zue562U5LuA5LmI44CB5LiN6IO95Zue562U5LuA5LmICiAgW09LIF0gQjAxICDlhpnkvZzkuJrpopHnuYHnprvluqfvvJrlrrbluq3njq/looPosIPmlbTnmoQgNSDkuKrlhbfkvZPliqjkvZwKICBbT0sgXSBCMDIgIOaXqeaZqOWHuumXqOWGsueqge+8muinhuiniea1geeoi+ihqOS4jui/h+a4oeaPkOekuuaAjuS5iOeUqAogIFtPSyBdIEIwMyAg5a626ZW/6Ieq5bex5bSp5rqD5LmL5ZCO77ya5L+u5aSN5a+56K+d55qE6ISa5pysCiAgW09LIF0gQjA0ICDlpoLkvZXlkJHlrabmoKHmj4/ov7DlranlrZDnmoTmg4XlhrXvvJrkuIDpobXnurjmqKHmnb/vvIjlrrbplb/nq68gKyDmlZnluIjnq6/vvIkKICBbT0sgXSBCMDUgIOihjOS4uuiusOW9leihqO+8iOWPr+aJk+WNsO+8ie+8muiusOW9leS7gOS5iOOAgeS4jeiusOW9leS7gOS5iOOAgeW4puWOu+e7meiwgeeciwogIFtPSyBdIEIwNiAg5LiO6ICB5biI5rKf6YCa55qEIDMg5Liq6K+d5pyv77ya5LuO4oCc5ZGK54q24oCd5Yiw4oCc5ZCI5L2c4oCdCiAgW09LIF0gQjA3ICDmiJDkurogQURIRCDoh6rmiJHnrqHnkIbotbfmraXvvJrlpJbpg6jljJborrDlv4bkuI7ku7vliqHmi4bliIbnmoQgMyDkuKrlt6XlhbcKICBbT0sgXSBDMDEgIOebruagh+ihjOS4uueahOWumuS5ieS4juaVsOaNrui/vei4quihqOaooeadvwogICAgICAgICEg5YmC6YeP57G76K+N5ZG95Lit77yI6K+35Lq65bel5aSN5qC45piv5ZCm5Li65YWD6L6555WM5ZCm5a6a5Y+l77yJ77ya5YmC6YePCiAgICAgICAgISDlhrPnrZbnsbvor43lkb3kuK3vvIjor7fkurrlt6XlpI3moLjmmK/lkKbkuLrlhYPovrnnlYzlkKblrprlj6XvvInvvJroja/nianpgInmi6kKICBbT0sgXSBDMDIgIOWutumVv+ihjOS4uueuoeeQhuWfueiureeahOivvueoi+e7k+aehOaooeadv++8iOS4jeWQq+iNr+eJqeivnemimOaooeWdl++8iQogICAgICAgICEg5YmC6YeP57G76K+N5ZG95Lit77yI6K+35Lq65bel5aSN5qC45piv5ZCm5Li65YWD6L6555WM5ZCm5a6a5Y+l77yJ77ya5YmC6YePCiAgICAgICAgISDlhrPnrZbnsbvor43lkb3kuK3vvIjor7fkurrlt6XlpI3moLjmmK/lkKbkuLrlhYPovrnnlYzlkKblrprlj6XvvInvvJroja/nianpgInmi6kKICBbT0sgXSBDMDMgIOi9rOS7i+a4heWNleS4juagh+WHhuWbnuW6lO+8muW7uuiuruWwseiviui3r+W+hCArIOKAnOS4jeiuqOiuuuiNr+eJqemAieaLqeKAneWbuuWumuivneacrwogICAgICAgICEg5YmC6YeP57G76K+N5ZG95Lit77yI5L6L5aSW5Yy6IMKnMi40IOW8uuWItui+ueeVjOWPpe+8jOW3suaUvuihjO+8jOivt+S6uuW3peehruiupO+8ie+8muWJgumHjwogICAgICAgICEg5L6L5aSW5Yy65ZG95Lit5Yaz562W6K+N77yI6ZyA5Lq65bel56Gu6K6k5piv5ZCm5Zyo5ZCm5a6a5Y+l5Lit77yJ77ya6I2v54mp6YCJ5oupCiAgW09LIF0gRDAxICBEU00tNS1UUiAvIElDRC0xMSDor4rmlq3moIflh4bmkZjopoHvvIjku4XmkZjopoHlsYLnuqfvvIkKICBbT0sgXSBEMDIgIOivhOS8sOW3peWFt+eahOWKn+iDveWumuS9jeWvueeFp++8muetm+afpSAvIOiviuaWrei+heWKqSAvIOebkea1iwoKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cuaxh+aAu++8muino+aekOaIkOWKnyAxOS8xOSDpobXvvJvplJnor68gMO+8m+itpuWRiiAxMO+8m+acquino+aekOmTvuaOpSAw44CCCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQo=
+========================================================================
+DRY RUN（完全离线，未发起任何网络请求）
+========================================================================
+内容根目录：F:\ADHD文献\02_内容包
+注册表条目：19；本次纳入：19
+
+[A] 公开知识库（C 端）  slug=public-kb
+   章节：认识ADHD
+      - [A01] slug=adhd-what-it-is  (存在)  ADHD 是什么：不是懒，也不是不努力
+      - [A02] slug=age-differences  (存在)  不同年龄段的表现差异：学前 / 学龄 / 青春期 / 成人
+      - [A03] slug=girls-and-women  (存在)  女孩与女性的 ADHD：为什么容易被漏掉
+   章节：去看医生之前
+      - [A04] slug=before-appointment  (存在)  就诊前要准备什么：症状记录、跨场景例子、想问医生的问题清单
+      - [A05] slug=label-concerns  (存在)  “贴标签”的顾虑：诊断能带来什么、不带来什么
+   章节：边界说明
+      - [A06] slug=medication-boundary  (存在)  关于药物：本库能回答什么、不能回答什么
+   （书籍顶层页面）
+      - [A00] slug=start-here  (存在)  首页：从你遇到的情况开始
+[B] 家庭工具与情景案例  slug=family-tools
+   章节：日常场景与家庭调整
+      - [B01] slug=homework-leaving-seat  (存在)  写作业频繁离座：家庭环境调整的 5 个具体动作
+      - [B02] slug=morning-routine  (存在)  早晨出门冲突：视觉流程表与过渡提示怎么用
+   章节：家长自己
+      - [B03] slug=parent-repair-script  (存在)  家长自己崩溃之后：修复对话的脚本
+   章节：学校沟通
+      - [B04] slug=one-page-for-school  (存在)  如何向学校描述孩子的情况：一页纸模板（家长端 + 教师端）
+      - [B06] slug=talk-with-teacher  (存在)  与老师沟通的 3 个话术：从“告状”到“合作”
+   章节：记录与工具
+      - [B05] slug=behavior-log  (存在)  行为记录表（可打印）：记录什么、不记录什么、带去给谁看
+   章节：成人自己
+      - [B07] slug=adult-starter  (存在)  成人 ADHD 自我管理起步：外部化记忆与任务拆分的 3 个工具
+[C] B 端工作手册  slug=clinician-handbook
+   章节：行为目标与数据
+      - [C01] slug=target-behavior-tracking  (存在)  目标行为的定义与数据追踪表模板
+   章节：家长培训
+      - [C02] slug=parent-training-curriculum  (存在)  家长行为管理培训的课程结构模板（不含药物话题模块）
+   章节：转介与边界
+      - [C03] slug=referral-checklist  (存在)  转介清单与标准回应：建议就诊路径 + “不讨论药物选择”固定话术
+[D] 临床边界参考  slug=clinical-boundary
+   章节：诊断与评估边界
+      - [D01] slug=diagnostic-criteria-summary  (存在)  DSM-5-TR / ICD-11 诊断标准摘要（仅摘要层级）
+      - [D02] slug=assessment-tools-positioning  (存在)  评估工具的功能定位对照：筛查 / 诊断辅助 / 监测
+
+------------------------------------------------------------------------
+链接改写校验（相对 .md 链接 → BookStack URL）
+------------------------------------------------------------------------
+已解析链接：102
+未解析链接：0
+
+------------------------------------------------------------------------
+页面校验汇总
+------------------------------------------------------------------------
+  [OK ] A00  首页：从你遇到的情况开始
+        ! 剂量类词命中（请人工复核是否为元边界否定句）：剂量
+        ! 剂量类词命中（请人工复核是否为元边界否定句）：减量
+        ! 决策类词命中（请人工复核是否为元边界否定句）：停药
+        ! 决策类词命中（请人工复核是否为元边界否定句）：不良反应
+  [OK ] A01  ADHD 是什么：不是懒，也不是不努力
+  [OK ] A02  不同年龄段的表现差异：学前 / 学龄 / 青春期 / 成人
+  [OK ] A03  女孩与女性的 ADHD：为什么容易被漏掉
+  [OK ] A04  就诊前要准备什么：症状记录、跨场景例子、想问医生的问题清单
+  [OK ] A05  “贴标签”的顾虑：诊断能带来什么、不带来什么
+  [OK ] A06  关于药物：本库能回答什么、不能回答什么
+  [OK ] B01  写作业频繁离座：家庭环境调整的 5 个具体动作
+  [OK ] B02  早晨出门冲突：视觉流程表与过渡提示怎么用
+  [OK ] B03  家长自己崩溃之后：修复对话的脚本
+  [OK ] B04  如何向学校描述孩子的情况：一页纸模板（家长端 + 教师端）
+  [OK ] B05  行为记录表（可打印）：记录什么、不记录什么、带去给谁看
+  [OK ] B06  与老师沟通的 3 个话术：从“告状”到“合作”
+  [OK ] B07  成人 ADHD 自我管理起步：外部化记忆与任务拆分的 3 个工具
+  [OK ] C01  目标行为的定义与数据追踪表模板
+        ! 剂量类词命中（请人工复核是否为元边界否定句）：剂量
+        ! 决策类词命中（请人工复核是否为元边界否定句）：药物选择
+  [OK ] C02  家长行为管理培训的课程结构模板（不含药物话题模块）
+        ! 剂量类词命中（请人工复核是否为元边界否定句）：剂量
+        ! 决策类词命中（请人工复核是否为元边界否定句）：药物选择
+  [OK ] C03  转介清单与标准回应：建议就诊路径 + “不讨论药物选择”固定话术
+        ! 剂量类词命中（例外区 §2.4 强制边界句，已放行，请人工确认）：剂量
+        ! 例外区命中决策词（需人工确认是否在否定句中）：药物选择
+  [OK ] D01  DSM-5-TR / ICD-11 诊断标准摘要（仅摘要层级）
+  [OK ] D02  评估工具的功能定位对照：筛查 / 诊断辅助 / 监测
+
+========================================================================
+汇总：解析成功 19/19 页；错误 0；警告 10；未解析链接 0。
+========================================================================

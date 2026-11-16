@@ -1,1 +1,80 @@
-LS0tCumdouWQkTog5pys5Lq6CuivgeaNrueKtuaAgTog57uP6aqM5oCn562W55WlCuacgOWQjuWuoeaguDogMjAyNi0xMS0wNQrpm7bnlKjoja/li77pgIk6IOW3suWLvumAiQrpobXpnaLnsbvlnos6IEPnq68t5Lmm57GNQgrkuabnsY06IOS5puexjUJf5a625bqt5bel5YW35LiO5oOF5pmv5qGI5L6LCueroOiKgjog5oiQ5Lq66Ieq5bexCnNsdWc6IHNvY2lhbC1ibHVuZGVycwotLS0KCj4gKirpnaLlkJEqKu+8muacrOS6uiDvvZwgKiror4Hmja7nirbmgIEqKu+8mue7j+mqjOaAp+etlueVpSDvvZwgKirmnIDlkI7lrqHmoLgqKu+8mjIwMjYtMTEtMDUKPiAqKuacrOmhteS4jeWQq+iNr+WQjeOAgeWJgumHj+OAgeeUqOiNr+mAieaLqeOAgeWJr+S9nOeUqOWkhOeQhuOAgeWBnOiNr+WHj+mHj+W7uuiurioqIOKAlOKAlCDimJEg5bey5Yu+6YCJCgojIOaIkOW5tCBBREhEIOeahOekvuS6pOWwtOWwrO+8mui/n+WIsOOAgeW/mOS6i+OAgeiBiuS4jeS4i+WOu+aAjuS5iOWKngoKPiDmnKzpobXmmK8gW+aIkOS6uiBBREhEIOiHquaIkeeuoeeQhui1t+atpV0oQjA3X+aIkOS6ukFESEToh6rmiJHnrqHnkIbotbfmraUubWQpIOWcqOekvuS6pOWcuuaZr+eahOWNleeCueW7tuS8uOOAgkIwNyDorrLnmoTmmK/pgJrnlKjlt6XlhbfvvIzmnKzpobXlj6rop6PlhrPkuInnsbvpq5jpopHnpL7kuqTljaHngrnvvJrov5/liLDjgIHlv5jkuovjgIHogYrlpKnotbDnpZ7jgIIKCiMjIOS7iuWkqeiDveWBmueahCAzIOS7tuS6iwoKMS4gKirku4rmmZrlh4blpIfkuIDlj6Ui6L+f5Yiw6aKE5YWI6YCa55+lIuaooeadv++8jOWtmOi/m+aJi+acuuW/q+aNt+efreivreOAgioqIOS+i+Wmgu+8miLmiJHov5jmnIkgMTAg5YiG6ZKf5Yiw77yM5L2g5YWI54K56I+cL+WwseWdkO+8jOS4jeeUqOetieaIkeOAgiIKMi4gKirkuIvmrKHliKvkurrmiZjkvaDlgZrkuovvvIzlvZPlnLror7TkuIDlj6Ui562J5LiA5LiL77yM5oiR6K6w5LiA5LiLIuOAgioqIOaJk+W8gOS9oOWUr+S4gOeahCLmlLbku7blpIQi5YaZ5LiL5p2l77yM5LiN6Z2g6ISR5a2Q44CCCjMuICoq5LiL5qyh6IGK5aSp5oSf6KeJ6Ieq5bex6LWw56We77yM55u05o6l6K+05LiA5Y+l44CCKiogIuaIkeWImui1sOelnuS6hu+8jOS9oOS7juWImuaJjemCo+WPpeaOpeedgOivtOOAgiLliKvoo4XkvZzlnKjlkKzjgIIKCiMjIOS4uuS7gOS5iOi/meagt+WBmuacieaViAoK56S+5Lqk5bC05bCs55qE5qC55rqQ5LiN5piv5L2g5LiN5Lya56S+5Lqk77yM6ICM5piv5Yeg5Liq5omn6KGM5Yqf6IO96Zeu6aKY5Zyo56S+5Lqk5Zy66YeM6KKr5pS+5aSn77ya5pe26Ze05Lyw6ZSZ77yI6L+f5Yiw77yJ44CB5aSW6YOo6K6w5b+G5aSW5YyF57uZ6ISR5a2Q77yI5b+Y5LqL77yJ44CB5rOo5oSP5Yqb5YiH5o2i5b+r77yI6IGK5LiN5LiL5Y6777yJ44CCCgrmjIfljZflr7nmiJDkurogQURIRCDlvLrosIPnu5PmnoTmgKfml6XluLjmlK/mjIEgWzFd44CC56S+5Lqk5LiK55qEIue7k+aehOaAp+aUr+aMgSLkuI3mmK/lrabkuIDlpZfor53mnK/kvKroo4Xoh6rlt7HvvIzogIzmmK/miooi6Z2g6ISR5a2Q6K6wIuaNouaIkCLpnaDlt6XlhbflhZzlupUi77yM5YaN55So5LiA5Y+l6aKE5YWI5YeG5aSH5aW955qE6K+d5oqK5aSx6K+v5Y+Y5oiQ5Y+v6aKE5pyf55qE5LqL44CC5Y+v6aKE5pyf5q+U5a6M576O6YeN6KaB4oCU4oCU5pyL5Y+L5Y6f6LCFIuavj+asoemDveS8muaPkOWJjeWPkea2iOaBr+eahOi/n+WIsCLvvIzkuI3ljp/osIUi5YGH6KOF6ams5LiK5Yiw5YW25a6e6L+Y6KaB5Y2K5bCP5pe2IuOAggoKIyMg5YW35L2T5oCO5LmI5YGaCgoqKuS4ieexu+WwtOWwrCDDlyDlvZPlnLrlupTlr7kgw5cg5o+Q5YmN6aKE6Ziy77yaKioKCnwg5bC05bCs5Zy65pmvIHwg5b2T5Zy65oCO5LmI5YGaIHwg5o+Q5YmN5oCO5LmI6ZiyIHwKfC0tLXwtLS18LS0tfAp8IOW/q+i/n+WIsOS6hiB8IOaPkOWJjeWPkeW/q+aNt+efreivre+8jOS4jeWBh+ijhSLpqazkuIrliLAiIHwg5Ye66Zeo5YmN6K6+5Lik5Liq6Ze56ZKf77ya5LiA5Liq5YeG5aSH44CB5LiA5Liq5Ye65Y+RIHwKfCDnrZTlupTnmoTkuovlv5jkuoYgfCDkuI3nvJbnkIbnlLHvvIznm7TmjqXor7Qi5oiR5ryP5LqG77yM546w5Zyo5YqeIiB8IOW9k+WcuuWGmei/m+WUr+S4gOaUtuS7tuWkhO+8jOS4jemdoOiEkeWtkOiusCB8Cnwg6IGK5aSp6LWw56WeL+etlOmdnuaJgOmXriB8ICLmiJHliJrotbDnpZ7kuobvvIzkvaDlho3or7TkuIDpgY3mnIDlkI7pgqPlj6UiIHwg5q+PIDUg5YiG6ZKf5Zyo5b+D6YeM5aSN6L+w5LiA5qyh5a+55pa55Zyo6K6y5LuA5LmIIHwKfCDliKvkurror7Tor53ml7boh6rlt7HliLfmiYvmnLogfCDmiormiYvmnLrmiaPlnKjmoYzkuIrvvIznm7Tor7Qi5oiR5pS+6L+Z5YS/5LqGIiB8IOe6puS6uuaXtumAieS9oOS4jeWWnOasouWIt+aJi+acuueahOW6p+S9jSB8Cnwg6IGK5Yiw5LiA5Y2K6KKr5Yir55qE5b+15aS05bim6LWwIHwgIuetieS4gOS4i++8jOWImuaJjeaIkeS7rOivtOWIsOWTquWEv+S6hu+8nyIgfCDph43opoHlr7nor53ml7bmiYvph4zkuI3mi7/mna/lrZDku6XlpJbnmoTkuJzopb8gfAoKKirkuInlj6Xlj6/ku6Xnm7TmjqXog4znmoTor53vvJoqKgoKLSDov5/liLDpooTlkYrvvJoi5oiR5aSn5qaCIFgg5YiG6ZKf5Yiw77yM5L2g5YWI5byA5aeL77yM5LiN55So562J5oiR44CCIgotIOW/mOS6i+WQju+8miLmirHmrYnov5nku7bkuovmiJHmvI/kuobvvIzmiJHnjrDlnKjlsLHlip7vvIxYIOeCueWJjee7meS9oOe7k+aenOOAgiIKLSDotbDnpZ7ml7bvvJoi5oiR5Yia5rKh6Lef5LiK77yM5L2g5YaN6K+05LiA6YGN5pyA5ZCO6YKj5Y+l44CCIgoKKirlgZrlr7nkuobnmoTmoIflv5fvvJoqKiDmnIvlj4vkuI3lho3or7Qi5L2g5oCO5LmI5q+P5qyh6YO96L+Z5qC3Iu+8jOiAjOaYr+ivtCLkvaDov5nkurromb3nhLbov5/liLDkvYbkvJrmj5DliY3or7Qi4oCU4oCU5L2g55qE5aSx6K+v5Y+Y5oiQ5LqG5Y+v6aKE5pyf55qE77yM5YWz57O75bCx5LiN5Lya6KKr5Y+N5aSN56Oo5o2f44CCCgojIyDku4DkuYjmg4XlhrXkuIvpnIDopoHmjaLkuIDnp43lgZrms5UKCi0gKiror5XkuobkuIDkuKrmnIjvvIzlhbPns7vov5jmmK/lj43lpI3noLToo4IqKu+8muWPr+iDveS4jeWPquaYr+aJp+ihjOWKn+iDvemXrumimO+8jOW7uuiuruWcqOivhOS8sOaXtuS4gOW5tuWSjOWMu+eUn+iwiOOAguS4i+S4gOatpSBb5oiQ5bm05ZCO56ys5LiA5qyh5oOz6K+E5Lyw6Ieq5bexXSguLi/kuabnsY1BX+WFrOW8gOefpeivhuW6ky9BMDdf5oiQ5bm05ZCO56ys5LiA5qyh5oOz6K+E5Lyw6Ieq5bexLeWFiOaVtOeQhuWTquS6m+adkOaWmS5tZCnjgIIKLSAqKuavj+asoeekvuS6pOWQjumcgOimgei6uuWNiuWkqeWbnuihgCoq77ya6L+Z5piv56S+5Lqk6ICX56ut77yM5LiN5piv6K+d5pyv6IO96Kej5Yaz55qE77yM5Li75Yqo5YeP5bCR6auY6aKR56S+5Lqk5a6J5o6S44CCCi0gKirlm6DkuLrlsLTlsKzlrozlhajlm57pgb/npL7kuqTjgIHor7flgYfourLkuroqKu+8mui/meW3sue7j+W9seWTjeWKn+iDve+8jOWIq+WPqumdoOivneacr+ehrOaSkeOAggotICoq562U5bqU55qE5LqL5YaZ5LiL5p2l6L+Y5piv5ryPKirvvJror7TmmI4i5pS25Lu25aSEIuS9oOayoeecn+eahOWPqueUqOS4gOS4qu+8jOWbnuWIsCBbQjA3IOW3peWFtyAxXShCMDdf5oiQ5Lq6QURIROiHquaIkeeuoeeQhui1t+atpS5tZCkg5YWI5oqK5pS25Y+j6Zeu6aKY6Kej5Yaz44CCCgojIyDluLjop4Hor6/ljLoKCnwg6K+v5Yy6IHwg5a6e6ZmFIHwKfC0tLXwtLS18CnwgIuaIkemBk+atieWkn+ecn+ivmuWwseihjCIgfCDpgZPmrYnkuI3op6PlhrPkuIvkuIDmrKHvvIzmj5DliY3pgJrnn6XmiY3op6PlhrMgfAp8ICLoo4XlkKzmh4Lmr5Tmib/orqTotbDnpZ7npLzosowiIHwg6KOF5ZCs5oeC5pyA5ZCO562U6Z2e5omA6Zeu77yM5pu05bC05bCsIHwKfCAi5oiR5aSa5o+Q6YaS6Ieq5bex5Yir5b+YIiB8IOaPkOmGkuiHquW3seayoeeUqO+8jOWklumDqOiusOW9leaJjeacieeUqCB8CnwgIuWIq+S6uui/n+WIsOS5n+i/meagt++8jOayoeS6iyIgfCDlj43lpI3ov5/liLDkvJrooqvotLTmoIfnrb7vvIzmj5DliY3lj5Hmtojmga/og73mkpXmjonkuIDljYogfAp8ICLmiJHlupTor6Xnu4Plvpflg4/liKvkurrkuIDmoLfoh6rnhLYiIHwg55uu5qCH5LiN5piv5Y+Y6Ieq54S277yM5piv6K6p5Yir5Lq65ZKM5L2g55u45aSE5pe25Y+v6aKE5pyfIHwKCj4g5pys6aG15o+Q5L6b55qE5piv5pWZ6IKy5LiO6Ieq5oiR566h55CG5L+h5oGv77yM5LiN5p6E5oiQ6K+K5pat5oiW5rK755aX5bu66K6u44CC5piv5ZCm6ZyA6KaB6L+b5LiA5q2l6K+E5Lyw77yM6K+35LiO5pyJ5aSE5pa55p2D55qE5Yy755Sf5oiW57K+56We56eRL+W/g+eQhuenkeS4k+S4muS6uuWRmOiuqOiuuuOAggoKIyMg5L6d5o2u5LiO5Ye65aSECgpbMV0gTmF0aW9uYWwgSW5zdGl0dXRlIGZvciBIZWFsdGggYW5kIENhcmUgRXhjZWxsZW5jZSAoTklDRSkuIEF0dGVudGlvbiBkZWZpY2l0IGh5cGVyYWN0aXZpdHkgZGlzb3JkZXI6IGRpYWdub3NpcyBhbmQgbWFuYWdlbWVudCAoTkc4NykuIDIwMTjvvIjmiJDkurrpnIDopoHnu5PmnoTmgKfml6XluLjmlK/mjIHov5nkuIDmlrnlkJHvvIkuIGh0dHBzOi8vd3d3Lm5pY2Uub3JnLnVrL2d1aWRhbmNlL25nODfvvIjorr/pl67ml6XmnJ8gMjAyNi0xMS0wNe+8iQoKPiDor7TmmI7vvJrmjIfljZfmlK/mjIEi5oiQ5Lq66ZyA6KaB57uT5p6E5oCn5pel5bi45pSv5oyBIui/meS4gOaWueWQke+8m+acrOmhteeahOS4ieWPpeW6lOWvueivneacr+S4jumihOmYsuWBmuazleaYr+Wunui3teS4reW5v+azm+S9v+eUqOeahOekvuS6pOetlueVpe+8jOebtOaOpeWvueeFp+eglOeptuivgeaNruaciemZkOOAggoKIyMg5LiL5LiA5p2h5Y+v5pON5L2c5bu66K6uCgotIFvmiJDkurogQURIRCDoh6rmiJHnrqHnkIbotbfmraVdKEIwN1/miJDkurpBREhE6Ieq5oiR566h55CG6LW35q2lLm1kKQotIFvmiJDkurrmi5blu7botbfmraXvvJo1IOWIhumSn+azlV0oQjE2X+aIkOS6uuaLluW7tui1t+atpS3kuI3mg7PlvIDlp4vlhYjnlKg15YiG6ZKf5rOVLm1kKQotIFvmiJDlubTlkI7nrKzkuIDmrKHmg7Por4TkvLDoh6rlt7FdKC4uL+S5puexjUFf5YWs5byA55+l6K+G5bqTL0EwN1/miJDlubTlkI7nrKzkuIDmrKHmg7Por4TkvLDoh6rlt7Et5YWI5pW055CG5ZOq5Lqb5p2Q5paZLm1kKQo=
+---
+面向: 本人
+证据状态: 经验性策略
+最后审核: 2026-11-05
+零用药勾选: 已勾选
+页面类型: C端-书籍B
+书籍: 书籍B_家庭工具与情景案例
+章节: 成人自己
+slug: social-blunders
+---
+
+> **面向**：本人 ｜ **证据状态**：经验性策略 ｜ **最后审核**：2026-11-05
+> **本页不含药名、剂量、用药选择、副作用处理、停药减量建议** —— ☑ 已勾选
+
+# 成年 ADHD 的社交尴尬：迟到、忘事、聊不下去怎么办
+
+> 本页是 [成人 ADHD 自我管理起步](B07_成人ADHD自我管理起步.md) 在社交场景的单点延伸。B07 讲的是通用工具，本页只解决三类高频社交卡点：迟到、忘事、聊天走神。
+
+## 今天能做的 3 件事
+
+1. **今晚准备一句"迟到预先通知"模板，存进手机快捷短语。** 例如："我还有 10 分钟到，你先点菜/就坐，不用等我。"
+2. **下次别人托你做事，当场说一句"等一下，我记一下"。** 打开你唯一的"收件处"写下来，不靠脑子。
+3. **下次聊天感觉自己走神，直接说一句。** "我刚走神了，你从刚才那句接着说。"别装作在听。
+
+## 为什么这样做有效
+
+社交尴尬的根源不是你不会社交，而是几个执行功能问题在社交场里被放大：时间估错（迟到）、外部记忆外包给脑子（忘事）、注意力切换快（聊不下去）。
+
+指南对成人 ADHD 强调结构性日常支持 [1]。社交上的"结构性支持"不是学一套话术伪装自己，而是把"靠脑子记"换成"靠工具兜底"，再用一句预先准备好的话把失误变成可预期的事。可预期比完美重要——朋友原谅"每次都会提前发消息的迟到"，不原谅"假装马上到其实还要半小时"。
+
+## 具体怎么做
+
+**三类尴尬 × 当场应对 × 提前预防：**
+
+| 尴尬场景 | 当场怎么做 | 提前怎么防 |
+|---|---|---|
+| 快迟到了 | 提前发快捷短语，不假装"马上到" | 出门前设两个闹钟：一个准备、一个出发 |
+| 答应的事忘了 | 不编理由，直接说"我漏了，现在办" | 当场写进唯一收件处，不靠脑子记 |
+| 聊天走神/答非所问 | "我刚走神了，你再说一遍最后那句" | 每 5 分钟在心里复述一次对方在讲什么 |
+| 别人说话时自己刷手机 | 把手机扣在桌上，直说"我放这儿了" | 约人时选你不喜欢刷手机的座位 |
+| 聊到一半被别的念头带走 | "等一下，刚才我们说到哪儿了？" | 重要对话时手里不拿杯子以外的东西 |
+
+**三句可以直接背的话：**
+
+- 迟到预告："我大概 X 分钟到，你先开始，不用等我。"
+- 忘事后："抱歉这件事我漏了，我现在就办，X 点前给你结果。"
+- 走神时："我刚没跟上，你再说一遍最后那句。"
+
+**做对了的标志：** 朋友不再说"你怎么每次都这样"，而是说"你这人虽然迟到但会提前说"——你的失误变成了可预期的，关系就不会被反复磨损。
+
+## 什么情况下需要换一种做法
+
+- **试了一个月，关系还是反复破裂**：可能不只是执行功能问题，建议在评估时一并和医生谈。下一步 [成年后第一次想评估自己](../书籍A_公开知识库/A07_成年后第一次想评估自己-先整理哪些材料.md)。
+- **每次社交后需要躺半天回血**：这是社交耗竭，不是话术能解决的，主动减少高频社交安排。
+- **因为尴尬完全回避社交、请假躲人**：这已经影响功能，别只靠话术硬撑。
+- **答应的事写下来还是漏**：说明"收件处"你没真的只用一个，回到 [B07 工具 1](B07_成人ADHD自我管理起步.md) 先把收口问题解决。
+
+## 常见误区
+
+| 误区 | 实际 |
+|---|---|
+| "我道歉够真诚就行" | 道歉不解决下一次，提前通知才解决 |
+| "装听懂比承认走神礼貌" | 装听懂最后答非所问，更尴尬 |
+| "我多提醒自己别忘" | 提醒自己没用，外部记录才有用 |
+| "别人迟到也这样，没事" | 反复迟到会被贴标签，提前发消息能撕掉一半 |
+| "我应该练得像别人一样自然" | 目标不是变自然，是让别人和你相处时可预期 |
+
+> 本页提供的是教育与自我管理信息，不构成诊断或治疗建议。是否需要进一步评估，请与有处方权的医生或精神科/心理科专业人员讨论。
+
+## 依据与出处
+
+[1] National Institute for Health and Care Excellence (NICE). Attention deficit hyperactivity disorder: diagnosis and management (NG87). 2018（成人需要结构性日常支持这一方向）. https://www.nice.org.uk/guidance/ng87（访问日期 2026-11-05）
+
+> 说明：指南支持"成人需要结构性日常支持"这一方向；本页的三句应对话术与预防做法是实践中广泛使用的社交策略，直接对照研究证据有限。
+
+## 下一条可操作建议
+
+- [成人 ADHD 自我管理起步](B07_成人ADHD自我管理起步.md)
+- [成人拖延起步：5 分钟法](B16_成人拖延起步-不想开始先用5分钟法.md)
+- [成年后第一次想评估自己](../书籍A_公开知识库/A07_成年后第一次想评估自己-先整理哪些材料.md)

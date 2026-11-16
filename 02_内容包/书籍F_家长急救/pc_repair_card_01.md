@@ -1,1 +1,48 @@
-LS0tCmlkOiBwY19yZXBhaXJfY2FyZF8wMQp0eXBlOiBleHBsYW5hdG9yeQphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBwYXJlbnRfZXNjYWxhdGlvbgpleGVjX3RhcmdldDog5oOF57uq6LCD6IqCCmV2aWRlbmNlX2xldmVsOiBDCmNvbnRyYWluZGljYXRpb25fZmxhZzogc2FmZQpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTE1CnNvdXJjZV9pZDogYWlhZGhkX3llbGxfcmVwYWlyCnNvdXJjZV92ZXJzaW9uOiAiMjAyNi0xMS0xNSIKdGVtcGxhdGVfcmVmOiBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMQpwcm9wb3NhbF9yZWY6IFBST1AtMDAwNwp3aGVuOgogIHBhcmVudF9hZmZlY3RfbGV2ZWw6IFtsb3csIG1pZCwgaGlnaF0KaW5qZWN0X3RleHQ6IHwKICDlr7nkuI3otbfvvIzliJrmiY3lpojlpogv54i454i45rKh5pyJ5o6n5Yi25aW96Ieq5bex55qE6IS+5rCU77yM5a+55L2g5aSn5ZC85aSn5Y+r5LqG44CC5oiR5oSf5Yiw5b6I55Sf5rCU77yM5L2G6L+Z5LiN6IO95oiQ5Li65oiR5Lyk5a6z5L2g55qE55CG55Sx44CC5oiR54ix5L2g44CC5bCN5LiN6LW377yM5Y2z5L2/5oiR5b6I55Sf5rCj77yM5oiR5Lmf5LiN5oeJ6Kmy5aSn6IGy57215L2g55qE44CC5Li65oKo55qEIuihjOS4uiLogIzpnZ7mgqjnmoQi5oOF57uqIumBk+atieOAguW+hembmeaWueWGt+mdnOmBjuW+jO+8jOWQkeW9vOatpOiqquWHuuiHquW3seeahOaEn+WPl+WSjOaDs+azleOAgueIse+8jOW5tumdnuaEj+WRs+edgOawuOS4jeeKr+mUme+8jOiAjOaYr+WcqOmjjuaatOi/h+WQju+8jOawuOi/nOacieWLh+awlOWbnuadpe+8jOmHjeaWsOaLpeaKseOAggotLS0KCiMgcGNfcmVwYWlyX2NhcmRfMDEKCuWPkeeBq+S5i+WQjuS4uuihjOS4uumBk+atieOAgeS4jee/u+aXp+i0pgoKLSAqKuWtl+auteS+neaNrioq77yaYFBST1AtMDAwN2DvvIjmibnmrKEgOCDmjojmnYPmipPlj5bmnaXmupDmjqXlhaXvvInvvJsKICAqKuWcuuaZr+S+neaNrioq77yaYFBST1AtMDAwNWDvvIhgcGFyZW50X2VzY2FsYXRpb25gICsgYFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxYO+8ieOAggogICoq5p2l5rqQKirvvJpgYWlhZGhkX3llbGxfcmVwYWlyYCDmjqXlhaXljaHjgIIKICBgaW5qZWN0X3RleHRgIOeahOavj+S4gOWPpemAkOWtl+WPluiHqiBgMDBf5p2l5rqQ5rK755CGL19zdGFnaW5nL2Ag5a+55bqU5Lit5paH5Y6f5paH77yM55SxCiAgYDAzX2FnZW5057yW6K+RL2Rlcml2ZV9iYXRjaDhfZW50cmllcy5weWAg5py65qKw5pGY5Y+W77yM5pyq5pS55YaZ44CB5pyq5qaC5ous44CB5pyq5paw5aKe44CCCi0gKirmp73kvY0qKu+8mmByZXBhaXJfY2FyZF8wMWDvvIjmibnmrKEgOCDlm57loavkuLogbWFwcGVk77yJCi0gKiror63kuYnovrnnlYwqKu+8muS/ruWkjeWNoeaguOW/g+ivneacr++8m+mAkOWtl+WPliBhaWFkaGQg5Lit5paH56+H44CM5Li66KGM5Li66ICM6Z2e5oOF57uq6YGT5q2J44CNKyBmaHPjgIzkuLrlj5HmgJLooYzkuLrpgZPmrYnjgI3jgIIKICDmnKzmnaHnm67mmK/jgIzpgJDlrZfmkZjlj6Xph43nu4QgKyDlrrbplb/ngavmsJTlnLrmma/moIfnrb7jgI3vvIzlj6rkvZzkupTnsbvpooToraYv5L+u5aSN55qECiAg5Y+C6ICD5paH5qGI77yb5L+h5Y+35LiO5Yqo5L2c5YiG5YiX77yM5Yqo5L2c5YiX6YCQ5a2X5Y+W6Ieq5Lit5paH5p2l5rqQ77yM5LiN6YCQ57G757yW6YCg44CCCiAg6Iux5paH5p2l5rqQ77yITkhTIC8gUEtKIC8gQ2FsbUhvbWXvvInku4UgX3N0YWdpbmcg55WZ55eV5L2c5Y+C54Wn77yM5LiN5rS+55Sf44CCCi0gYHdoZW5gIOS4peagvOWll+aooeadv+S4ieahoyBgW2xvdywgbWlkLCBoaWdoXWDvvIjkuI3ljZXmoaPljJbvvIznkIbnlLHop4EgUFJPUC0wMDA377yJ77ybCiAg5LqU57G76aKE6K2m5LiO5L+u5aSN5Y2h5pivKirngavmsJTkuIrljYcv5LqL5ZCOKirnmoTpgJrnlKjlj4LogIPvvIzkuI3mjInngavmsJQgMeKAlDUg5YiG5qGj44CCCgojIyDpgJDlj6XmnaXmupDvvIjlj6/lpI3ot5Hmr5Tlr7nvvIkKCnwg5Y+l5bqPIHwg5p2l5rqQIHN0YWdpbmcg5paH5Lu2IHwg6YCQ5a2X54mH5q61IHwKfC0tLXwtLS18LS0tfAp8IDEgfCBgYWlhZGhkX3llbGxfcmVwYWlyXzIwMjYtMTEtMTUubWRgIHwg5a+55LiN6LW377yM5Yia5omN5aaI5aaIL+eIuOeIuOayoeacieaOp+WItuWlveiHquW3seeahOiEvuawlO+8jOWvueS9oOWkp+WQvOWkp+WPq+S6huOAguaIkeaEn+WIsOW+iOeUn+awlO+8jOS9hui/meS4jSB8CnwgMiB8IGBmaHNfZ292X2hrX3BhcmVudF9hbmdlcl9tYW5hZ2VtZW50X3RjXzIwMjYtMTEtMTUubWRgIHwg5bCN5LiN6LW377yM5Y2z5L2/5oiR5b6I55Sf5rCj77yM5oiR5Lmf5LiN5oeJ6Kmy5aSn6IGy57215L2g55qEIHwKfCAzIHwgYGFpYWRoZF95ZWxsX3JlcGFpcl8yMDI2LTExLTE1Lm1kYCB8IOS4uuaCqOeahCLooYzkuLoi6ICM6Z2e5oKo55qEIuaDhee7qiLpgZPmrYkgfAp8IDQgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOW+hembmeaWueWGt+mdnOmBjuW+jO+8jOWQkeW9vOatpOiqquWHuuiHquW3seeahOaEn+WPl+WSjOaDs+azlSB8CnwgNSB8IGBhaWFkaGRfeWVsbF9yZXBhaXJfMjAyNi0xMS0xNS5tZGAgfCDniLHvvIzlubbpnZ7mhI/lkbPnnYDmsLjkuI3niq/plJnvvIzogIzmmK/lnKjpo47mmrTov4flkI7vvIzmsLjov5zmnInli4fmsJTlm57mnaXvvIzph43mlrDmi6XmirHjgIIgfAoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIK
+---
+id: pc_repair_card_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: safe
+last_reviewed: 2026-11-15
+source_id: aiadhd_yell_repair
+source_version: "2026-11-15"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0007
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+  对不起，刚才妈妈/爸爸没有控制好自己的脾气，对你大吼大叫了。我感到很生气，但这不能成为我伤害你的理由。我爱你。對不起，即使我很生氣，我也不應該大聲罵你的。为您的"行为"而非您的"情绪"道歉。待雙方冷靜過後，向彼此說出自己的感受和想法。爱，并非意味着永不犯错，而是在风暴过后，永远有勇气回来，重新拥抱。
+---
+
+# pc_repair_card_01
+
+发火之后为行为道歉、不翻旧账
+
+- **字段依据**：`PROP-0007`（批次 8 授权抓取来源接入）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  **来源**：`aiadhd_yell_repair` 接入卡。
+  `inject_text` 的每一句逐字取自 `00_来源治理/_staging/` 对应中文原文，由
+  `03_agent编译/derive_batch8_entries.py` 机械摘取，未改写、未概括、未新增。
+- **槽位**：`repair_card_01`（批次 8 回填为 mapped）
+- **语义边界**：修复卡核心话术；逐字取 aiadhd 中文篇「为行为而非情绪道歉」+ fhs「为发怒行为道歉」。
+  本条目是「逐字摘句重组 + 家长火气场景标签」，只作五类预警/修复的
+  参考文案；信号与动作分列，动作列逐字取自中文来源，不逐类编造。
+  英文来源（NHS / PKJ / CalmHome）仅 _staging 留痕作参照，不派生。
+- `when` 严格套模板三档 `[low, mid, high]`（不单档化，理由见 PROP-0007）；
+  五类预警与修复卡是**火气上升/事后**的通用参考，不按火气 1—5 分档。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源 staging 文件 | 逐字片段 |
+|---|---|---|
+| 1 | `aiadhd_yell_repair_2026-11-15.md` | 对不起，刚才妈妈/爸爸没有控制好自己的脾气，对你大吼大叫了。我感到很生气，但这不 |
+| 2 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 對不起，即使我很生氣，我也不應該大聲罵你的 |
+| 3 | `aiadhd_yell_repair_2026-11-15.md` | 为您的"行为"而非您的"情绪"道歉 |
+| 4 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 待雙方冷靜過後，向彼此說出自己的感受和想法 |
+| 5 | `aiadhd_yell_repair_2026-11-15.md` | 爱，并非意味着永不犯错，而是在风暴过后，永远有勇气回来，重新拥抱。 |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。

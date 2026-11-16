@@ -1,1 +1,72 @@
-d2luZG93Ll9fUENfRkVBVFVSRVNfXyA9IHsKICAiYnJlYXRoaW5nIjogewogICAgImluaGFsZSI6IDQsCiAgICAiaG9sZCI6IDIsCiAgICAiZXhoYWxlIjogNiwKICAgICJyb3VuZHMiOiA1CiAgfSwKICAic2NyaXB0X2NhcmRzIjogewogICAgInNsb3RzIjogMTIsCiAgICAiaW50ZXJhY3Rpb24iOiAiY2Fyb3VzZWwiCiAgfSwKICAiYWlfbGluZSI6IHsKICAgICJpbnB1dCI6ICJmcmVlX3RleHQiLAogICAgIm91dHB1dCI6IFsKICAgICAgImxpbmUiLAogICAgICAic3RlcHNbM10iCiAgICBdLAogICAgImFuZ2VyX2xldmVsIjogWwogICAgICAxLAogICAgICAyLAogICAgICAzLAogICAgICA0LAogICAgICA1CiAgICBdCiAgfSwKICAicmV0cmVhdF90aWVycyI6IFsKICAgIHsKICAgICAgImxldmVsIjogIjEtMiIsCiAgICAgICJzbG90IjogInJldHJlYXRfbG93IgogICAgfSwKICAgIHsKICAgICAgImxldmVsIjogIjMtNCIsCiAgICAgICJzbG90IjogInJldHJlYXRfbWlkIgogICAgfSwKICAgIHsKICAgICAgImxldmVsIjogIjUiLAogICAgICAic2xvdCI6ICJyZXRyZWF0X2hpZ2giCiAgICB9CiAgXSwKICAid2FybmluZ19zaWducyI6IHsKICAgICJjYXRlZ29yaWVzIjogWwogICAgICAi5ZG85ZC4IiwKICAgICAgIuiCjOiCiSIsCiAgICAgICLlo7Dpn7MiLAogICAgICAi6IO45Y+jIiwKICAgICAgIuW/teWktCIKICAgIF0sCiAgICAiY29sdW1ucyI6IFsKICAgICAgIuW4uOingeS/oeWPtyIsCiAgICAgICLlvZPlnLrliqjkvZwiCiAgICBdCiAgfSwKICAicmVwYWlyX2NhcmQiOiB7CiAgICAic2xvdHMiOiAxCiAgfSwKICAiZW1vdGlvbl9sb2ciOiB7CiAgICAiZmllbGRzIjogWwogICAgICAidGltZXN0YW1wIiwKICAgICAgImFuZ2VyX2xldmVsXzFfNSIsCiAgICAgICJ0cmlnZ2VyIiwKICAgICAgImRpZF9sb3NlX3RlbXBlciIsCiAgICAgICJub3RlIgogICAgXSwKICAgICJzdG9yYWdlIjogImxvY2FsU3RvcmFnZSIsCiAgICAiY2xlYXJhYmxlIjogdHJ1ZQogIH0sCiAgInVpIjogewogICAgImRhcmtfbW9kZSI6IHRydWUsCiAgICAicmVzcG9uc2l2ZSI6ICJtb2JpbGVfZmlyc3QiLAogICAgImRpc2NsYWltZXJfc2xvdCI6ICJmb290ZXIiCiAgfQp9Owo=
+window.__PC_FEATURES__ = {
+  "breathing": {
+    "inhale": 4,
+    "hold": 2,
+    "exhale": 6,
+    "rounds": 5
+  },
+  "script_cards": {
+    "slots": 12,
+    "interaction": "carousel"
+  },
+  "ai_line": {
+    "input": "free_text",
+    "output": [
+      "line",
+      "steps[3]"
+    ],
+    "anger_level": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ]
+  },
+  "retreat_tiers": [
+    {
+      "level": "1-2",
+      "slot": "retreat_low"
+    },
+    {
+      "level": "3-4",
+      "slot": "retreat_mid"
+    },
+    {
+      "level": "5",
+      "slot": "retreat_high"
+    }
+  ],
+  "warning_signs": {
+    "categories": [
+      "呼吸",
+      "肌肉",
+      "声音",
+      "胸口",
+      "念头"
+    ],
+    "columns": [
+      "常见信号",
+      "当场动作"
+    ]
+  },
+  "repair_card": {
+    "slots": 1
+  },
+  "emotion_log": {
+    "fields": [
+      "timestamp",
+      "anger_level_1_5",
+      "trigger",
+      "did_lose_temper",
+      "note"
+    ],
+    "storage": "localStorage",
+    "clearable": true
+  },
+  "ui": {
+    "dark_mode": true,
+    "responsive": "mobile_first",
+    "disclaimer_slot": "footer"
+  }
+};

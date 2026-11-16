@@ -1,1 +1,20 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi5om55qyhIDIvMy80IOWFseeUqO+8muaNleiOtyB2ZXJpZnlfYWxsLnB5IOi+k+WHuuWIsCB1dGYtOCDmlofku7bvvIzpgb/lhY0gUG93ZXJTaGVsbCDnrqHpgZPnvJbnoIHpl67popjjgIIiIiIKaW1wb3J0IG9zCmltcG9ydCBzdWJwcm9jZXNzCmltcG9ydCBzeXMKCkhFUkUgPSBvcy5wYXRoLmRpcm5hbWUob3MucGF0aC5hYnNwYXRoKF9fZmlsZV9fKSkKUk9PVCA9IG9zLnBhdGguYWJzcGF0aChvcy5wYXRoLmpvaW4oSEVSRSwgIi4uIiwgIi4uIikpClNDUklQVCA9IG9zLnBhdGguam9pbihST09ULCAiMDNfYWdlbnTnvJbor5EiLCAidmVyaWZ5X2FsbC5weSIpCk9VVCA9IG9zLnBhdGguam9pbihIRVJFLCAiZGF0YSIsICLmibnmrKEyX3ZlcmlmeV9hbGwudHh0IikKCmVudiA9IGRpY3Qob3MuZW52aXJvbikKZW52WyJQWVRIT05JT0VOQ09ESU5HIl0gPSAidXRmLTgiCnIgPSBzdWJwcm9jZXNzLnJ1bihbc3lzLmV4ZWN1dGFibGUsIFNDUklQVF0sIGN3ZD1ST09ULCBlbnY9ZW52LAogICAgICAgICAgICAgICAgICAgc3Rkb3V0PXN1YnByb2Nlc3MuUElQRSwgc3RkZXJyPXN1YnByb2Nlc3MuU1RET1VUKQp0ZXh0ID0gci5zdGRvdXQuZGVjb2RlKCJ1dGYtOCIsIGVycm9ycz0icmVwbGFjZSIpCndpdGggb3BlbihPVVQsICJ3IiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgIGYud3JpdGUodGV4dCArIGYiXG5FWElUPXtyLnJldHVybmNvZGV9XG4iKQpwcmludChmIkVYSVQ9e3IucmV0dXJuY29kZX0gIG91dHB1dD17T1VUfSIpCnByaW50KCJcbiIuam9pbih0ZXh0LnN0cmlwKCkuc3BsaXRsaW5lcygpWy0xMjpdKSkK
+# -*- coding: utf-8 -*-
+"""批次 2/3/4 共用：捕获 verify_all.py 输出到 utf-8 文件，避免 PowerShell 管道编码问题。"""
+import os
+import subprocess
+import sys
+
+HERE = os.path.dirname(os.path.abspath(__file__))
+ROOT = os.path.abspath(os.path.join(HERE, "..", ".."))
+SCRIPT = os.path.join(ROOT, "03_agent编译", "verify_all.py")
+OUT = os.path.join(HERE, "data", "批次2_verify_all.txt")
+
+env = dict(os.environ)
+env["PYTHONIOENCODING"] = "utf-8"
+r = subprocess.run([sys.executable, SCRIPT], cwd=ROOT, env=env,
+                   stdout=subprocess.PIPE, stderr=subprocess.STDOUT)
+text = r.stdout.decode("utf-8", errors="replace")
+with open(OUT, "w", encoding="utf-8") as f:
+    f.write(text + f"\nEXIT={r.returncode}\n")
+print(f"EXIT={r.returncode}  output={OUT}")
+print("\n".join(text.strip().splitlines()[-12:]))

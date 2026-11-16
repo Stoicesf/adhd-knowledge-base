@@ -1,1 +1,33 @@
-LS0tCmlkOiBjaGlsZF9yZWRpcmVjdF9kcmlmdF8wMQp0eXBlOiBwcm9jZWR1cmFsCmF1ZGllbmNlOiBjaGlsZApzY2VuYXJpbzogYXR0ZW50aW9uX2RyaWZ0CmV4ZWNfdGFyZ2V0OiDmipHliLbmjqfliLYKZXZpZGVuY2VfbGV2ZWw6IEIKY29udHJhaW5kaWNhdGlvbl9mbGFnOiBzYWZlCmxhc3RfcmV2aWV3ZWQ6IDIwMjYtMTEtMTIKc291cmNlX2lkOiBwcm9qZWN0X29yaWdpbmFsCnNvdXJjZV92ZXJzaW9uOiAiMjAyNi0xMSIKdGVtcGxhdGVfcmVmOiBQVF9EUklGVF8wMQp3aGVuOgogIHRhc2tfcGhhc2U6IFvmiafooYxdCiAgYXR0ZW50aW9uX3N0YXRlOiBbZHJpZnRdCiAgb3duZXJzaGlwOiBbY2hpbGQtbGVhZGluZ10KZXhpdF93aGVuOgogIGF0dGVudGlvbl9zdGF0ZTogW29uLXRhc2tdCiAgY29uc2VjdXRpdmVfc3VjY2Vzc2VzOiAiPj0yIgppbmplY3RfdGV4dDogfAogIOW+ruatpemqpO+8muKRoOaKiueslOaUvuS4i++8jOeci+i/meS4gOmimOeahOesrOS4gOWPpeivneOAguKRoeWwj+WjsOivtOWHuuOAjOaIkeeOsOWcqOimgeWBmueahOaYr++8v++8v++8v+OAjeOAguKRouWciOWHuuesrOS4gOS4quimgeeul+eahOaVsOOAguWBmuWujOi/meatpe+8jOS4vuaJi+ivtOOAjOWlveS6huOAjeOAguS4jeimgeWQjOaXtuaDs+WQjumdouS4iemimO+8jOS4gOasoeWPquaUu+i/meS4gOWwj+atpeOAggpjYWxsYWJsZToKICBuYW1lOiBjaGlsZF9zZWxmX2FuY2hvcgogIHBhcmFtczoge30KICByZXR1cm5zOiB7bmV4dF9zdGVwOiBzdHJpbmcsIGRvbmVfc2lnbmFsOiBzdHJpbmd9CiAgc2lkZV9lZmZlY3Q6IG5vbmUKLS0tCgojIGNoaWxkX3JlZGlyZWN0X2RyaWZ0XzAxCgrmtL7nlJ/oh6rvvJpCMDFf5YaZ5L2c5Lia6aKR57mB56a75bqnIMK344CM5Lu75Yqh5YiH5Yiw5LiA55y86IO955yL5oeC55qE5LiA5bCP5q2l44CN55qE5YS/56ul56uv5b6u5q2l6aqk54mI44CCCgrpnaLlkJHlhL/nq6Ugwrcg6LWw56We5pe26Ieq5oiR5ouJ5Zue77yI5b6u5q2l6aqkICsg5a6M5oiQ5L+h5Y+377yJ44CCCg==
+---
+id: child_redirect_drift_01
+type: procedural
+audience: child
+scenario: attention_drift
+exec_target: 抑制控制
+evidence_level: B
+contraindication_flag: safe
+last_reviewed: 2026-11-12
+source_id: project_original
+source_version: "2026-11"
+template_ref: PT_DRIFT_01
+when:
+  task_phase: [执行]
+  attention_state: [drift]
+  ownership: [child-leading]
+exit_when:
+  attention_state: [on-task]
+  consecutive_successes: ">=2"
+inject_text: |
+  微步骤：①把笔放下，看这一题的第一句话。②小声说出「我现在要做的是＿＿＿」。③圈出第一个要算的数。做完这步，举手说「好了」。不要同时想后面三题，一次只攻这一小步。
+callable:
+  name: child_self_anchor
+  params: {}
+  returns: {next_step: string, done_signal: string}
+  side_effect: none
+---
+
+# child_redirect_drift_01
+
+派生自：B01_写作业频繁离座 ·「任务切到一眼能看懂的一小步」的儿童端微步骤版。
+
+面向儿童 · 走神时自我拉回（微步骤 + 完成信号）。

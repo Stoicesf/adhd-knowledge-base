@@ -1,1 +1,48 @@
-LS0tCmlkOiBwY193YXJuaW5nX2JyZWF0aF8wMQp0eXBlOiBleHBsYW5hdG9yeQphdWRpZW5jZTogcGFyZW50CnNjZW5hcmlvOiBwYXJlbnRfZXNjYWxhdGlvbgpleGVjX3RhcmdldDog5oOF57uq6LCD6IqCCmV2aWRlbmNlX2xldmVsOiBDCmNvbnRyYWluZGljYXRpb25fZmxhZzogY2F1dGlvbgpsYXN0X3Jldmlld2VkOiAyMDI2LTExLTE1CnNvdXJjZV9pZDogZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnQKc291cmNlX3ZlcnNpb246ICIyMDI2LTExLTE1Igp0ZW1wbGF0ZV9yZWY6IFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxCnByb3Bvc2FsX3JlZjogUFJPUC0wMDA3CndoZW46CiAgcGFyZW50X2FmZmVjdF9sZXZlbDogW2xvdywgbWlkLCBoaWdoXQppbmplY3RfdGV4dDogfAogIOWRvOWQuOefreiAjOa3uuOAguW/g+i3s+WKoOmAn+OAguaFouaFouWcsOWRvOWQuOOAguW5s+W+qeW/g+i3s+WPiuWRvOWQuOeahOmgu+eOh++8jOW5q+WKqeaUvumshuOAguWwhuaJi+aUvuWcqOW/g+iEj+eahOS9jee9ru+8jOWBmuS4ieasoee8k+aFouOAgea3semVv+eahOiFueW8j+WRvOWQuOOAggotLS0KCiMgcGNfd2FybmluZ19icmVhdGhfMDEKCuWRvOWQuOmihOitpu+8muWRvOWQuOefrea1heaXtuWFiOaFouaFouWRvOWQuAoKLSAqKuWtl+auteS+neaNrioq77yaYFBST1AtMDAwN2DvvIjmibnmrKEgOCDmjojmnYPmipPlj5bmnaXmupDmjqXlhaXvvInvvJsKICAqKuWcuuaZr+S+neaNrioq77yaYFBST1AtMDAwNWDvvIhgcGFyZW50X2VzY2FsYXRpb25gICsgYFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxYO+8ieOAggogICoq5p2l5rqQKirvvJpgZmhzX2hrX2FuZ2VyX21hbmFnZW1lbnRgIOaOpeWFpeWNoeOAggogIGBpbmplY3RfdGV4dGAg55qE5q+P5LiA5Y+l6YCQ5a2X5Y+W6IeqIGAwMF/mnaXmupDmsrvnkIYvX3N0YWdpbmcvYCDlr7nlupTkuK3mlofljp/mlofvvIznlLEKICBgMDNfYWdlbnTnvJbor5EvZGVyaXZlX2JhdGNoOF9lbnRyaWVzLnB5YCDmnLrmorDmkZjlj5bvvIzmnKrmlLnlhpnjgIHmnKrmpoLmi6zjgIHmnKrmlrDlop7jgIIKLSAqKuanveS9jSoq77yaYHdhcm5pbmdfc2lnbnNf5ZG85ZC4YO+8iOaJueasoSA4IOWbnuWhq+S4uiBtYXBwZWTvvIkKLSAqKuivreS5iei+ueeVjCoq77ya5L+h5Y+36YCQ5a2X5Y+WIGZoc+OAjOWRvOWQuOefreiAjOa3uuOAje+8m+WKqOS9nOmAkOWtl+WPliBmaHPjgIzmhaLmhaLlnLDlkbzlkLjjgI3nuqLnu7/nga/lu7rorq7jgIIKICDmnKzmnaHnm67mmK/jgIzpgJDlrZfmkZjlj6Xph43nu4QgKyDlrrbplb/ngavmsJTlnLrmma/moIfnrb7jgI3vvIzlj6rkvZzkupTnsbvpooToraYv5L+u5aSN55qECiAg5Y+C6ICD5paH5qGI77yb5L+h5Y+35LiO5Yqo5L2c5YiG5YiX77yM5Yqo5L2c5YiX6YCQ5a2X5Y+W6Ieq5Lit5paH5p2l5rqQ77yM5LiN6YCQ57G757yW6YCg44CCCiAg6Iux5paH5p2l5rqQ77yITkhTIC8gUEtKIC8gQ2FsbUhvbWXvvInku4UgX3N0YWdpbmcg55WZ55eV5L2c5Y+C54Wn77yM5LiN5rS+55Sf44CCCi0gYHdoZW5gIOS4peagvOWll+aooeadv+S4ieahoyBgW2xvdywgbWlkLCBoaWdoXWDvvIjkuI3ljZXmoaPljJbvvIznkIbnlLHop4EgUFJPUC0wMDA377yJ77ybCiAg5LqU57G76aKE6K2m5LiO5L+u5aSN5Y2h5pivKirngavmsJTkuIrljYcv5LqL5ZCOKirnmoTpgJrnlKjlj4LogIPvvIzkuI3mjInngavmsJQgMeKAlDUg5YiG5qGj44CCCgojIyDpgJDlj6XmnaXmupDvvIjlj6/lpI3ot5Hmr5Tlr7nvvIkKCnwg5Y+l5bqPIHwg5p2l5rqQIHN0YWdpbmcg5paH5Lu2IHwg6YCQ5a2X54mH5q61IHwKfC0tLXwtLS18LS0tfAp8IDEgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOWRvOWQuOefreiAjOa3uiB8CnwgMiB8IGBmaHNfZ292X2hrX3BhcmVudF9hbmdlcl9tYW5hZ2VtZW50X3RjXzIwMjYtMTEtMTUubWRgIHwg5b+D6Lez5Yqg6YCfIHwKfCAzIHwgYGZoc19nb3ZfaGtfcGFyZW50X2FuZ2VyX21hbmFnZW1lbnRfdGNfMjAyNi0xMS0xNS5tZGAgfCDmhaLmhaLlnLDlkbzlkLggfAp8IDQgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOW5s+W+qeW/g+i3s+WPiuWRvOWQuOeahOmgu+eOh++8jOW5q+WKqeaUvumshiB8CnwgNSB8IGBhaWFkaGRfeWVsbF9yZXBhaXJfMjAyNi0xMS0xNS5tZGAgfCDlsIbmiYvmlL7lnKjlv4PohI/nmoTkvY3nva7vvIzlgZrkuInmrKHnvJPmhaLjgIHmt7Hplb/nmoTohbnlvI/lkbzlkLggfAoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIK
+---
+id: pc_warning_breath_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: caution
+last_reviewed: 2026-11-15
+source_id: fhs_hk_anger_management
+source_version: "2026-11-15"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0007
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+  呼吸短而淺。心跳加速。慢慢地呼吸。平復心跳及呼吸的頻率，幫助放鬆。将手放在心脏的位置，做三次缓慢、深长的腹式呼吸。
+---
+
+# pc_warning_breath_01
+
+呼吸预警：呼吸短浅时先慢慢呼吸
+
+- **字段依据**：`PROP-0007`（批次 8 授权抓取来源接入）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  **来源**：`fhs_hk_anger_management` 接入卡。
+  `inject_text` 的每一句逐字取自 `00_来源治理/_staging/` 对应中文原文，由
+  `03_agent编译/derive_batch8_entries.py` 机械摘取，未改写、未概括、未新增。
+- **槽位**：`warning_signs_呼吸`（批次 8 回填为 mapped）
+- **语义边界**：信号逐字取 fhs「呼吸短而淺」；动作逐字取 fhs「慢慢地呼吸」红绿灯建议。
+  本条目是「逐字摘句重组 + 家长火气场景标签」，只作五类预警/修复的
+  参考文案；信号与动作分列，动作列逐字取自中文来源，不逐类编造。
+  英文来源（NHS / PKJ / CalmHome）仅 _staging 留痕作参照，不派生。
+- `when` 严格套模板三档 `[low, mid, high]`（不单档化，理由见 PROP-0007）；
+  五类预警与修复卡是**火气上升/事后**的通用参考，不按火气 1—5 分档。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源 staging 文件 | 逐字片段 |
+|---|---|---|
+| 1 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 呼吸短而淺 |
+| 2 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 心跳加速 |
+| 3 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 慢慢地呼吸 |
+| 4 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 平復心跳及呼吸的頻率，幫助放鬆 |
+| 5 | `aiadhd_yell_repair_2026-11-15.md` | 将手放在心脏的位置，做三次缓慢、深长的腹式呼吸 |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。

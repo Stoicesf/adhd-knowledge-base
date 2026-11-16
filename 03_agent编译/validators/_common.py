@@ -1,1 +1,135 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIi6Zi25q615YWtIMK3IOWFseS6q+W3peWFt++8muWKoOi9vSBzY2hlbWHjgIHpgY3ljobmupDmnaHnm67jgIHosJPor43nvJbor5Ev5rGC5YC844CCCuS+myBidWlsZC5weSDkuI4gdmFsaWRhdG9ycy8g5LiL5Zub5Liq5qCh6aqM5Zmo5YWx55So44CCCiIiIgppbXBvcnQgb3MKaW1wb3J0IHJlCmltcG9ydCB5YW1sCmltcG9ydCBnbG9iCgpST09UID0gb3MucGF0aC5hYnNwYXRoKG9zLnBhdGguam9pbihvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pLCAiLi4iLCAiLi4iKSkKU0NIRU1BX1BBVEggPSBvcy5wYXRoLmpvaW4oUk9PVCwgInNjaGVtYSIsICJlbnRyeS55YW1sIikKCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg5rqQ5p2h55uu5omr5o+P77yI6Zi25q61IEEgwrcgMi41Ye+8jDIwMjYtMTEtMTPvvInvvJrlpJrnm67lvZXmlK/mjIEKIyDku47jgIzlj6rmiasg5Lmm57GNRV/lrabnp5HovoXlr7zmlK/mnrbjgI3mlLnkuLrjgIzmiasgMDJf5YaF5a655YyFLyovIOS4i+WFqOmDqCAubWTjgI3vvIwKIyDkvYblj6rmlLYgKirmupDmnaHnm64qKu+8mmZyb250bWF0dGVyIOmHjOWQqyBzb3VyY2VfaWQg55qE5paH5Lu244CCCiMKIyDkuLrku4DkuYjopoHov4fmu6TvvIjlrp7mtYvliY3mj5DvvIzkuI3mmK/njJzmtYvvvInvvJowMl/lhoXlrrnljIUvIOWFsSA1IOS4quebruW9lSA4MSDkuKogbWTvvIwKIyDlhbbkuK3kuabnsY1BL0IvQy9EIOeahCA2MyDpobUgQm9va1N0YWNrIOato+aWhyoq5ZCM5qC35bimIFlBTUwgZnJvbnRtYXR0ZXIqKu+8jAojIOWtl+auteaYr+mhtemdoiBtZXRhZGF0Ye+8iOmdouWQkSAvIOivgeaNrueKtuaAgSAvIOS5puexjSAvIOeroOiKguKApu+8ie+8jOS4jeWQqyBzb3VyY2VfaWTjgIIKIyDoi6XmjInlrZfpnaIgZ2xvYiDlhajpg6jmlLbov5vmnaXvvIxzY2hlbWFfY2hlY2sgLyBzb3VyY2VfaW50YWtlX2NoZWNrIC8KIyB0ZW1wbGF0ZV9jb25mb3JtYW5jZSDkvJrmiorlroPku6zliKTkuLrnvLrlrZfmrrXnmoTmupDmnaHnm67ogIzlhajnuqLvvIxtYW5pZmVzdCDkuZ/kvJoKIyDopobnm5YgNjMg6aG15q2j5paHIOKAlOKAlCDnm7TmjqXmkp7jgIzkuI3liqggNjMg6aG15q2j5paH44CN5LiO44CMMTMvMTMg57u/44CN5Lik5p2h6L6555WM44CCCiMgc291cmNlX2lkIOacrOWwseaYryBzb3VyY2VfaW50YWtlX2NoZWNrIOeahOaXouacieW/heWhq+mhue+8jOaKiuWug+aPkOWIsOivu+WPluWxguS4jeaWsOWingojIOWlkee6pue6puadn++8jOWPquaYr+iuqeOAjOS7u+aEjyAwMl/lhoXlrrnljIUvKi8g5Y+v5omr44CN5LiO44CM5Y+q57yW6K+R5rqQ5p2h55uu44CN5ZCM5pe25oiQ56uL44CCCiMKIyDlkIzmupDnuqrlvovvvJppdGVyX2VudHJpZXMoKSDkuI4gYnVpbGQucHkg55qEIHdyaXRlX21hbmlmZXN0IC8gdmVyaWZ5X21hbmlmZXN0CiMg5YWx55So5ZCM5LiA5LiqIGl0ZXJfZW50cnlfcGF0aHMoKe+8jOadnOe7neOAjOadoeebrui/m+S6hiBjaHVua3Mg5L2GIG1hbmlmZXN0IOS4jeimhuebluOAjeOAggojIOepuuebruW9leOAgeaXoCBmcm9udG1hdHRlcuOAgemdnua6kOadoeebruS4gOW+i+mdmem7mOi3s+i/h++8jOS4jeaKpemUmeOAggojIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLQpDT05URU5UX1JPT1QgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIjAyX+WGheWuueWMhSIpCkVOVFJJRVNfR0xPQiA9IG9zLnBhdGguam9pbihDT05URU5UX1JPT1QsICIqIiwgIioubWQiKQpHVUFSRFJBSUxfUEFUSCA9IG9zLnBhdGguam9pbihST09ULCAiMDVf5a6h5qC45LiO6L+Q6JClIiwgImd1YXJkcmFpbF9ydWxlcy55YW1sIikKCklOVF9GSUVMRFMgPSB7IndtX2xvYWQiLCAiY29uc2VjdXRpdmVfZmFpbHVyZXMiLCAiY29uc2VjdXRpdmVfc3VjY2Vzc2VzIn0KRU5VTV9GSUVMRFMgPSB7InRhc2tfcGhhc2UiLCAiYXR0ZW50aW9uX3N0YXRlIiwgIm93bmVyc2hpcCJ9CkNNUF9SRSA9IHJlLmNvbXBpbGUociJeKD49fDw9fD58PHw9PXwhPSlccyooXGQrKSQiKQoKCmRlZiBsb2FkX3NjaGVtYSgpOgogICAgd2l0aCBvcGVuKFNDSEVNQV9QQVRILCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHJldHVybiB5YW1sLnNhZmVfbG9hZChmKQoKCmRlZiBsb2FkX2d1YXJkcmFpbCgpOgogICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKEdVQVJEUkFJTF9QQVRIKToKICAgICAgICByZXR1cm4geyJydWxlcyI6IFtdfQogICAgd2l0aCBvcGVuKEdVQVJEUkFJTF9QQVRILCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIHJldHVybiB5YW1sLnNhZmVfbG9hZChmKQoKCmRlZiBwYXJzZV9mcm9udG1hdHRlcihyYXcpOgogICAgbSA9IHJlLm1hdGNoKHIiXi0tLVxzKlxuKC4qPylcbi0tLVxzKlxuIiwgcmF3LCByZS5ET1RBTEwpCiAgICBpZiBub3QgbToKICAgICAgICByZXR1cm4gTm9uZQogICAgcmV0dXJuIHlhbWwuc2FmZV9sb2FkKG0uZ3JvdXAoMSkpCgoKZGVmIGl0ZXJfZW50cnlfcGF0aHMoKToKICAgICIiIui/lOWbnuWFqOmDqOa6kOadoeebrui3r+W+hO+8iOaOkuW6j+eos+WumuOAgei3qCAwMl/lhoXlrrnljIUvKi8g5omA5pyJ5Lmm57GN55uu5b2V77yJ44CCCgogICAg5Yik5a6a77ya5paH5Lu25pyJ5ZCI5rOVIFlBTUwgZnJvbnRtYXR0ZXIg5LiU5ZCr6Z2e56m6IHNvdXJjZV9pZOOAggogICAgNjMg6aG1IEJvb2tTdGFjayDmraPmlofmnIkgZnJvbnRtYXR0ZXIg5L2G5pegIHNvdXJjZV9pZO+8jOaVheS4jei/m+e8luivkeeuoee6v++8mwogICAg5paw5aKe5Lmm57GN55uu5b2V5Y+q6KaB5oyJIHNjaGVtYSDlhpnkuoYgc291cmNlX2lkIOWwseS8muiiq+iHquWKqOaJq+WIsOOAggogICAgIiIiCiAgICBwYXRocyA9IFtdCiAgICBmb3IgcCBpbiBzb3J0ZWQoZ2xvYi5nbG9iKEVOVFJJRVNfR0xPQikpOgogICAgICAgIHRyeToKICAgICAgICAgICAgd2l0aCBvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgICAgICByYXcgPSBmLnJlYWQoKQogICAgICAgIGV4Y2VwdCAoT1NFcnJvciwgVW5pY29kZURlY29kZUVycm9yKToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBmbSA9IHBhcnNlX2Zyb250bWF0dGVyKHJhdykKICAgICAgICBpZiBpc2luc3RhbmNlKGZtLCBkaWN0KSBhbmQgZm0uZ2V0KCJzb3VyY2VfaWQiKToKICAgICAgICAgICAgcGF0aHMuYXBwZW5kKHApCiAgICByZXR1cm4gcGF0aHMKCgpkZWYgaXRlcl9lbnRyaWVzKCk6CiAgICAiIiJ5aWVsZCAocGF0aCwgZm0sIGJvZHkpIGZvciBlYWNoIOa6kOadoeebriB1bmRlciAwMl/lhoXlrrnljIUvKi/jgIIKCiAgICDnrb7lkI3kuI7ov5Tlm57lgLznu5PmnoTkuI3lj5jvvJoocGF0aCwgZnJvbnRtYXR0ZXJfZGljdCwgYm9keV9zdHJpbmcp44CCCiAgICAyLjVhIOi1t+i3r+W+hOadpea6kOe7n+S4gOS4uiBpdGVyX2VudHJ5X3BhdGhzKCnvvIzkuI4gbWFuaWZlc3Qg5ZCM5rqQ44CCCiAgICAiIiIKICAgIG91dCA9IFtdCiAgICBmb3IgcCBpbiBpdGVyX2VudHJ5X3BhdGhzKCk6CiAgICAgICAgd2l0aCBvcGVuKHAsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgICAgIHJhdyA9IGYucmVhZCgpCiAgICAgICAgZm0gPSBwYXJzZV9mcm9udG1hdHRlcihyYXcpCiAgICAgICAgaWYgZm0gaXMgTm9uZToKICAgICAgICAgICAgY29udGludWUKICAgICAgICBib2R5ID0gcmF3LnNwbGl0KCItLS0iLCAyKVsyXSBpZiByYXcuY291bnQoIi0tLSIpID49IDIgZWxzZSAiIgogICAgICAgIG91dC5hcHBlbmQoKHAsIGZtLCBib2R5KSkKICAgIHJldHVybiBvdXQKCgpkZWYgY29tcGlsZV9wcmVkaWNhdGUod2hlbik6CiAgICAiIiJ3aGVuIOKGkiDop4TojIPljJbosJPor43vvIjmnoHlsI/ooajovr7lvI/lrZDpm4bvvInjgIIKICAgIOWIl+ihqOWAvCDihpIgb3A9aW7vvIjlkIzlrZfmrrUgT1LvvInvvJvlrZfnrKbkuLIgJz49Micg4oaSIOavlOi+g++8m+WFtuS9mSDihpIgPT3jgIIiIiIKICAgIG91dCA9IHt9CiAgICBpZiBub3Qgd2hlbjoKICAgICAgICByZXR1cm4gb3V0CiAgICBmb3IgZmllbGQsIHZhbCBpbiB3aGVuLml0ZW1zKCk6CiAgICAgICAgaWYgaXNpbnN0YW5jZSh2YWwsIGxpc3QpOgogICAgICAgICAgICBvdXRbZmllbGRdID0geyJvcCI6ICJpbiIsICJ2YWx1ZXMiOiBsaXN0KHZhbCl9CiAgICAgICAgZWxpZiBpc2luc3RhbmNlKHZhbCwgc3RyKSBhbmQgQ01QX1JFLm1hdGNoKHZhbCk6CiAgICAgICAgICAgIG9wLCBudW0gPSBDTVBfUkUubWF0Y2godmFsKS5ncm91cHMoKQogICAgICAgICAgICBvdXRbZmllbGRdID0geyJvcCI6IG9wLCAidmFsdWUiOiBpbnQobnVtKX0KICAgICAgICBlbHNlOgogICAgICAgICAgICBvdXRbZmllbGRdID0geyJvcCI6ICI9PSIsICJ2YWx1ZSI6IHZhbH0KICAgIHJldHVybiBvdXQKCgpkZWYgZXZhbF9wcmVkaWNhdGUocHJlZCwgc3RhdGUpOgogICAgIiIi5a+557uZ5a6aIHN0YXRlIOaxguWAvOinhOiMg+iwk+ivjeOAgnN0YXRlIOW/hemhu+WQq+iwk+ivjeaJgOacieW8leeUqOWtl+auteOAgiIiIgogICAgZm9yIGZpZWxkLCBjb25kIGluIHByZWQuaXRlbXMoKToKICAgICAgICBpZiBmaWVsZCBub3QgaW4gc3RhdGU6CiAgICAgICAgICAgIHJldHVybiBGYWxzZQogICAgICAgIHN2ID0gc3RhdGVbZmllbGRdCiAgICAgICAgb3AgPSBjb25kWyJvcCJdCiAgICAgICAgaWYgb3AgPT0gImluIjoKICAgICAgICAgICAgaWYgc3Ygbm90IGluIGNvbmRbInZhbHVlcyJdOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgZWxzZToKICAgICAgICAgICAgdHJ5OgogICAgICAgICAgICAgICAgc3ZpLCB0diA9IGludChzdiksIGludChjb25kWyJ2YWx1ZSJdKQogICAgICAgICAgICBleGNlcHQgRXhjZXB0aW9uOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICAgICAgICAgIHRhYmxlID0gewogICAgICAgICAgICAgICAgIj09Ijogc3ZpID09IHR2LCAiIT0iOiBzdmkgIT0gdHYsICI+Ijogc3ZpID4gdHYsCiAgICAgICAgICAgICAgICAiPCI6IHN2aSA8IHR2LCAiPj0iOiBzdmkgPj0gdHYsICI8PSI6IHN2aSA8PSB0diwKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiBub3QgdGFibGVbb3BdOgogICAgICAgICAgICAgICAgcmV0dXJuIEZhbHNlCiAgICByZXR1cm4gVHJ1ZQo=
+# -*- coding: utf-8 -*-
+"""阶段六 · 共享工具：加载 schema、遍历源条目、谓词编译/求值。
+供 build.py 与 validators/ 下四个校验器共用。
+"""
+import os
+import re
+import yaml
+import glob
+
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
+SCHEMA_PATH = os.path.join(ROOT, "schema", "entry.yaml")
+
+# ---------------------------------------------------------------------
+# 源条目扫描（阶段 A · 2.5a，2026-11-13）：多目录支持
+# 从「只扫 书籍E_学科辅导支架」改为「扫 02_内容包/*/ 下全部 .md」，
+# 但只收 **源条目**：frontmatter 里含 source_id 的文件。
+#
+# 为什么要过滤（实测前提，不是猜测）：02_内容包/ 共 5 个目录 81 个 md，
+# 其中书籍A/B/C/D 的 63 页 BookStack 正文**同样带 YAML frontmatter**，
+# 字段是页面 metadata（面向 / 证据状态 / 书籍 / 章节…），不含 source_id。
+# 若按字面 glob 全部收进来，schema_check / source_intake_check /
+# template_conformance 会把它们判为缺字段的源条目而全红，manifest 也会
+# 覆盖 63 页正文 —— 直接撞「不动 63 页正文」与「13/13 绿」两条边界。
+# source_id 本就是 source_intake_check 的既有必填项，把它提到读取层不新增
+# 契约约束，只是让「任意 02_内容包/*/ 可扫」与「只编译源条目」同时成立。
+#
+# 同源纪律：iter_entries() 与 build.py 的 write_manifest / verify_manifest
+# 共用同一个 iter_entry_paths()，杜绝「条目进了 chunks 但 manifest 不覆盖」。
+# 空目录、无 frontmatter、非源条目一律静默跳过，不报错。
+# ---------------------------------------------------------------------
+CONTENT_ROOT = os.path.join(ROOT, "02_内容包")
+ENTRIES_GLOB = os.path.join(CONTENT_ROOT, "*", "*.md")
+GUARDRAIL_PATH = os.path.join(ROOT, "05_审核与运营", "guardrail_rules.yaml")
+
+INT_FIELDS = {"wm_load", "consecutive_failures", "consecutive_successes"}
+ENUM_FIELDS = {"task_phase", "attention_state", "ownership"}
+CMP_RE = re.compile(r"^(>=|<=|>|<|==|!=)\s*(\d+)$")
+
+
+def load_schema():
+    with open(SCHEMA_PATH, encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+def load_guardrail():
+    if not os.path.exists(GUARDRAIL_PATH):
+        return {"rules": []}
+    with open(GUARDRAIL_PATH, encoding="utf-8") as f:
+        return yaml.safe_load(f)
+
+
+def parse_frontmatter(raw):
+    m = re.match(r"^---\s*\n(.*?)\n---\s*\n", raw, re.DOTALL)
+    if not m:
+        return None
+    return yaml.safe_load(m.group(1))
+
+
+def iter_entry_paths():
+    """返回全部源条目路径（排序稳定、跨 02_内容包/*/ 所有书籍目录）。
+
+    判定：文件有合法 YAML frontmatter 且含非空 source_id。
+    63 页 BookStack 正文有 frontmatter 但无 source_id，故不进编译管线；
+    新增书籍目录只要按 schema 写了 source_id 就会被自动扫到。
+    """
+    paths = []
+    for p in sorted(glob.glob(ENTRIES_GLOB)):
+        try:
+            with open(p, encoding="utf-8") as f:
+                raw = f.read()
+        except (OSError, UnicodeDecodeError):
+            continue
+        fm = parse_frontmatter(raw)
+        if isinstance(fm, dict) and fm.get("source_id"):
+            paths.append(p)
+    return paths
+
+
+def iter_entries():
+    """yield (path, fm, body) for each 源条目 under 02_内容包/*/。
+
+    签名与返回值结构不变：(path, frontmatter_dict, body_string)。
+    2.5a 起路径来源统一为 iter_entry_paths()，与 manifest 同源。
+    """
+    out = []
+    for p in iter_entry_paths():
+        with open(p, encoding="utf-8") as f:
+            raw = f.read()
+        fm = parse_frontmatter(raw)
+        if fm is None:
+            continue
+        body = raw.split("---", 2)[2] if raw.count("---") >= 2 else ""
+        out.append((p, fm, body))
+    return out
+
+
+def compile_predicate(when):
+    """when → 规范化谓词（极小表达式子集）。
+    列表值 → op=in（同字段 OR）；字符串 '>=2' → 比较；其余 → ==。"""
+    out = {}
+    if not when:
+        return out
+    for field, val in when.items():
+        if isinstance(val, list):
+            out[field] = {"op": "in", "values": list(val)}
+        elif isinstance(val, str) and CMP_RE.match(val):
+            op, num = CMP_RE.match(val).groups()
+            out[field] = {"op": op, "value": int(num)}
+        else:
+            out[field] = {"op": "==", "value": val}
+    return out
+
+
+def eval_predicate(pred, state):
+    """对给定 state 求值规范谓词。state 必须含谓词所有引用字段。"""
+    for field, cond in pred.items():
+        if field not in state:
+            return False
+        sv = state[field]
+        op = cond["op"]
+        if op == "in":
+            if sv not in cond["values"]:
+                return False
+        else:
+            try:
+                svi, tv = int(sv), int(cond["value"])
+            except Exception:
+                return False
+            table = {
+                "==": svi == tv, "!=": svi != tv, ">": svi > tv,
+                "<": svi < tv, ">=": svi >= tv, "<=": svi <= tv,
+            }
+            if not table[op]:
+                return False
+    return True

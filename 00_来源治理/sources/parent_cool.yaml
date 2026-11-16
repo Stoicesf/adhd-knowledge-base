@@ -1,1 +1,64 @@
-IyA9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KIyDmnaXmupDmjqXlhaXljaHjgJDlt7LovazmraPjgJEgcGFyZW50X2Nvb2wgIO+8iOmYtuautSBCIOaJueasoSAz77yJCiMgLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tCiMg4pqgIOacrOWNoSAqKuS4jeaYryoqIHBhcmVudC1jb29sIOWOn+aWh+aOpeWFpeWNoe+8muWOn+aWh+S4jeWcqOaJi+OAggojICAgIOeUqOaItyAyMDI2LTExLTEzIOmYtuautSBCIOaWueahiOWJjeaPkOaYjuehruOAjOS4jeS+nei1liBwYXJlbnQtY29vbCDljp/mlofjgI3jgIIKIyAgICDmnKzljaHnmbvorrDnmoTmmK/jgIzpobnnm67lhoXpg6jmjInlip/og73nu5PmnoTlpI3liLsgKyDlpI3nlKjmnKzlupPml6LmnInmlofmoYjjgI3ov5nkuIAKIyAgICDlhoXpg6jmnaXmupDvvIzotKPku7vovrnnlYzlnKjpobnnm67lhoXvvIhzb3VyY2VfdHlwZT1wcm9qZWN0X2ludGVybmFs77yJ44CCCiMgICAgcmVkbGluZV9zZXQg5pivKirpobnnm67lhoXpg6jnuqbmnZ8qKu+8jOS4jeaYr+S7juWOn+aWh+mAkOWtl+eFp+aKhOeahOe6oue6v++8mwojICAgIOiLpeaXpeWQjuaLv+WIsOWOn+aWh++8jOmhu+WPpuihjOi1sOadpea6kOaOpeWFpe+8jOS4jeW+l+aKiuacrOWNoeW9k+S9nOWOn+aWh+WNoeOAggojCiMg6L2s5q2j6K6w5b2V77yaMjAyNi0xMS0xMyDkuI4gMDJf5YaF5a655YyFL+S5puexjUZf5a626ZW/5oCl5pWRLyDkuIsgNiDmnaHmtL7nlJ/mnaHnm64KIyAgICAgICDlkIzmibnmrKHokL3nm5jvvIzpgb/lhY0gc291cmNlX2ludGFrZV9jaGVjayDliKTlraTlhL/ljaHvvIjlu7rljaHkuI7pppbmibnmtL7nlJ8KIyAgICAgICDlkIzmibnvvIzmsr/nlKjpmLbmrrXkuIkgZmFtaWx5IOWNoeOAjOS4jeWItumAoOW3suefpee6oueql+WPo+OAjeWPo+W+hO+8ieOAggojID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQoKc291cmNlX2lkOiBwYXJlbnRfY29vbApzb3VyY2VfbmFtZTogInBhcmVudC1jb29sIOWKn+iDvee7k+aehOWkjeWIu++8iOmhueebruWGhemDqO+8m+WOn+aWh+S4jeWcqOaJi++8iSIKc291cmNlX3R5cGU6IHByb2plY3RfaW50ZXJuYWwKc291cmNlX3ZlcnNpb246ICIyMDI2LTExLTEzIgoKYXR0cmlidXRpb25fZnJhbWV3b3JrOiA+CiAg5oyJIDA5X+WutumVv+err+W3peWFty9wYXJlbnRfY29vbF9jbG9uZS9kYXRhL2ZlYXR1cmVzLmpzb24g55qE5LiD5qih5Z2X5Yqf6IO957uT5p6ECiAg77yI5ZG85ZC4IDQtMi02IC8gMTIg5byg6K+d5pyv5Y2hIC8gQUkg5Y+w6K+NIGxpbmUrc3RlcHNbM10gLyDkuInmoaPmkqTpgIAgLwogIOS6lOexu+mihOitpuihqCAvIOS/ruWkjeWNoSAvIOaDhee7quaXpeW/l++8iee7hOe7h+anveS9je+8m+aWh+ahiOmAkOWtl+WPluiHquacrOW6k+eOsOaciSAxOCDmnaEKICDmupDmnaHnm67nmoQgaW5qZWN0X3RleHTvvIzmjInlj6/lvJXnlKjlj6Xph43nu4TvvIzkuI3mlrDlop7ku7vkvZXlpJbpg6jlhoXlrrnvvIzkuI3mlLkgNjMg6aG1CiAgQm9va1N0YWNrIOato+aWh+OAggoKIyDmibnmrKEgMGMg5Yik5a6a57uT5p6c77yIY29weV9tYXBwaW5nLmpzb24ubWV0YS5hY3Rpb25fZ3JhbnVsYXJpdHnvvInvvIznm7TmjqXlvJXnlKgKYWN0aW9uX2dyYW51bGFyaXR5OiB0YXNrX2xldmVsCgpyZWRsaW5lX3NldDoKICAtICLkuI3nvJbpgKAgcGFyZW50LWNvb2wg5Y6f5paH77ya5Y6f5paH5LiN5Zyo5omL77yM6K+d5pyv5Y2h44CB5LqU57G76Lqr5L2T6aKE6K2m6KGo44CB5L+u5aSN6K+d5pyv44CB5YWN6LSj5aOw5piO5Z2H5LiN5b6X5Yet5Yqf6IO957uT5p6E5Y+N5o6o5oiW55So6L+R5Ly85paH5qGI5YaS5YWFIgogIC0gIuS4jeabv+S7o+S4k+S4muW/g+eQhuWSqOivouOAgeWMu+WtpuiviuaWreaIluWtpuagoeato+W8j+ivhOS8sO+8m+S4jeWcqOWtqeWtkOaYjuaYvuW0qea6g+aXtue7p+e7reWKoOWOi+WtpuS5oO+8iOayv+eUqOacrOW6k+aXouaciei+ueeVjO+8iSIKICAtICLlhY3otKPlo7DmmI7ljp/moLfkv53nlZnvvJrmnKrlj5blvpfljp/mlofliY3ku6XljaDkvY3kuLLmmL7lvI/moIfms6jvvIzkuI3ku6Xoh6rmkrDmlofmnKzlhpLlhYXljp/mlofvvJtwZW5kaW5nX2JhdGNoMyDmp73kvY3mmL7npLrljaDkvY3vvIzkuI3nvJbpgKAiCgpldmlkZW5jZV9sZXZlbDogQwp1cGRhdGVfY2FkZW5jZTogb25fZGVtYW5kCgppbnRha2Vfbm90ZXM6IHwKICDpmLbmrrUgQiDmibnmrKEgMyDmjqXlhaXjgILliY3mj5DvvJrnlKjmiLcgMjAyNi0xMS0xMyDpmLbmrrUgQiDmiafooYzmlrnmoYjmmI7noa4KICDjgIzkuI3kvp3otZYgcGFyZW50LWNvb2wg5Y6f5paH77yb5Yqf6IO957uT5p6E5oyJ5LiD5qih5Z2X5omn6KGM77yb5paH5qGI5LuO546w5pyJIDE4IOadoQogIOa6kOadoeebruWPlu+8m+aYoOWwhOS4jeS4iueahOanveS9jeWmguWunuagh+W+heaJueasoSAzIOa0vueUn++8jOS4jee8lumAoOOAjeOAggogIOWboOatpOacrOWNoSBzb3VyY2VfdHlwZT1wcm9qZWN0X2ludGVybmFs77yM5LiN5aGrIHNvdXJjZV9kYXRl77yI5peg5aSW6YOo54mI5pysCiAg5pel5pyf77yJ77yM5LiN5aGrIHByZXZpb3VzX3NvdXJjZV92ZXJzaW9u77yI5LiN5a2Y5Zyo54mI5pys5ryU6L+b77yJ44CCCiAgc291cmNlX3ZlcnNpb24g55So5pys6aG555uu6JC95Zyw5pel5pyfIDIwMjYtMTEtMTPvvIzmnaHnm64gZnJvbnRtYXR0ZXIg5b+F6aG7CiAg5Lil5qC855u4562J77yIc291cmNlX2ludGFrZV9jaGVjayDnrKwgNCDmnaHnoazmoKHpqozvvInjgIIKCiAg5Yqo5L2c57KS5bqmIHRhc2tfbGV2ZWwg55u05o6l5byV55So5om55qyhIDBjIOWIpOWumu+8mmNvcHlfbWFwcGluZy5qc29uIOeahAogIG1ldGEuYWN0aW9uX2dyYW51bGFyaXR5X2Jhc2lzIOiusOW9lSA3Lzcg5p2hIGZlc18qIHBhcmVudCDor53mnK/lnYflkKvlpJrmraUKICDliqjkvZzluo/liJfkuI7mkqTpmaTmnaHku7bvvIzlsZ7ku7vliqHnuqfvvJvor6XliKTlrprmj4/ov7DnmoTmmK/jgIznjrDmnInlj6/lpI3nlKjmlofmoYjjgI3nmoQKICDnspLluqbvvIzkuI3mmK8gcGFyZW50LWNvb2wg5Y6f5paH57KS5bqm77yI5Y6f5paH5LiN5Zyo5omL77yJ44CCCgogIOa0vueUn+adoeebruWFqOmDqOS4uiBleHBsYW5hdG9yeeOAgeaXoCBjYWxsYWJsZeOAgeaXoCBleGl0X3doZW7vvIzlj6rov5sKICBjaHVua3MuanNvbmzvvJt0ZW1wbGF0ZV9yZWY9UFRfUEFSRU5UX0VTQ0FMQVRJT05fMDHvvIwKICBzY2VuYXJpbz1wYXJlbnRfZXNjYWxhdGlvbu+8jHdoZW49e3BhcmVudF9hZmZlY3RfbGV2ZWw6W2xvdyxtaWQsaGlnaF1944CCCiAgaW5qZWN0X3RleHQg55qE5q+P5LiA5Y+l6YO95b+F6aG75piv546w5pyJIDE4IOadoSBpbmplY3RfdGV4dCDnmoTpgJDlrZflrZDkuLLvvIwKICDnlLEgcGFyZW50X2VzY2FsYXRpb25fdGVzdHMg57uE55qE44CM5LiN57yW6YCg5pat6KiA44CN6YCQ5Y+l5qCh6aqM77yM5Y+v6K+B5Lyq44CCCgogIOivreS5iei+ueeVjO+8iOaMgui0pu+8jOS4jeaOqeeblu+8ie+8mueOsOaciSAxOCDmnaHlhajmmK/lrabnp5HovoXlr7zmlK/mnrbvvIzpnaLlkJHlranlrZDkvZzkuJoKICDov4fnqIvvvIzmsqHmnInlrrbplb/ngavmsJTmgKXmlZHnmoTljp/nlJ/mlofmoYjjgILmnKzmibnmrKHmtL7nlJ/mnaHnm67mmK/jgIzpgJDlrZfmkZjlj6Xph43nu4QgKwogIOaWsOWcuuaZr+agh+etvuOAje+8jOS4jeaehOaIkOWutumVv+eBq+awlCAx4oCUNSDliIbmoaPlhoXlrrnvvJvkuInmoaPmkqTpgIDjgIHkv67lpI3or53mnK/jgIEKICDkupTnsbvouqvkvZPpooTorabooajjgIHlhY3otKPlo7DmmI7ljp/mloflnKggY29weV9tYXBwaW5nLmpzb24g5Lit5aaC5a6e5L+d55WZCiAgcGVuZGluZ19iYXRjaDMg5Y2g5L2N77yM562J5Y6f5paH5Yiw5L2N5ZCO5Y+m6KGM6LWw5p2l5rqQ5o6l5YWl6KGl6b2Q44CCCiAg6K+B5o2u562J57qnIEPvvJrpgJrnlKjkurLlrZDmsp/pgJror53mnK/vvIzml6AgQURIRCDnibnlvILmgKfvvIzkuJTml6DlpJbpg6jljp/mloflj6/moLjjgIIK
+# =====================================================================
+# 来源接入卡【已转正】 parent_cool  （阶段 B 批次 3）
+# ---------------------------------------------------------------------
+# ⚠ 本卡 **不是** parent-cool 原文接入卡：原文不在手。
+#    用户 2026-11-13 阶段 B 方案前提明确「不依赖 parent-cool 原文」。
+#    本卡登记的是「项目内部按功能结构复刻 + 复用本库既有文案」这一
+#    内部来源，责任边界在项目内（source_type=project_internal）。
+#    redline_set 是**项目内部约束**，不是从原文逐字照抄的红线；
+#    若日后拿到原文，须另行走来源接入，不得把本卡当作原文卡。
+#
+# 转正记录：2026-11-13 与 02_内容包/书籍F_家长急救/ 下 6 条派生条目
+#       同批次落盘，避免 source_intake_check 判孤儿卡（建卡与首批派生
+#       同批，沿用阶段三 family 卡「不制造已知红窗口」口径）。
+# =====================================================================
+
+source_id: parent_cool
+source_name: "parent-cool 功能结构复刻（项目内部；原文不在手）"
+source_type: project_internal
+source_version: "2026-11-13"
+
+attribution_framework: >
+  按 09_家长端工具/parent_cool_clone/data/features.json 的七模块功能结构
+  （呼吸 4-2-6 / 12 张话术卡 / AI 台词 line+steps[3] / 三档撤退 /
+  五类预警表 / 修复卡 / 情绪日志）组织槽位；文案逐字取自本库现有 18 条
+  源条目的 inject_text，按可引用句重组，不新增任何外部内容，不改 63 页
+  BookStack 正文。
+
+# 批次 0c 判定结果（copy_mapping.json.meta.action_granularity），直接引用
+action_granularity: task_level
+
+redline_set:
+  - "不编造 parent-cool 原文：原文不在手，话术卡、五类身体预警表、修复话术、免责声明均不得凭功能结构反推或用近似文案冒充"
+  - "不替代专业心理咨询、医学诊断或学校正式评估；不在孩子明显崩溃时继续加压学习（沿用本库既有边界）"
+  - "免责声明原样保留：未取得原文前以占位串显式标注，不以自撰文本冒充原文；pending_batch3 槽位显示占位，不编造"
+
+evidence_level: C
+update_cadence: on_demand
+
+intake_notes: |
+  阶段 B 批次 3 接入。前提：用户 2026-11-13 阶段 B 执行方案明确
+  「不依赖 parent-cool 原文；功能结构按七模块执行；文案从现有 18 条
+  源条目取；映射不上的槽位如实标待批次 3 派生，不编造」。
+  因此本卡 source_type=project_internal，不填 source_date（无外部版本
+  日期），不填 previous_source_version（不存在版本演进）。
+  source_version 用本项目落地日期 2026-11-13，条目 frontmatter 必须
+  严格相等（source_intake_check 第 4 条硬校验）。
+
+  动作粒度 task_level 直接引用批次 0c 判定：copy_mapping.json 的
+  meta.action_granularity_basis 记录 7/7 条 fes_* parent 话术均含多步
+  动作序列与撤除条件，属任务级；该判定描述的是「现有可复用文案」的
+  粒度，不是 parent-cool 原文粒度（原文不在手）。
+
+  派生条目全部为 explanatory、无 callable、无 exit_when，只进
+  chunks.jsonl；template_ref=PT_PARENT_ESCALATION_01，
+  scenario=parent_escalation，when={parent_affect_level:[low,mid,high]}。
+  inject_text 的每一句都必须是现有 18 条 inject_text 的逐字子串，
+  由 parent_escalation_tests 组的「不编造断言」逐句校验，可证伪。
+
+  语义边界（挂账，不掩盖）：现有 18 条全是学科辅导支架，面向孩子作业
+  过程，没有家长火气急救的原生文案。本批次派生条目是「逐字摘句重组 +
+  新场景标签」，不构成家长火气 1—5 分档内容；三档撤退、修复话术、
+  五类身体预警表、免责声明原文在 copy_mapping.json 中如实保留
+  pending_batch3 占位，等原文到位后另行走来源接入补齐。
+  证据等级 C：通用亲子沟通话术，无 ADHD 特异性，且无外部原文可核。

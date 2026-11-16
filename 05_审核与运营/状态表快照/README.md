@@ -1,1 +1,39 @@
-IyDnirbmgIHooajlv6vnhafnm67lvZUKCiMjIOW8uuWItuadpea6kAoK5pys55uu5b2V5a2Y5Zyo55qE5ZCI5rOV5oCn5LiO5ZG95ZCN6KeE5YiZ77yM55SxIGDlj5jmm7TorrDlvZUubWRgIMKn5Y2B5YWt77yI54q25oCB6KGo5Zue5YaZ5b+r54Wn77yM5by65Yi277yJ6ZSB5a6a77yaCgo+IOiHqiAyMDI2LTExLTExIOi1t++8jOavj+S4gOaJueWbnuWGmeeKtuaAgeihqOWQju+8jOW/hemhu+eri+WNs+WPpuWtmOS4gOS7veW/q+eFp+WIsCBgMDVf5a6h5qC45LiO6L+Q6JClXOeKtuaAgeihqOW/q+eFp1znirbmgIHooahf56ysTuaJuV9NLm1kYO+8iE4g5Li65om55qyh5bqP5Y+377yMTSDkuLror6XmibnnrKzlh6DmrKHlm57lhpnvvInvvIzlubborrDlvZXlm57lhpnml7bliLvjgILlj6rkvp3otZbljZXmlofku7YgbXRpbWUg55qE5YGa5rOV5LiN5YaN6KKr5o6l5Y+X44CC5pys5p2h5Li65by65Yi25p2h5qy+77yM5LiN5bGe5LqO5bu66K6u44CCCgojIyDlkb3lkI3op4TliJkKCmBgYArnirbmgIHooahf56ysTuaJuV9NLm1kCmBgYAoKLSBgTmAgPSDmibnmrKHluo/lj7fvvIjmlbTmlbDvvInjgILlt7LkuqTku5jmibnmrKHvvJpg56ysMuaJuWDvvIjnrKzkuozmibnvvIwyMDI2LTExLTEwIOe7iOaAge+8ieOAguesrOS4ieaJueW8gOWGmeWQjuS4uiBg56ysM+aJuWDvvIzkvp3mraTnsbvmjqjjgIIKLSBgTWAgPSDor6XmibnnrKzlh6DmrKHlm57lhpnjgILlkIzmibnlhoXlpJrmrKHlm57lhpnml7bmjIkgYDEgLyAyIC8gMyDigKZgIOmAkuWinu+8m+acrOaJueacgOWQjuS4gOasoeWbnuWGmeWRveWQjeS4uiBg57uIYOOAggotIOaWh+S7tuWQjue8gOWbuuWumuS4uiBgLm1kYO+8iOWNs+S+v+WGheWuueaYryBDU1Yg5a2X6IqC57qn5Ymv5pys77yJ77yM5LiOIMKn5Y2B5YWtIOWRveWQjeWPo+W+hOS4gOiHtOOAggoKIyMg5paH5Lu25oCn6LSoCgotIOavj+S4gOS7veW/q+eFp+mDveaYr+W9k+aXtiBg6aG16Z2i5riF5Y2V54q25oCB6KGoLmNzdmAg55qEKirlrZfoioLnuqflia/mnKwqKu+8iGBDb3B5LUl0ZW0gLUxpdGVyYWxQYXRoYO+8ie+8jOS4jeaYr+mHjeaWsOaLvOWHuueahCBDU1Yg5paH5pys44CCCi0g5Lu75L2V5ZCO57ut5Zue5YaZ6YO95LiN5L+u5pS55pys55uu5b2V5YaF5bey5pyJ5b+r54Wn77yb5Y+q5paw5aKe44CCCi0g5qC46aqM5pa55rOV77ya5ZCM5LiA5Lu95b+r54Wn5LiO5rqQIENTViDnmoQgYExlbmd0aGAg55u4562J44CBYEdldC1GaWxlSGFzaCAtQWxnb3JpdGhtIFNIQTI1NmAg5ZOI5biM55u4562J44CCCi0g5ZCM5a2X6IqC5b+r54Wn5L+d55WZ77ya5b+r54Wn6K+B5piO55qE5pivIuWbnuWGmeWKqOS9nOWPkeeUn+i/hyLvvIzkuI3mmK8i5YaF5a655Y+Y5YyW6L+HIuOAguS4jeaMiSLku4XlrZfoioLlj5jljJbml7bokL3lv6vnhaci5omn6KGM44CCCgojIyDln7rnur/ku73or7TmmI4KCi0gKipg54q25oCB6KGoX+esrDLmiblf57uILm1kYCoq77ya56ys5LiJ5om55byA5YaZ5YmN55qE5Z+657q/5b+r54Wn44CCCiAgLSDokL3ngrnml7bliLvvvJoyMDI2LTExLTEw77yI56ys5LqM5om55Lqk5LuY5a6M5oiQ5ZCO44CB56ys5LiJ5om55byA5YaZ5YmN77yJ44CCCiAgLSDnlKjpgJTvvJror4HmmI4i56ys5LiJ5om55byA5YaZ5YmN54q25oCB6KGo5bCx5pivIDQ1IOaVsOaNruihjCAvIDExIOWIlyAvIDAg56m65YC8Iu+8iOS4jiBg5Y+Y5pu06K6w5b2VLm1kYCDCpzE1LjIg5LiA6Ie077yJ44CCCiAgLSDkuI7mupDmlofku7blrZfoioLmlbDkuIDoh7TvvJo5MzM5IOWtl+iKguOAggogIC0g5LiO5rqQ5paH5Lu2IFNIQTI1NiDkuIDoh7TvvJpgRTVCQkFBOTlENEVFRDNDRDc2RTk1NkI0REFEQUExRjE2NDcxMTlDQzY4MzIxNjgwRUU1NTM4RkQ2QTE5OTBCMGDjgIIKLSDnrKzkuInmibkgNSDkuKrlv6vnhafvvIhfMSDoh7MgXzXvvInvvJtfNSDkuLrnrKwgMyDlsI/mibnlm57lhpnvvIzmraTliY3orrAgNCDkuKrlsZ7mvI/orrDvvIzkv67mraPkvp3mja7op4Eg56ys5LqU5om5LUHmoKHpqozorrDlvZUg5b6F5qC46aG544CCCgojIyDnuqrlvosKCi0g5LiN6K645Zyo5pys55uu5b2V5YaF5YGa5omL5bel57yW6L6R77yb5Y+q5YWB6K64IGBDb3B5LUl0ZW1gIOS6p+eUn+aWsOW/q+eFp+OAggotIOS4jeiuuOWIoOmZpOW3suacieW/q+eFp++8m+WNs+S9v+afkOaJueW3suiiq+WQjue7reaJueimhueblu+8jOWOhuWPsuW/q+eFp+S7jeS/neeVmeeUqOS6juWbnuivgeOAggotIOesrOS4ieaJueesrOS4gOasoeWbnuWGmeeKtuaAgeihqOWQju+8jOW6lOeri+WNs+iQvSBg54q25oCB6KGoX+esrDPmiblfMS5tZGDvvJvmnKznm67lvZUgUkVBRE1FIOS4jemihOeUn+aIkOepuuaWh+S7tuOAggo=
+# 状态表快照目录
+
+## 强制来源
+
+本目录存在的合法性与命名规则，由 `变更记录.md` §十六（状态表回写快照，强制）锁定：
+
+> 自 2026-11-11 起，每一批回写状态表后，必须立即另存一份快照到 `05_审核与运营\状态表快照\状态表_第N批_M.md`（N 为批次序号，M 为该批第几次回写），并记录回写时刻。只依赖单文件 mtime 的做法不再被接受。本条为强制条款，不属于建议。
+
+## 命名规则
+
+```
+状态表_第N批_M.md
+```
+
+- `N` = 批次序号（整数）。已交付批次：`第2批`（第二批，2026-11-10 终态）。第三批开写后为 `第3批`，依此类推。
+- `M` = 该批第几次回写。同批内多次回写时按 `1 / 2 / 3 …` 递增；本批最后一次回写命名为 `终`。
+- 文件后缀固定为 `.md`（即便内容是 CSV 字节级副本），与 §十六 命名口径一致。
+
+## 文件性质
+
+- 每一份快照都是当时 `页面清单状态表.csv` 的**字节级副本**（`Copy-Item -LiteralPath`），不是重新拼出的 CSV 文本。
+- 任何后续回写都不修改本目录内已有快照；只新增。
+- 核验方法：同一份快照与源 CSV 的 `Length` 相等、`Get-FileHash -Algorithm SHA256` 哈希相等。
+- 同字节快照保留：快照证明的是"回写动作发生过"，不是"内容变化过"。不按"仅字节变化时落快照"执行。
+
+## 基线份说明
+
+- **`状态表_第2批_终.md`**：第三批开写前的基线快照。
+  - 落点时刻：2026-11-10（第二批交付完成后、第三批开写前）。
+  - 用途：证明"第三批开写前状态表就是 45 数据行 / 11 列 / 0 空值"（与 `变更记录.md` §15.2 一致）。
+  - 与源文件字节数一致：9339 字节。
+  - 与源文件 SHA256 一致：`E5BBAA99D4EED3CD76E956B4DADAA1F1647119CC68321680EE5538FD6A1990B0`。
+- 第三批 5 个快照（_1 至 _5）；_5 为第 3 小批回写，此前记 4 个属漏记，修正依据见 第五批-A校验记录 待核项。
+
+## 纪律
+
+- 不许在本目录内做手工编辑；只允许 `Copy-Item` 产生新快照。
+- 不许删除已有快照；即使某批已被后续批覆盖，历史快照仍保留用于回证。
+- 第三批第一次回写状态表后，应立即落 `状态表_第3批_1.md`；本目录 README 不预生成空文件。

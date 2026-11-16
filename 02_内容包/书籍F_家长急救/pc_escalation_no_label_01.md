@@ -1,1 +1,55 @@
-LS0tCmlkOiBwY19lc2NhbGF0aW9uX25vX2xhYmVsXzAxCnR5cGU6IGV4cGxhbmF0b3J5CmF1ZGllbmNlOiBwYXJlbnQKc2NlbmFyaW86IHBhcmVudF9lc2NhbGF0aW9uCmV4ZWNfdGFyZ2V0OiDmg4Xnu6rosIPoioIKZXZpZGVuY2VfbGV2ZWw6IEMKY29udHJhaW5kaWNhdGlvbl9mbGFnOiBzYWZlCmxhc3RfcmV2aWV3ZWQ6IDIwMjYtMTEtMTQKc291cmNlX2lkOiBwYXJlbnRfY29vbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEtMTMiCnRlbXBsYXRlX3JlZjogUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDEKcHJvcG9zYWxfcmVmOiBQUk9QLTAwMDUKd2hlbjoKICBwYXJlbnRfYWZmZWN0X2xldmVsOiBbbG93XQpkZXZpYXRpb246CiAga2luZDogdmFsdWVfYWRqdXN0ZWQKICByZWFzb246ICJwYXJlbnRfYWZmZWN0X2xldmVsIOaMieaho+S9jeaUtueqhO+8iFtsb3csIG1pZCwgaGlnaF0g4oaSIFtsb3dd77yM5om55qyhIDUg5YWz6ZetIEQtMDbvvInvvJror53mnK/kuLrmjaLor7Tms5XnmoTmuKnlkozmj5DphpLvvIzkuI3opoHmsYLmmoLlgZzmiJbnprvlvIDnjrDlnLrvvIzku4UgbG93IOaho+inpuWPkSIKaW5qZWN0X3RleHQ6IHwKICDlkIzkuIDlj6Xmj5DphpLvvIzmjaLkuKror7Tms5XvvIzlranlrZDmjqXliLDnmoTkv6Hmga/lrozlhajkuI3lkIzjgILjgIzkvaDmgI7kuYjlj4jotbDnpZ7kuobjgI3mmK/nu5nku5bkuIvkuIDkuKrnu5PorrrvvJvjgIzov5nkuIDooYzmiJHku6zlho3nnIvkuIDmrKHjgI3mmK/nu5nku5bkuIDkuKrog73lgZrnmoTliqjkvZzjgILlkb3ku6TlvI/lkozotLTmoIfnrb7nmoTor53kvJrmiorku4rmmZrnmoTkvZzkuJrlj5jmiJDkuIDlnLrlhbPkuo7jgIzku5bmmK/ku4DkuYjmoLfnmoTkurrjgI3nmoTkuonorrrvvIzogIzov5nnsbvor4Tku7fku5blnKjlrabmoKHlvoDlvoDlt7Lnu4/lkKzkuobkuIDmlbTlpKnvvIzlm57lrrblho3lkKzkuIDmrKHvvIzotbfmraXnmoTmiJDmnKzkvJrmm7Tpq5jjgILlj6/nhafnnYDor7TnmoTlj6XlvI/mmK/vvJrlhYjor7TkvaDnnIvliLDnmoTlhbfkvZPliqjkvZzvvIjjgIznrJTlgZzlnKjov5nlhL/kuobjgI3vvInvvIzlho3or7TkuIDkuKrkuIvkuIDmraXvvIjjgIzmiornrKzkuIDlj6XnmoTlhbPplK7or43mjIfnu5nmiJHjgI3vvInvvIzmnIDlkI7lgZzkvY/vvIzkuI3ov73liqDor4Tku7flkozov73pl67jgILor53mnK/lj6rop6PlhrPlvZPkuIvov5nkuIDlj6XvvIzkuI3nv7vml6fotKbjgIHkuI3pooTmtYvmmI7lpKnjgIIKLS0tCgojIHBjX2VzY2FsYXRpb25fbm9fbGFiZWxfMDEKCuWQjOS4gOWPpeaPkOmGkuaNouS4quivtOazle+8jOS4jeS4i+e7k+iuuuS4jei0tOagh+etvgoKLSAqKuWtl+auteS+neaNrioq77yaYFBST1AtMDAwNGDvvIhgcGFyZW50X2FmZmVjdF9sZXZlbGAg6L+bIGB3aGVuYCDnmb3lkI3ljZXvvInvvJsKICAqKuWcuuaZr+S+neaNrioq77yaYFBST1AtMDAwNWDvvIhgcGFyZW50X2VzY2FsYXRpb25gICsgYFBUX1BBUkVOVF9FU0NBTEFUSU9OXzAxYO+8ieOAggogIOWQjuiAheWGmeWcqCBgcHJvcG9zYWxfcmVmYO+8jOWJjeiAheWcqOacrOihjOeVmeeXle+8jOWPjOWQkeWPr+i/vea6r+OAggotICoq5p2l5rqQKirvvJpgcGFyZW50X2Nvb2xgIOaOpeWFpeWNoe+8iGBwcm9qZWN0X2ludGVybmFsYO+8jOWOn+aWh+S4jeWcqOaJi++8ieOAggogIGBpbmplY3RfdGV4dGAg55qE5q+P5LiA5Y+l6YCQ5a2X5Y+W6Ieq546w5pyJIDE4IOadoea6kOadoeebru+8jOeUsQogIGAwM19hZ2VudOe8luivkS9kZXJpdmVfYmF0Y2gzX2VudHJpZXMucHlgIOaMieWPpeW6j+WPt+acuuaisOaLvOaOpe+8jOacquaUueWGmeOAgeacquamguaLrOOAgeacquaWsOWinuOAggotICoq5qe95L2NKirvvJrml6DvvIjnuq/ov5DooYzml7YgYGFpX2xpbmVgIOajgOe0ouWAmemAie+8jOS4jeWNoOmdmeaAgeanveS9je+8iQotICoq6K+t5LmJ6L6555WMKirvvJrnrKwgNiDmnaHlj6rmnI3liqEgYWlfbGluZSDliqjmgIHmo4DntKLvvIzkuI3mmKDlsITliLDku7vkvZXpnZnmgIHmp73kvY3vvIzpgb/lhY3kuLrlh5HmlbDnoazloZ7jgIIKICDnjrDmnIkgMTgg5p2h5YWo5Li65a2m56eR6L6F5a+85pSv5p6277yM5pys5p2h5piv44CM6YCQ5a2X5pGY5Y+l6YeN57uEICsg5paw5Zy65pmv5qCH562+44CN77yMCiAgKirkuI3mnoTmiJDlrrbplb/ngavmsJQgMeKAlDUg5YiG5qGj5YaF5a65KirvvJvliIbmoaPor53mnK/jgIHkupTnsbvouqvkvZPpooTorabooajjgIHkv67lpI3or53mnK/jgIEKICDlhY3otKPlo7DmmI7ljp/mloflnYfml6DmnaXmupDvvIzmjInkuI3nvJbpgKDnuqrlvovlnKggYGNvcHlfbWFwcGluZy5qc29uYCDkv53nlZkKICBgcGVuZGluZ19iYXRjaDNgIOWNoOS9jeOAggoKIyMg6YCQ5Y+l5p2l5rqQ77yI5Y+v5aSN6LeR5q+U5a+577yJCgp8IOWPpeW6jyB8IOadpea6kOadoeebriB8IOWOn+WPpeW6j+WPtyB8CnwtLS18LS0tfC0tLXwKfCAxIHwgYGZlc19wYXJlbnRfc2NyaXB0XzAxYCB8IFswXSB8CnwgMiB8IGBmZXNfcGFyZW50X3NjcmlwdF8wMWAgfCBbMV0gfAp8IDMgfCBgZmVzX3BhcmVudF9zY3JpcHRfMDFgIHwgWzJdIHwKfCA0IHwgYGZlc19wYXJlbnRfc2NyaXB0XzAxYCB8IFszXSB8CnwgNSB8IGBmZXNfcGFyZW50X3NjcmlwdF8wMWAgfCBbNV0gfAoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIKLSBgd2hlbmAg5om55qyhIDUg5oyJ5qGj5L2N5pS256qE5Li6IGBbbG93XWDvvIjliIbmoaPkvp3mja7vvJrmjaLor7Tms5XnmoTmuKnlkozmj5DphpLvvIzkuI3mtonlj4rmmoLlgZwv56a75byA77yJ77yMCiAg55u45a+55qih5p2/5Li65Y+W5YC85a2Q6ZuG77yM5p2h55uu5pi+5byP6K6wIGBkZXZpYXRpb246IHZhbHVlX2FkanVzdGVkYO+8iHJlYXNvbiDop4EgZnJvbnQgbWF0dGVy77yJ77yMCiAg5Y2V5YiX5LiN6L+b5Li75YGP56a7546H77yb5YWz6ZetIEQtMDbvvIzkuInmoaPliIbluIMgbG93PW5vX2xhYmVsL3Jlc3RhdGXjgIFtaWQ9b25lX3N0ZXAvc2NvcGXjgIEKICBoaWdoPXN0b3AvcmVmZXLvvIjlkIQgMiDmnaHvvInvvIzkuI4gZ29sZGVuIGB0cl9QRTAxLi5QRTA2YCDpgJDmnaHkuIDoh7TjgIIK
+---
+id: pc_escalation_no_label_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: safe
+last_reviewed: 2026-11-14
+source_id: parent_cool
+source_version: "2026-11-13"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0005
+when:
+  parent_affect_level: [low]
+deviation:
+  kind: value_adjusted
+  reason: "parent_affect_level 按档位收窄（[low, mid, high] → [low]，批次 5 关闭 D-06）：话术为换说法的温和提醒，不要求暂停或离开现场，仅 low 档触发"
+inject_text: |
+  同一句提醒，换个说法，孩子接到的信息完全不同。「你怎么又走神了」是给他下一个结论；「这一行我们再看一次」是给他一个能做的动作。命令式和贴标签的话会把今晚的作业变成一场关于「他是什么样的人」的争论，而这类评价他在学校往往已经听了一整天，回家再听一次，起步的成本会更高。可照着说的句式是：先说你看到的具体动作（「笔停在这儿了」），再说一个下一步（「把第一句的关键词指给我」），最后停住，不追加评价和追问。话术只解决当下这一句，不翻旧账、不预测明天。
+---
+
+# pc_escalation_no_label_01
+
+同一句提醒换个说法，不下结论不贴标签
+
+- **字段依据**：`PROP-0004`（`parent_affect_level` 进 `when` 白名单）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  后者写在 `proposal_ref`，前者在本行留痕，双向可追溯。
+- **来源**：`parent_cool` 接入卡（`project_internal`，原文不在手）。
+  `inject_text` 的每一句逐字取自现有 18 条源条目，由
+  `03_agent编译/derive_batch3_entries.py` 按句序号机械拼接，未改写、未概括、未新增。
+- **槽位**：无（纯运行时 `ai_line` 检索候选，不占静态槽位）
+- **语义边界**：第 6 条只服务 ai_line 动态检索，不映射到任何静态槽位，避免为凑数硬塞。
+  现有 18 条全为学科辅导支架，本条是「逐字摘句重组 + 新场景标签」，
+  **不构成家长火气 1—5 分档内容**；分档话术、五类身体预警表、修复话术、
+  免责声明原文均无来源，按不编造纪律在 `copy_mapping.json` 保留
+  `pending_batch3` 占位。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源条目 | 原句序号 |
+|---|---|---|
+| 1 | `fes_parent_script_01` | [0] |
+| 2 | `fes_parent_script_01` | [1] |
+| 3 | `fes_parent_script_01` | [2] |
+| 4 | `fes_parent_script_01` | [3] |
+| 5 | `fes_parent_script_01` | [5] |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。
+- `when` 批次 5 按档位收窄为 `[low]`（分档依据：换说法的温和提醒，不涉及暂停/离开），
+  相对模板为取值子集，条目显式记 `deviation: value_adjusted`（reason 见 front matter），
+  单列不进主偏离率；关闭 D-06，三档分布 low=no_label/restate、mid=one_step/scope、
+  high=stop/refer（各 2 条），与 golden `tr_PE01..PE06` 逐条一致。

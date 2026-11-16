@@ -1,1 +1,48 @@
-LS0tCmlkOiBwY193YXJuaW5nX3Rob3VnaHRfMDEKdHlwZTogZXhwbGFuYXRvcnkKYXVkaWVuY2U6IHBhcmVudApzY2VuYXJpbzogcGFyZW50X2VzY2FsYXRpb24KZXhlY190YXJnZXQ6IOaDhee7quiwg+iKggpldmlkZW5jZV9sZXZlbDogQwpjb250cmFpbmRpY2F0aW9uX2ZsYWc6IGNhdXRpb24KbGFzdF9yZXZpZXdlZDogMjAyNi0xMS0xNQpzb3VyY2VfaWQ6IGZoc19oa19hbmdlcl9tYW5hZ2VtZW50CnNvdXJjZV92ZXJzaW9uOiAiMjAyNi0xMS0xNSIKdGVtcGxhdGVfcmVmOiBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMQpwcm9wb3NhbF9yZWY6IFBST1AtMDAwNwp3aGVuOgogIHBhcmVudF9hZmZlY3RfbGV2ZWw6IFtsb3csIG1pZCwgaGlnaF0KaW5qZWN0X3RleHQ6IHwKICDngb3pm6PljJbjgILlpKnllYrvvIHmiJHmsLjpgaDpg73mlZnkuI3lpb3lranlrZDvvIHjgILku5TntLDmg7PkuIDmg7Pmg4Xnt5Llh7rnj77nmoTljp/lm6DjgILlmJfoqabmj5Dlh7rlkIjnkIbnmoTorYnmk5rkvobliqDku6XorYnlr6boh6rlt7HnmoTkuIDkupvkuI3lkIjnkIbnmoTmg7Pms5XjgILlnKjmiJHniIblj5HnmoTliY3kuIDnp5LvvIzmiJHohJHlrZDph4zpl6rov4fnmoTpgqPkuKon54Ot5b+15aS0J+aYr+S7gOS5iOOAggotLS0KCiMgcGNfd2FybmluZ190aG91Z2h0XzAxCgrlv7XlpLTpooTorabvvJrngb7pmr7ljJblv7XlpLTlh7rnjrDml7blhYjlgZzkuIvmg7PkuIDmg7MKCi0gKirlrZfmrrXkvp3mja4qKu+8mmBQUk9QLTAwMDdg77yI5om55qyhIDgg5o6I5p2D5oqT5Y+W5p2l5rqQ5o6l5YWl77yJ77ybCiAgKirlnLrmma/kvp3mja4qKu+8mmBQUk9QLTAwMDVg77yIYHBhcmVudF9lc2NhbGF0aW9uYCArIGBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMWDvvInjgIIKICAqKuadpea6kCoq77yaYGZoc19oa19hbmdlcl9tYW5hZ2VtZW50YCDmjqXlhaXljaHjgIIKICBgaW5qZWN0X3RleHRgIOeahOavj+S4gOWPpemAkOWtl+WPluiHqiBgMDBf5p2l5rqQ5rK755CGL19zdGFnaW5nL2Ag5a+55bqU5Lit5paH5Y6f5paH77yM55SxCiAgYDAzX2FnZW5057yW6K+RL2Rlcml2ZV9iYXRjaDhfZW50cmllcy5weWAg5py65qKw5pGY5Y+W77yM5pyq5pS55YaZ44CB5pyq5qaC5ous44CB5pyq5paw5aKe44CCCi0gKirmp73kvY0qKu+8mmB3YXJuaW5nX3NpZ25zX+W/teWktGDvvIjmibnmrKEgOCDlm57loavkuLogbWFwcGVk77yJCi0gKiror63kuYnovrnnlYwqKu+8muS/oeWPt+mAkOWtl+WPliBmaHPjgIzngb3pm6PljJbjgI3vvJvliqjkvZzpgJDlrZflj5YgZmhz44CM5oOz5LiA5oOz4oCm5o+Q5Ye65ZCI55CG55qE6K2J5pOa44CN44CCCiAg5pys5p2h55uu5piv44CM6YCQ5a2X5pGY5Y+l6YeN57uEICsg5a626ZW/54Gr5rCU5Zy65pmv5qCH562+44CN77yM5Y+q5L2c5LqU57G76aKE6K2mL+S/ruWkjeeahAogIOWPguiAg+aWh+ahiO+8m+S/oeWPt+S4juWKqOS9nOWIhuWIl++8jOWKqOS9nOWIl+mAkOWtl+WPluiHquS4reaWh+adpea6kO+8jOS4jemAkOexu+e8lumAoOOAggogIOiLseaWh+adpea6kO+8iE5IUyAvIFBLSiAvIENhbG1Ib21l77yJ5LuFIF9zdGFnaW5nIOeVmeeXleS9nOWPgueFp++8jOS4jea0vueUn+OAggotIGB3aGVuYCDkuKXmoLzlpZfmqKHmnb/kuInmoaMgYFtsb3csIG1pZCwgaGlnaF1g77yI5LiN5Y2V5qGj5YyW77yM55CG55Sx6KeBIFBST1AtMDAwN++8ie+8mwogIOS6lOexu+mihOitpuS4juS/ruWkjeWNoeaYryoq54Gr5rCU5LiK5Y2HL+S6i+WQjioq55qE6YCa55So5Y+C6ICD77yM5LiN5oyJ54Gr5rCUIDHigJQ1IOWIhuaho+OAggoKIyMg6YCQ5Y+l5p2l5rqQ77yI5Y+v5aSN6LeR5q+U5a+577yJCgp8IOWPpeW6jyB8IOadpea6kCBzdGFnaW5nIOaWh+S7tiB8IOmAkOWtl+eJh+autSB8CnwtLS18LS0tfC0tLXwKfCAxIHwgYGZoc19nb3ZfaGtfcGFyZW50X2FuZ2VyX21hbmFnZW1lbnRfdGNfMjAyNi0xMS0xNS5tZGAgfCDngb3pm6PljJYgfAp8IDIgfCBgZmhzX2dvdl9oa19wYXJlbnRfYW5nZXJfbWFuYWdlbWVudF90Y18yMDI2LTExLTE1Lm1kYCB8IOWkqeWViu+8geaIkeawuOmBoOmDveaVmeS4jeWlveWtqeWtkO+8gSB8CnwgMyB8IGBmaHNfZ292X2hrX3BhcmVudF9hbmdlcl9tYW5hZ2VtZW50X3RjXzIwMjYtMTEtMTUubWRgIHwg5LuU57Sw5oOz5LiA5oOz5oOF57eS5Ye654++55qE5Y6f5ZugIHwKfCA0IHwgYGZoc19nb3ZfaGtfcGFyZW50X2FuZ2VyX21hbmFnZW1lbnRfdGNfMjAyNi0xMS0xNS5tZGAgfCDlmJfoqabmj5Dlh7rlkIjnkIbnmoTorYnmk5rkvobliqDku6XorYnlr6boh6rlt7HnmoTkuIDkupvkuI3lkIjnkIbnmoTmg7Pms5UgfAp8IDUgfCBgYWlhZGhkX3llbGxfcmVwYWlyXzIwMjYtMTEtMTUubWRgIHwg5Zyo5oiR54iG5Y+R55qE5YmN5LiA56eS77yM5oiR6ISR5a2Q6YeM6Zeq6L+H55qE6YKj5LiqJ+eDreW/teWktCfmmK/ku4DkuYggfAoKLSDnsbvlnosgYGV4cGxhbmF0b3J5YOOAgeaXoCBgY2FsbGFibGVg44CB5pegIGBleGl0X3doZW5g77yM5Y+q6L+bIGBjaHVua3MuanNvbmxg77yMCiAg5LiN5LqnIGBza2lsbF9yZWdpc3RyeS5qc29uYCDmnaHnm67jgIIK
+---
+id: pc_warning_thought_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: caution
+last_reviewed: 2026-11-15
+source_id: fhs_hk_anger_management
+source_version: "2026-11-15"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0007
+when:
+  parent_affect_level: [low, mid, high]
+inject_text: |
+  災難化。天啊！我永遠都教不好孩子！。仔細想一想情緒出現的原因。嘗試提出合理的證據來加以證實自己的一些不合理的想法。在我爆发的前一秒，我脑子里闪过的那个'热念头'是什么。
+---
+
+# pc_warning_thought_01
+
+念头预警：灾难化念头出现时先停下想一想
+
+- **字段依据**：`PROP-0007`（批次 8 授权抓取来源接入）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  **来源**：`fhs_hk_anger_management` 接入卡。
+  `inject_text` 的每一句逐字取自 `00_来源治理/_staging/` 对应中文原文，由
+  `03_agent编译/derive_batch8_entries.py` 机械摘取，未改写、未概括、未新增。
+- **槽位**：`warning_signs_念头`（批次 8 回填为 mapped）
+- **语义边界**：信号逐字取 fhs「災難化」；动作逐字取 fhs「想一想…提出合理的證據」。
+  本条目是「逐字摘句重组 + 家长火气场景标签」，只作五类预警/修复的
+  参考文案；信号与动作分列，动作列逐字取自中文来源，不逐类编造。
+  英文来源（NHS / PKJ / CalmHome）仅 _staging 留痕作参照，不派生。
+- `when` 严格套模板三档 `[low, mid, high]`（不单档化，理由见 PROP-0007）；
+  五类预警与修复卡是**火气上升/事后**的通用参考，不按火气 1—5 分档。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源 staging 文件 | 逐字片段 |
+|---|---|---|
+| 1 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 災難化 |
+| 2 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 天啊！我永遠都教不好孩子！ |
+| 3 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 仔細想一想情緒出現的原因 |
+| 4 | `fhs_gov_hk_parent_anger_management_tc_2026-11-15.md` | 嘗試提出合理的證據來加以證實自己的一些不合理的想法 |
+| 5 | `aiadhd_yell_repair_2026-11-15.md` | 在我爆发的前一秒，我脑子里闪过的那个'热念头'是什么 |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。

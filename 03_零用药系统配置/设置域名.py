@@ -1,1 +1,97 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiCuiuvue9ruWfn+WQjS5weSDigJTigJQg5oqKIDAzX+mbtueUqOiNr+ezu+e7n+mFjee9riDkuIvmiYDmnInmlofku7bkuK3nmoTljaDkvY3ln5/lkI0KaHR0cHM6Ly93aWtpLmV4YW1wbGUub3JnIOaJuemHj+abv+aNouS4uuecn+WunuermeeCueWfn+WQjeOAggoK55So5rOV77yaCiAgcHl0aG9uIOiuvue9ruWfn+WQjS5weSAtLWNoZWNrICAgICAgICAgICAgICAgICAgICAgICAjIOWPque7n+iuoeWwhuW9seWTjeeahOaWh+S7tuaVsO+8jOS4jeaUueaWh+S7tgogIHB5dGhvbiDorr7nva7ln5/lkI0ucHkgaHR0cHM6Ly93aWtpLnlvdXJkb21haW4uY29tICAgIyDmiafooYzmm7/mjaIKCuinhOWIme+8mgogIC0g5Y+q5aSE55CGIC5tZCAvIC5odG1sIC8gLmpzb24gLyAuY3N277ybLnB5IOiHqui6q+S4jiAuYmFrIOS4jeWKqOOAggogIC0g5pu/5o2i5YmN5a+55q+P5Liq5bCG6KKr5L+u5pS555qE5paH5Lu255WZ5LiA5Lu9IDzljp/lkI0+LmJha++8iOW3suWtmOWcqOWImeS4jeimhueblummluS7veWkh+S7ve+8ieOAggogIC0g5paw5Z+f5ZCN5b+F6aG75LulIGh0dHBzOi8vIOW8gOWktOOAggogIC0g5bmC562J77ya5pu/5o2i5a6M5oiQ5ZCO5YaN6L+Q6KGM5LiA5qyh77yM5bqU5oql5ZGKIDAg5aSE5pS55Yqo44CCCiIiIgppbXBvcnQgb3MsIHN5cywgc2h1dGlsCgpCQVNFID0gb3MucGF0aC5kaXJuYW1lKG9zLnBhdGguYWJzcGF0aChfX2ZpbGVfXykpCk9MRCA9ICJodHRwczovL3dpa2kuZXhhbXBsZS5vcmciCkVYVFMgPSB7Ii5tZCIsICIuaHRtbCIsICIuanNvbiIsICIuY3N2In0KCgpkZWYgY29sbGVjdF9maWxlcygpOgogICAgaGl0cyA9IFtdCiAgICBmb3Igcm9vdCwgX2RpcnMsIGZpbGVzIGluIG9zLndhbGsoQkFTRSk6CiAgICAgICAgZm9yIG5hbWUgaW4gZmlsZXM6CiAgICAgICAgICAgIGV4dCA9IG9zLnBhdGguc3BsaXRleHQobmFtZSlbMV0ubG93ZXIoKQogICAgICAgICAgICBpZiBleHQgbm90IGluIEVYVFM6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBpZiBuYW1lLmVuZHN3aXRoKCIuYmFrIik6CiAgICAgICAgICAgICAgICBjb250aW51ZQogICAgICAgICAgICBoaXRzLmFwcGVuZChvcy5wYXRoLmpvaW4ocm9vdCwgbmFtZSkpCiAgICByZXR1cm4gaGl0cwoKCmRlZiByZWFkX3RleHQocCk6CiAgICBpZiBwLmxvd2VyKCkuZW5kc3dpdGgoIi5jc3YiKToKICAgICAgICB3aXRoIG9wZW4ocCwgInIiLCBlbmNvZGluZz0idXRmLTgtc2lnIikgYXMgZjoKICAgICAgICAgICAgcmV0dXJuIGYucmVhZCgpLCAidXRmLTgtc2lnIgogICAgd2l0aCBvcGVuKHAsICJyIiwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICByZXR1cm4gZi5yZWFkKCksICJ1dGYtOCIKCgpkZWYgd3JpdGVfdGV4dChwLCB0ZXh0LCBlbmMpOgogICAgd2l0aCBvcGVuKHAsICJ3IiwgZW5jb2Rpbmc9ZW5jLCBuZXdsaW5lPSIiKSBhcyBmOgogICAgICAgIGYud3JpdGUodGV4dCkKCgpkZWYgbWFpbigpOgogICAgYXJncyA9IHN5cy5hcmd2WzE6XQogICAgZmlsZXMgPSBjb2xsZWN0X2ZpbGVzKCkKCiAgICBpZiBhcmdzIGFuZCBhcmdzWzBdID09ICItLWNoZWNrIjoKICAgICAgICBuX2ZpbGVzLCBuX2hpdHMgPSAwLCAwCiAgICAgICAgZm9yIHAgaW4gZmlsZXM6CiAgICAgICAgICAgIHRleHQsIF9lbmMgPSByZWFkX3RleHQocCkKICAgICAgICAgICAgYyA9IHRleHQuY291bnQoT0xEKQogICAgICAgICAgICBpZiBjID4gMDoKICAgICAgICAgICAgICAgIG5fZmlsZXMgKz0gMQogICAgICAgICAgICAgICAgbl9oaXRzICs9IGMKICAgICAgICAgICAgICAgIHByaW50KCLlsIblvbHlk406ICVzIO+8iCVkIOWkhO+8iSIgJSAob3MucGF0aC5yZWxwYXRoKHAsIEJBU0UpLCBjKSkKICAgICAgICBwcmludCgiLS0tLSIpCiAgICAgICAgcHJpbnQoIi0tY2hlY2sg6aKE6KeI77ya5YWxICVkIOS4quaWh+S7tuOAgSVkIOWkhOWwhuiiq+abv+aNouOAguacquWBmuS7u+S9leS/ruaUueOAgiIgJSAobl9maWxlcywgbl9oaXRzKSkKICAgICAgICByZXR1cm4KCiAgICBpZiBub3QgYXJnczoKICAgICAgICBwcmludCgi55So5rOVOiBweXRob24g6K6+572u5Z+f5ZCNLnB5IC0tY2hlY2siKQogICAgICAgIHByaW50KCIgICAgICBweXRob24g6K6+572u5Z+f5ZCNLnB5IGh0dHBzOi8v5L2g55qE55yf5a6e5Z+f5ZCNIikKICAgICAgICBzeXMuZXhpdCgxKQoKICAgIG5ldyA9IGFyZ3NbMF0ucnN0cmlwKCIvIikKICAgIGlmIG5vdCBuZXcuc3RhcnRzd2l0aCgiaHR0cHM6Ly8iKToKICAgICAgICBwcmludCgi6ZSZ6K+v77ya55yf5a6e5Z+f5ZCN5b+F6aG75LulIGh0dHBzOi8vIOW8gOWktO+8jOS+i+WmgiBodHRwczovL3dpa2kueW91cmRvbWFpbi5jb20iKQogICAgICAgIHN5cy5leGl0KDEpCgogICAgY2hhbmdlZF9maWxlcywgY2hhbmdlZF9oaXRzID0gMCwgMAogICAgZm9yIHAgaW4gZmlsZXM6CiAgICAgICAgdGV4dCwgZW5jID0gcmVhZF90ZXh0KHApCiAgICAgICAgYyA9IHRleHQuY291bnQoT0xEKQogICAgICAgIGlmIGMgPT0gMDoKICAgICAgICAgICAgY29udGludWUKICAgICAgICBiYWsgPSBwICsgIi5iYWsiCiAgICAgICAgaWYgbm90IG9zLnBhdGguZXhpc3RzKGJhayk6CiAgICAgICAgICAgIHNodXRpbC5jb3B5MihwLCBiYWspCiAgICAgICAgd3JpdGVfdGV4dChwLCB0ZXh0LnJlcGxhY2UoT0xELCBuZXcpLCBlbmMpCiAgICAgICAgY2hhbmdlZF9maWxlcyArPSAxCiAgICAgICAgY2hhbmdlZF9oaXRzICs9IGMKICAgICAgICBwcmludCgi5bey5pS5OiAlcyDvvIglZCDlpITvvIzlpIfku706ICVz77yJIiAlIChvcy5wYXRoLnJlbHBhdGgocCwgQkFTRSksIGMsIG9zLnBhdGguYmFzZW5hbWUoYmFrKSkpCgogICAgcHJpbnQoIi0tLS0iKQogICAgcHJpbnQoIuWujOaIkO+8muWFseS/ruaUuSAlZCDkuKrmlofku7bjgIHmm7/mjaIgJWQg5aSE44CCIiAlIChjaGFuZ2VkX2ZpbGVzLCBjaGFuZ2VkX2hpdHMpKQogICAgaWYgY2hhbmdlZF9maWxlcyA9PSAwOgogICAgICAgIHByaW50KCLvvIjluYLnrYnnoa7orqTvvJrmsqHmnInlj5HnjrDljaDkvY3ln5/lkI3vvIzml6DpnIDmlLnliqjjgILvvIkiKQoKCmlmIF9fbmFtZV9fID09ICJfX21haW5fXyI6CiAgICBtYWluKCkK
+# -*- coding: utf-8 -*-
+"""
+设置域名.py —— 把 03_零用药系统配置 下所有文件中的占位域名
+https://wiki.example.org 批量替换为真实站点域名。
+
+用法：
+  python 设置域名.py --check                       # 只统计将影响的文件数，不改文件
+  python 设置域名.py https://wiki.yourdomain.com   # 执行替换
+
+规则：
+  - 只处理 .md / .html / .json / .csv；.py 自身与 .bak 不动。
+  - 替换前对每个将被修改的文件留一份 <原名>.bak（已存在则不覆盖首份备份）。
+  - 新域名必须以 https:// 开头。
+  - 幂等：替换完成后再运行一次，应报告 0 处改动。
+"""
+import os, sys, shutil
+
+BASE = os.path.dirname(os.path.abspath(__file__))
+OLD = "https://wiki.example.org"
+EXTS = {".md", ".html", ".json", ".csv"}
+
+
+def collect_files():
+    hits = []
+    for root, _dirs, files in os.walk(BASE):
+        for name in files:
+            ext = os.path.splitext(name)[1].lower()
+            if ext not in EXTS:
+                continue
+            if name.endswith(".bak"):
+                continue
+            hits.append(os.path.join(root, name))
+    return hits
+
+
+def read_text(p):
+    if p.lower().endswith(".csv"):
+        with open(p, "r", encoding="utf-8-sig") as f:
+            return f.read(), "utf-8-sig"
+    with open(p, "r", encoding="utf-8") as f:
+        return f.read(), "utf-8"
+
+
+def write_text(p, text, enc):
+    with open(p, "w", encoding=enc, newline="") as f:
+        f.write(text)
+
+
+def main():
+    args = sys.argv[1:]
+    files = collect_files()
+
+    if args and args[0] == "--check":
+        n_files, n_hits = 0, 0
+        for p in files:
+            text, _enc = read_text(p)
+            c = text.count(OLD)
+            if c > 0:
+                n_files += 1
+                n_hits += c
+                print("将影响: %s （%d 处）" % (os.path.relpath(p, BASE), c))
+        print("----")
+        print("--check 预览：共 %d 个文件、%d 处将被替换。未做任何修改。" % (n_files, n_hits))
+        return
+
+    if not args:
+        print("用法: python 设置域名.py --check")
+        print("      python 设置域名.py https://你的真实域名")
+        sys.exit(1)
+
+    new = args[0].rstrip("/")
+    if not new.startswith("https://"):
+        print("错误：真实域名必须以 https:// 开头，例如 https://wiki.yourdomain.com")
+        sys.exit(1)
+
+    changed_files, changed_hits = 0, 0
+    for p in files:
+        text, enc = read_text(p)
+        c = text.count(OLD)
+        if c == 0:
+            continue
+        bak = p + ".bak"
+        if not os.path.exists(bak):
+            shutil.copy2(p, bak)
+        write_text(p, text.replace(OLD, new), enc)
+        changed_files += 1
+        changed_hits += c
+        print("已改: %s （%d 处，备份: %s）" % (os.path.relpath(p, BASE), c, os.path.basename(bak)))
+
+    print("----")
+    print("完成：共修改 %d 个文件、替换 %d 处。" % (changed_files, changed_hits))
+    if changed_files == 0:
+        print("（幂等确认：没有发现占位域名，无需改动。）")
+
+
+if __name__ == "__main__":
+    main()

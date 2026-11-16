@@ -1,1 +1,3 @@
-IyBwYXJlbnRfY29vbF9jbG9uZSDpm7bkvp3otZbor7TmmI7vvJrmnI3liqHnq6/vvIhzZXJ2ZXIvc2VydmVyLnB577yJ5LiO5YWo6YOo5rWL6K+V5Z2H5Li6CiMgUHl0aG9uIOagh+WHhuW6k+WunueOsO+8iGh0dHAuc2VydmVyIC8gdW5pdHRlc3TvvInvvIzliY3nq6/pm7bmnoTlu7rjgIFub2RlIOa1i+ivlembtuS+nei1luOAggojIOacrOaWh+S7tuS7heS9nOWNoOS9je+8jOaXoOmcgOaJp+ihjCBwaXAgaW5zdGFsbOOAggo=
+# parent_cool_clone 零依赖说明：服务端（server/server.py）与全部测试均为
+# Python 标准库实现（http.server / unittest），前端零构建、node 测试零依赖。
+# 本文件仅作占位，无需执行 pip install。

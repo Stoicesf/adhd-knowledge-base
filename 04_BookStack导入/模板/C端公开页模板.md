@@ -1,1 +1,47 @@
-PCEtLQrmraTmlofku7bmmK/mqKHmnb/vvIzkuI3lkKvnnJ/lrp7lhoXlrrnjgIIK5ZyoIEJvb2tTdGFjayDkuK3nlLHnrqHnkIblkZjmiZPlvIDmnKzpobUg4oaSIOWPs+S4iuinkiLmoIforrDkuLrmqKHmnb8i5ZCO77yM5paw5bu66aG16Z2i5pe25Y2z5Y+v5aSN55So44CCCuaJgOaciSB7e+WPjOiKseaLrOWPt319IOWNoOS9jeespuWcqOaWsOW7uumhtemdouaXtuabv+aNouS4uuecn+WunuWGheWuueOAggotLT4KLS0tCumdouWQkToge3vpnaLlkJF9fQror4Hmja7nirbmgIE6IHt76K+B5o2u54q25oCBfX0K5pyA5ZCO5a6h5qC4OiAyMDI2LTExLTA1CumbtueUqOiNr+WLvumAiTog5bey5Yu+6YCJCumhtemdouexu+WeizogQ+erry3kuabnsY1BCuS5puexjToge3vkuabnsY19fQrnq6DoioI6IHt756ug6IqCfX0Kc2x1Zzoge3twYWdlLXNsdWd9fQotLS0KCj4gKirpnaLlkJEqKu+8mnt76Z2i5ZCRfX0g772cICoq6K+B5o2u54q25oCBKirvvJp7e+ivgeaNrueKtuaAgX19IO+9nCAqKuacgOWQjuWuoeaguCoq77yaMjAyNi0xMS0wNQo+ICoq5pys6aG15LiN5ZCr6I2v5ZCN44CB5YmC6YeP44CB55So6I2v6YCJ5oup44CB5Ymv5L2c55So5aSE55CG44CB5YGc6I2v5YeP6YeP5bu66K6uKiog4oCU4oCUIOKYkSDlt7Lli77pgIkKCiMge3vpobXpnaLmoIfpoph9fQoKIyMg5LuK5aSp6IO95YGa55qEIDMg5Lu25LqLCjEuIHt75Yqo5L2cIDHvvJrliqjor43lvIDlpLTvvIzlhbfkvZPliLDku4rmmZrlsLHog73lgZrvvIzlkKvlgZrku4DkuYggKyDlgZrlpJrkuYUgKyDmgI7kuYjnrpflgZrliLB9fQoyLiB7e+WKqOS9nCAyfX0KMy4ge3vliqjkvZwgM319CgojIyDkuLrku4DkuYjov5nmoLflgZrmnInmlYgKe3vmnLrliLbop6Pph4og4omkNDAwIOWtl++8jOaKiueglOeptue7k+iuuue/u+ivkeaIkOS6uuivne+8m+S4jeS9v+eUqCBHUkFERSDmnK/or619fQoKIyMg5YW35L2T5oCO5LmI5YGaCnt75YiG5q2l6aqk44CB5Y+v5omT5Y2w5riF5Y2V5oiW6KGo5qC877yb5q+P5q2l5LiA5Y+l6K+d77yb6KGo5qC85LyY5YWI5LqO6ZW/5q616JC9fX0KCiMjIOS7gOS5iOaDheWGteS4i+mcgOimgeaNouS4gOenjeWBmuazlQp7e+Wksei0peS/oeWPtyArIOS4i+S4gOatpeWKqOS9nO+8jOaMh+WQkeW6k+WGheWPpuS4gOmhtX19CgojIyDluLjop4Hor6/ljLoKLSB7e+ivr+WMuiAxfX0g4oaSIHt75a6e6ZmFfX0KLSB7e+ivr+WMuiAyfX0g4oaSIHt75a6e6ZmFfX0KLSB7e+ivr+WMuiAzfX0g4oaSIHt75a6e6ZmFfX0KCiMjIOS+neaNruS4juWHuuWkhApbMV0ge3vkvZzogIUuIOagh+mimC4g5pyf5YiKL+acuuaehC4g5bm0LiDpk77mjqXvvIjorr/pl67ml6XmnJ8gMjAyNi0xMS0wNe+8iX19Cgo+IOacrOmhteaPkOS+m+eahOaYr+aVmeiCsuS4juiHquaIkeeuoeeQhuS/oeaBr++8jOS4jeaehOaIkOiviuaWreaIluayu+eWl+W7uuiuruOAguaYr+WQpumcgOimgei/m+S4gOatpeivhOS8sO+8jOivt+S4juacieWkhOaWueadg+eahOWMu+eUn+aIluWEv+erpeeyvuelnuenkS/lv4PnkIbnp5HkuJPkuJrkurrlkZjorqjorrrjgIIKCiMjIOS4i+S4gOadoeWPr+aTjeS9nOW7uuiurgotIHt75LiL5LiA5p2h6aG16Z2i5qCH6aKYfX3vvIjnm7jlr7nmlofku7blkI0gLm1k77yM5a+85YWl5pe25Lya6Ieq5Yqo5pS55YaZ5Li6IEJvb2tTdGFjayDlhoXpg6jpk77mjqXvvIkK
+<!--
+此文件是模板，不含真实内容。
+在 BookStack 中由管理员打开本页 → 右上角"标记为模板"后，新建页面时即可复用。
+所有 {{双花括号}} 占位符在新建页面时替换为真实内容。
+-->
+---
+面向: {{面向}}
+证据状态: {{证据状态}}
+最后审核: 2026-11-05
+零用药勾选: 已勾选
+页面类型: C端-书籍A
+书籍: {{书籍}}
+章节: {{章节}}
+slug: {{page-slug}}
+---
+
+> **面向**：{{面向}} ｜ **证据状态**：{{证据状态}} ｜ **最后审核**：2026-11-05
+> **本页不含药名、剂量、用药选择、副作用处理、停药减量建议** —— ☑ 已勾选
+
+# {{页面标题}}
+
+## 今天能做的 3 件事
+1. {{动作 1：动词开头，具体到今晚就能做，含做什么 + 做多久 + 怎么算做到}}
+2. {{动作 2}}
+3. {{动作 3}}
+
+## 为什么这样做有效
+{{机制解释 ≤400 字，把研究结论翻译成人话；不使用 GRADE 术语}}
+
+## 具体怎么做
+{{分步骤、可打印清单或表格；每步一句话；表格优先于长段落}}
+
+## 什么情况下需要换一种做法
+{{失败信号 + 下一步动作，指向库内另一页}}
+
+## 常见误区
+- {{误区 1}} → {{实际}}
+- {{误区 2}} → {{实际}}
+- {{误区 3}} → {{实际}}
+
+## 依据与出处
+[1] {{作者. 标题. 期刊/机构. 年. 链接（访问日期 2026-11-05）}}
+
+> 本页提供的是教育与自我管理信息，不构成诊断或治疗建议。是否需要进一步评估，请与有处方权的医生或儿童精神科/心理科专业人员讨论。
+
+## 下一条可操作建议
+- {{下一条页面标题}}（相对文件名 .md，导入时会自动改写为 BookStack 内部链接）

@@ -1,1 +1,377 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KIiIiQ0kg56Gs6Ze477yI57yW6K+R5YmN77yJ77yadGVtcGxhdGVfY29uZm9ybWFuY2Ug4oCUIOaooeadv+S4gOiHtOaApyArIOWBj+emu+eZu+iusOOAggoK5a695p2+5qih5byP55qE44CM5bqV57q/44CN5a6e6KOF77ya5qih5p2/5piv6buY6K6k6Lev5b6E77yM5YGP56a75piv5L6L5aSW6Lev5b6E77yM5L6L5aSW5b+F6aG76KKr6K6h5pWw44CCCuS4jeWvueensOiuvuiuoe+8mgogIC0gZXhpdF93aGVuICDihpIg56Gs5qCh6aqM77yI5LiN5Yy56YWN5Lu75L2VIEVYXyog5Y2z5aSx6LSl77yM5LiN5YWB6K645omL5YaZ6YCA5Ye65p2h5Lu277yJ77ybCiAgLSB3aGVuICAgICAgIOKGkiDova/moKHpqozvvIjlpZfmqKHmnb/kuLrkuLvvvIzmiYvlhpnooaXlhYXorrAgZGV2aWF0aW9u77yM5LiN6Zi75pat77yJ44CCCgrliKTlrprop4TliJnvvIjnlKjmiLcgMjAyNi0xMS0xMyDmi43mnb/vvInvvJoKICAtIHdoZW4g5LiOIHRlbXBsYXRlX3JlZiDmjIflkJHmqKHmnb/nmoTlrZfmrrXpm4blkIjkuqTpm4bpnZ7nqbogICAgICDihpIg6YCa6L+H77yIZnJvbV90ZW1wbGF0ZSAvIHdpdGhfZGV2aWF0aW9u77yJCiAgLSB3aGVuIOacieaJi+WGmeihpeWFheS4lOS6pOmbhumdnuepuu+8iOWhqyBkZXZpYXRpb27vvIkgICAgICAgICAgIOKGkiDpgJrov4fvvIzorrAgd2hlbl93aXRoX2RldmlhdGlvbiAoWSkKICAtIHRlbXBsYXRlX3JlZjogbnVsbCAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICDihpIg5aSx6LSl77yM6K6wIHdoZW5fZnVsbHlfaGFuZHdyaXR0ZW4gKFopCiAgLSB3aGVuIOS4juaooeadv+Wtl+auteS6pOmbhuS4uuepuu+8iOaXoOiuuiB0ZW1wbGF0ZV9yZWYg5piv5ZCm6Z2eIG51bGzvvInihpIg5aSx6LSl77yM5ZCMIFrvvIjpmLLjgIzlgYflkIjop4TjgI3vvIkKICAtIOino+mHiuaAp+adoeebriBleGl0X3doZW4gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIOKGkiDkuI3pgILnlKjvvIhleGl0X25vdF9hcHBsaWNhYmxlIOWNleWIl++8iQogIC0g56iL5bqP5oCn5p2h55uuIGV4aXRfd2hlbiDkuI3ljLnphY3ku7vkvZUgRVhfKiAgICAgICAgICAgICAgICAg4oaSIOWksei0pe+8iOehrOagoemqjO+8iQogIC0gcmVxdWlyZWRfcGFyYW1zIOWjsOaYjueahOW/heWhq+Wtl+auteacquWHuueOsOWcqCB3aGVuICAgICAgICAgIOKGkiDlpLHotKXvvIjop5LoibLmiqTmoI/noazpl7jvvIkKCnJlcXVpcmVkX3BhcmFtcyDkuI4gcGFyYW1zIOWIhuemu++8iDIwMjYtMTEtMTPvvInvvJoKICBwYXJhbXMgICAgICAgICAgID0g5Y+v6LCD5Y+C5pWw77yM5p2h55uu5Ye6546w5pe25o6S6Zmk44CM5a2X5q616KGl5YWF44CN5Yik5a6a77yM5YWB6K6457y65bit77ybCiAgcmVxdWlyZWRfcGFyYW1zICA9IOW/heWhq+aKpOagj++8jOadoeebriB3aGVuIOW/hemhu+aYvuW8j+WHuueOsO+8jOe8uuWkseWNs+WIpOWksei0peOAggogIOiLpeaMieOAjHBhcmFtcyDlhajpg6jlv4XloavjgI3lrp7njrDkvJror6/liKQgMTAvMTHvvIhjb25zZWN1dGl2ZV9mYWlsdXJlcyAvIHdtX2xvYWQKICDmmK/mnaHku7bmgKflj4LmlbDvvIzlubbpnZ7mr4/mnaHpg73loavvvInvvIzmlYUgb3duZXJzaGlwIOWNleWIlyByZXF1aXJlZF9wYXJhbXPjgIIKCui/lOWbnuetvuWQjeS4jueOsOaciSB2YWxpZGF0b3Ig5LiA6Ie077yaKG9rLCBlcnJvcnMsIGNoZWNrZWQp44CCCuWBj+emu+e7n+iuoemAmui/hyBydW4ubWV0cmljcyDlsZ7mgKfmmrTpnLLvvIjnsbvkvLwgZ3VhcmRyYWlsX3Rlc3Rz77yJ77yM5LiN5aGe6L+b6L+U5Zue5YC844CCCuWBj+emu+a4heWNleiHquWKqOeUn+aIkOWIsCAwNV/lrqHmoLjkuI7ov5DokKUvcmVncmVzc2lvbi/mqKHmnb/lgY/nprvmuIXljZUubWTvvIznpoHmiYvmlLnjgIIKCumYtuautSBBIMK3IDIuNWMgKDIwMjYtMTEtMTMp77ya5b+F5aGr56Gs6Ze45pSv5oyBKirmmL7lvI/osYHlhY0qKuOAggpyZXF1aXJlZF9wYXJhbXMg5Li656m65LiN5YaN6Z2Z6buY5pS+6KGM77yM5b+F6aG76YWN5qih5p2/5a2X5q615aWR57qm5aOw5piO55qECmV4ZW1wdF9yZWFzb24g5LiU6ZW/5bqmID4gMjAg5a2X77yb6LGB5YWN6K6h5pWwIHBhcmFtc19leGVtcHQg6L+bIG1ldHJpY3Mg5LiOCuWBj+emu+a4heWNle+8jOWPr+WuoeiuoeOAguWGheW1jCBfZXhlbXB0aW9uX3NlbGZ0ZXN0KCkg5YWt5Liq55So5L6L77yI5p6E6YCg5pWw5o2u44CBCuS4jeeisOejgeebmO+8ie+8jOWksei0peW5tuWFpSBlcnJvcnPvvIzkvb/jgIzosYHlhY3lj5jmiJDpu5jorqTjgI3mr4/mrKEgdmVyaWZ5X2FsbCDpg73lj6/or4HkvKrjgIIKIiIiCmltcG9ydCBvcwppbXBvcnQgc3lzCmltcG9ydCBkYXRldGltZQoKaW1wb3J0IHlhbWwKCnN5cy5wYXRoLmluc2VydCgwLCBvcy5wYXRoLmRpcm5hbWUoX19maWxlX18pKQpmcm9tIF9jb21tb24gaW1wb3J0IGl0ZXJfZW50cmllcywgUk9PVCwgY29tcGlsZV9wcmVkaWNhdGUKClRFTVBMQVRFU19ESVIgPSBvcy5wYXRoLmpvaW4oUk9PVCwgIjAzX2FnZW5057yW6K+RIiwgInRlbXBsYXRlcyIpClBSRURfVEVNUExBVEVfUEFUSCA9IG9zLnBhdGguam9pbihURU1QTEFURVNfRElSLCAicHJlZGljYXRlX3RlbXBsYXRlcy55YW1sIikKRVhJVF9URU1QTEFURV9QQVRIID0gb3MucGF0aC5qb2luKFRFTVBMQVRFU19ESVIsICJleGl0X3RlbXBsYXRlcy55YW1sIikKREVWSUFUSU9OX1JFUE9SVF9QQVRIID0gb3MucGF0aC5qb2luKAogICAgUk9PVCwgIjA1X+WuoeaguOS4jui/kOiQpSIsICJyZWdyZXNzaW9uIiwgIuaooeadv+WBj+emu+a4heWNlS5tZCIKKQoKCmRlZiBfbG9hZF90ZW1wbGF0ZXMocGF0aCk6CiAgICB3aXRoIG9wZW4ocGF0aCwgZW5jb2Rpbmc9InV0Zi04IikgYXMgZjoKICAgICAgICBkYXRhID0geWFtbC5zYWZlX2xvYWQoZikKICAgIHJldHVybiBkYXRhLmdldCgidGVtcGxhdGVzIiwgW10pCgoKZGVmIF9sb2FkX2NvbnRyYWN0KHBhdGgpOgogICAgIiIi6K+75Y+W5qih5p2/5a2X5q615aWR57qm77yIMi41Y++8ieOAgue8uuWksei/lOWbnuepuiBkaWN0IOKGkiDku7vkvZXosYHlhY3pg73kuI3ooqvlhYHorrjvvIwKICAgIOS/neWuiOWksei0pe+8jOmBv+WFjeWlkee6puaWh+S7tuS4ouWkseaXtuehrOmXuOWPjeiAjOWPmOadvuOAgiIiIgogICAgd2l0aCBvcGVuKHBhdGgsIGVuY29kaW5nPSJ1dGYtOCIpIGFzIGY6CiAgICAgICAgZGF0YSA9IHlhbWwuc2FmZV9sb2FkKGYpCiAgICByZXR1cm4gKGRhdGEgb3Ige30pLmdldCgidGVtcGxhdGVfZmllbGRzX2NvbnRyYWN0Iiwge30pIG9yIHt9CgoKZGVmIF9yZXF1aXJlZF9nYXRlKHRwbCwgZW50cnlfZmllbGRzLCBjb250cmFjdCk6CiAgICAiIiLlv4XloavmiqTmoI8gLyDmmL7lvI/osYHlhY3liKTlrprvvIjnuq/lh73mlbDvvIwyLjVj77yJ44CCCgogICAg6L+U5ZueIChvaywgZXJyb3JfbXNnLCBleGVtcHQ6IGJvb2wp77yaCiAgICAgIC0gcmVxdWlyZWRfcGFyYW1zIOmdnuepuiDihpIg6YCQ5a2X5q615b+F5aGr77yM57y65LiA5Y2z5aSx6LSl77ybCiAgICAgIC0gcmVxdWlyZWRfcGFyYW1zIOS4uuepuiDihpIg5b+F6aG76YWNIGV4ZW1wdF9yZWFzb27vvIjlrZfmrrXpobvlnKjlpZHnuqYKICAgICAgICBvcHRpb25hbF9maWVsZHMg5Lit5aOw5piO44CB6ZW/5bqmID4gZXhlbXB0X3JlYXNvbl9taW5fbGVuZ3Ro77yJ77yMCiAgICAgICAg5ZCm5YiZ5Yik5aSx6LSl77yM5p2c57ud44CM5oqKIHJlcXVpcmVkX3BhcmFtcyDliKDnqbrlsLHpnZnpu5jnu5Xov4fjgI3vvJsKICAgICAgLSDosYHlhY3miJDnq4vml7YgZXhlbXB0PVRydWXvvIznlLEgcnVuKCkg6K6h5YWlIHBhcmFtc19leGVtcHQg5bm255WZ55eV44CCCiAgICAiIiIKICAgIHRpZCA9IHRwbC5nZXQoImlkIiwgIj8iKQogICAgcmVxdWlyZWQgPSBzZXQodHBsLmdldCgicmVxdWlyZWRfcGFyYW1zIiwgW10pKQogICAgaWYgcmVxdWlyZWQ6CiAgICAgICAgbWlzc2luZyA9IHNvcnRlZChyZXF1aXJlZCAtIGVudHJ5X2ZpZWxkcykKICAgICAgICBpZiBtaXNzaW5nOgogICAgICAgICAgICByZXR1cm4gRmFsc2UsIChmInBhcmFtcyDlv4XloavmoKHpqozlpLHotKXvvJrmqKHmnb8ge3RpZH0g6KaB5rGCIHdoZW4g5pi+5byP5Ye6546wICIKICAgICAgICAgICAgICAgICAgICAgICAgICAgZiJ7bWlzc2luZ33vvIjop5LoibLmiqTmoI/vvInvvJvnvLrlpLHor7fooaXloavmiJbotbDmianlsZXmj5DmoYgiKSwgRmFsc2UKICAgICAgICByZXR1cm4gVHJ1ZSwgIiIsIEZhbHNlCgogICAgbWluX2xlbiA9IGludChjb250cmFjdC5nZXQoImV4ZW1wdF9yZWFzb25fbWluX2xlbmd0aCIsIDIwKSkKICAgIGlmICJleGVtcHRfcmVhc29uIiBub3QgaW4gY29udHJhY3QuZ2V0KCJvcHRpb25hbF9maWVsZHMiLCBbXSk6CiAgICAgICAgcmV0dXJuIEZhbHNlLCAoZiLmqKHmnb8ge3RpZH0gcmVxdWlyZWRfcGFyYW1zIOS4uuepuu+8jOS9hiBleGVtcHRfcmVhc29uICIKICAgICAgICAgICAgICAgICAgICAgICBmIuacquWcqCB0ZW1wbGF0ZV9maWVsZHNfY29udHJhY3Qub3B0aW9uYWxfZmllbGRzIOS4reWjsOaYjiIpLCBGYWxzZQogICAgcmVhc29uID0gdHBsLmdldCgiZXhlbXB0X3JlYXNvbiIpCiAgICBpZiBub3QgaXNpbnN0YW5jZShyZWFzb24sIHN0cikgb3IgbGVuKHJlYXNvbi5zdHJpcCgpKSA8PSBtaW5fbGVuOgogICAgICAgIHJldHVybiBGYWxzZSwgKGYi5qih5p2/IHt0aWR9IHJlcXVpcmVkX3BhcmFtcyDkuLrnqbrvvJrlv4XpobvphY0gZXhlbXB0X3JlYXNvbiAiCiAgICAgICAgICAgICAgICAgICAgICAgZiLkuJTplb/luqYgPiB7bWluX2xlbn0g5a2X77yI6Ziy6LGB5YWN5Y+Y6buY6K6k77yJ77yM5b2T5YmNIHtyZWFzb24hcn0iKSwgRmFsc2UKICAgIHJldHVybiBUcnVlLCAiIiwgVHJ1ZQoKCmRlZiBfZXhlbXB0aW9uX3NlbGZ0ZXN0KCk6CiAgICAiIiIyLjVjIOixgeWFjemXuOWPr+ivgeS8quaAp+iHqua1i++8iG1vbmtleXBhdGNoIOaehOmAoOaVsOaNru+8jOS4jeeisOejgeebmO+8ieOAggoKICAgIOeUqOaIt+a4heWNleWbm+S+iyArIOS4pOadoeWbnuW9kuS/neaKpO+8mgogICAgICDikaAg56m6IHJlcXVpcmVkX3BhcmFtc+OAgeaXoCBleGVtcHRfcmVhc29uICAgICAgIOKGkiDlpLHotKUKICAgICAg4pGhIOepuiArIOefrSBleGVtcHRfcmVhc29u77yI4omkMjAg5a2X77yJICAgICAgICAgICDihpIg5aSx6LSlCiAgICAgIOKRoiDnqbogKyA+MjAg5a2XIGV4ZW1wdF9yZWFzb24gICAgICAgICAgICAgICAgIOKGkiDmlL7ooYzkuJQgZXhlbXB0PVRydWUKICAgICAg4pGjIOmdnuepuiByZXF1aXJlZF9wYXJhbXMg57y65a2X5q61ICAgICAgICAgICAgICAg4oaSIOS7jeWksei0pe+8iOWbnuW9kuS/neaKpO+8iQogICAgICDikaQg6Z2e56m6IHJlcXVpcmVkX3BhcmFtcyDkuJTlrZfmrrXpvZDlhaggICAgICAgICAgIOKGkiDmlL7ooYzkuJQgZXhlbXB0PUZhbHNlCiAgICAgIOKRpSDlpZHnuqbmnKrlo7DmmI4gZXhlbXB0X3JlYXNvbu+8jOeQhueUseWGjemVv+S5n+S4jeaUvuihjCDihpIg5aSx6LSl77yI6Ziy6LGB5YWN5Y+Y6buY6K6k77yJCgogICAgY2hlY2tlZCDkuI3lubblhaUgcnVuKCnvvIzkvb/moLfmnKzmlbDku43nrYnkuo7mupDmnaHnm67mlbDjgIIKICAgICIiIgogICAgY29udHJhY3QgPSB7Im9wdGlvbmFsX2ZpZWxkcyI6IFsiZXhlbXB0X3JlYXNvbiJdLAogICAgICAgICAgICAgICAgImV4ZW1wdF9yZWFzb25fbWluX2xlbmd0aCI6IDIwfQogICAgbG9uZ19yZWFzb24gPSAoIuWutumVv+eBq+awlOWcuuaZr+aYr+WutumVv+S4u+WvvOiHquaVke+8jOS4jea2ieWPiuWEv+erpeS4u+WvvOadg+W9kuWxnu+8jCIKICAgICAgICAgICAgICAgICAgICLmlYUgb3duZXJzaGlwIOivreS5ieS4jemAgueUqOS4lOS4jeW6lOehrOWhnui/m+iwk+ivjeOAgiIpCiAgICBjYXNlcyA9IFsKICAgICAgICAoIuKRoOepuuWIl+ihqOaXoOeQhueUsSIsIHsiaWQiOiAiVF9FTVBUWSIsICJyZXF1aXJlZF9wYXJhbXMiOiBbXX0sCiAgICAgICAgIHNldCgpLCBGYWxzZSwgRmFsc2UpLAogICAgICAgICgi4pGh56m65YiX6KGo55+t55CG55SxIiwgeyJpZCI6ICJUX1NIT1JUIiwgInJlcXVpcmVkX3BhcmFtcyI6IFtdLCAiZXhlbXB0X3JlYXNvbiI6ICLlpKrnn60ifSwKICAgICAgICAgc2V0KCksIEZhbHNlLCBGYWxzZSksCiAgICAgICAgKCLikaLnqbrliJfooajplb/nkIbnlLEiLCB7ImlkIjogIlRfT0siLCAicmVxdWlyZWRfcGFyYW1zIjogW10sICJleGVtcHRfcmVhc29uIjogbG9uZ19yZWFzb259LAogICAgICAgICBzZXQoKSwgVHJ1ZSwgVHJ1ZSksCiAgICAgICAgKCLikaPpnZ7nqbrnvLrlrZfmrrUiLCB7ImlkIjogIlRfTUlTUyIsICJyZXF1aXJlZF9wYXJhbXMiOiBbIm93bmVyc2hpcCJdfSwKICAgICAgICAgc2V0KCksIEZhbHNlLCBGYWxzZSksCiAgICAgICAgKCLikaTpnZ7nqbrlrZfmrrXpvZDlhagiLCB7ImlkIjogIlRfRlVMTCIsICJyZXF1aXJlZF9wYXJhbXMiOiBbIm93bmVyc2hpcCJdfSwKICAgICAgICAgeyJvd25lcnNoaXAifSwgVHJ1ZSwgRmFsc2UpLAogICAgXQogICAgZXJyb3JzID0gW10KICAgIGZvciBsYWJlbCwgdHBsLCBmaWVsZHMsIHdhbnRfb2ssIHdhbnRfZXhlbXB0IGluIGNhc2VzOgogICAgICAgIG9rLCBlcnIsIGV4ZW1wdCA9IF9yZXF1aXJlZF9nYXRlKHRwbCwgZmllbGRzLCBjb250cmFjdCkKICAgICAgICBpZiBvayAhPSB3YW50X29rIG9yIGV4ZW1wdCAhPSB3YW50X2V4ZW1wdDoKICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIntsYWJlbH06IOacn+acmyBvaz17d2FudF9va30vZXhlbXB0PXt3YW50X2V4ZW1wdH3vvIwiCiAgICAgICAgICAgICAgICAgICAgICAgICAgZiLlrp7pmYUgb2s9e29rfS9leGVtcHQ9e2V4ZW1wdH0gZXJyPXtlcnJ9IikKICAgIG9rNiwgXywgXyA9IF9yZXF1aXJlZF9nYXRlKAogICAgICAgIHsiaWQiOiAiVF9OT0NPTlRSQUNUIiwgInJlcXVpcmVkX3BhcmFtcyI6IFtdLCAiZXhlbXB0X3JlYXNvbiI6IGxvbmdfcmVhc29ufSwKICAgICAgICBzZXQoKSwgeyJvcHRpb25hbF9maWVsZHMiOiBbXSwgImV4ZW1wdF9yZWFzb25fbWluX2xlbmd0aCI6IDIwfSkKICAgIGlmIG9rNjoKICAgICAgICBlcnJvcnMuYXBwZW5kKCLikaXlpZHnuqbmnKrlo7DmmI4gZXhlbXB0X3JlYXNvbiDljbTmlL7ooYzvvIjosYHlhY3lj5jmiJDpu5jorqTvvIkiKQogICAgcmV0dXJuIChsZW4oZXJyb3JzKSA9PSAwLCBlcnJvcnMsIGxlbihjYXNlcykgKyAxKQoKCmRlZiBfZmllbGRfc2V0KHdoZW4pOgogICAgIiIid2hlbiBkaWN0IOKGkiDlrZfmrrXlkI3pm4blkIjvvIjnlKjkuo7kuqTpm4bliKTlrprvvIzlv73nlaXlj5blgLzvvInjgIIiIiIKICAgIGlmIG5vdCBpc2luc3RhbmNlKHdoZW4sIGRpY3QpOgogICAgICAgIHJldHVybiBzZXQoKQogICAgcmV0dXJuIHNldCh3aGVuLmtleXMoKSkKCgpkZWYgX25vcm1hbGl6ZV9leGl0KGV4aXRfd2hlbik6CiAgICAiIiJleGl0X3doZW4g4oaSIOinhOiMg+WMlue7k+aehO+8iOWkjeeUqCBjb21waWxlX3ByZWRpY2F0Ze+8ie+8jOeUqOS6juS4jiBFWF8qIOaooeadv+avlOi+g+OAgiIiIgogICAgcmV0dXJuIGNvbXBpbGVfcHJlZGljYXRlKGV4aXRfd2hlbikKCgpkZWYgX2V4aXRfbWF0Y2goZW50cnlfZXhpdCwgdGVtcGxhdGVzKToKICAgICIiIui/lOWbnuWMuemFjeeahOaooeadvyBpZO+8jOaIliBOb25l44CC6YCQ5a2X5q615a6M5YWo5LiA6Ie044CCIiIiCiAgICBub3JtID0gX25vcm1hbGl6ZV9leGl0KGVudHJ5X2V4aXQpCiAgICBmb3IgdCBpbiB0ZW1wbGF0ZXM6CiAgICAgICAgaWYgX25vcm1hbGl6ZV9leGl0KHQuZ2V0KCJleGl0X3doZW4iKSkgPT0gbm9ybToKICAgICAgICAgICAgcmV0dXJuIHRbImlkIl0KICAgIHJldHVybiBOb25lCgoKZGVmIHJ1bigpOgogICAgcHJlZF90ZW1wbGF0ZXMgPSBfbG9hZF90ZW1wbGF0ZXMoUFJFRF9URU1QTEFURV9QQVRIKQogICAgZXhpdF90ZW1wbGF0ZXMgPSBfbG9hZF90ZW1wbGF0ZXMoRVhJVF9URU1QTEFURV9QQVRIKQogICAgY29udHJhY3QgPSBfbG9hZF9jb250cmFjdChQUkVEX1RFTVBMQVRFX1BBVEgpICAgIyAyLjVjIOaooeadv+Wtl+auteWlkee6pgogICAgcHJlZF9ieV9pZCA9IHt0WyJpZCJdOiB0IGZvciB0IGluIHByZWRfdGVtcGxhdGVzfQoKICAgIGVycm9ycyA9IFtdCiAgICBjaGVja2VkID0gMAogICAgZGV2aWF0aW9ucyA9IFtdICAgICAgICAgICMg5YGP56a75riF5Y2V6KGMCiAgICBleGVtcHRfcmVjb3JkcyA9IFtdICAgICAgIyAyLjVj77ya5pi+5byP6LGB5YWN55WZ55eV77yI5qih5p2/ICsg55CG55Sx77yJCgogICAgIyDnu5/orqHlj6PlvoQKICAgIGVudHJpZXNfdG90YWwgPSAwCiAgICB3aGVuX2Zyb21fdGVtcGxhdGUgPSAwCiAgICB3aGVuX3dpdGhfZGV2aWF0aW9uID0gMCAgICAgICMg5a2X5q616KGl5YWF77yI6L+b5Li75YGP56a7546H77yJCiAgICB3aGVuX3ZhbHVlX2FkanVzdGVkID0gMCAgICAgICMg5Y+W5YC85Y+Y5pu077yI5Y2V5YiX77yM5LiN6L+b5Li75YGP56a7546H77yJCiAgICB3aGVuX2Z1bGx5X2hhbmR3cml0dGVuID0gMCAgICMg5aSx6LSl5oCB77yIdGVtcGxhdGVfcmVmIOe8uuWksS/kuqTpm4bnqbrvvInvvIzmraPluLjmgZLkuLogMAogICAgZXhpdF9mcm9tX3RlbXBsYXRlID0gMAogICAgZXhpdF9oYXJkX2ZhaWwgPSAwCiAgICBleGl0X25vdF9hcHBsaWNhYmxlID0gMAogICAgcGFyYW1zX3JlcXVpcmVkX21pc3NpbmcgPSAwICAgIyDlv4XloavmiqTmoI/nvLrlpLHvvIjlpLHotKXmgIHvvIzmraPluLjmgZLkuLogMO+8iQogICAgcGFyYW1zX2V4ZW1wdCA9IDAgICAgICAgICAgICAgIyAyLjVj77yacmVxdWlyZWRfcGFyYW1zIOS4uuepuuS4lOaYvuW8j+ixgeWFjeaIkOeri+eahOadoeebruaVsAoKICAgIGZvciBwYXRoLCBmbSwgX2JvZHkgaW4gaXRlcl9lbnRyaWVzKCk6CiAgICAgICAgY2hlY2tlZCArPSAxCiAgICAgICAgZW50cmllc190b3RhbCArPSAxCiAgICAgICAgZWlkID0gZm0uZ2V0KCJpZCIsICI/IikKICAgICAgICBldHlwZSA9IGZtLmdldCgidHlwZSIpCiAgICAgICAgd2hlbiA9IGZtLmdldCgid2hlbiIpCiAgICAgICAgdGVtcGxhdGVfcmVmID0gZm0uZ2V0KCJ0ZW1wbGF0ZV9yZWYiKQogICAgICAgIGRldmlhdGlvbiA9IGZtLmdldCgiZGV2aWF0aW9uIikKCiAgICAgICAgIyAtLS0tIHdoZW4g5qCh6aqM77yI6L2v77yM5L2G5pyJ56m65Lqk6ZuGL+epuuW8leeUqOWImeWIpOWksei0pe+8iS0tLS0KICAgICAgICBpZiB0ZW1wbGF0ZV9yZWYgaXMgTm9uZSBvciB0ZW1wbGF0ZV9yZWYgPT0gIm51bGwiIG9yIHRlbXBsYXRlX3JlZiA9PSAiIjoKICAgICAgICAgICAgIyB0ZW1wbGF0ZV9yZWYg57y65aSxL+epuiDihpIg5Yik5aSx6LSl77yI5qih5p2/5bqT57y65Zy65pmv77yM6ZyA5o+Q5qGI77yJCiAgICAgICAgICAgIHdoZW5fZnVsbHlfaGFuZHdyaXR0ZW4gKz0gMQogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICAgICAgZiJbe2VpZH1dIHRlbXBsYXRlX3JlZiDnvLrlpLEv5Li6IG51bGzvvJrlrozlhajmiYvlhpkgd2hlbu+8jOmcgOaPkOS6pCAiCiAgICAgICAgICAgICAgICBmIkEg57G777yI5paw6LCT6K+N5a2X5q6177yJ5oiWIEIg57G777yI5paw5Zy65pmv57G75Z6L77yJ5omp5bGV5o+Q5qGI77yM6ICM6Z2e6K6w5YGP56a7IgogICAgICAgICAgICApCiAgICAgICAgZWxpZiB0ZW1wbGF0ZV9yZWYgbm90IGluIHByZWRfYnlfaWQ6CiAgICAgICAgICAgIHdoZW5fZnVsbHlfaGFuZHdyaXR0ZW4gKz0gMQogICAgICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICAgICAgZiJbe2VpZH1dIHRlbXBsYXRlX3JlZj17dGVtcGxhdGVfcmVmfSDkuI3lnKjosJPor43mqKHmnb/lupPkuK3vvIjmgqznqbrlvJXnlKjvvIkiCiAgICAgICAgICAgICkKICAgICAgICBlbHNlOgogICAgICAgICAgICB0cGwgPSBwcmVkX2J5X2lkW3RlbXBsYXRlX3JlZl0KICAgICAgICAgICAgIyBhcHBsaWVzX3RvIOi/h+a7pO+8muino+mHiuaAp+adoeebruWPquiDveW8leeUqCBhcHBsaWVzX3RvIOWQqyBleHBsYW5hdG9yeSDnmoTmqKHmnb8KICAgICAgICAgICAgaWYgZXR5cGUgPT0gImV4cGxhbmF0b3J5IiBhbmQgImV4cGxhbmF0b3J5IiBub3QgaW4gdHBsLmdldCgiYXBwbGllc190byIsIFtdKToKICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoCiAgICAgICAgICAgICAgICAgICAgZiJbe2VpZH1dIOino+mHiuaAp+adoeebriB0ZW1wbGF0ZV9yZWY9e3RlbXBsYXRlX3JlZn0g55qEIGFwcGxpZXNfdG8gIgogICAgICAgICAgICAgICAgICAgIGYi5LiN5ZCrIGV4cGxhbmF0b3J577yIe3RwbC5nZXQoJ2FwcGxpZXNfdG8nKX3vvIkiCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVudHJ5X2ZpZWxkcyA9IF9maWVsZF9zZXQod2hlbikKICAgICAgICAgICAgdHBsX2ZpZWxkcyA9IF9maWVsZF9zZXQodHBsLmdldCgid2hlbiIpKQoKICAgICAgICAgICAgIyAtLS0tIOW/heWhq+aKpOagjyAvIOaYvuW8j+ixgeWFje+8iDIuNWPvvIktLS0tCiAgICAgICAgICAgICMgcmVxdWlyZWRfcGFyYW1zIOmdnuepuiDihpIg6YCQ5a2X5q615b+F5aGr77yb5Li656m6IOKGkiDlv4XpobvphY3lpZHnuqblo7DmmI7nmoQKICAgICAgICAgICAgIyBleGVtcHRfcmVhc29uIOS4lCA+MjAg5a2X77yM5ZCm5YiZ5Yik5aSx6LSl77yI6Ziy44CM5Yig56m65Y2z57uV6L+H44CN77yJ44CCCiAgICAgICAgICAgIG9rX2dhdGUsIGVycl9nYXRlLCBleGVtcHQgPSBfcmVxdWlyZWRfZ2F0ZSh0cGwsIGVudHJ5X2ZpZWxkcywgY29udHJhY3QpCiAgICAgICAgICAgIGlmIG5vdCBva19nYXRlOgogICAgICAgICAgICAgICAgcGFyYW1zX3JlcXVpcmVkX21pc3NpbmcgKz0gMQogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIlt7ZWlkfV0ge2Vycl9nYXRlfSIpCiAgICAgICAgICAgIGVsaWYgZXhlbXB0OgogICAgICAgICAgICAgICAgcGFyYW1zX2V4ZW1wdCArPSAxCiAgICAgICAgICAgICAgICBleGVtcHRfcmVjb3Jkcy5hcHBlbmQoewogICAgICAgICAgICAgICAgICAgICJ0ZW1wbGF0ZSI6IHRlbXBsYXRlX3JlZiwKICAgICAgICAgICAgICAgICAgICAicmVhc29uIjogc3RyKHRwbC5nZXQoImV4ZW1wdF9yZWFzb24iLCAiIikpLnN0cmlwKCksCiAgICAgICAgICAgICAgICB9KQoKICAgICAgICAgICAgaWYgbm90IGVudHJ5X2ZpZWxkcyAmIHRwbF9maWVsZHM6CiAgICAgICAgICAgICAgICAjIOmYsuOAjOWBh+WQiOinhOOAje+8muaMguS4gOS4quaooeadvyBJRCDkvYYgd2hlbiDlrozlhajph43lhpnvvIzkuqTpm4bkuLrnqbog4oaSIOWIpOWksei0pQogICAgICAgICAgICAgICAgd2hlbl9mdWxseV9oYW5kd3JpdHRlbiArPSAxCiAgICAgICAgICAgICAgICBlcnJvcnMuYXBwZW5kKAogICAgICAgICAgICAgICAgICAgIGYiW3tlaWR9XSB3aGVuIOWtl+autembhuWQiOS4juaooeadvyB7dGVtcGxhdGVfcmVmfSDkuqTpm4bkuLrnqbrvvJoiCiAgICAgICAgICAgICAgICAgICAgZiLmqKHmnb/lkI3lrZjlrp7kuqHvvIzop4bkuLrlrozlhajmiYvlhpnvvIzpnIDmj5DmoYjogIzpnZ7orrDlgY/nprsiCiAgICAgICAgICAgICAgICApCiAgICAgICAgICAgIGVsaWYgZGV2aWF0aW9uIGFuZCBkZXZpYXRpb24gbm90IGluIChOb25lLCAibm9uZSIsIHt9KToKICAgICAgICAgICAgICAgIGRldl9raW5kID0gZGV2aWF0aW9uLmdldCgia2luZCIsICIiKSBpZiBpc2luc3RhbmNlKGRldmlhdGlvbiwgZGljdCkgZWxzZSAiIgogICAgICAgICAgICAgICAgcmVhc29uID0gZGV2aWF0aW9uLmdldCgicmVhc29uIiwgIiIpIGlmIGlzaW5zdGFuY2UoZGV2aWF0aW9uLCBkaWN0KSBlbHNlICIiCiAgICAgICAgICAgICAgICBpZiBub3QgcmVhc29uOgogICAgICAgICAgICAgICAgICAgIGVycm9ycy5hcHBlbmQoZiJbe2VpZH1dIGRldmlhdGlvbiDnvLogcmVhc29u77yI5YGP56a75b+F6aG76K+05piO5Y6f5Zug77yJIikKICAgICAgICAgICAgICAgIGlmIGRldl9raW5kID09ICJ2YWx1ZV9hZGp1c3RlZCI6CiAgICAgICAgICAgICAgICAgICAgIyDlj5blgLzlj5jmm7TvvJrlrZfmrrXlkI3nm7jlkIzjgIHlj5blgLzotoXlh7rmqKHmnb/vvIzljZXliJfkuI3ov5vkuLvlgY/nprvnjocKICAgICAgICAgICAgICAgICAgICB3aGVuX3ZhbHVlX2FkanVzdGVkICs9IDEKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgIyDlrZfmrrXooaXlhYXvvJrov5vkuLvlgY/nprvnjocKICAgICAgICAgICAgICAgICAgICB3aGVuX3dpdGhfZGV2aWF0aW9uICs9IDEKICAgICAgICAgICAgICAgIGRldmlhdGlvbnMuYXBwZW5kKHsKICAgICAgICAgICAgICAgICAgICAiZW50cnkiOiBlaWQsICJ0ZW1wbGF0ZSI6IHRlbXBsYXRlX3JlZiwKICAgICAgICAgICAgICAgICAgICAiZmllbGQiOiBkZXZfa2luZCBvciAiZmllbGRfc3VwcGxlbWVudCIsCiAgICAgICAgICAgICAgICAgICAgImNvbnRlbnQiOiByZWFzb24sCiAgICAgICAgICAgICAgICAgICAgInJlYXNvbiI6IHJlYXNvbiwKICAgICAgICAgICAgICAgICAgICAiZGF0ZSI6IHN0cihkYXRldGltZS5kYXRlLnRvZGF5KCkpLAogICAgICAgICAgICAgICAgfSkKICAgICAgICAgICAgZWxzZToKICAgICAgICAgICAgICAgIHdoZW5fZnJvbV90ZW1wbGF0ZSArPSAxCgogICAgICAgICMgLS0tLSBleGl0X3doZW4g5qCh6aqM77yI56Gs77yJLS0tLQogICAgICAgIGV4aXRfd2hlbiA9IGZtLmdldCgiZXhpdF93aGVuIikKICAgICAgICBpZiBldHlwZSA9PSAiZXhwbGFuYXRvcnkiOgogICAgICAgICAgICAjIOino+mHiuaAp+adoeebruaXoOmAgOWHuuadoeS7tiDihpIg5LiN6YCC55So77yM5Y2V5YiXCiAgICAgICAgICAgIGV4aXRfbm90X2FwcGxpY2FibGUgKz0gMQogICAgICAgIGVsc2U6CiAgICAgICAgICAgICMg56iL5bqP5oCn77yI5oiWIGJvdW5kYXJ5IOetieWFtuS7lu+8ieadoeebru+8mmV4aXRfd2hlbiDlv4XpobvljLnphY0gRVhfKgogICAgICAgICAgICBpZiBub3QgZXhpdF93aGVuOgogICAgICAgICAgICAgICAgZXhpdF9oYXJkX2ZhaWwgKz0gMQogICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZChmIlt7ZWlkfV0g56iL5bqP5oCn5p2h55uu57y6IGV4aXRfd2hlbu+8iOW/hemhu+WMuemFjSBFWF8qIOaooeadv++8iSIpCiAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICBtYXRjaGVkID0gX2V4aXRfbWF0Y2goZXhpdF93aGVuLCBleGl0X3RlbXBsYXRlcykKICAgICAgICAgICAgICAgIGlmIG1hdGNoZWQgaXMgTm9uZToKICAgICAgICAgICAgICAgICAgICBleGl0X2hhcmRfZmFpbCArPSAxCiAgICAgICAgICAgICAgICAgICAgZXJyb3JzLmFwcGVuZCgKICAgICAgICAgICAgICAgICAgICAgICAgZiJbe2VpZH1dIGV4aXRfd2hlbiDkuI3ljLnphY3ku7vkvZUgRVhfKiDmqKHmnb/vvJrpgIDlh7rmnaHku7bkuI3lhYHorrjmiYvlhpnvvIwiCiAgICAgICAgICAgICAgICAgICAgICAgIGYi6ZyAIEMg57G777yI5paw6YCA5Ye65qih5p2/77yJ5o+Q5qGIIgogICAgICAgICAgICAgICAgICAgICkKICAgICAgICAgICAgICAgIGVsc2U6CiAgICAgICAgICAgICAgICAgICAgZXhpdF9mcm9tX3RlbXBsYXRlICs9IDEKCiAgICAjIC0tLS0g5YGP56a7546HIC0tLS0KICAgICMg5Li75YGP56a7546H5Y+q566X44CM5a2X5q616KGl5YWF44CNd2hlbl93aXRoX2RldmlhdGlvbu+8m+WPluWAvOWPmOabtCB2YWx1ZV9hZGp1c3RlZCDljZXliJfvvIwKICAgICMg5a6M5YWo5omL5YaZIGZ1bGx5X2hhbmR3cml0dGVuIOaYr+Wksei0peaAge+8iOato+W4uOaBkuS4uiAw77yM6Z2eIDAg6K+05piO57uV6L+H77yJ44CCCiAgICBuID0gZW50cmllc190b3RhbCBpZiBlbnRyaWVzX3RvdGFsIGVsc2UgMQogICAgZGV2aWF0aW9uX3JhdGUgPSB3aGVuX3dpdGhfZGV2aWF0aW9uIC8gbgoKICAgIG1ldHJpY3MgPSB7CiAgICAgICAgImVudHJpZXNfdG90YWwiOiBlbnRyaWVzX3RvdGFsLAogICAgICAgICJ3aGVuX2Zyb21fdGVtcGxhdGUiOiB3aGVuX2Zyb21fdGVtcGxhdGUsCiAgICAgICAgIndoZW5fd2l0aF9kZXZpYXRpb24iOiB3aGVuX3dpdGhfZGV2aWF0aW9uLAogICAgICAgICJ3aGVuX3ZhbHVlX2FkanVzdGVkIjogd2hlbl92YWx1ZV9hZGp1c3RlZCwKICAgICAgICAid2hlbl9mdWxseV9oYW5kd3JpdHRlbiI6IHdoZW5fZnVsbHlfaGFuZHdyaXR0ZW4sCiAgICAgICAgImV4aXRfZnJvbV90ZW1wbGF0ZSI6IGV4aXRfZnJvbV90ZW1wbGF0ZSwKICAgICAgICAiZXhpdF9oYXJkX2ZhaWwiOiBleGl0X2hhcmRfZmFpbCwKICAgICAgICAiZXhpdF9ub3RfYXBwbGljYWJsZSI6IGV4aXRfbm90X2FwcGxpY2FibGUsCiAgICAgICAgInBhcmFtc19yZXF1aXJlZF9taXNzaW5nIjogcGFyYW1zX3JlcXVpcmVkX21pc3NpbmcsCiAgICAgICAgInBhcmFtc19leGVtcHQiOiBwYXJhbXNfZXhlbXB0LCAgICAgICAgICAjIDIuNWMKICAgICAgICAiZGV2aWF0aW9uX3JhdGUiOiBkZXZpYXRpb25fcmF0ZSwKICAgIH0KICAgIHJ1bi5tZXRyaWNzID0gbWV0cmljcwoKICAgICMgLS0tLSAyLjVj77ya6LGB5YWN6Ze45Y+v6K+B5Lyq5oCn6Ieq5rWL77yI5p6E6YCg5pWw5o2u77yM5LiN56Kw56OB55uY44CB5LiN5bm25YWlIGNoZWNrZWTvvIktLS0tCiAgICBva19nYXRlX3Rlc3QsIGVycnNfZ2F0ZV90ZXN0LCBfID0gX2V4ZW1wdGlvbl9zZWxmdGVzdCgpCiAgICBpZiBub3Qgb2tfZ2F0ZV90ZXN0OgogICAgICAgIGVycm9ycy5leHRlbmQoZiJbMi41YyDosYHlhY3pl7joh6rmtYtdIHtlfSIgZm9yIGUgaW4gZXJyc19nYXRlX3Rlc3QpCgogICAgIyAtLS0tIOWBj+emu+a4heWNle+8iOiHquWKqOeUn+aIkO+8jOemgeaJi+aUue+8iS0tLS0KICAgIF93cml0ZV9kZXZpYXRpb25fcmVwb3J0KGRldmlhdGlvbnMsIG1ldHJpY3MsIGV4ZW1wdF9yZWNvcmRzKQoKICAgIHJldHVybiAobGVuKGVycm9ycykgPT0gMCwgZXJyb3JzLCBjaGVja2VkKQoKCmRlZiBfd3JpdGVfZGV2aWF0aW9uX3JlcG9ydChkZXZpYXRpb25zLCBtZXRyaWNzLCBleGVtcHRfcmVjb3Jkcz1Ob25lKToKICAgIGV4ZW1wdF9yZWNvcmRzID0gZXhlbXB0X3JlY29yZHMgb3IgW10KICAgIG9zLm1ha2VkaXJzKG9zLnBhdGguZGlybmFtZShERVZJQVRJT05fUkVQT1JUX1BBVEgpLCBleGlzdF9vaz1UcnVlKQogICAgbGluZXMgPSBbCiAgICAgICAgIiMg5qih5p2/5YGP56a75riF5Y2VIiwKICAgICAgICAiIiwKICAgICAgICAiPiDmnKzmlofku7bnlLEgdGVtcGxhdGVfY29uZm9ybWFuY2UucHkg6Ieq5Yqo55Sf5oiQ77yM5Lq65bel5LiN57yW6L6R77yI5LiOIG1hbmlmZXN0LnNoYTI1NiDlkIznuqrlvovvvInjgIIiLAogICAgICAgICI+IOavj+i9riB2ZXJpZnlfYWxsIOmHjei3keaXtuWQjOatpeWIt+aWsOOAgiIsCiAgICAgICAgIiIsCiAgICAgICAgZiItIOadoeebruaAu+aVsO+8mnttZXRyaWNzWydlbnRyaWVzX3RvdGFsJ119IiwKICAgICAgICBmIi0gd2hlbiDlpZfmqKHmnb/vvIjml6DlgY/nprvvvInvvJp7bWV0cmljc1snd2hlbl9mcm9tX3RlbXBsYXRlJ119IiwKICAgICAgICBmIi0gd2hlbiDlrZfmrrXooaXlhYXvvIjov5vlgY/nprvnjofvvInvvJp7bWV0cmljc1snd2hlbl93aXRoX2RldmlhdGlvbiddfSIsCiAgICAgICAgZiItIHdoZW4g5Y+W5YC85Y+Y5pu077yI5Y2V5YiX77yJ77yae21ldHJpY3NbJ3doZW5fdmFsdWVfYWRqdXN0ZWQnXX0iLAogICAgICAgIGYiLSB3aGVuIOWujOWFqOaJi+WGme+8iOWksei0peaAge+8ie+8mnttZXRyaWNzWyd3aGVuX2Z1bGx5X2hhbmR3cml0dGVuJ119IiwKICAgICAgICBmIi0gZXhpdCDlpZfmqKHmnb/vvJp7bWV0cmljc1snZXhpdF9mcm9tX3RlbXBsYXRlJ119IiwKICAgICAgICBmIi0gZXhpdCDkuI3pgILnlKjvvIjop6Pph4rmgKfvvInvvJp7bWV0cmljc1snZXhpdF9ub3RfYXBwbGljYWJsZSddfSIsCiAgICAgICAgZiItIHJlcXVpcmVkX3BhcmFtcyDlv4XloavmiqTmoI/nvLrlpLHvvJp7bWV0cmljcy5nZXQoJ3BhcmFtc19yZXF1aXJlZF9taXNzaW5nJywgMCl9IiwKICAgICAgICBmIi0gcmVxdWlyZWRfcGFyYW1zIOaYvuW8j+ixgeWFjeadoeebru+8iHBhcmFtc19leGVtcHTvvInvvJp7bWV0cmljcy5nZXQoJ3BhcmFtc19leGVtcHQnLCAwKX0iLAogICAgICAgIGYiLSDlgY/nprvnjofvvIjlrZfmrrXooaXlhYUv5p2h55uu5oC75pWw77yJ77yae21ldHJpY3NbJ2RldmlhdGlvbl9yYXRlJ10qMTAwOi4xZn0lIiwKICAgICAgICAiIiwKICAgIF0KICAgIGlmIGRldmlhdGlvbnM6CiAgICAgICAgbGluZXMuYXBwZW5kKCJ8IOadoeebriB8IOaooeadvyB8IOWBj+emu+Wtl+autSB8IOWBj+emu+WGheWuuSB8IOWOn+WboCB8IOeZu+iusOaXpeacnyB8IikKICAgICAgICBsaW5lcy5hcHBlbmQoInwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwiKQogICAgICAgIGZvciBkIGluIGRldmlhdGlvbnM6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZCgKICAgICAgICAgICAgICAgIGYifCB7ZFsnZW50cnknXX0gfCB7ZFsndGVtcGxhdGUnXX0gfCB7ZFsnZmllbGQnXX0gfCAiCiAgICAgICAgICAgICAgICBmIntkWydjb250ZW50J119IHwge2RbJ3JlYXNvbiddfSB8IHtkWydkYXRlJ119IHwiCiAgICAgICAgICAgICkKICAgIGVsc2U6CiAgICAgICAgbGluZXMuYXBwZW5kKCLvvIjlvZPliY3ml6DlgY/nprvmnaHnm67vvIkiKQoKICAgIGxpbmVzLmFwcGVuZCgiIikKICAgIGxpbmVzLmFwcGVuZCgiIyMg6LGB5YWN5qih5p2/77yIMi41Y++8mnJlcXVpcmVkX3BhcmFtcyDkuLrnqbrvvIzlv4XpobvphY3mmL7lvI/nkIbnlLHvvIkiKQogICAgaWYgZXhlbXB0X3JlY29yZHM6CiAgICAgICAgYWdnID0ge30KICAgICAgICBmb3IgciBpbiBleGVtcHRfcmVjb3JkczoKICAgICAgICAgICAga2V5ID0gKHJbInRlbXBsYXRlIl0sIHJbInJlYXNvbiJdKQogICAgICAgICAgICBhZ2dba2V5XSA9IGFnZy5nZXQoa2V5LCAwKSArIDEKICAgICAgICBsaW5lcy5hcHBlbmQoInwg5qih5p2/IHwg6LGB5YWN55CG55SxIHwg5ZG95Lit5p2h55uu5pWwIHwiKQogICAgICAgIGxpbmVzLmFwcGVuZCgifC0tLXwtLS18LS0tfCIpCiAgICAgICAgZm9yICh0aWQsIHJlYXNvbiksIG4gaW4gYWdnLml0ZW1zKCk6CiAgICAgICAgICAgIGxpbmVzLmFwcGVuZChmInwgYHt0aWR9YCB8IHtyZWFzb259IHwge259IHwiKQogICAgZWxzZToKICAgICAgICBsaW5lcy5hcHBlbmQoIuaXoO+8iOW9k+WJjSBgcGFyYW1zX2V4ZW1wdD0wYO+8m+eOsOaciSA1IOS4quaooeadvyBgcmVxdWlyZWRfcGFyYW1zYCDlnYfkuLogYFtvd25lcnNoaXBdYO+8ieOAgiIpCgogICAgd2l0aCBvcGVuKERFVklBVElPTl9SRVBPUlRfUEFUSCwgInciLCBlbmNvZGluZz0idXRmLTgiKSBhcyBmOgogICAgICAgIGYud3JpdGUoIlxuIi5qb2luKGxpbmVzKSArICJcbiIpCgoKZGVmIG1haW4oKToKICAgIG9rLCBlcnJvcnMsIGNoZWNrZWQgPSBydW4oKQogICAgcHJpbnQoZiJbdGVtcGxhdGVfY29uZm9ybWFuY2VdIOagoemqjOadoeebrj17Y2hlY2tlZH0gIOmUmeivrz17bGVuKGVycm9ycyl9IikKICAgIG0gPSBnZXRhdHRyKHJ1biwgIm1ldHJpY3MiLCB7fSkKICAgIHByaW50KGYiICDlgY/nprvnjoc9e20uZ2V0KCdkZXZpYXRpb25fcmF0ZScsIDApKjEwMDouMWZ9JSAgIgogICAgICAgICAgZiLlpZfmqKHmnb89e20uZ2V0KCd3aGVuX2Zyb21fdGVtcGxhdGUnLCAwKX0gICIKICAgICAgICAgIGYi5pyJ5YGP56a7PXttLmdldCgnd2hlbl93aXRoX2RldmlhdGlvbicsIDApfSAgIgogICAgICAgICAgZiLlrozlhajmiYvlhpk9e20uZ2V0KCd3aGVuX2Z1bGx5X2hhbmR3cml0dGVuJywgMCl9IikKICAgIG9rX3N0LCBlcnJzX3N0LCBuX3N0ID0gX2V4ZW1wdGlvbl9zZWxmdGVzdCgpCiAgICBwcmludChmIiAg6LGB5YWN6Ze46Ieq5rWLPXtva19zdH0gIOeUqOS+iz17bl9zdH0gIOWksei0pT17bGVuKGVycnNfc3QpfSAgIgogICAgICAgICAgZiJwYXJhbXNfZXhlbXB0PXttLmdldCgncGFyYW1zX2V4ZW1wdCcsIDApfSIpCiAgICBmb3IgZSBpbiBlcnJvcnMgKyBlcnJzX3N0OgogICAgICAgIHByaW50KCIgIOKclyIsIGUpCiAgICBzeXMuZXhpdCgwIGlmIG9rIGFuZCBva19zdCBlbHNlIDEpCgoKaWYgX19uYW1lX18gPT0gIl9fbWFpbl9fIjoKICAgIG1haW4oKQo=
+# -*- coding: utf-8 -*-
+"""CI 硬闸（编译前）：template_conformance — 模板一致性 + 偏离登记。
+
+宽松模式的「底线」实装：模板是默认路径，偏离是例外路径，例外必须被计数。
+不对称设计：
+  - exit_when  → 硬校验（不匹配任何 EX_* 即失败，不允许手写退出条件）；
+  - when       → 软校验（套模板为主，手写补充记 deviation，不阻断）。
+
+判定规则（用户 2026-11-13 拍板）：
+  - when 与 template_ref 指向模板的字段集合交集非空      → 通过（from_template / with_deviation）
+  - when 有手写补充且交集非空（填 deviation）           → 通过，记 when_with_deviation (Y)
+  - template_ref: null                                  → 失败，记 when_fully_handwritten (Z)
+  - when 与模板字段交集为空（无论 template_ref 是否非 null）→ 失败，同 Z（防「假合规」）
+  - 解释性条目 exit_when                                → 不适用（exit_not_applicable 单列）
+  - 程序性条目 exit_when 不匹配任何 EX_*                 → 失败（硬校验）
+  - required_params 声明的必填字段未出现在 when          → 失败（角色护栏硬闸）
+
+required_params 与 params 分离（2026-11-13）：
+  params           = 可调参数，条目出现时排除「字段补充」判定，允许缺席；
+  required_params  = 必填护栏，条目 when 必须显式出现，缺失即判失败。
+  若按「params 全部必填」实现会误判 10/11（consecutive_failures / wm_load
+  是条件性参数，并非每条都填），故 ownership 单列 required_params。
+
+返回签名与现有 validator 一致：(ok, errors, checked)。
+偏离统计通过 run.metrics 属性暴露（类似 guardrail_tests），不塞进返回值。
+偏离清单自动生成到 05_审核与运营/regression/模板偏离清单.md，禁手改。
+
+阶段 A · 2.5c (2026-11-13)：必填硬闸支持**显式豁免**。
+required_params 为空不再静默放行，必须配模板字段契约声明的
+exempt_reason 且长度 > 20 字；豁免计数 params_exempt 进 metrics 与
+偏离清单，可审计。内嵌 _exemption_selftest() 六个用例（构造数据、
+不碰磁盘），失败并入 errors，使「豁免变成默认」每次 verify_all 都可证伪。
+"""
+import os
+import sys
+import datetime
+
+import yaml
+
+sys.path.insert(0, os.path.dirname(__file__))
+from _common import iter_entries, ROOT, compile_predicate
+
+TEMPLATES_DIR = os.path.join(ROOT, "03_agent编译", "templates")
+PRED_TEMPLATE_PATH = os.path.join(TEMPLATES_DIR, "predicate_templates.yaml")
+EXIT_TEMPLATE_PATH = os.path.join(TEMPLATES_DIR, "exit_templates.yaml")
+DEVIATION_REPORT_PATH = os.path.join(
+    ROOT, "05_审核与运营", "regression", "模板偏离清单.md"
+)
+
+
+def _load_templates(path):
+    with open(path, encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    return data.get("templates", [])
+
+
+def _load_contract(path):
+    """读取模板字段契约（2.5c）。缺失返回空 dict → 任何豁免都不被允许，
+    保守失败，避免契约文件丢失时硬闸反而变松。"""
+    with open(path, encoding="utf-8") as f:
+        data = yaml.safe_load(f)
+    return (data or {}).get("template_fields_contract", {}) or {}
+
+
+def _required_gate(tpl, entry_fields, contract):
+    """必填护栏 / 显式豁免判定（纯函数，2.5c）。
+
+    返回 (ok, error_msg, exempt: bool)：
+      - required_params 非空 → 逐字段必填，缺一即失败；
+      - required_params 为空 → 必须配 exempt_reason（字段须在契约
+        optional_fields 中声明、长度 > exempt_reason_min_length），
+        否则判失败，杜绝「把 required_params 删空就静默绕过」；
+      - 豁免成立时 exempt=True，由 run() 计入 params_exempt 并留痕。
+    """
+    tid = tpl.get("id", "?")
+    required = set(tpl.get("required_params", []))
+    if required:
+        missing = sorted(required - entry_fields)
+        if missing:
+            return False, (f"params 必填校验失败：模板 {tid} 要求 when 显式出现 "
+                           f"{missing}（角色护栏）；缺失请补填或走扩展提案"), False
+        return True, "", False
+
+    min_len = int(contract.get("exempt_reason_min_length", 20))
+    if "exempt_reason" not in contract.get("optional_fields", []):
+        return False, (f"模板 {tid} required_params 为空，但 exempt_reason "
+                       f"未在 template_fields_contract.optional_fields 中声明"), False
+    reason = tpl.get("exempt_reason")
+    if not isinstance(reason, str) or len(reason.strip()) <= min_len:
+        return False, (f"模板 {tid} required_params 为空：必须配 exempt_reason "
+                       f"且长度 > {min_len} 字（防豁免变默认），当前 {reason!r}"), False
+    return True, "", True
+
+
+def _exemption_selftest():
+    """2.5c 豁免闸可证伪性自测（monkeypatch 构造数据，不碰磁盘）。
+
+    用户清单四例 + 两条回归保护：
+      ① 空 required_params、无 exempt_reason       → 失败
+      ② 空 + 短 exempt_reason（≤20 字）           → 失败
+      ③ 空 + >20 字 exempt_reason                 → 放行且 exempt=True
+      ④ 非空 required_params 缺字段               → 仍失败（回归保护）
+      ⑤ 非空 required_params 且字段齐全           → 放行且 exempt=False
+      ⑥ 契约未声明 exempt_reason，理由再长也不放行 → 失败（防豁免变默认）
+
+    checked 不并入 run()，使样本数仍等于源条目数。
+    """
+    contract = {"optional_fields": ["exempt_reason"],
+                "exempt_reason_min_length": 20}
+    long_reason = ("家长火气场景是家长主导自救，不涉及儿童主导权归属，"
+                   "故 ownership 语义不适用且不应硬塞进谓词。")
+    cases = [
+        ("①空列表无理由", {"id": "T_EMPTY", "required_params": []},
+         set(), False, False),
+        ("②空列表短理由", {"id": "T_SHORT", "required_params": [], "exempt_reason": "太短"},
+         set(), False, False),
+        ("③空列表长理由", {"id": "T_OK", "required_params": [], "exempt_reason": long_reason},
+         set(), True, True),
+        ("④非空缺字段", {"id": "T_MISS", "required_params": ["ownership"]},
+         set(), False, False),
+        ("⑤非空字段齐全", {"id": "T_FULL", "required_params": ["ownership"]},
+         {"ownership"}, True, False),
+    ]
+    errors = []
+    for label, tpl, fields, want_ok, want_exempt in cases:
+        ok, err, exempt = _required_gate(tpl, fields, contract)
+        if ok != want_ok or exempt != want_exempt:
+            errors.append(f"{label}: 期望 ok={want_ok}/exempt={want_exempt}，"
+                          f"实际 ok={ok}/exempt={exempt} err={err}")
+    ok6, _, _ = _required_gate(
+        {"id": "T_NOCONTRACT", "required_params": [], "exempt_reason": long_reason},
+        set(), {"optional_fields": [], "exempt_reason_min_length": 20})
+    if ok6:
+        errors.append("⑥契约未声明 exempt_reason 却放行（豁免变成默认）")
+    return (len(errors) == 0, errors, len(cases) + 1)
+
+
+def _field_set(when):
+    """when dict → 字段名集合（用于交集判定，忽略取值）。"""
+    if not isinstance(when, dict):
+        return set()
+    return set(when.keys())
+
+
+def _normalize_exit(exit_when):
+    """exit_when → 规范化结构（复用 compile_predicate），用于与 EX_* 模板比较。"""
+    return compile_predicate(exit_when)
+
+
+def _exit_match(entry_exit, templates):
+    """返回匹配的模板 id，或 None。逐字段完全一致。"""
+    norm = _normalize_exit(entry_exit)
+    for t in templates:
+        if _normalize_exit(t.get("exit_when")) == norm:
+            return t["id"]
+    return None
+
+
+def run():
+    pred_templates = _load_templates(PRED_TEMPLATE_PATH)
+    exit_templates = _load_templates(EXIT_TEMPLATE_PATH)
+    contract = _load_contract(PRED_TEMPLATE_PATH)   # 2.5c 模板字段契约
+    pred_by_id = {t["id"]: t for t in pred_templates}
+
+    errors = []
+    checked = 0
+    deviations = []          # 偏离清单行
+    exempt_records = []      # 2.5c：显式豁免留痕（模板 + 理由）
+
+    # 统计口径
+    entries_total = 0
+    when_from_template = 0
+    when_with_deviation = 0      # 字段补充（进主偏离率）
+    when_value_adjusted = 0      # 取值变更（单列，不进主偏离率）
+    when_fully_handwritten = 0   # 失败态（template_ref 缺失/交集空），正常恒为 0
+    exit_from_template = 0
+    exit_hard_fail = 0
+    exit_not_applicable = 0
+    params_required_missing = 0   # 必填护栏缺失（失败态，正常恒为 0）
+    params_exempt = 0             # 2.5c：required_params 为空且显式豁免成立的条目数
+
+    for path, fm, _body in iter_entries():
+        checked += 1
+        entries_total += 1
+        eid = fm.get("id", "?")
+        etype = fm.get("type")
+        when = fm.get("when")
+        template_ref = fm.get("template_ref")
+        deviation = fm.get("deviation")
+
+        # ---- when 校验（软，但有空交集/空引用则判失败）----
+        if template_ref is None or template_ref == "null" or template_ref == "":
+            # template_ref 缺失/空 → 判失败（模板库缺场景，需提案）
+            when_fully_handwritten += 1
+            errors.append(
+                f"[{eid}] template_ref 缺失/为 null：完全手写 when，需提交 "
+                f"A 类（新谓词字段）或 B 类（新场景类型）扩展提案，而非记偏离"
+            )
+        elif template_ref not in pred_by_id:
+            when_fully_handwritten += 1
+            errors.append(
+                f"[{eid}] template_ref={template_ref} 不在谓词模板库中（悬空引用）"
+            )
+        else:
+            tpl = pred_by_id[template_ref]
+            # applies_to 过滤：解释性条目只能引用 applies_to 含 explanatory 的模板
+            if etype == "explanatory" and "explanatory" not in tpl.get("applies_to", []):
+                errors.append(
+                    f"[{eid}] 解释性条目 template_ref={template_ref} 的 applies_to "
+                    f"不含 explanatory（{tpl.get('applies_to')}）"
+                )
+            entry_fields = _field_set(when)
+            tpl_fields = _field_set(tpl.get("when"))
+
+            # ---- 必填护栏 / 显式豁免（2.5c）----
+            # required_params 非空 → 逐字段必填；为空 → 必须配契约声明的
+            # exempt_reason 且 >20 字，否则判失败（防「删空即绕过」）。
+            ok_gate, err_gate, exempt = _required_gate(tpl, entry_fields, contract)
+            if not ok_gate:
+                params_required_missing += 1
+                errors.append(f"[{eid}] {err_gate}")
+            elif exempt:
+                params_exempt += 1
+                exempt_records.append({
+                    "template": template_ref,
+                    "reason": str(tpl.get("exempt_reason", "")).strip(),
+                })
+
+            if not entry_fields & tpl_fields:
+                # 防「假合规」：挂一个模板 ID 但 when 完全重写，交集为空 → 判失败
+                when_fully_handwritten += 1
+                errors.append(
+                    f"[{eid}] when 字段集合与模板 {template_ref} 交集为空："
+                    f"模板名存实亡，视为完全手写，需提案而非记偏离"
+                )
+            elif deviation and deviation not in (None, "none", {}):
+                dev_kind = deviation.get("kind", "") if isinstance(deviation, dict) else ""
+                reason = deviation.get("reason", "") if isinstance(deviation, dict) else ""
+                if not reason:
+                    errors.append(f"[{eid}] deviation 缺 reason（偏离必须说明原因）")
+                if dev_kind == "value_adjusted":
+                    # 取值变更：字段名相同、取值超出模板，单列不进主偏离率
+                    when_value_adjusted += 1
+                else:
+                    # 字段补充：进主偏离率
+                    when_with_deviation += 1
+                deviations.append({
+                    "entry": eid, "template": template_ref,
+                    "field": dev_kind or "field_supplement",
+                    "content": reason,
+                    "reason": reason,
+                    "date": str(datetime.date.today()),
+                })
+            else:
+                when_from_template += 1
+
+        # ---- exit_when 校验（硬）----
+        exit_when = fm.get("exit_when")
+        if etype == "explanatory":
+            # 解释性条目无退出条件 → 不适用，单列
+            exit_not_applicable += 1
+        else:
+            # 程序性（或 boundary 等其他）条目：exit_when 必须匹配 EX_*
+            if not exit_when:
+                exit_hard_fail += 1
+                errors.append(f"[{eid}] 程序性条目缺 exit_when（必须匹配 EX_* 模板）")
+            else:
+                matched = _exit_match(exit_when, exit_templates)
+                if matched is None:
+                    exit_hard_fail += 1
+                    errors.append(
+                        f"[{eid}] exit_when 不匹配任何 EX_* 模板：退出条件不允许手写，"
+                        f"需 C 类（新退出模板）提案"
+                    )
+                else:
+                    exit_from_template += 1
+
+    # ---- 偏离率 ----
+    # 主偏离率只算「字段补充」when_with_deviation；取值变更 value_adjusted 单列，
+    # 完全手写 fully_handwritten 是失败态（正常恒为 0，非 0 说明绕过）。
+    n = entries_total if entries_total else 1
+    deviation_rate = when_with_deviation / n
+
+    metrics = {
+        "entries_total": entries_total,
+        "when_from_template": when_from_template,
+        "when_with_deviation": when_with_deviation,
+        "when_value_adjusted": when_value_adjusted,
+        "when_fully_handwritten": when_fully_handwritten,
+        "exit_from_template": exit_from_template,
+        "exit_hard_fail": exit_hard_fail,
+        "exit_not_applicable": exit_not_applicable,
+        "params_required_missing": params_required_missing,
+        "params_exempt": params_exempt,          # 2.5c
+        "deviation_rate": deviation_rate,
+    }
+    run.metrics = metrics
+
+    # ---- 2.5c：豁免闸可证伪性自测（构造数据，不碰磁盘、不并入 checked）----
+    ok_gate_test, errs_gate_test, _ = _exemption_selftest()
+    if not ok_gate_test:
+        errors.extend(f"[2.5c 豁免闸自测] {e}" for e in errs_gate_test)
+
+    # ---- 偏离清单（自动生成，禁手改）----
+    _write_deviation_report(deviations, metrics, exempt_records)
+
+    return (len(errors) == 0, errors, checked)
+
+
+def _write_deviation_report(deviations, metrics, exempt_records=None):
+    exempt_records = exempt_records or []
+    os.makedirs(os.path.dirname(DEVIATION_REPORT_PATH), exist_ok=True)
+    lines = [
+        "# 模板偏离清单",
+        "",
+        "> 本文件由 template_conformance.py 自动生成，人工不编辑（与 manifest.sha256 同纪律）。",
+        "> 每轮 verify_all 重跑时同步刷新。",
+        "",
+        f"- 条目总数：{metrics['entries_total']}",
+        f"- when 套模板（无偏离）：{metrics['when_from_template']}",
+        f"- when 字段补充（进偏离率）：{metrics['when_with_deviation']}",
+        f"- when 取值变更（单列）：{metrics['when_value_adjusted']}",
+        f"- when 完全手写（失败态）：{metrics['when_fully_handwritten']}",
+        f"- exit 套模板：{metrics['exit_from_template']}",
+        f"- exit 不适用（解释性）：{metrics['exit_not_applicable']}",
+        f"- required_params 必填护栏缺失：{metrics.get('params_required_missing', 0)}",
+        f"- required_params 显式豁免条目（params_exempt）：{metrics.get('params_exempt', 0)}",
+        f"- 偏离率（字段补充/条目总数）：{metrics['deviation_rate']*100:.1f}%",
+        "",
+    ]
+    if deviations:
+        lines.append("| 条目 | 模板 | 偏离字段 | 偏离内容 | 原因 | 登记日期 |")
+        lines.append("|---|---|---|---|---|---|")
+        for d in deviations:
+            lines.append(
+                f"| {d['entry']} | {d['template']} | {d['field']} | "
+                f"{d['content']} | {d['reason']} | {d['date']} |"
+            )
+    else:
+        lines.append("（当前无偏离条目）")
+
+    lines.append("")
+    lines.append("## 豁免模板（2.5c：required_params 为空，必须配显式理由）")
+    if exempt_records:
+        agg = {}
+        for r in exempt_records:
+            key = (r["template"], r["reason"])
+            agg[key] = agg.get(key, 0) + 1
+        lines.append("| 模板 | 豁免理由 | 命中条目数 |")
+        lines.append("|---|---|---|")
+        for (tid, reason), n in agg.items():
+            lines.append(f"| `{tid}` | {reason} | {n} |")
+    else:
+        lines.append("无（当前 `params_exempt=0`；现有 5 个模板 `required_params` 均为 `[ownership]`）。")
+
+    with open(DEVIATION_REPORT_PATH, "w", encoding="utf-8") as f:
+        f.write("\n".join(lines) + "\n")
+
+
+def main():
+    ok, errors, checked = run()
+    print(f"[template_conformance] 校验条目={checked}  错误={len(errors)}")
+    m = getattr(run, "metrics", {})
+    print(f"  偏离率={m.get('deviation_rate', 0)*100:.1f}%  "
+          f"套模板={m.get('when_from_template', 0)}  "
+          f"有偏离={m.get('when_with_deviation', 0)}  "
+          f"完全手写={m.get('when_fully_handwritten', 0)}")
+    ok_st, errs_st, n_st = _exemption_selftest()
+    print(f"  豁免闸自测={ok_st}  用例={n_st}  失败={len(errs_st)}  "
+          f"params_exempt={m.get('params_exempt', 0)}")
+    for e in errors + errs_st:
+        print("  ✗", e)
+    sys.exit(0 if ok and ok_st else 1)
+
+
+if __name__ == "__main__":
+    main()

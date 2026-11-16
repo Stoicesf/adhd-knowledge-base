@@ -1,1 +1,83 @@
-IyAtKi0gY29kaW5nOiB1dGYtOCAtKi0KaW1wb3J0IGNzdiwgcmUsIG9zCgpCQVNFID0gIkY6L0FESETmlofnjK4vMDhfQUnor63mlpnlsYIiCk1FVEEgPSBvcy5wYXRoLmpvaW4oQkFTRSwgIjAyX21ldGFkYXRhL21ldGFkYXRhXzYz6aG1LmNzdiIpCkNIVU5LX0RJUiA9IG9zLnBhdGguam9pbihCQVNFLCAiMDNfY2h1bmsiKQpCQVRDSEVTID0gWwogICAgImNodW5rc1/mibnmrKExX+S5pkFfMTTpobUuY3N2IiwKICAgICJjaHVua3Nf5om55qyhMl/kuaZCMDEtQjEyLmNzdiIsCiAgICAiY2h1bmtzX+aJueasoTNf5LmmQjEzLUIyNi5jc3YiLAogICAgImNodW5rc1/mibnmrKE0X+S5pkIyNy1CNDAuY3N2IiwKICAgICJjaHVua3Nf5om55qyhNV/kuaZCNDItQjQ1LmNzdiIsCl0KUEFHRV9SRSA9IHJlLmNvbXBpbGUocicoPzwhW0EtWmEtejAtOV0pKFtBLURdXGR7Mn0pKD8hXGQpJykKQU5OT1RfRklFTERTID0gWyflpIfms6gnLCAn5paH5pys5pGY6KaBJywgJ+WPjOWQkeWIpOWumuS+neaNriddCgpkZWYgcmVhZF9jc3YocGF0aCk6CiAgICB3aXRoIG9wZW4ocGF0aCwgZW5jb2Rpbmc9J3V0Zi04LXNpZycpIGFzIGY6CiAgICAgICAgcmV0dXJuIGxpc3QoY3N2LkRpY3RSZWFkZXIoZikpCgojIC0tLS0gbWV0YWRhdGEgZWRnZXMgLS0tLQptZXRhID0gcmVhZF9jc3YoTUVUQSkKbXNldCA9IHtyWyfnvJblj7cnXS5zdHJpcCgpIGZvciByIGluIG1ldGF9CmVkZ2VzID0gc2V0KCkKZWRnZV9ub19ldmlkZW5jZSA9IDAKb3V0X2NvdW50cyA9IHt9CmZvciByIGluIG1ldGE6CiAgICBzID0gclsn57yW5Y+3J10uc3RyaXAoKQogICAgYXAgPSAoci5nZXQoJ+WFs+iBlOmhtScsJycpIG9yICcnKS5zdHJpcCgpCiAgICBhaiA9IChyLmdldCgn5YWz6IGU5L6d5o2uJywnJykgb3IgJycpLnN0cmlwKCkKICAgICMgc3BsaXQgYm90aCBvbiA7CiAgICBhcF9saXN0ID0gW3guc3RyaXAoKSBmb3IgeCBpbiBhcC5zcGxpdCgnOycpIGlmIHguc3RyaXAoKV0KICAgIGFqX2xpc3QgPSBbeC5zdHJpcCgpIGZvciB4IGluIGFqLnNwbGl0KCc7JykgaWYgeC5zdHJpcCgpXQogICAgb3V0X2NvdW50c1tzXSA9IGxlbihhcF9saXN0KQogICAgZm9yIGksIHQgaW4gZW51bWVyYXRlKGFwX2xpc3QpOgogICAgICAgIGVkZ2VzLmFkZCgocywgdCkpCiAgICAgICAgIyBkb2VzIHRoaXMgZWRnZSBoYXZlIGV2aWRlbmNlPyBtYXRjaCBhaiBlbnRyeSBzdGFydGluZyB3aXRoIGYie3R9PSIKICAgICAgICBoYXMgPSBhbnkoYS5zdGFydHN3aXRoKHQgKyAiPSIpIGZvciBhIGluIGFqX2xpc3QpCiAgICAgICAgaWYgbm90IGhhczoKICAgICAgICAgICAgZWRnZV9ub19ldmlkZW5jZSArPSAxCgpwcmludCgiPT09IG1ldGFkYXRhIGVkZ2VzID09PSIpCnByaW50KCJ0b3RhbCBkaXJlY3RlZCBlZGdlczoiLCBsZW4oZWRnZXMpKQpwcmludCgiZWRnZXMgd2l0aCBOTyDlhbPogZTkvp3mja4gZXZpZGVuY2U6IiwgZWRnZV9ub19ldmlkZW5jZSkKY2RfcGFnZXMgPSB7cCBmb3IgcCBpbiBtc2V0IGlmIHAuc3RhcnRzd2l0aCgnQycpIG9yIHAuc3RhcnRzd2l0aCgnRCcpfQpwcmludCgiQy9EIHBhZ2VzOiIsIHNvcnRlZChjZF9wYWdlcykpCmNkX291dCA9IHtwOiBvdXRfY291bnRzLmdldChwLDApIGZvciBwIGluIHNvcnRlZChjZF9wYWdlcyl9CnByaW50KCJDL0Qgb3V0LWVkZ2UgY291bnRzOiIsIGNkX291dCwgInN1bToiLCBzdW0oY2Rfb3V0LnZhbHVlcygpKSkKCiMgLS0tLSBjaHVuayBtZW50aW9uIHBhaXJzIC0tLS0KbWVudGlvbnMgPSB7fSAgIyAocyx0KSAtPiBjb3VudApmb3IgYiBpbiBCQVRDSEVTOgogICAgZm9yIHIgaW4gcmVhZF9jc3Yob3MucGF0aC5qb2luKENIVU5LX0RJUiwgYikpOgogICAgICAgIHMgPSByWyfpobXnvJblj7cnXS5zdHJpcCgpCiAgICAgICAgZm9yIGYgaW4gQU5OT1RfRklFTERTOgogICAgICAgICAgICB0eHQgPSByLmdldChmLCcnKSBvciAnJwogICAgICAgICAgICBmb3IgbSBpbiBQQUdFX1JFLmZpbmRpdGVyKHR4dCk6CiAgICAgICAgICAgICAgICB0ID0gbS5ncm91cCgxKQogICAgICAgICAgICAgICAgaWYgdCAhPSBzIGFuZCB0IGluIG1zZXQ6CiAgICAgICAgICAgICAgICAgICAgbWVudGlvbnNbKHMsdCldID0gbWVudGlvbnMuZ2V0KChzLHQpLCAwKSArIDEKCnRvdGFsID0gbGVuKG1lbnRpb25zKQpkaXJlY3QgPSBbayBmb3IgayBpbiBtZW50aW9ucyBpZiBrIGluIGVkZ2VzXQpyZXZlcnNlX29ubHkgPSBbayBmb3IgayBpbiBtZW50aW9ucyBpZiBrIG5vdCBpbiBlZGdlcyBhbmQgKGtbMV0sa1swXSkgaW4gZWRnZXNdCm5vbmUgPSBbayBmb3IgayBpbiBtZW50aW9ucyBpZiBrIG5vdCBpbiBlZGdlcyBhbmQgKGtbMV0sa1swXSkgbm90IGluIGVkZ2VzXQoKcHJpbnQoIiIpCnByaW50KCI9PT0gY2h1bmsgbWVudGlvbiBwYWlycyA9PT0iKQpwcmludCgidG90YWwgZGlzdGluY3QgbWVudGlvbiBwYWlycyAocyx0KToiLCB0b3RhbCkKcHJpbnQoIiAgZGlyZWN0IChtZXRhZGF0YSBoYXMgcy0+dCk6IiwgbGVuKGRpcmVjdCkpCnByaW50KCIgIHJldmVyc2Utb25seSAobWV0YWRhdGEgaGFzIHQtPnMsIG5vdCBzLT50KToiLCBsZW4ocmV2ZXJzZV9vbmx5KSwgc29ydGVkKHJldmVyc2Vfb25seSkpCnByaW50KCIgIG5vbmUgKG5vIG1ldGFkYXRhIGVkZ2UgYXQgYWxsKToiLCBsZW4obm9uZSksIHNvcnRlZChub25lKSkKcHJpbnQoIiAgU1VNIGRpcmVjdCtyZXZlcnNlK25vbmU6IiwgbGVuKGRpcmVjdCkrbGVuKHJldmVyc2Vfb25seSkrbGVuKG5vbmUpKQpwcmludCgiICAtPiBkbyB0aGV5IHBhcnRpdGlvbiB0b3RhbD8gIiwgKGxlbihkaXJlY3QpK2xlbihyZXZlcnNlX29ubHkpK2xlbihub25lKSk9PXRvdGFsKQoKIyBvdmVybGFwIGNoZWNrOiBpcyBhbnkgZGlyZWN0IGFsc28gcmV2ZXJzZT8gTm8gYnkgbXV0dWFsIGV4Y2x1c2l2aXR5LgojIEFyZSByZXZlcnNlIGFuZCBub25lIGRpc2pvaW50PyB5ZXMgYnkgZGVmaW5pdGlvbi4KIyBTbyB0aGUgb25seSB3YXkgNDUgIT0gNTAgaXMgaWYgdG90YWwgY29tcHV0ZWQgaGVyZSBpcyA1MCBub3QgNDUsCiMgT1IgZWFybGllciAnNDUnIHdhcyBhIGRpZmZlcmVudCBkZWR1cCAoZS5nLiBjb3VudGVkIG1lbnRpb24gaW5zdGFuY2VzIG5vdCBwYWlycykuCgojIHRvdGFsIG1lbnRpb24gSU5TVEFOQ0VTICh3aXRoIG11bHRpcGxpY2l0eSkgZm9yIHJlZmVyZW5jZQp0b3RfaW5zdCA9IHN1bShtZW50aW9ucy52YWx1ZXMoKSkKcHJpbnQoInRvdGFsIG1lbnRpb24gaW5zdGFuY2VzICh3aXRoIG11bHRpcGxpY2l0eSk6IiwgdG90X2luc3QpCg==
+# -*- coding: utf-8 -*-
+import csv, re, os
+
+BASE = "F:/ADHD文献/08_AI语料层"
+META = os.path.join(BASE, "02_metadata/metadata_63页.csv")
+CHUNK_DIR = os.path.join(BASE, "03_chunk")
+BATCHES = [
+    "chunks_批次1_书A_14页.csv",
+    "chunks_批次2_书B01-B12.csv",
+    "chunks_批次3_书B13-B26.csv",
+    "chunks_批次4_书B27-B40.csv",
+    "chunks_批次5_书B42-B45.csv",
+]
+PAGE_RE = re.compile(r'(?<![A-Za-z0-9])([A-D]\d{2})(?!\d)')
+ANNOT_FIELDS = ['备注', '文本摘要', '双向判定依据']
+
+def read_csv(path):
+    with open(path, encoding='utf-8-sig') as f:
+        return list(csv.DictReader(f))
+
+# ---- metadata edges ----
+meta = read_csv(META)
+mset = {r['编号'].strip() for r in meta}
+edges = set()
+edge_no_evidence = 0
+out_counts = {}
+for r in meta:
+    s = r['编号'].strip()
+    ap = (r.get('关联页','') or '').strip()
+    aj = (r.get('关联依据','') or '').strip()
+    # split both on ;
+    ap_list = [x.strip() for x in ap.split(';') if x.strip()]
+    aj_list = [x.strip() for x in aj.split(';') if x.strip()]
+    out_counts[s] = len(ap_list)
+    for i, t in enumerate(ap_list):
+        edges.add((s, t))
+        # does this edge have evidence? match aj entry starting with f"{t}="
+        has = any(a.startswith(t + "=") for a in aj_list)
+        if not has:
+            edge_no_evidence += 1
+
+print("=== metadata edges ===")
+print("total directed edges:", len(edges))
+print("edges with NO 关联依据 evidence:", edge_no_evidence)
+cd_pages = {p for p in mset if p.startswith('C') or p.startswith('D')}
+print("C/D pages:", sorted(cd_pages))
+cd_out = {p: out_counts.get(p,0) for p in sorted(cd_pages)}
+print("C/D out-edge counts:", cd_out, "sum:", sum(cd_out.values()))
+
+# ---- chunk mention pairs ----
+mentions = {}  # (s,t) -> count
+for b in BATCHES:
+    for r in read_csv(os.path.join(CHUNK_DIR, b)):
+        s = r['页编号'].strip()
+        for f in ANNOT_FIELDS:
+            txt = r.get(f,'') or ''
+            for m in PAGE_RE.finditer(txt):
+                t = m.group(1)
+                if t != s and t in mset:
+                    mentions[(s,t)] = mentions.get((s,t), 0) + 1
+
+total = len(mentions)
+direct = [k for k in mentions if k in edges]
+reverse_only = [k for k in mentions if k not in edges and (k[1],k[0]) in edges]
+none = [k for k in mentions if k not in edges and (k[1],k[0]) not in edges]
+
+print("")
+print("=== chunk mention pairs ===")
+print("total distinct mention pairs (s,t):", total)
+print("  direct (metadata has s->t):", len(direct))
+print("  reverse-only (metadata has t->s, not s->t):", len(reverse_only), sorted(reverse_only))
+print("  none (no metadata edge at all):", len(none), sorted(none))
+print("  SUM direct+reverse+none:", len(direct)+len(reverse_only)+len(none))
+print("  -> do they partition total? ", (len(direct)+len(reverse_only)+len(none))==total)
+
+# overlap check: is any direct also reverse? No by mutual exclusivity.
+# Are reverse and none disjoint? yes by definition.
+# So the only way 45 != 50 is if total computed here is 50 not 45,
+# OR earlier '45' was a different dedup (e.g. counted mention instances not pairs).
+
+# total mention INSTANCES (with multiplicity) for reference
+tot_inst = sum(mentions.values())
+print("total mention instances (with multiplicity):", tot_inst)

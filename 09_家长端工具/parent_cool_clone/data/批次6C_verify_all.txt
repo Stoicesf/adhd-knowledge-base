@@ -1,1 +1,37 @@
-PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09CumYtuauteWFrSDCtyDmnKzlnLDnu5/kuIDpqozor4HvvIhQMSBDSSAvIFAyIOi3r+eUsSAvIFAzIGd1YXJkcmFpbCAvIFA0IOWbnuW9kiAvIEIzIOWutumVv+aApeaVke+8iQo9PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0KW1BIQVNFXSDpmLbmrrUgQiDmibnmrKEgM++8mlBST1AtMDAwNC8wMDA1IOW3suiQveWcsO+8iHNjaGVtYSB2MS4y77yJ77ybcGFyZW50X2VzY2FsYXRpb24g54us56uL5Zy65pmvICsgUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDEg5pi+5byP6LGB5YWN77ybNiDmnaHmtL7nlJ/mnaHnm64gLyA2IOadoeaXgei3r+i9qOi/uSAvIOesrCAxNCDnu4TpqozmlLbjgILlj6PlvoTlpoLlrp7vvJpwYXJhbXNfZXhlbXB0IOaMieadoeebruiuoeaVsOOAgWRpZmZfbW9kZSDnu7TluqbkuI3lj5jvvIhjaGVja2VkIOWboOadoeebruaVsOWinuWKoO+8ieOAggoKLS0tIFAxIOS6p+eJqeWTiOW4jO+8iOinhOWImeWbm++8jOmHjee8luivkeWJjeeLrOeri+agoemqjO+8iS0tLQogIFtPSyAgXSBQMS9hcnRpZmFjdF9oYXNoICAgICAgICAgICAgIOaWreiogC/moLfmnKw9MjYgICAgICAg5aSx6LSlPTAKICBbT0sgIF0gUDEvaGFzaF9zZWxmdGVzdCAgICAgICAgICAgICDmlq3oqIAv5qC35pysPTIgICAgICAgIOWksei0pT0wCgotLS0gUDEg57yW6K+R5pyf56Gs6KeE5YiZICsg5Y+M5Lqn54mpIC0tLQogIFtPSyAgXSBQMS9zb3VyY2VfaW50YWtlX2NoZWNrICAgICDmoLfmnKw9MjcgICAgICAg5aSx6LSlPTAKICBbT0sgIF0gUDEvdGVtcGxhdGVfY29uZm9ybWFuY2UgICAg5qC35pysPTI0ICAgICAgIOWksei0pT0wCiAgW09LICBdIFAxL3NjaGVtYV9jaGVjayAgICAgICAgICAgIOagt+acrD0yNCAgICAgICDlpLHotKU9MAogIFtPSyAgXSBQMS9wcmVkaWNhdGVfZXF1aXYgICAgICAgICDmoLfmnKw9MjQ4ODMyICAg5aSx6LSlPTAKICBbT0sgIF0gUDEvc2FmZXR5X3NjYW4gICAgICAgICAgICAg5qC35pysPTQ2ICAgICAgIOWksei0pT0wCiAgW09LICBdIFAxL2V4aXRfZXhpc3RzICAgICAgICAgICAgIOagt+acrD0xMSAgICAgICDlpLHotKU9MAogIFtPSyAgXSDlj4zkuqfnianvvJoyNCBjaHVua3MgLyAxMSBza2lsbHMg77ybbWFuaWZlc3Quc2hhMjU2IOW3suWIt+aWsAoKPT09IFAxIOmqjOaUtuiHqua1iyA9PT0KICDinJMg5YWo6YOo6aqM5pS25pat6KiA6YCa6L+H77yIMjTmnaEgLyAxMeeoi+W6j+aApysxM+ino+mHiuaApyAvIOmZjee6p+aUr+aetuWtl+autSAvIOinkuiJsumbtuazhOa8jyAvIOWcuuaZr+WPr+i+vu+8iQoKLS0tIFAyIOi3r+eUsSAvIFAzIGd1YXJkcmFpbCAvIFA0IOWbnuW9kiAvIEIzIOWutumVv+aApeaVkSAtLS0KICBbT0sgIF0gUDIvcm91dGVyX3Rlc3RzICAgICAgICAgICAgICDmlq3oqIAv5qC35pysPTY5MTcgICAgIOWksei0pT0wCiAgW09LICBdIFAzL2d1YXJkcmFpbF90ZXN0cyAgICAgICAgICAg5pat6KiAL+agt+acrD0yOCAgICAgICDlpLHotKU9MAogIFtPSyAgXSBQNC9yZWdyZXNzaW9uICAgICAgICAgICAgICAgIOaWreiogC/moLfmnKw9NDYgICAgICAg5aSx6LSlPTAKICBbT0sgIF0gQjMvcGFyZW50X2VzY2FsYXRpb25fdGVzdHMgICDmlq3oqIAv5qC35pysPTEzOSAgICAgIOWksei0pT0wCgotLS0g5ZCM5rqQ5aWR57qmIC0tLQogIFtPSyAgXSByb3V0ZXIg4omhIGJ1aWxkIOKJoSBfY29tbW9uIOeahCBldmFsX3ByZWRpY2F0ZSDkuLrlkIzkuIDlr7nosaEKCj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQrmsYfmgLvvvJoxNC8xNCDnu4TpgJrov4fvvJvmlq3oqIAv54q25oCB54K55ZCI6K6hIDI1NjE0N++8m+Wksei0pSAwCiAgICAgIOaJueasoTPvvJrmtL7nlJ/mnaHnm649NiAgcGFyYW1zX2V4ZW1wdD0277yI5oyJ5p2h55uu6K6h5pWw77yb6LGB5YWN5qih5p2/56eN57G7PTHvvIkgIOS4ieaho+WRveS4rT17J2xvdyc6IDIsICdtaWQnOiAyLCAnaGlnaCc6IDJ9CiAgICAgIGd1YXJkcmFpbCDmvI/mlL7njoc9MC4wJSAg6K+v5oum546HPTAuMCXvvIjln7rnur/vvIkKICAgICAg5Zue5b2SIGNvbmZvcm1hbmNlPTQ2LzQ2ICDop5LoibLms4TmvI89MCAg6K+K5pat5qGI5L6LPTAKICAgICAg5qih5p2/5YGP56a7546HIDAuMCXvvIjmraPluLjvvIzku4XorrDlvZXvvIkKPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09Cg==
+========================================================================
+阶段六 · 本地统一验证（P1 CI / P2 路由 / P3 guardrail / P4 回归 / B3 家长急救）
+========================================================================
+[PHASE] 阶段 B 批次 3：PROP-0004/0005 已落地（schema v1.2）；parent_escalation 独立场景 + PT_PARENT_ESCALATION_01 显式豁免；6 条派生条目 / 6 条旁路轨迹 / 第 14 组验收。口径如实：params_exempt 按条目计数、diff_mode 维度不变（checked 因条目数增加）。
+
+--- P1 产物哈希（规则四，重编译前独立校验）---
+  [OK  ] P1/artifact_hash             断言/样本=26       失败=0
+  [OK  ] P1/hash_selftest             断言/样本=2        失败=0
+
+--- P1 编译期硬规则 + 双产物 ---
+  [OK  ] P1/source_intake_check     样本=27       失败=0
+  [OK  ] P1/template_conformance    样本=24       失败=0
+  [OK  ] P1/schema_check            样本=24       失败=0
+  [OK  ] P1/predicate_equiv         样本=248832   失败=0
+  [OK  ] P1/safety_scan             样本=46       失败=0
+  [OK  ] P1/exit_exists             样本=11       失败=0
+  [OK  ] 双产物：24 chunks / 11 skills ；manifest.sha256 已刷新
+
+=== P1 验收自测 ===
+  ✓ 全部验收断言通过（24条 / 11程序性+13解释性 / 降级支架字段 / 角色零泄漏 / 场景可达）
+
+--- P2 路由 / P3 guardrail / P4 回归 / B3 家长急救 ---
+  [OK  ] P2/router_tests              断言/样本=6917     失败=0
+  [OK  ] P3/guardrail_tests           断言/样本=28       失败=0
+  [OK  ] P4/regression                断言/样本=46       失败=0
+  [OK  ] B3/parent_escalation_tests   断言/样本=139      失败=0
+
+--- 同源契约 ---
+  [OK  ] router ≡ build ≡ _common 的 eval_predicate 为同一对象
+
+========================================================================
+汇总：14/14 组通过；断言/状态点合计 256147；失败 0
+      批次3：派生条目=6  params_exempt=6（按条目计数；豁免模板种类=1）  三档命中={'low': 2, 'mid': 2, 'high': 2}
+      guardrail 漏放率=0.0%  误拦率=0.0%（基线）
+      回归 conformance=46/46  角色泄漏=0  诊断案例=0
+      模板偏离率 0.0%（正常，仅记录）
+========================================================================

@@ -1,1 +1,55 @@
-LS0tCmlkOiBwY19lc2NhbGF0aW9uX3JlZmVyXzAxCnR5cGU6IGV4cGxhbmF0b3J5CmF1ZGllbmNlOiBwYXJlbnQKc2NlbmFyaW86IHBhcmVudF9lc2NhbGF0aW9uCmV4ZWNfdGFyZ2V0OiDmg4Xnu6rosIPoioIKZXZpZGVuY2VfbGV2ZWw6IEMKY29udHJhaW5kaWNhdGlvbl9mbGFnOiBjYXV0aW9uCmxhc3RfcmV2aWV3ZWQ6IDIwMjYtMTEtMTQKc291cmNlX2lkOiBwYXJlbnRfY29vbApzb3VyY2VfdmVyc2lvbjogIjIwMjYtMTEtMTMiCnRlbXBsYXRlX3JlZjogUFRfUEFSRU5UX0VTQ0FMQVRJT05fMDEKcHJvcG9zYWxfcmVmOiBQUk9QLTAwMDUKd2hlbjoKICBwYXJlbnRfYWZmZWN0X2xldmVsOiBbaGlnaF0KZGV2aWF0aW9uOgogIGtpbmQ6IHZhbHVlX2FkanVzdGVkCiAgcmVhc29uOiAicGFyZW50X2FmZmVjdF9sZXZlbCDmjInmoaPkvY3mlLbnqoTvvIhbbG93LCBtaWQsIGhpZ2hdIOKGkiBbaGlnaF3vvIzmibnmrKEgNSDlhbPpl60gRC0wNu+8ie+8muWtqeWtkOaYjuaYvuW0qea6g+aXtuS4jeWKoOWOi+WtpuS5oOOAgei9rOS7i+S4k+S4muaUr+aMge+8jOWxnuW9k+WkqeWBnOatouWKoOWOi++8jOS7hSBoaWdoIOaho+inpuWPkSIKaW5qZWN0X3RleHQ6IHwKICDov5nkupvkuI3mmK/jgIzkuI3phY3lkIjjgI3vvIzmmK/pnIDopoHkuJPkuJrmlK/mjIHku4vlhaXnmoTkv6Hlj7fvvJvmnKzlupPlkozku7vkvZUgQUkg6K+d5pyv6YO95LiN6IO95pu/5Luj5LiT5Lia5b+D55CG5ZKo6K+i44CB5Yy75a2m6K+K5pat5oiW5a2m5qCh5q2j5byP6K+E5Lyw77yM5Lmf5LiN6K+l5Zyo5a2p5a2Q5piO5pi+5bSp5rqD5pe257un57ut5Yqg5Y6L5a2m5Lmg44CC5Y+v54Wn552A6K+055qE5Y+l5byP5piv77ya5YWI6K+05L2g55yL5Yiw55qE5YW35L2T5Yqo5L2c77yI44CM56yU5YGc5Zyo6L+Z5YS/5LqG44CN77yJ77yM5YaN6K+05LiA5Liq5LiL5LiA5q2l77yI44CM5oqK56ys5LiA5Y+l55qE5YWz6ZSu6K+N5oyH57uZ5oiR44CN77yJ77yM5pyA5ZCO5YGc5L2P77yM5LiN6L+95Yqg6K+E5Lu35ZKM6L+96Zeu44CC5LiN6KaB6K+055qE5piv44CM5L2g5bCx5piv5LiN5LiT5b+D44CN44CM5L2g5bCx5piv5LiN6K6k55yf44CN6L+Z57G75a6a5oCn5Y+l44CC6K+d5pyv5Y+q6Kej5Yaz5b2T5LiL6L+Z5LiA5Y+l77yM5LiN57+75pen6LSm44CB5LiN6aKE5rWL5piO5aSp44CC44CN5aSN55uY54K5562J54q25oCB5Zue5p2l5LmL5ZCO5YaN5a6a77yM5LiN5Zyo5b2T5pma6L+96Zeu5Y6f5Zug44CCCi0tLQoKIyBwY19lc2NhbGF0aW9uX3JlZmVyXzAxCgrkuJPkuJrmlK/mjIHovrnnlYzkuI7kuI3otLTmoIfnrb7nmoTor7Tms5UKCi0gKirlrZfmrrXkvp3mja4qKu+8mmBQUk9QLTAwMDRg77yIYHBhcmVudF9hZmZlY3RfbGV2ZWxgIOi/myBgd2hlbmAg55m95ZCN5Y2V77yJ77ybCiAgKirlnLrmma/kvp3mja4qKu+8mmBQUk9QLTAwMDVg77yIYHBhcmVudF9lc2NhbGF0aW9uYCArIGBQVF9QQVJFTlRfRVNDQUxBVElPTl8wMWDvvInjgIIKICDlkI7ogIXlhpnlnKggYHByb3Bvc2FsX3JlZmDvvIzliY3ogIXlnKjmnKzooYznlZnnl5XvvIzlj4zlkJHlj6/ov73muq/jgIIKLSAqKuadpea6kCoq77yaYHBhcmVudF9jb29sYCDmjqXlhaXljaHvvIhgcHJvamVjdF9pbnRlcm5hbGDvvIzljp/mlofkuI3lnKjmiYvvvInjgIIKICBgaW5qZWN0X3RleHRgIOeahOavj+S4gOWPpemAkOWtl+WPluiHqueOsOaciSAxOCDmnaHmupDmnaHnm67vvIznlLEKICBgMDNfYWdlbnTnvJbor5EvZGVyaXZlX2JhdGNoM19lbnRyaWVzLnB5YCDmjInlj6Xluo/lj7fmnLrmorDmi7zmjqXvvIzmnKrmlLnlhpnjgIHmnKrmpoLmi6zjgIHmnKrmlrDlop7jgIIKLSAqKuanveS9jSoq77yaYHNjcmlwdF9jYXJkXzEyYO+8iOaJueasoSAzIOWbnuWhq+S4uiBtYXBwZWTvvIkKLSAqKuivreS5iei+ueeVjCoq77ya5rK/55So5pys5bqT5pei5pyJ6L6555WM5Y+l77yb5YWN6LSj5aOw5piO5Y6f5paH5LiN5Zyo5omL77yM5pyq6Ieq5pKw44CCCiAg546w5pyJIDE4IOadoeWFqOS4uuWtpuenkei+heWvvOaUr+aetu+8jOacrOadoeaYr+OAjOmAkOWtl+aRmOWPpemHjee7hCArIOaWsOWcuuaZr+agh+etvuOAje+8jAogICoq5LiN5p6E5oiQ5a626ZW/54Gr5rCUIDHigJQ1IOWIhuaho+WGheWuuSoq77yb5YiG5qGj6K+d5pyv44CB5LqU57G76Lqr5L2T6aKE6K2m6KGo44CB5L+u5aSN6K+d5pyv44CBCiAg5YWN6LSj5aOw5piO5Y6f5paH5Z2H5peg5p2l5rqQ77yM5oyJ5LiN57yW6YCg57qq5b6L5ZyoIGBjb3B5X21hcHBpbmcuanNvbmAg5L+d55WZCiAgYHBlbmRpbmdfYmF0Y2gzYCDljaDkvY3jgIIKCiMjIOmAkOWPpeadpea6kO+8iOWPr+Wkjei3keavlOWvue+8iQoKfCDlj6Xluo8gfCDmnaXmupDmnaHnm64gfCDljp/lj6Xluo/lj7cgfAp8LS0tfC0tLXwtLS18CnwgMSB8IGBmZXNfcGFyZW50X3BhdXNlX3NpZ25hbF8wMWAgfCBbMl0gfAp8IDIgfCBgZmVzX3BhcmVudF9zY3JpcHRfMDFgIHwgWzNdIHwKfCAzIHwgYGZlc19wYXJlbnRfc2NyaXB0XzAxYCB8IFs0XSB8CnwgNCB8IGBmZXNfcGFyZW50X3NjcmlwdF8wMWAgfCBbNV0gfAp8IDUgfCBgZmVzX3BhcmVudF9wYXVzZV9zaWduYWxfMDFgIHwgWzRdIHwKCi0g57G75Z6LIGBleHBsYW5hdG9yeWDjgIHml6AgYGNhbGxhYmxlYOOAgeaXoCBgZXhpdF93aGVuYO+8jOWPqui/myBgY2h1bmtzLmpzb25sYO+8jAogIOS4jeS6pyBgc2tpbGxfcmVnaXN0cnkuanNvbmAg5p2h55uu44CCCi0gYHdoZW5gIOaJueasoSA1IOaMieaho+S9jeaUtueqhOS4uiBgW2hpZ2hdYO+8iOWIhuaho+S+neaNru+8muWtqeWtkOaYjuaYvuW0qea6g+aXtuS4jeWKoOWOi+WtpuS5oOOAgei9rOS7i+S4k+S4muaUr+aMge+8ie+8jAogIOebuOWvueaooeadv+S4uuWPluWAvOWtkOmbhu+8jOadoeebruaYvuW8j+iusCBgZGV2aWF0aW9uOiB2YWx1ZV9hZGp1c3RlZGDvvIhyZWFzb24g6KeBIGZyb250IG1hdHRlcu+8ie+8jAogIOWNleWIl+S4jei/m+S4u+WBj+emu+eOh++8m+WFs+mXrSBELTA277yM5LiJ5qGj5YiG5biDIGxvdz1ub19sYWJlbC9yZXN0YXRl44CBbWlkPW9uZV9zdGVwL3Njb3Bl44CBCiAgaGlnaD1zdG9wL3JlZmVy77yI5ZCEIDIg5p2h77yJ77yM5LiOIGdvbGRlbiBgdHJfUEUwMS4uUEUwNmAg6YCQ5p2h5LiA6Ie044CCCg==
+---
+id: pc_escalation_refer_01
+type: explanatory
+audience: parent
+scenario: parent_escalation
+exec_target: 情绪调节
+evidence_level: C
+contraindication_flag: caution
+last_reviewed: 2026-11-14
+source_id: parent_cool
+source_version: "2026-11-13"
+template_ref: PT_PARENT_ESCALATION_01
+proposal_ref: PROP-0005
+when:
+  parent_affect_level: [high]
+deviation:
+  kind: value_adjusted
+  reason: "parent_affect_level 按档位收窄（[low, mid, high] → [high]，批次 5 关闭 D-06）：孩子明显崩溃时不加压学习、转介专业支持，属当天停止加压，仅 high 档触发"
+inject_text: |
+  这些不是「不配合」，是需要专业支持介入的信号；本库和任何 AI 话术都不能替代专业心理咨询、医学诊断或学校正式评估，也不该在孩子明显崩溃时继续加压学习。可照着说的句式是：先说你看到的具体动作（「笔停在这儿了」），再说一个下一步（「把第一句的关键词指给我」），最后停住，不追加评价和追问。不要说的是「你就是不专心」「你就是不认真」这类定性句。话术只解决当下这一句，不翻旧账、不预测明天。」复盘点等状态回来之后再定，不在当晚追问原因。
+---
+
+# pc_escalation_refer_01
+
+专业支持边界与不贴标签的说法
+
+- **字段依据**：`PROP-0004`（`parent_affect_level` 进 `when` 白名单）；
+  **场景依据**：`PROP-0005`（`parent_escalation` + `PT_PARENT_ESCALATION_01`）。
+  后者写在 `proposal_ref`，前者在本行留痕，双向可追溯。
+- **来源**：`parent_cool` 接入卡（`project_internal`，原文不在手）。
+  `inject_text` 的每一句逐字取自现有 18 条源条目，由
+  `03_agent编译/derive_batch3_entries.py` 按句序号机械拼接，未改写、未概括、未新增。
+- **槽位**：`script_card_12`（批次 3 回填为 mapped）
+- **语义边界**：沿用本库既有边界句；免责声明原文不在手，未自撰。
+  现有 18 条全为学科辅导支架，本条是「逐字摘句重组 + 新场景标签」，
+  **不构成家长火气 1—5 分档内容**；分档话术、五类身体预警表、修复话术、
+  免责声明原文均无来源，按不编造纪律在 `copy_mapping.json` 保留
+  `pending_batch3` 占位。
+
+## 逐句来源（可复跑比对）
+
+| 句序 | 来源条目 | 原句序号 |
+|---|---|---|
+| 1 | `fes_parent_pause_signal_01` | [2] |
+| 2 | `fes_parent_script_01` | [3] |
+| 3 | `fes_parent_script_01` | [4] |
+| 4 | `fes_parent_script_01` | [5] |
+| 5 | `fes_parent_pause_signal_01` | [4] |
+
+- 类型 `explanatory`、无 `callable`、无 `exit_when`，只进 `chunks.jsonl`，
+  不产 `skill_registry.json` 条目。
+- `when` 批次 5 按档位收窄为 `[high]`（分档依据：孩子明显崩溃时不加压学习、转介专业支持），
+  相对模板为取值子集，条目显式记 `deviation: value_adjusted`（reason 见 front matter），
+  单列不进主偏离率；关闭 D-06，三档分布 low=no_label/restate、mid=one_step/scope、
+  high=stop/refer（各 2 条），与 golden `tr_PE01..PE06` 逐条一致。
